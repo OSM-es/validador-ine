@@ -1,0 +1,20 @@
+{
+  "name": "validador-ine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find_missing_ref_ine.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSM-es/validador-ine.git"
+  },
+  "author": "aumpfbahn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSM-es/validador-ine/issues"
+  },
+  "homepage": "https://github.com/OSM-es/validador-ine#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "geojson": "^0.5.0"
+  }
+}
