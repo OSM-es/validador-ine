@@ -66054,6 +66054,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.65929069,
+          42.61502655
+        ]
+      },
+      "properties": {
+        "ine": "24142000401",
+        "name": "Ferral del Bernesga",
+        "population": 560,
+        "ele": 911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.79303861,
           41.99517286
         ]
