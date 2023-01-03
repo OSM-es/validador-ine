@@ -105222,22 +105222,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -13.50297244,
-          29.23096649
-        ]
-      },
-      "properties": {
-        "ine": "35024002501",
-        "name": "Caleta de Sebo",
-        "population": 721,
-        "ele": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -15.61432357,
           28.00447381
         ]
