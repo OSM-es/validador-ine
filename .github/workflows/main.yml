@@ -1,7 +1,7 @@
-name: Update current INE references
+name: Check INE references in OSM
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '6 * * * *'
 jobs:
   update_refs:
     runs-on: ubuntu-latest
@@ -14,12 +14,5 @@ jobs:
         id: auto-commit-action
         with:
           commit_message: Update data
-      - name: "Run if changes have been detected"
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        run: echo "Changes!"
-      - name: "Run if no changes have been detected"
-        if: steps.auto-commit-action.outputs.changes_detected == 'false'
-        run: echo "No Changes!"
-      - run: echo ${{ steps.auto-commit-action }}
       - uses: actions/deploy-pages@v1
         if: steps.auto-commit-action.outputs.changes_detected == 'true'        
