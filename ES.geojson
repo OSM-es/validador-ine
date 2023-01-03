@@ -131366,22 +131366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.88890369,
-          41.50628461
-        ]
-      },
-      "properties": {
-        "ine": "40215000201",
-        "name": "San José",
-        "population": 27,
-        "ele": 947
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.24160537,
           40.780882
         ]
