@@ -1,7 +1,7 @@
 name: Update current INE references
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '15 * * * *'
 jobs:
   update_refs:
     runs-on: ubuntu-latest
@@ -10,3 +10,6 @@ jobs:
       - uses: actions/setup-node@v3
       - run: npm ci
       - run: bash update_data.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update data
