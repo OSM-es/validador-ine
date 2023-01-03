@@ -1,6 +1,2 @@
 # Dependency directories
 node_modules/
-
-# User gitignore
-*.geojson
-*.OSM.csv
