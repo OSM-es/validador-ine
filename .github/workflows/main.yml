@@ -1,7 +1,7 @@
 name: Update current INE references
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '*/20 * * * *'
 jobs:
   update_refs:
     runs-on: ubuntu-latest
@@ -13,5 +13,12 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update data
+      - name: "Run if changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: echo "Changes!"
+      - name: "Run if no changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No Changes!"
+      - run: echo ${{ steps.auto-commit-action }}
       - uses: actions/deploy-pages@v1
         if: steps.auto-commit-action.outputs.changes_detected == 'true'        
