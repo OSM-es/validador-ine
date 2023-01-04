@@ -1,7 +1,7 @@
 name: Check INE references in OSM
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '6 * * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 permissions:
@@ -24,4 +24,4 @@ jobs:
         with:
           path: '.'
       - uses: actions/deploy-pages@v1
-        # if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
