@@ -1,5 +1,7 @@
 ## Validador INE
 
+**DEMO**: https://osm-es.github.io/validador-ine/
+
 El siguiente script comprueba que las referencias existentes en el INE para identificar a las diferentes entidades de población, se corresponden con los nodos y relaciones que están presentes en OSM. Para ello necesitamos tener previamente dos archivos:
 
 1. El fichero CSV que utiliza el INE se puede descargar del [Centro de Descargas del IGN](https://centrodedescargas.cnig.es/CentroDescargas/index.jsp), en el apartado _Información Geográfica de Referencia_, bajo el nombre de _Nomenclátor Geográfico de Municipios y Entidades de Población_. A día de esta publicación (2022), es un fichero comprimido el cual contiene una serie de archivos CSV, el que necesitamos se llama **ENTIDADES.csv**.
@@ -18,29 +20,29 @@ out;
 Ahora que disponemos de ambos archivos, ejecutamos el script:
 
 ```bash
-node find_missing_ref_ine.js ENTIDADES.csv OSM.csv
+node find_missing_ref_ine.js ENTIDADES.csv ES.csv
 ```
 
-El resultado será un fichero GeoJSON con el que podemos visualizar qué elementos están ausentes en OSM
+El resultado será un fichero GeoJSON con el que podemos visualizar qué elementos están ausentes en OSM.
 
 #### Argumentos
 
-- filter
+- `filter`
 
   Para generar archivos más pequeños, se puede especificar un filtro en el que simplemente le pasamos los primeros caracteres del código por el que queremos filtrar. Ejemplos:
 
   ```bash
-  node find_missing_ref_ine.js --filter=20 ENTIDADES.csv OSM.csv
+  node find_missing_ref_ine.js --filter=20 ENTIDADES.csv ES.csv
   ```
   Obtendríamos un GeoJSON para la provincia de Gipuzkoa
 
   ```bash
-  node find_missing_ref_ine.js --filter=07005 ENTIDADES.csv OSM.csv
+  node find_missing_ref_ine.js --filter=07005 ENTIDADES.csv ES.csv
   ```
 
   Obtendríamos un GeoJSON para el municipio de Andratx (Illes Balears)
 
-- type
+- `type`
 
   El tipo es otro filtro en el que se utiliza la clasificación de entidades del INE, la cual es la siguiente:
 
@@ -54,6 +56,6 @@ El resultado será un fichero GeoJSON con el que podemos visualizar qué element
   Para filtrar por el tipo de entidad, le pasamos el diminutivo de la siguiente manera:
 
   ```bash
-  node find_missing_ref_ine.js --type=m ENTIDADES.csv OSM.csv
+  node find_missing_ref_ine.js --type=m ENTIDADES.csv ES.csv
   ```
   Obtendríamos un GeoJSON sólo con las entidades de tipo Municipio
