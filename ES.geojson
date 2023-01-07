@@ -123478,31 +123478,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.57989341,
-          40.71699612
+          -5.57875272,
+          40.71688652
         ]
       },
       "properties": {
-        "ine": "37144000501",
+        "ine": "37242000501",
         "name": "Santa Teresa",
-        "population": 188,
-        "ele": 849
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02358534,
-          40.63193991
-        ]
-      },
-      "properties": {
-        "ine": "37320000601",
-        "name": "Tejeda y Segoyuela",
-        "population": 40,
-        "ele": 922
+        "population": 25,
+        "ele": 850
       }
     },
     {
