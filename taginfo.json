@@ -1,0 +1,20 @@
+{
+  "data_format": 1,
+  "data_url": "https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json",
+  "project": {
+    "name": "INE references validator",
+    "description": "Discover which places from the spanish National Statistics Institute (INE) are missign in OSM",
+    "project_url": "https://github.com/OSM-es/validador-ine",
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Instituto_Nacionalde_Estad%C3%ADstica_%28Spain%29_logo.svg/320px-Instituto_Nacionalde_Estad%C3%ADstica_%28Spain%29_logo.svg.png",
+    "contact_name": "Hugoren Martinako",
+    "contact_email": "aumpfbahn@gmail.com"
+  },
+  "tags": [
+    {
+      "key": "ref:ine",
+      "object_types": ["node", "relation"],
+      "description": "Identifier for places or entities by the spanish National Statistics Institute",
+      "doc_url": "https://wiki.openstreetmap.org/wiki/Key:ref:ine"
+    }
+  ]
+}
