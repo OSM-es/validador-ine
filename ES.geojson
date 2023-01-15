@@ -49030,22 +49030,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.49648663,
-          42.88324195
-        ]
-      },
-      "properties": {
-        "ine": "15078011501",
-        "name": "Agra Dos Campos",
-        "population": 125,
-        "ele": 351
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.481017631,
           42.89788879
         ]
@@ -143958,38 +143942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.35479896,
-          43.21987024
-        ]
-      },
-      "properties": {
-        "ine": "48022000903",
-        "name": "La Tejera",
-        "population": 57,
-        "ele": 169
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.38318767,
-          43.25057481
-        ]
-      },
-      "properties": {
-        "ine": "48022001901",
-        "name": "La Cadena",
-        "population": 55,
-        "ele": 127
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.78328121,
           43.13309768
         ]
@@ -144182,86 +144134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.10665511,
-          43.26602114
-        ]
-      },
-      "properties": {
-        "ine": "48037000101",
-        "name": "La Aceña/Atxuriaga",
-        "population": 51,
-        "ele": 105
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.14175725,
-          43.28970177
-        ]
-      },
-      "properties": {
-        "ine": "48037000302",
-        "name": "Montellano-Las Casas",
-        "population": 39,
-        "ele": 251.104
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.12724081,
-          43.26987227
-        ]
-      },
-      "properties": {
-        "ine": "48037000401",
-        "name": "Llano",
-        "population": 87,
-        "ele": 169
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.13478936,
-          43.28427106
-        ]
-      },
-      "properties": {
-        "ine": "48037000403",
-        "name": "El Ventorro",
-        "population": 33,
-        "ele": 60
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.09770229,
-          43.25381878
-        ]
-      },
-      "properties": {
-        "ine": "48037000501",
-        "name": "San Pedro Galdames",
-        "population": 219,
-        "ele": 165
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.81468985,
           43.32498898
         ]
@@ -144303,38 +144175,6 @@
         "name": "Lubarrietaondo",
         "population": 529,
         "ele": 64
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0373658,
-          43.17912391
-        ]
-      },
-      "properties": {
-        "ine": "48042000701",
-        "name": "Zaldu",
-        "population": 154,
-        "ele": 98
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.05675279,
-          43.18722039
-        ]
-      },
-      "properties": {
-        "ine": "48042000801",
-        "name": "Zubieta",
-        "population": 395,
-        "ele": 66
       }
     },
     {
@@ -145174,86 +145014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.14486869,
-          43.27255286
-        ]
-      },
-      "properties": {
-        "ine": "48086001001",
-        "name": "Las Ribas",
-        "population": 65,
-        "ele": 112
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.153453194,
-          43.27413699
-        ]
-      },
-      "properties": {
-        "ine": "48086001101",
-        "name": "La Baluga",
-        "population": 928,
-        "ele": 99
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.15553053,
-          43.24912698
-        ]
-      },
-      "properties": {
-        "ine": "48086001201",
-        "name": "San Martín de Carral",
-        "population": 162,
-        "ele": 111
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2465825,
-          43.28408586
-        ]
-      },
-      "properties": {
-        "ine": "48087000301",
-        "name": "Gordón",
-        "population": 23,
-        "ele": 440
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.26181829,
-          43.27863143
-        ]
-      },
-      "properties": {
-        "ine": "48087000501",
-        "name": "Pando",
-        "population": 121,
-        "ele": 186
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.58455772,
           43.13051163
         ]
@@ -145471,38 +145231,6 @@
         "name": "Gazaga",
         "population": 44,
         "ele": 390
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.16617371,
-          43.20358455
-        ]
-      },
-      "properties": {
-        "ine": "48096000201",
-        "name": "La Herrera",
-        "population": 139,
-        "ele": 138
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.13755823,
-          43.19980423
-        ]
-      },
-      "properties": {
-        "ine": "48096000501",
-        "name": "Sollano-Llantada",
-        "population": 584,
-        "ele": 152
       }
     },
     {
