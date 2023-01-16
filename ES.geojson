@@ -1238,54 +1238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.15173035,
-          38.84743029
-        ]
-      },
-      "properties": {
-        "ine": "03001000101",
-        "name": "l'Atzúbia",
-        "population": 367,
-        "ele": 99
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.16167707,
-          38.84848353
-        ]
-      },
-      "properties": {
-        "ine": "03001000102",
-        "name": "Les Bassetes",
-        "population": 79,
-        "ele": 186
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.15897652,
-          38.85265211
-        ]
-      },
-      "properties": {
-        "ine": "03001000103",
-        "name": "Urbanització L'Atzúbia Pinos",
-        "population": 45,
-        "ele": 145
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.61246378,
           38.4173494
         ]
@@ -1423,38 +1375,6 @@
         "name": "Urbanització El Baradello-El Sergent",
         "population": 697,
         "ele": 826
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.509901584,
-          38.68748278
-        ]
-      },
-      "properties": {
-        "ine": "03009000103",
-        "name": "Cases del Salt",
-        "population": 6,
-        "ele": 726
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.46046393,
-          38.65264761
-        ]
-      },
-      "properties": {
-        "ine": "03009000104",
-        "name": "Urbanització L'Estepar",
-        "population": 107,
-        "ele": 795
       }
     },
     {
@@ -2630,22 +2550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.32721173,
-          38.68672404
-        ]
-      },
-      "properties": {
-        "ine": "03022000201",
-        "name": "Ares del Bosque",
-        "population": 20,
-        "ele": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.96762055,
           38.1471401
         ]
@@ -2671,22 +2575,6 @@
         "name": "Urbanización el Poblet",
         "population": 55,
         "ele": 217
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0220549,
-          38.79293179
-        ]
-      },
-      "properties": {
-        "ine": "03030000104",
-        "name": "Rincón del Silencio",
-        "population": 92,
-        "ele": 117
       }
     },
     {
@@ -3686,54 +3574,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.450967134,
-          38.71645843
-        ]
-      },
-      "properties": {
-        "ine": "03056000201",
-        "name": "els Algars",
-        "population": 106,
-        "ele": 492
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.46151194,
-          38.72116317
-        ]
-      },
-      "properties": {
-        "ine": "03056000601",
-        "name": "Urbanització Gormaig",
-        "population": 408,
-        "ele": 546
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.44010476,
-          38.70806441
-        ]
-      },
-      "properties": {
-        "ine": "03056000801",
-        "name": "Poble Nou de Sant Rafel",
-        "population": 31,
-        "ele": 584
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.81555609,
           38.16448486
         ]
@@ -3887,38 +3727,6 @@
         "name": "Montgó",
         "population": 4945,
         "ele": 87
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15247526,
-          38.82624602
-        ]
-      },
-      "properties": {
-        "ine": "03063000106",
-        "name": "Rotes",
-        "population": 2495,
-        "ele": 12
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.09703896,
-          38.80208742
-        ]
-      },
-      "properties": {
-        "ine": "03063000302",
-        "name": "Urbanització Els Mitjans",
-        "population": 24,
-        "ele": 123
       }
     },
     {
@@ -4943,22 +4751,6 @@
         "name": "l'Orxa/Lorcha",
         "population": 543,
         "ele": 261
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.02061092,
-          38.72944047
-        ]
-      },
-      "properties": {
-        "ine": "03085000102",
-        "name": "Urbanización Collado",
-        "population": 38,
-        "ele": 264
       }
     },
     {
@@ -6966,22 +6758,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.05280018,
-          38.82066727
-        ]
-      },
-      "properties": {
-        "ine": "03110000101",
-        "name": "el Ràfol d'Almúnia",
-        "population": 416,
-        "ele": 87
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.04269261,
           38.8422856
         ]
@@ -6991,22 +6767,6 @@
         "name": "Urbanització Montpego",
         "population": 117,
         "ele": 201
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.06190001,
-          38.83743727
-        ]
-      },
-      "properties": {
-        "ine": "03110000103",
-        "name": "Urbanización L'Almunia",
-        "population": 126,
-        "ele": 87
       }
     },
     {
@@ -7199,22 +6959,6 @@
         "name": "Polígono de la Florida",
         "population": 0,
         "ele": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.03074154,
-          38.82216237
-        ]
-      },
-      "properties": {
-        "ine": "03117000102",
-        "name": "Urbanización Monte-Sano",
-        "population": 120,
-        "ele": 163
       }
     },
     {
@@ -8143,54 +7887,6 @@
         "name": "Urbanización La Torreta",
         "population": 7269,
         "ele": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.15985139,
-          38.80574426
-        ]
-      },
-      "properties": {
-        "ine": "03135000101",
-        "name": "la Vall d'Ebo",
-        "population": 194,
-        "ele": 392
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.24290168,
-          38.82160105
-        ]
-      },
-      "properties": {
-        "ine": "03136000601",
-        "name": "La Carroja",
-        "population": 19,
-        "ele": 353
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.10260826,
-          38.77946305
-        ]
-      },
-      "properties": {
-        "ine": "03137000201",
-        "name": "el Campell",
-        "population": 210,
-        "ele": 347
       }
     },
     {
