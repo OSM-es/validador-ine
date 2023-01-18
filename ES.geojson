@@ -135638,6 +135638,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.77407965,
+          39.98155453
+        ]
+      },
+      "properties": {
+        "ine": "45132000701",
+        "name": "Los Manzanos",
+        "population": 33,
+        "ele": 374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.77858722,
           39.97880078
         ]
@@ -143462,38 +143478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.785892118,
-          43.43421882
-        ]
-      },
-      "properties": {
-        "ine": "48012000501",
-        "name": "Gibelorratzagako San Pelaio",
-        "population": 934,
-        "ele": 125
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.81573897,
-          43.42656127
-        ]
-      },
-      "properties": {
-        "ine": "48012000601",
-        "name": "Urkitzaurrealde",
-        "population": 481,
-        "ele": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.0185274,
           43.26307902
         ]
@@ -143830,22 +143814,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.81468985,
-          43.32498898
-        ]
-      },
-      "properties": {
-        "ine": "48038000101",
-        "name": "Elexalde",
-        "population": 62,
-        "ele": 67
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.611135019,
           43.1939354
         ]
@@ -143855,86 +143823,6 @@
         "name": "Garai (San Migel)",
         "population": 158,
         "ele": 308
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.87022973,
-          43.36531599
-        ]
-      },
-      "properties": {
-        "ine": "48040001001",
-        "name": "Lubarrietaondo",
-        "population": 529,
-        "ele": 64
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.939582837,
-          43.40511669
-        ]
-      },
-      "properties": {
-        "ine": "48043000101",
-        "name": "Agirre",
-        "population": 588,
-        "ele": 68
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.94325469,
-          43.40859742
-        ]
-      },
-      "properties": {
-        "ine": "48043000201",
-        "name": "Areantza",
-        "population": 257,
-        "ele": 12
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.93212408,
-          43.42182782
-        ]
-      },
-      "properties": {
-        "ine": "48043000501",
-        "name": "Urezarantza",
-        "population": 502,
-        "ele": 81
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.94303201,
-          43.4089845
-        ]
-      },
-      "properties": {
-        "ine": "48043000601",
-        "name": "Agirre-Areantza-Guzurmendi",
-        "population": 1035,
-        "ele": 0
       }
     },
     {
@@ -143999,22 +143887,6 @@
         "name": "Uria",
         "population": 1536,
         "ele": 75
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.922348,
-          43.33834992
-        ]
-      },
-      "properties": {
-        "ine": "48053000401",
-        "name": "Unbe-Mendi",
-        "population": 401,
-        "ele": 263
       }
     },
     {
@@ -144486,22 +144358,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.90027942,
-          43.404966
-        ]
-      },
-      "properties": {
-        "ine": "48056000301",
-        "name": "Gure Mendi",
-        "population": 39,
-        "ele": 137
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.91329963,
           43.19607012
         ]
@@ -144623,22 +144479,6 @@
         "name": "Albizuelexaga",
         "population": 12,
         "ele": 218
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.94807755,
-          43.40157626
-        ]
-      },
-      "properties": {
-        "ine": "48077000101",
-        "name": "Txipio",
-        "population": 638,
-        "ele": 1
       }
     },
     {
