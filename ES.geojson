@@ -107398,38 +107398,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.58671234,
-          42.71627066
-        ]
-      },
-      "properties": {
-        "ine": "36017100101",
-        "name": "Santa Mariña",
-        "population": 60,
-        "ele": 252
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.42236595,
-          42.72838443
-        ]
-      },
-      "properties": {
-        "ine": "36017110801",
-        "name": "Porto",
-        "population": 71,
-        "ele": 243
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4214936,
           42.75092437
         ]
@@ -107439,22 +107407,6 @@
         "name": "A Ribeira",
         "population": 42,
         "ele": 74
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.42932781,
-          42.73077317
-        ]
-      },
-      "properties": {
-        "ine": "36017111301",
-        "name": "Ulla",
-        "population": 19,
-        "ele": 218
       }
     },
     {
@@ -107782,22 +107734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.46562556,
-          42.69479149
-        ]
-      },
-      "properties": {
-        "ine": "36017220101",
-        "name": "Os Bolos",
-        "population": 112,
-        "ele": 210
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.40225781,
           42.67979495
         ]
@@ -108038,54 +107974,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.48687115,
-          42.67807552
-        ]
-      },
-      "properties": {
-        "ine": "36017320101",
-        "name": "Alemparte",
-        "population": 78,
-        "ele": 274
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.491623,
-          42.68355405
-        ]
-      },
-      "properties": {
-        "ine": "36017320301",
-        "name": "O Castro",
-        "population": 90,
-        "ele": 286
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.48966856,
-          42.68075365
-        ]
-      },
-      "properties": {
-        "ine": "36017320601",
-        "name": "O Redondo",
-        "population": 71,
-        "ele": 276
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.47107439,
           42.73653428
         ]
@@ -108207,22 +108095,6 @@
         "name": "Sesto E Fondo Da Vila",
         "population": 21,
         "ele": 459
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.40312733,
-          42.74076179
-        ]
-      },
-      "properties": {
-        "ine": "36017390501",
-        "name": "A Mota",
-        "population": 35,
-        "ele": 170
       }
     },
     {
@@ -108479,22 +108351,6 @@
         "name": "A Carballa",
         "population": 28,
         "ele": 214
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.50842836,
-          42.71287212
-        ]
-      },
-      "properties": {
-        "ine": "36017460301",
-        "name": "O Soutiño",
-        "population": 55,
-        "ele": 237
       }
     },
     {
