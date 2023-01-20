@@ -107094,150 +107094,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.38588455,
-          42.72381205
-        ]
-      },
-      "properties": {
-        "ine": "36017010101",
-        "name": "Gonxar",
-        "population": 17,
-        "ele": 274
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.48067808,
-          42.71395208
-        ]
-      },
-      "properties": {
-        "ine": "36017020101",
-        "name": "A Aldea Grande",
-        "population": 33,
-        "ele": 194
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.47941041,
-          42.70318324
-        ]
-      },
-      "properties": {
-        "ine": "36017020201",
-        "name": "Campenlos",
-        "population": 39,
-        "ele": 199
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.48072834,
-          42.71353814
-        ]
-      },
-      "properties": {
-        "ine": "36017020601",
-        "name": "O Outeiro",
-        "population": 35,
-        "ele": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.40707138,
-          42.70636292
-        ]
-      },
-      "properties": {
-        "ine": "36017030201",
-        "name": "O Foxo",
-        "population": 36,
-        "ele": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.41366437,
-          42.71453943
-        ]
-      },
-      "properties": {
-        "ine": "36017030701",
-        "name": "San Pedro",
-        "population": 63,
-        "ele": 290
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.40622737,
-          42.7155763
-        ]
-      },
-      "properties": {
-        "ine": "36017030801",
-        "name": "Ventosela",
-        "population": 49,
-        "ele": 285
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.40036857,
-          42.71581795
-        ]
-      },
-      "properties": {
-        "ine": "36017030901",
-        "name": "Brei de Riba",
-        "population": 47,
-        "ele": 282
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4057786,
-          42.7266728
-        ]
-      },
-      "properties": {
-        "ine": "36017040401",
-        "name": "Gontén",
-        "population": 30,
-        "ele": 234
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.48861586,
           42.62448079
         ]
@@ -107414,54 +107270,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.43530005,
-          42.69185362
-        ]
-      },
-      "properties": {
-        "ine": "36017120101",
-        "name": "A Aldea Grande",
-        "population": 59,
-        "ele": 235
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.44937562,
-          42.70387495
-        ]
-      },
-      "properties": {
-        "ine": "36017120801",
-        "name": "Ponteliñares",
-        "population": 73,
-        "ele": 205
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.44264056,
-          42.69282619
-        ]
-      },
-      "properties": {
-        "ine": "36017121201",
-        "name": "O Vilar",
-        "population": 35,
-        "ele": 208
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.37320035,
           42.76805154
         ]
@@ -107622,38 +107430,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.48783669,
-          42.69870236
-        ]
-      },
-      "properties": {
-        "ine": "36017190301",
-        "name": "Figueiroa de Abaixo",
-        "population": 78,
-        "ele": 232
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4961127,
-          42.69739729
-        ]
-      },
-      "properties": {
-        "ine": "36017190401",
-        "name": "Figueiroa de Arriba",
-        "population": 906,
-        "ele": 253
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.55877564,
           42.72316158
         ]
@@ -107791,54 +107567,6 @@
         "name": "A Canda",
         "population": 11,
         "ele": 555
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.51830239,
-          42.68749843
-        ]
-      },
-      "properties": {
-        "ine": "36017260101",
-        "name": "A Brea",
-        "population": 45,
-        "ele": 328
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.51624293,
-          42.68507395
-        ]
-      },
-      "properties": {
-        "ine": "36017260501",
-        "name": "Río dos Sapos",
-        "population": 13,
-        "ele": 340
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.51626193,
-          42.70238241
-        ]
-      },
-      "properties": {
-        "ine": "36017260601",
-        "name": "Santa Baia",
-        "population": 45,
-        "ele": 262
       }
     },
     {
@@ -108447,70 +108175,6 @@
         "name": "O Souto de Vea",
         "population": 52,
         "ele": 80
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.53392626,
-          42.70521187
-        ]
-      },
-      "properties": {
-        "ine": "36017490301",
-        "name": "Gondomar de Abaixo",
-        "population": 26,
-        "ele": 135
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.532538014,
-          42.73186655
-        ]
-      },
-      "properties": {
-        "ine": "36017500601",
-        "name": "Nogueira",
-        "population": 32,
-        "ele": 203
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.535104549,
-          42.73679067
-        ]
-      },
-      "properties": {
-        "ine": "36017500901",
-        "name": "Riba de Vea",
-        "population": 38,
-        "ele": 59
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.51213766,
-          42.7401168
-        ]
-      },
-      "properties": {
-        "ine": "36017501501",
-        "name": "Tracesto",
-        "population": 35,
-        "ele": 122
       }
     },
     {
@@ -143094,22 +142758,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.60687319,
-          43.14764599
-        ]
-      },
-      "properties": {
-        "ine": "48001000101",
-        "name": "Abadiño-Zelaieta",
-        "population": 1534,
-        "ele": 144
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.08658865,
           43.30527093
         ]
@@ -143142,38 +142790,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.50569583,
-          43.34378826
-        ]
-      },
-      "properties": {
-        "ine": "48004000301",
-        "name": "Ugaran",
-        "population": 0,
-        "ele": 18
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.50564993,
-          43.33424329
-        ]
-      },
-      "properties": {
-        "ine": "48004000401",
-        "name": "Urrutia",
-        "population": 0,
-        "ele": 156
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.79058946,
           43.15673097
         ]
@@ -143183,22 +142799,6 @@
         "name": "Zelaia",
         "population": 284,
         "ele": 95
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5919933,
-          43.26535778
-        ]
-      },
-      "properties": {
-        "ine": "48007000101",
-        "name": "Munitibar",
-        "population": 309,
-        "ele": 188
       }
     },
     {
@@ -143414,70 +143014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.74497272,
-          43.42057206
-        ]
-      },
-      "properties": {
-        "ine": "48017000101",
-        "name": "Agirre",
-        "population": 63,
-        "ele": 114
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.732366324,
-          43.4240167
-        ]
-      },
-      "properties": {
-        "ine": "48017001301",
-        "name": "Baratz Eder",
-        "population": 0,
-        "ele": 6.907
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.70199104,
-          43.36860223
-        ]
-      },
-      "properties": {
-        "ine": "48021000101",
-        "name": "Altamira-San Kristobal",
-        "population": 812,
-        "ele": 22
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.69709998,
-          43.38661629
-        ]
-      },
-      "properties": {
-        "ine": "48021000201",
-        "name": "Axpe-San Bartolome",
-        "population": 803,
-        "ele": 24
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.78328121,
           43.13309768
         ]
@@ -143606,38 +143142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.47574648,
-          43.25414902
-        ]
-      },
-      "properties": {
-        "ine": "48030000401",
-        "name": "Erbera",
-        "population": 431,
-        "ele": 106
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.62329739,
-          43.35604234
-        ]
-      },
-      "properties": {
-        "ine": "48033000301",
-        "name": "Elexalde-Zeeta",
-        "population": 101,
-        "ele": 281
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.83746254,
           43.23586899
         ]
@@ -143670,22 +143174,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.611135019,
-          43.1939354
-        ]
-      },
-      "properties": {
-        "ine": "48039000101",
-        "name": "Garai (San Migel)",
-        "population": 158,
-        "ele": 308
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.01363643,
           43.32396876
         ]
@@ -143695,22 +143183,6 @@
         "name": "Areeta/Las Arenas",
         "population": 25748,
         "ele": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.53744071,
-          43.33081091
-        ]
-      },
-      "properties": {
-        "ine": "48047000101",
-        "name": "Eguen-Gizaburuaga",
-        "population": 113,
-        "ele": 42
       }
     },
     {
@@ -144230,38 +143702,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.66005922,
-          43.25214599
-        ]
-      },
-      "properties": {
-        "ine": "48067000201",
-        "name": "Ajuria",
-        "population": 49,
-        "ele": 261
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.70905643,
-          43.29265819
-        ]
-      },
-      "properties": {
-        "ine": "48067000401",
-        "name": "Ugartegoikoa",
-        "population": 231,
-        "ele": 29
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.11232262,
           43.33291977
         ]
@@ -144342,22 +143782,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.72762341,
-          43.31427
-        ]
-      },
-      "properties": {
-        "ine": "48079000201",
-        "name": "Elexalde-Olabarri",
-        "population": 47,
-        "ele": 284
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.0552886,
           43.28406625
         ]
@@ -144399,22 +143823,6 @@
         "name": "Valle de Trápaga/Trapagaran",
         "population": 10094,
         "ele": 35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.58455772,
-          43.13051163
-        ]
-      },
-      "properties": {
-        "ine": "48091000101",
-        "name": "Apatamonasterio",
-        "population": 979,
-        "ele": 162
       }
     },
     {
@@ -144614,22 +144022,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.53962463,
-          43.15933473
-        ]
-      },
-      "properties": {
-        "ine": "48095000201",
-        "name": "Gazaga",
-        "population": 44,
-        "ele": 390
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.86436787,
           43.22708859
         ]
@@ -144822,102 +144214,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.67688483,
-          43.3316154
-        ]
-      },
-      "properties": {
-        "ine": "48906000201",
-        "name": "Elexalde Forua",
-        "population": 488,
-        "ele": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.67251913,
-          43.34060748
-        ]
-      },
-      "properties": {
-        "ine": "48906000501",
-        "name": "Gaitoka",
-        "population": 40,
-        "ele": 53
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.68159337,
-          43.32757661
-        ]
-      },
-      "properties": {
-        "ine": "48906000601",
-        "name": "Landaberde",
-        "population": 105,
-        "ele": 42
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.58567327,
-          43.32141555
-        ]
-      },
-      "properties": {
-        "ine": "48909000101",
-        "name": "Elexalde",
-        "population": 114,
-        "ele": 347
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.59115477,
-          43.33161045
-        ]
-      },
-      "properties": {
-        "ine": "48909000201",
-        "name": "Ikazurieta",
-        "population": 18,
-        "ele": 329
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.63230528,
-          43.17634819
-        ]
-      },
-      "properties": {
-        "ine": "48910030101",
-        "name": "Aita San Migel",
-        "population": 191,
-        "ele": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.11111858,
           43.34912911
         ]
@@ -144991,54 +144287,6 @@
         "name": "San Mamés",
         "population": 159,
         "ele": 84
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.53595891,
-          43.24357738
-        ]
-      },
-      "properties": {
-        "ine": "48915000101",
-        "name": "Arta",
-        "population": 23,
-        "ele": 316
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.54950167,
-          43.24945771
-        ]
-      },
-      "properties": {
-        "ine": "48915000201",
-        "name": "Bolibar",
-        "population": 170,
-        "ele": 176
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.55267876,
-          43.25633176
-        ]
-      },
-      "properties": {
-        "ine": "48915000301",
-        "name": "Zeinka-Zearregi",
-        "population": 50,
-        "ele": 0
       }
     },
     {
