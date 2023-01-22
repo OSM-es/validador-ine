@@ -128646,6 +128646,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.38480895,
+          41.00928813
+        ]
+      },
+      "properties": {
+        "ine": "43032000101",
+        "name": "Bot",
+        "population": 560,
+        "ele": 288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.00594593,
           41.1685325
         ]
