@@ -66230,54 +66230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.96640382,
-          42.05105111
-        ]
-      },
-      "properties": {
-        "ine": "26047000301",
-        "name": "Rincón de Olivedo o las Casas",
-        "population": 540,
-        "ele": 509
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9087904,
-          42.05646168
-        ]
-      },
-      "properties": {
-        "ine": "26047000601",
-        "name": "Ventas de Cervera o Ventas del Baño",
-        "population": 23,
-        "ele": 457
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.83997579,
-          42.48444145
-        ]
-      },
-      "properties": {
-        "ine": "26048000101",
-        "name": "Casas Blancas",
-        "population": 12,
-        "ele": 608
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.28338005,
           42.13615069
         ]
@@ -66294,111 +66246,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9781442,
-          42.5981531
+          -2.84150742,
+          42.48501997
         ]
       },
       "properties": {
-        "ine": "26063000201",
-        "name": "Villaseca de Rioja",
-        "population": 48,
-        "ele": 537
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.16571297,
-          42.12157428
-        ]
-      },
-      "properties": {
-        "ine": "26100000101",
-        "name": "Ambas Aguas o Entrambas Aguas",
-        "population": 5,
-        "ele": 877
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.66919416,
-          42.19600562
-        ]
-      },
-      "properties": {
-        "ine": "26107000101",
-        "name": "Montemediano",
-        "population": 16,
-        "ele": 1042
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.24330533,
-          42.29909451
-        ]
-      },
-      "properties": {
-        "ine": "26108000301",
-        "name": "La Villa de Ocón",
-        "population": 79,
-        "ele": 650
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.002807712,
-          42.37548837
-        ]
-      },
-      "properties": {
-        "ine": "26110000201",
-        "name": "Arviza o Arviza Barrena",
-        "population": 3,
-        "ele": 832
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9779852,
-          42.36850112
-        ]
-      },
-      "properties": {
-        "ine": "26110000401",
-        "name": "Santo Asensio de los Cantos",
-        "population": 2,
-        "ele": 772
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.98187766,
-          42.34832822
-        ]
-      },
-      "properties": {
-        "ine": "26110000601",
-        "name": "Ulizarna",
+        "ine": "26139000101",
+        "name": "Casas Blancas",
         "population": 0,
-        "ele": 958
+        "ele": 607
       }
     },
     {
