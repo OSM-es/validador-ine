@@ -59558,22 +59558,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.42844632,
-          36.69834773
-        ]
-      },
-      "properties": {
-        "ine": "18140000703",
-        "name": "La Perla de Andalucía",
-        "population": 113,
-        "ele": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.734798,
           36.983524
         ]
@@ -59615,22 +59599,6 @@
         "name": "Urbanización los Olivos",
         "population": 25,
         "ele": 736
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.60111499,
-          36.74744147
-        ]
-      },
-      "properties": {
-        "ine": "18173000101",
-        "name": "La Caleta-Guardia",
-        "population": 476,
-        "ele": 35
       }
     },
     {
