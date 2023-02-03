@@ -60278,22 +60278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.41535936,
-          43.20491491
-        ]
-      },
-      "properties": {
-        "ine": "20032000701",
-        "name": "Azkue (San Roke)",
-        "population": 2202,
-        "ele": 147
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.28154897,
           43.06912307
         ]
@@ -60438,54 +60422,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.52043947,
-          43.06947655
-        ]
-      },
-      "properties": {
-        "ine": "20055000201",
-        "name": "Garagartza",
-        "population": 135,
-        "ele": 241
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.53031005,
-          43.06366438
-        ]
-      },
-      "properties": {
-        "ine": "20055000301",
-        "name": "Gesalibar",
-        "population": 338,
-        "ele": 256
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.49099614,
-          43.0652967
-        ]
-      },
-      "properties": {
-        "ine": "20055000401",
-        "name": "Arrasate/Mondragón",
-        "population": 20967,
-        "ele": 217
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.21747959,
           43.03673413
         ]
@@ -60495,38 +60431,6 @@
         "name": "Ihurre",
         "population": 468,
         "ele": 172
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.449060679,
-          42.99346559
-        ]
-      },
-      "properties": {
-        "ine": "20059000202",
-        "name": "Araotz-Zubia",
-        "population": 0,
-        "ele": 448.421
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.451088429,
-          42.99713022
-        ]
-      },
-      "properties": {
-        "ine": "20059000203",
-        "name": "Araotz-Elizate",
-        "population": 0,
-        "ele": 486.665
       }
     },
     {
@@ -60575,22 +60479,6 @@
         "name": "Pasai Trintxerpe",
         "population": 5629,
         "ele": 75
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.56830927,
-          42.98682127
-        ]
-      },
-      "properties": {
-        "ine": "20068000101",
-        "name": "Leintz-Gatzaga",
-        "population": 138,
-        "ele": 456
       }
     },
     {
@@ -60662,22 +60550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.40475895,
-          43.1558291
-        ]
-      },
-      "properties": {
-        "ine": "20074000401",
-        "name": "Osintxu",
-        "population": 307,
-        "ele": 122
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.05049006,
           43.18128178
         ]
@@ -60687,54 +60559,6 @@
         "name": "Amasa",
         "population": 253,
         "ele": 95
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.38901895,
-          43.25389734
-        ]
-      },
-      "properties": {
-        "ine": "20901000101",
-        "name": "Azpilgoeta",
-        "population": 444,
-        "ele": 27
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.38906855,
-          43.24894506
-        ]
-      },
-      "properties": {
-        "ine": "20901000301",
-        "name": "Mendarozabal",
-        "population": 414,
-        "ele": 28
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.39461607,
-          43.24852442
-        ]
-      },
-      "properties": {
-        "ine": "20901000401",
-        "name": "Plaza",
-        "population": 21,
-        "ele": 19
       }
     },
     {
