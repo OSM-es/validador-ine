@@ -66,16 +66,16 @@ Promise.all(files.map(x => new Promise((resolve) => {
   const entities = groupBy(fromINE, ({ ine }) => ine.slice(0, 9))
 
   // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
-  const isUniqueElement = entityGroup => entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
+  const isUniqueElement = entityGroup => entityGroup.length && entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
   
-  const isValidType = ({ type, population }, values) => [types.m, types.c, types.oe].includes(type) && (population !== 0 || isUniqueElement(entityGroup))
+  const isValidType = ({ type, population }, entityGroup) => [types.m, types.c, types.oe].includes(type) && (population !== 0 || isUniqueElement(entityGroup))
   const isValidSparse = ({ type }, entityGroup) => [types.d].includes(type) && isUniqueElement(entityGroup)
   
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
   // - O bien es: "diseminados", y es el único elemento de su grupo
-  const missingItems = Object.entries(entities).reduce((acc, [, values]) => {
-    const missing = values.reduce((elements, item) => (!refOSM.includes(item.ine) && (isValidType(item, values) || isValidSparse(item, values))) ? [...elements, item] : elements, [])
+  const missingItems = Object.entries(entities).reduce((acc, [, group]) => {
+    const missing = group.reduce((elements, item) => (!refOSM.includes(item.ine) && (isValidType(item, group) || isValidSparse(item, group))) ? [...elements, item] : elements, [])
     return missing.length ? [...acc, ...missing] : acc
   }, [])
 
