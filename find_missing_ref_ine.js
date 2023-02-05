@@ -37,12 +37,12 @@ const types = {
   oe: "Otras entidades",
   d: "Diseminado",
 }
-const typeFn = types[argv("type")] || false;
+
 const filterFn = argv("filter") || false;
 
 // puesto que los argumentos son falsables, en función de cuántos NO sean nulos
 // podemos determinar cuántos args necesitamos quitar
-const files = args.slice([!!typeFn, !!filterFn].filter(Boolean).length)
+const files = args.slice([!!filterFn].filter(Boolean).length)
 
 Promise.all(files.map(x => new Promise((resolve) => {
   const results = [];

@@ -45,21 +45,3 @@ El resultado será un fichero GeoJSON con el que podemos visualizar qué element
   ```
 
   Obtendríamos un GeoJSON para el municipio de Andratx (Illes Balears)
-
-- `type`
-
-  El tipo es otro filtro en el que se utiliza la clasificación de entidades del INE, la cual es la siguiente:
-
-  - "Municipio" (m)
-  - "Entidad singular" (e)
-  - "Entidad colectiva" (ec)
-  - "Capital de municipio" (c)
-  - "Otras entidades" (oe)
-  - "Diseminado" (d)
-
-  Para filtrar por el tipo de entidad, le pasamos el diminutivo de la siguiente manera:
-
-  ```bash
-  node find_missing_ref_ine.js --type=m ENTIDADES.csv ES.csv
-  ```
-  Obtendríamos un GeoJSON sólo con las entidades de tipo Municipio
