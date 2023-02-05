@@ -21,6 +21,14 @@ const argv = key => {
   return value.replace(`--${key}=`, '');
 }
 
+const groupBy = (data, key) => {
+  return data.reduce((acc, x) => {
+    const cat = key instanceof Function ? key(x) : x[key];
+    (acc[cat] = acc[cat] || []).push(x);
+    return acc;
+  }, {})
+};
+
 const types = {
   m: "Municipio",
   e: "Entidad singular",
@@ -42,8 +50,8 @@ Promise.all(files.map(x => new Promise((resolve) => {
     .pipe(csv({
       separator: ";",
       skipLines: 1,
-      headers: ["ine", "name", , , "tipo", "population", , , "lon", "lat", , "ele"],
-      mapValues: ({ header, value }) => ["ine", "name", "tipo", "population", "lon", "lat", "ele"].includes(header)
+      headers: ["ine", "name", , , "type", "population", , , "lon", "lat", , "ele"],
+      mapValues: ({ header, value }) => ["ine", "name", "type", "population", "lon", "lat", "ele"].includes(header)
         ? ["lon", "lat", "ele", "population"].includes(header)
           ? Number(value.replace(/,/, ".")) 
           : value
@@ -54,10 +62,23 @@ Promise.all(files.map(x => new Promise((resolve) => {
 }))).then(([fromINE, fromOSM]) => {
   // lista de códigos que existen en OSM
   const refOSM = fromOSM.map(({ ine }) => ine)
-  // códigos del INE no existen en OSM (el listado anterior)
-  // a no ser que se le incluya un tipo, comprueba que existan 3: "municipio", "capital" y "otras entidades"
-  const missingItems = fromINE.filter(({ ine, tipo }) => [typeFn || [types.m, types.c, types.oe]].flat().includes(tipo) && !refOSM.includes(ine))
+  // agrupación por entidad singular (las 9 primeras cifras del código)
+  const entities = groupBy(fromINE, ({ ine }) => ine.slice(0, 9))
+
+  // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
+  const isUniqueElement = entityGroup => entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
+  
+  const isValidType = ({ type, population }, values) => [types.m, types.c, types.oe].includes(type) && (population !== 0 || isUniqueElement(entityGroup))
+  const isValidSparse = ({ type }, entityGroup) => [types.d].includes(type) && isUniqueElement(entityGroup)
+  
+  // una entidad se considera faltante si su código INE no existe en OSM, y:
+  // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
+  // - O bien es: "diseminados", y es el único elemento de su grupo
+  const missingItems = Object.entries(entities).reduce((acc, [, values]) => {
+    const missing = values.reduce((elements, item) => (!refOSM.includes(item.ine) && (isValidType(item, values) || isValidSparse(item, values))) ? [...elements, item] : elements, [])
+    return missing.length ? [...acc, ...missing] : acc
+  }, [])
 
   // crea un GeoJson con los elementos faltantes
-  return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["tipo"] }), null, 2), () => { })
+  return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type"] }), null, 2), () => { })
 })
