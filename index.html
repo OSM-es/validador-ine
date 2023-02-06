@@ -51,7 +51,21 @@
       zoom: 6
     });
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+    const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+
+    const ign = L.tileLayer.wms('http://www.ign.es/wms-inspire/mapa-raster', {
+      layers: 'mtn_rasterizado',
+      format: 'image/png',
+      transparent: true,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+
+    const baseLayers = {
+      "IGN": ign,
+      "OpenStreetMap": osm
+    };
+
+    L.control.layers(baseLayers).addTo(map);
 
     const logo = L.control({ position: 'topleft' });
     logo.onAdd = function (map) {
