@@ -50,20 +50,20 @@ Promise.all(files.map(x => new Promise((resolve) => {
     .pipe(csv({
       separator: ";",
       skipLines: 1,
-      headers: ["ine", "name", , , "type", "population", , , "lon", "lat", , "ele"],
-      mapValues: ({ header, value }) => ["ine", "name", "type", "population", "lon", "lat", "ele"].includes(header)
+      headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele"],
+      mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele"].includes(header)
         ? ["lon", "lat", "ele", "population"].includes(header)
           ? Number(value.replace(/,/, ".")) 
           : value
         : undefined
     }))
-    .on('data', (data) => !!filterFn ? data.ine.startsWith(filterFn) && results.push(data) : results.push(data))
+    .on('data', (data) => !!filterFn ? data["ref:ine"].startsWith(filterFn) && results.push(data) : results.push(data))
     .on('end', () => resolve(results));
 }))).then(([fromINE, fromOSM]) => {
   // lista de códigos que existen en OSM
-  const refOSM = fromOSM.map(({ ine }) => ine)
+  const refOSM = fromOSM.map(({ "ref:ine": ine }) => ine)
   // agrupación por entidad singular (las 9 primeras cifras del código)
-  const entities = groupBy(fromINE, ({ ine }) => ine.slice(0, 9))
+  const entities = groupBy(fromINE, ({ "ref:ine": ine }) => ine.slice(0, 9))
 
   // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
   const isUniqueElement = entityGroup => entityGroup.length && entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
