@@ -75,7 +75,7 @@ Promise.all(files.map(x => new Promise((resolve) => {
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
   // - O bien es: "diseminados", y es el único elemento de su grupo
   const missingItems = Object.entries(entities).reduce((acc, [, group]) => {
-    const missing = group.reduce((elements, item) => (!refOSM.includes(item.ine) && (isValidType(item, group) || isValidSparse(item, group))) ? [...elements, item] : elements, [])
+    const missing = group.reduce((elements, item) => (!refOSM.includes(item["ref:ine"]) && (isValidType(item, group) || isValidSparse(item, group))) ? [...elements, item] : elements, [])
     return missing.length ? [...acc, ...missing] : acc
   }, [])
 
