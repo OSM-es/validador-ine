@@ -50,14 +50,24 @@ Promise.all(files.map(x => new Promise((resolve) => {
     .pipe(csv({
       separator: ";",
       skipLines: 1,
-      headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele"],
-      mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele"].includes(header)
+      headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
+      // parsear los tipos de datos del archivo
+      mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)
         ? ["lon", "lat", "ele", "population"].includes(header)
           ? Number(value.replace(/,/, ".")) 
-          : value
+          : ["flag1", "flag2"].includes(header) 
+            ? value === "VERDADERO"
+              ? true
+              : value === "FALSO"
+                ? false
+                : undefined
+            : value
         : undefined
     }))
-    .on('data', (data) => !!filterFn ? data["ref:ine"].startsWith(filterFn) && results.push(data) : results.push(data))
+    // - eliminar previamente elementos que estén señalados con VERDADERO,
+    //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
+    // - aplicar el argumento filter, si existe
+    .on('data', (data) => (!data["flag1"] && !data["flag2"]) && (!!filterFn ? data["ref:ine"].startsWith(filterFn) && results.push(data) : results.push(data)))
     .on('end', () => resolve(results));
 }))).then(([fromINE, fromOSM]) => {
   // lista de códigos que existen en OSM
@@ -80,5 +90,5 @@ Promise.all(files.map(x => new Promise((resolve) => {
   }, [])
 
   // crea un GeoJson con los elementos faltantes
-  return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type"] }), null, 2), () => { })
+  return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
 })
