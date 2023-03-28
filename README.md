@@ -27,7 +27,7 @@ node find_missing_ref_ine.js ENTIDADES.csv ES.csv
 
 El resultado será un fichero GeoJSON con el que podemos visualizar qué elementos están ausentes en OSM.
 
-**NOTA:** La información del fichero de ENTIDADES se actualiza anualmente, por tanto, es necesario reemplazar en este repositorio, dicho fichero con la nueva versión publicada por el IGN, para que la visualización muestre los datos más actuales.
+**NOTA:** La información del fichero de ENTIDADES se actualiza anualmente, por tanto, es necesario reemplazar en este repositorio, dicho fichero con la nueva versión publicada por el IGN, para que la visualización muestre los datos más actuales. Este fichero se encuentra codificado en _iso-8859-1_, para convertirlo a _utf-8_: `iconv -f iso-8859-1 -t utf-8 ENTIDADES.csv > ENTIDADES.UTF-8.csv`
 
 #### Argumentos
 
