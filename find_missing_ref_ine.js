@@ -9,6 +9,9 @@ const path = require('path');
 
 const [, , ...args] = process.argv
 
+console.log(process.env.DATE, !!process.env.DATE)
+return
+
 const argv = key => {
   // Return true if the key exists and a value is defined
   if (process.argv.includes(`--${key}`)) return true;
@@ -67,7 +70,21 @@ Promise.all(files.map(x => new Promise((resolve) => {
     // - eliminar previamente elementos que estén señalados con VERDADERO,
     //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
     // - aplicar el argumento filter, si existe
-    .on('data', (data) => (!data["flag1"] && !data["flag2"]) && (!!filterFn ? data["ref:ine"].startsWith(filterFn) && results.push(data) : results.push(data)))
+    .on('data', (data) => {
+      if (!data["flag1"] && !data["flag2"]) {
+        let row = data
+
+        if (process.env.DATE) {
+          row = { ...data, "population:date": process.env.DATE }
+        }
+
+        if (!!filterFn) {
+          data["ref:ine"].startsWith(filterFn) && results.push(row);
+        } else {
+          results.push(row);
+        }
+      }
+    })
     .on('end', () => resolve(results));
 }))).then(([fromINE, fromOSM]) => {
   // lista de códigos que existen en OSM
