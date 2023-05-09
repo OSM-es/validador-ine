@@ -9,9 +9,6 @@ const path = require('path');
 
 const [, , ...args] = process.argv
 
-console.log(process.env.DATE, !!process.env.DATE)
-return
-
 const argv = key => {
   // Return true if the key exists and a value is defined
   if (process.argv.includes(`--${key}`)) return true;
