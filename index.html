@@ -78,6 +78,7 @@
       .then(function (data) {
         const markers = L.markerClusterGroup();
         markers.addLayer(L.geoJson(data, {
+          // filter: feature => feature.properties.population > 1e4,
           onEachFeature: function (feature, layer) {
             const { lat, lng } = layer.getLatLng()
             const buffer = layer.getLatLng().toBounds(1000)
@@ -86,17 +87,19 @@
             const editorJosm = `http://127.0.0.1:8111/load_and_zoom?left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
 
             const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a></div>`
-            const table = `<table>${Object.entries(feature.properties).map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("")}</table>`
+            const { name, ...props } = feature.properties
+            const table = `<table><caption>${name}</caption>${Object.entries(props).sort().map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("")}</table>`
             layer.bindPopup(`${table}${links}`);
           }
         }));
+        
         map.addLayer(markers);
         map.fitBounds(markers.getBounds());
 
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
           this._div = L.DomUtil.create('div', 'leaflet-remaining-items');
-          this._div.innerHTML = `Total: <em>${data.features.length}</em>`;
+          this._div.innerHTML = `Total: <em>${markers.getLayers().length}</em>`;
           return this._div;
         }
         remaining.addTo(map);
