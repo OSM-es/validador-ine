@@ -1,5 +1,5 @@
 /**
- * node find_missing_ref_ine.js [--filter=] [--type=m|e|ec|c|oe|d"] <csv from IGN> <csv from OSM>
+ * node find_missing_ref_ine.js [--filter=] <csv from IGN> <csv from OSM>
  */
 
 const fs = require('fs');
