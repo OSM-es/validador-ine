@@ -98,10 +98,8 @@ Promise.all(files.map(x => new Promise((resolve) => {
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
   // - O bien es: "diseminados", y es el único elemento de su grupo
-  const missingItems = Object.entries(entities).reduce((acc, [, group]) => {
-    const missing = group.reduce((elements, item) => (!refOSM.includes(item["ref:ine"]) && (isValidType(item, group) || isValidSparse(item, group))) ? [...elements, item] : elements, [])
-    return missing.length ? [...acc, ...missing] : acc
-  }, [])
+  const missingItems = Object.entries(entities)
+    .flatMap(([, group]) => group.filter((item) => !refOSM.includes(item["ref:ine"]) && (isValidType(item, group) || isValidSparse(item, group))))
 
   // crea un GeoJson con los elementos faltantes
   return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
