@@ -92,7 +92,8 @@ Promise.all(files.map(x => new Promise((resolve) => {
   // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
   const isUniqueElement = entityGroup => entityGroup.length && entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
   
-  const isValidType = ({ type, population }, entityGroup) => [types.m, types.c, types.oe].includes(type) && (population !== 0 || isUniqueElement(entityGroup))
+  const isValidCapital = ({ ine, type }) => [types.c].includes(type) ? !ine.endsWith("00") : true
+  const isValidType = ({ "ref:ine": ine, type, population }, entityGroup) => [types.m, types.c, types.oe].includes(type) && isValidCapital({ ine, type }) && (population !== 0 || isUniqueElement(entityGroup))
   const isValidSparse = ({ type }, entityGroup) => [types.d].includes(type) && isUniqueElement(entityGroup)
   
   // una entidad se considera faltante si su código INE no existe en OSM, y:
