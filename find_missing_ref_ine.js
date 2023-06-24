@@ -75,6 +75,15 @@ Promise.all(files.map(x => new Promise((resolve) => {
           row = { ...data, "population:date": process.env.DATE }
         }
 
+        if (!Number.isInteger(data["ele"])) {
+          // redondear elevaciones decimales
+          row = { ...data, "ele": Math.round(data["ele"]) }
+        } else if (data["ele"] === 0) {
+          // quitar el dato de elevación cuando es 0, presumiblemente se trata de un error
+          const { ele, ...rest } = row
+          row = rest
+        }
+
         if (!!filterFn) {
           data["ref:ine"].startsWith(filterFn) && results.push(row);
         } else {
