@@ -77,7 +77,7 @@ Promise.all(files.map(x => new Promise((resolve) => {
 
         if (!Number.isInteger(data["ele"])) {
           // redondear elevaciones decimales
-          row = { ...data, "ele": Math.round(data["ele"]) }
+          row = { ...row, "ele": Math.round(data["ele"]) }
         } else if (data["ele"] === 0) {
           // quitar el dato de elevación cuando es 0, presumiblemente se trata de un error
           const { ele, ...rest } = row
