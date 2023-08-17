@@ -42,57 +42,76 @@ const filterFn = argv("filter") || false;
 
 // puesto que los argumentos son falsables, en función de cuántos NO sean nulos
 // podemos determinar cuántos args necesitamos quitar
-const files = args.slice([!!filterFn].filter(Boolean).length)
+const [INE, OSM] = args.slice([!!filterFn].filter(Boolean).length)
 
-Promise.all(files.map(x => new Promise((resolve) => {
-  const results = [];
-  fs.createReadStream(x)
-    .pipe(csv({
-      separator: ";",
-      skipLines: 1,
-      headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
-      // parsear los tipos de datos del archivo
-      mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)
-        ? ["lon", "lat", "ele", "population"].includes(header)
-          ? Number(value.replace(/,/, ".")) 
-          : ["flag1", "flag2"].includes(header) 
-            ? value === "VERDADERO"
-              ? true
-              : value === "FALSO"
-                ? false
-                : undefined
-            : value
-        : undefined
-    }))
-    // - eliminar previamente elementos que estén señalados con VERDADERO,
-    //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
-    // - aplicar el argumento filter, si existe
-    .on('data', (data) => {
-      if (!data["flag1"] && !data["flag2"]) {
-        let row = data
+Promise.all([
+  new Promise((resolve) => {
+    const results = [];
+    fs.createReadStream(INE)
+      .pipe(csv({
+        separator: ";",
+        skipLines: 1,
+        headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
+        // parsear los tipos de datos del archivo
+        mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)
+          ? ["lon", "lat", "ele", "population"].includes(header)
+            ? Number(value.replace(/,/, "."))
+            : ["flag1", "flag2"].includes(header)
+              ? value === "VERDADERO"
+                ? true
+                : value === "FALSO"
+                  ? false
+                  : undefined
+              : value
+          : undefined
+      }))
+      // - eliminar previamente elementos que estén señalados con VERDADERO,
+      //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
+      // - aplicar el argumento filter, si existe
+      .on('data', (data) => {
+        if (!data["flag1"] && !data["flag2"]) {
+          let row = data
 
-        if (process.env.DATE) {
-          row = { ...data, "population:date": process.env.DATE }
+          if (process.env.DATE) {
+            row = { ...data, "population:date": process.env.DATE }
+          }
+
+          if (!Number.isInteger(data["ele"])) {
+            // redondear elevaciones decimales
+            row = { ...row, "ele": Math.round(data["ele"]) }
+          } else if (data["ele"] === 0) {
+            // quitar el dato de elevación cuando es 0, presumiblemente se trata de un error
+            const { ele, ...rest } = row
+            row = rest
+          }
+
+          if (!!filterFn) {
+            data["ref:ine"].startsWith(filterFn) && results.push(row);
+          } else {
+            results.push(row);
+          }
         }
-
-        if (!Number.isInteger(data["ele"])) {
-          // redondear elevaciones decimales
-          row = { ...row, "ele": Math.round(data["ele"]) }
-        } else if (data["ele"] === 0) {
-          // quitar el dato de elevación cuando es 0, presumiblemente se trata de un error
-          const { ele, ...rest } = row
-          row = rest
-        }
-
+      })
+      .on('end', () => resolve(results));
+  }),
+  new Promise((resolve) => {
+    const results = [];
+    fs.createReadStream(OSM)
+      .pipe(csv({
+        separator: ";",
+        skipLines: 1,
+        headers: ["ref:ine", "name", "type", "id", "lat", "lon"]
+      }))
+      .on('data', (data) => {
         if (!!filterFn) {
-          data["ref:ine"].startsWith(filterFn) && results.push(row);
+          data["ref:ine"].startsWith(filterFn) && results.push(data);
         } else {
-          results.push(row);
+          results.push(data);
         }
-      }
-    })
-    .on('end', () => resolve(results));
-}))).then(([fromINE, fromOSM]) => {
+      })
+      .on('end', () => resolve(results));
+  })
+]).then(([fromINE, fromOSM]) => {
   // lista de códigos que existen en OSM
   const refOSM = fromOSM.map(({ "ref:ine": ine }) => ine)
   // agrupación por entidad singular (las 9 primeras cifras del código)
@@ -100,11 +119,11 @@ Promise.all(files.map(x => new Promise((resolve) => {
 
   // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
   const isUniqueElement = entityGroup => entityGroup.length && entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
-  
+
   const isValidCapital = ({ ine, type }) => [types.c].includes(type) ? !ine.endsWith("00") : true
   const isValidType = ({ "ref:ine": ine, type, population }, entityGroup) => [types.m, types.c, types.oe].includes(type) && isValidCapital({ ine, type }) && (population !== 0 || isUniqueElement(entityGroup))
   const isValidSparse = ({ type }, entityGroup) => [types.d].includes(type) && isUniqueElement(entityGroup)
-  
+
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
   // - O bien es: "diseminados", y es el único elemento de su grupo
@@ -112,5 +131,12 @@ Promise.all(files.map(x => new Promise((resolve) => {
     .flatMap(([, group]) => group.filter((item) => !refOSM.includes(item["ref:ine"]) && (isValidType(item, group) || isValidSparse(item, group))))
 
   // crea un GeoJson con los elementos faltantes
-  return fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
+  fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
+
+  // una entidad se considera sobrante si su código INE no existe en el fichero del IGN
+  // bien por que haya sido asimilada por otra entidad, haya desaparecido, o simplemente esté mal
+  const leftoverItems = fromOSM.filter(x => !fromINE.some(y => x["ref:ine"] === y["ref:ine"]))
+
+  // crea un GeoJson con los elementos faltantes
+  fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.leftover.geojson`), JSON.stringify(GeoJSON.parse(leftoverItems, { Point: ["lat", "lon"] }), null, 2), () => { })
 })

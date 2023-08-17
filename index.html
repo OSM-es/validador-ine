@@ -111,7 +111,20 @@
           }
         }));
 
-        leftover.addLayer(L.geoJson(leftoverData));
+        leftover.addLayer(L.geoJson(leftoverData, {
+          onEachFeature: function (feature, layer) {
+            const { lat, lng } = layer.getLatLng()
+            const { id, type, "ref:ine": ine } = feature.properties
+            const buffer = layer.getLatLng().toBounds(100)
+
+            const editorId = `https://www.openstreetmap.org/edit?${type}=${id}#map=19/${lat}/${lng}`
+            const editorJosm = `http://127.0.0.1:8111/load_and_zoom?select=${type}${id}&left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
+
+            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a></div>`
+            const msg = `<p>La referencia <code>${ine}</code> es errónea o inexistente.</p><p>Usa los enlaces de abajo para eliminarla.</p>`
+            layer.bindPopup(`${msg}${links}`);
+          }
+        }));
         
         layerControl.addOverlay(missing, "Faltantes");
         layerControl.addOverlay(leftover, "Sobrantes");
@@ -122,7 +135,7 @@
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
           this._div = L.DomUtil.create('div', 'leaflet-remaining-items');
-          this._div.innerHTML = `Total: <em>${missing.getLayers().length}</em>`;
+          this._div.innerHTML = `<span>Total faltantes: <em>${missing.getLayers().length}</em></span>&nbsp;<span>Total sobrantes: <em>${leftover.getLayers().length}</em></span>`;
           return this._div;
         }
         remaining.addTo(map);

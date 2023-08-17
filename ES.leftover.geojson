@@ -1,4 +1,3861 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8877375,
+          42.7850763
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057000101",
+        "name": "Noia",
+        "type": "node",
+        "id": "133573190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1850181,
+          43.5063821
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054031001",
+        "name": "Freixeiro",
+        "type": "node",
+        "id": "181290878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5722075,
+          43.5373176
+        ]
+      },
+      "properties": {
+        "ref:ine": "33076311201",
+        "name": "Quintueles",
+        "type": "node",
+        "id": "226904728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5434646,
+          43.53241
+        ]
+      },
+      "properties": {
+        "ref:ine": "33076300401",
+        "name": "Quintes",
+        "type": "node",
+        "id": "227089802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1066273,
+          38.776511
+        ]
+      },
+      "properties": {
+        "ref:ine": "03137000001",
+        "name": "la Vall de Laguar",
+        "type": "node",
+        "id": "247579004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8411846,
+          43.4072531
+        ]
+      },
+      "properties": {
+        "ref:ine": "39008000201",
+        "name": "Boo de Guarnizo",
+        "type": "node",
+        "id": "288260763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2474754,
+          39.2268651
+        ]
+      },
+      "properties": {
+        "ref:ine": "46235000301",
+        "name": "Mareny Blau",
+        "type": "node",
+        "id": "339674310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3019287,
+          42.7122089
+        ]
+      },
+      "properties": {
+        "ref:ine": "34005000201",
+        "name": "Becerril del Carpio",
+        "type": "node",
+        "id": "347836824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6292275,
+          40.9277321
+        ]
+      },
+      "properties": {
+        "ref:ine": "37085000401",
+        "name": "Navahonda",
+        "type": "node",
+        "id": "349235206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2087701,
+          42.0990718
+        ]
+      },
+      "properties": {
+        "ref:ine": "34141000101",
+        "name": "Colonia Militar Infantil General Varela",
+        "type": "node",
+        "id": "350321786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8070821,
+          42.1405445
+        ]
+      },
+      "properties": {
+        "ref:ine": "36035000001",
+        "name": "Nigrán",
+        "type": "node",
+        "id": "416382576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.155797,
+          39.5223078
+        ]
+      },
+      "properties": {
+        "ref:ine": "46213003701",
+        "name": "Turquía",
+        "type": "node",
+        "id": "427101806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8609097,
+          43.3027326
+        ]
+      },
+      "properties": {
+        "ref:ine": "20063000001",
+        "name": "Oiartzun",
+        "type": "node",
+        "id": "450877742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65567,
+          40.9455554
+        ]
+      },
+      "properties": {
+        "ref:ine": "37085000501",
+        "name": "Polígono Industrial El Montalvo",
+        "type": "node",
+        "id": "495766793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0519421,
+          39.3142132
+        ]
+      },
+      "properties": {
+        "ref:ine": "13036000001",
+        "name": "Los Cortijos",
+        "type": "node",
+        "id": "945874720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0771454,
+          38.1861159
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110800",
+        "name": "Campo de San Juan",
+        "type": "node",
+        "id": "958053171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8758124,
+          42.7764845
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057022699",
+        "name": "A Perouta",
+        "type": "node",
+        "id": "979803429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.88197,
+          42.7732306
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057020301",
+        "name": "Argote",
+        "type": "node",
+        "id": "979803440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8769045,
+          42.7844986
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057020699",
+        "name": "Campo de Lamas",
+        "type": "node",
+        "id": "979848176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8789052,
+          42.7822674
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057023301",
+        "name": "Sabardes",
+        "type": "node",
+        "id": "979848248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.882874,
+          42.785253
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057023001",
+        "name": "Ponte de Traba",
+        "type": "node",
+        "id": "979848251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8813735,
+          42.7774898
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057023401",
+        "name": "San Breixo",
+        "type": "node",
+        "id": "979848253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8821049,
+          42.7843998
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057021001",
+        "name": "O Couto de Abaixo",
+        "type": "node",
+        "id": "979848275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.878139,
+          42.7764291
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057022801",
+        "name": "O Pirillueiro",
+        "type": "node",
+        "id": "979848290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8814807,
+          42.7792853
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057022000",
+        "name": "O Loureiro",
+        "type": "node",
+        "id": "979848293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8812261,
+          42.783445
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057021101",
+        "name": "O Couto de Arriba",
+        "type": "node",
+        "id": "979848300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8811324,
+          42.7826507
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057022501",
+        "name": "Os Pazos",
+        "type": "node",
+        "id": "979848325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0596165,
+          38.277003
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100800",
+        "name": "Las Nogueras",
+        "type": "node",
+        "id": "1156378399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2955029,
+          37.6201394
+        ]
+      },
+      "properties": {
+        "ref:ine": "23017000399",
+        "name": "Estación de Huelma",
+        "type": "node",
+        "id": "1202925448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8126096,
+          43.2851837
+        ]
+      },
+      "properties": {
+        "ref:ine": "20063000299",
+        "name": "Arditurri",
+        "type": "node",
+        "id": "1242990392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8631977,
+          38.3039114
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090399",
+        "name": "Los Castillicos",
+        "type": "node",
+        "id": "1243045571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7356868,
+          42.2816553
+        ]
+      },
+      "properties": {
+        "ref:ine": "36029000001",
+        "name": "Moaña",
+        "type": "node",
+        "id": "1263362733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3114552,
+          41.7354947
+        ]
+      },
+      "properties": {
+        "ref:ine": "22099000701",
+        "name": "Egasa",
+        "type": "node",
+        "id": "1455833184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9291444,
+          41.6075155
+        ]
+      },
+      "properties": {
+        "ref:ine": "50089000201",
+        "name": "Parador del Ciclista",
+        "type": "node",
+        "id": "1455833751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9284631,
+          41.5860585
+        ]
+      },
+      "properties": {
+        "ref:ine": "50089000301",
+        "name": "Urbanización Amelia",
+        "type": "node",
+        "id": "1455834447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0267479,
+          43.1547427
+        ]
+      },
+      "properties": {
+        "ref:ine": "01042000699",
+        "name": "Okondo",
+        "type": "node",
+        "id": "1459089915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0231089,
+          42.1866663
+        ]
+      },
+      "properties": {
+        "ref:ine": "32068000001",
+        "name": "O Picouto",
+        "type": "node",
+        "id": "1459284477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28288,
+          41.6173948
+        ]
+      },
+      "properties": {
+        "ref:ine": "08041000001",
+        "name": "Canovelles",
+        "type": "node",
+        "id": "1460478422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9973628,
+          42.0388268
+        ]
+      },
+      "properties": {
+        "ref:ine": "17068000001",
+        "name": "Foixà",
+        "type": "node",
+        "id": "1460478646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.192861,
+          40.2344683
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099000201",
+        "name": "Urbanización Alameda de Méntrida",
+        "type": "node",
+        "id": "1480356275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.201091,
+          40.2318525
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099001001",
+        "name": "Cerro del Caño",
+        "type": "node",
+        "id": "1480356749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1988994,
+          40.2310498
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099000601",
+        "name": "Dehesa del Caño",
+        "type": "node",
+        "id": "1480356941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1872949,
+          40.2352129
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099001100",
+        "name": "Urbanización El Mirador",
+        "type": "node",
+        "id": "1480357166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1923506,
+          40.2268013
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099001400",
+        "name": "Urbanización San Nicolás",
+        "type": "node",
+        "id": "1480358659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9819781,
+          40.3060359
+        ]
+      },
+      "properties": {
+        "ref:ine": "28096000999",
+        "name": "Dehesa de Marimartín",
+        "type": "node",
+        "id": "1482405070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2033044,
+          40.3334233
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008000499",
+        "name": "Dehesa de las Hoyas",
+        "type": "node",
+        "id": "1482405102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2631861,
+          40.3054765
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008001000",
+        "name": "El Chaparral",
+        "type": "node",
+        "id": "1482405458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2281889,
+          40.33136
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008000899",
+        "name": "El Santo",
+        "type": "node",
+        "id": "1482405945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2316017,
+          40.2937201
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008001199",
+        "name": "Estación de Alberche",
+        "type": "node",
+        "id": "1482406224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9090332,
+          40.3124872
+        ]
+      },
+      "properties": {
+        "ref:ine": "28092000699",
+        "name": "Humera",
+        "type": "node",
+        "id": "1482406508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8905192,
+          40.3374513
+        ]
+      },
+      "properties": {
+        "ref:ine": "28092000899",
+        "name": "Peñaca",
+        "type": "node",
+        "id": "1482409292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.215193,
+          40.2945963
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008001200",
+        "name": "Serantes",
+        "type": "node",
+        "id": "1482409729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2012996,
+          40.3006693
+        ]
+      },
+      "properties": {
+        "ref:ine": "28008000999",
+        "name": "Suertes Viejas",
+        "type": "node",
+        "id": "1482409800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3192393,
+          43.3480596
+        ]
+      },
+      "properties": {
+        "ref:ine": "27044043701",
+        "name": "A Macieira",
+        "type": "node",
+        "id": "1609414405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5544964,
+          38.2379581
+        ]
+      },
+      "properties": {
+        "ref:ine": "30019000199",
+        "name": "Almadenes",
+        "type": "node",
+        "id": "1613749060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.888939,
+          38.2642933
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080199",
+        "name": "Arrayán",
+        "type": "node",
+        "id": "1613749092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1966976,
+          38.1386523
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090199",
+        "name": "Arroyo Alazor",
+        "type": "node",
+        "id": "1613749093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.192875,
+          38.1644834
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090299",
+        "name": "Arroyo Blanco",
+        "type": "node",
+        "id": "1613749094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.200195,
+          38.1866727
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100199",
+        "name": "Arroyo Tercero",
+        "type": "node",
+        "id": "1613749095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0721756,
+          38.2322157
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110199",
+        "name": "Bajil",
+        "type": "node",
+        "id": "1613749101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2681935,
+          38.0473588
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007000500",
+        "name": "Bienvenida",
+        "type": "node",
+        "id": "1613749147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0450292,
+          38.1911232
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110299",
+        "name": "Capel",
+        "type": "node",
+        "id": "1613749199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2225807,
+          38.1311104
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110300",
+        "name": "Casa Nueva",
+        "type": "node",
+        "id": "1613749231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0813036,
+          38.202197
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110499",
+        "name": "Casa Puerto",
+        "type": "node",
+        "id": "1613749233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.014691,
+          38.1781737
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028020199",
+        "name": "Casa de Eras",
+        "type": "node",
+        "id": "1613749234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0378473,
+          38.2257082
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040200",
+        "name": "Casa de Los Garcia",
+        "type": "node",
+        "id": "1613749235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0990691,
+          38.1955251
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100499",
+        "name": "Casa del Prado",
+        "type": "node",
+        "id": "1613749238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2218953,
+          38.1237169
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090799",
+        "name": "Casas Alfaro",
+        "type": "node",
+        "id": "1613749240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0887029,
+          38.1765122
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110601",
+        "name": "Casas de Aledo",
+        "type": "node",
+        "id": "1613749244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0855142,
+          38.1325464
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110700",
+        "name": "Casas de Moya",
+        "type": "node",
+        "id": "1613749247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0131777,
+          38.1686543
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028020499",
+        "name": "Casas del Pobre",
+        "type": "node",
+        "id": "1613749258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.024499,
+          38.2388188
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040499",
+        "name": "Casicas del Portal",
+        "type": "node",
+        "id": "1613749259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0229032,
+          38.2524459
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040599",
+        "name": "Charán",
+        "type": "node",
+        "id": "1613749297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8165967,
+          38.3248618
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028060199",
+        "name": "El Algaidón",
+        "type": "node",
+        "id": "1613749325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9027987,
+          38.2613544
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080299",
+        "name": "El Campanero",
+        "type": "node",
+        "id": "1613749362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7747825,
+          38.25453
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028060200",
+        "name": "El Campillo",
+        "type": "node",
+        "id": "1613749364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8852438,
+          38.246681
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080300",
+        "name": "El Cerezo",
+        "type": "node",
+        "id": "1613749373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.788487,
+          38.3046161
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028060499",
+        "name": "El Chopillo",
+        "type": "node",
+        "id": "1613749376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8339347,
+          38.1970971
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028010101",
+        "name": "El Cobo",
+        "type": "node",
+        "id": "1613749377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9858056,
+          38.268583
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040801",
+        "name": "El Molino",
+        "type": "node",
+        "id": "1613749393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2875277,
+          38.0557084
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028050400",
+        "name": "El Moralejo",
+        "type": "node",
+        "id": "1613749394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3364901,
+          38.0486679
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028050599",
+        "name": "El Mosquito",
+        "type": "node",
+        "id": "1613749395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2549215,
+          38.0617936
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007001299",
+        "name": "El Portichuelo",
+        "type": "node",
+        "id": "1613749427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3230027,
+          38.0321114
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028050399",
+        "name": "El Romeralejo",
+        "type": "node",
+        "id": "1613749470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2695809,
+          38.0688891
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007001500",
+        "name": "El Saladar",
+        "type": "node",
+        "id": "1613749494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1035942,
+          38.2051905
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028041101",
+        "name": "El Villar",
+        "type": "node",
+        "id": "1613749552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0424405,
+          38.2063666
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028110999",
+        "name": "Fotuya",
+        "type": "node",
+        "id": "1613749732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9876693,
+          38.2705995
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040601",
+        "name": "Fuente de Benízar",
+        "type": "node",
+        "id": "1613749798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1358991,
+          38.1723695
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100699",
+        "name": "Gibarroya",
+        "type": "node",
+        "id": "1613749915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8640788,
+          38.2365462
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080599",
+        "name": "Hondares",
+        "type": "node",
+        "id": "1613749984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1770646,
+          38.1366529
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090499",
+        "name": "Hoya Alazor",
+        "type": "node",
+        "id": "1613750004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9493098,
+          38.2863838
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028040100",
+        "name": "La Alberquilla",
+        "type": "node",
+        "id": "1613750282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2392066,
+          38.0241306
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028070100",
+        "name": "La Boquera",
+        "type": "node",
+        "id": "1613750438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1317685,
+          38.1971505
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028101200",
+        "name": "La Encomienda",
+        "type": "node",
+        "id": "1613750702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2695802,
+          38.0598061
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007000999",
+        "name": "La Esparraguera",
+        "type": "node",
+        "id": "1613750758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1002531,
+          38.24001
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100500",
+        "name": "La Fuensanta",
+        "type": "node",
+        "id": "1613750838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6881502,
+          37.6556257
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024300100",
+        "name": "La Granja",
+        "type": "node",
+        "id": "1613750894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1351028,
+          38.2145331
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100799",
+        "name": "La Leona",
+        "type": "node",
+        "id": "1613750974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9935485,
+          38.1703468
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028020399",
+        "name": "La Pava",
+        "type": "node",
+        "id": "1613751026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7593885,
+          38.1994845
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080600",
+        "name": "La Puerta",
+        "type": "node",
+        "id": "1613751031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0568525,
+          38.1410759
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028111500",
+        "name": "La Ribera",
+        "type": "node",
+        "id": "1613751035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9818082,
+          38.2736474
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028041001",
+        "name": "La Tercia",
+        "type": "node",
+        "id": "1613751038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5116093,
+          38.2350385
+        ]
+      },
+      "properties": {
+        "ref:ine": "30019001400",
+        "name": "La Torre",
+        "type": "node",
+        "id": "1613751041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0127247,
+          38.1724433
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028020200",
+        "name": "Las Casas",
+        "type": "node",
+        "id": "1613751084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3485168,
+          38.0469751
+        ]
+      },
+      "properties": {
+        "ref:ine": "30014000200",
+        "name": "Las Cañadas",
+        "type": "node",
+        "id": "1613751154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2855669,
+          38.0667118
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007000700",
+        "name": "Las Cañadas",
+        "type": "node",
+        "id": "1613751157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0522335,
+          38.2288956
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028111099",
+        "name": "Las Lorigas",
+        "type": "node",
+        "id": "1613751260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8413883,
+          38.2769468
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028060599",
+        "name": "Las Murtas",
+        "type": "node",
+        "id": "1613751261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1873709,
+          38.0659633
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028120399",
+        "name": "Las Pedrizas",
+        "type": "node",
+        "id": "1613751265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2713196,
+          38.063961
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007001899",
+        "name": "Las Yeseras",
+        "type": "node",
+        "id": "1613751280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1093945,
+          38.2232146
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100300",
+        "name": "Los Cantos",
+        "type": "node",
+        "id": "1613751312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8114181,
+          38.1879161
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028010299",
+        "name": "Los Charcos",
+        "type": "node",
+        "id": "1613751347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8521003,
+          38.2404734
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028080499",
+        "name": "Los Granadicos",
+        "type": "node",
+        "id": "1613751361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2472446,
+          38.1102908
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090500",
+        "name": "Los Prados",
+        "type": "node",
+        "id": "1613751630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2635839,
+          38.044301
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007001399",
+        "name": "Los Quiñones",
+        "type": "node",
+        "id": "1613751688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.306824,
+          38.0553591
+        ]
+      },
+      "properties": {
+        "ref:ine": "30007001400",
+        "name": "Los Rodeos",
+        "type": "node",
+        "id": "1613751725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1792666,
+          38.1069997
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028120299",
+        "name": "Majarazan",
+        "type": "node",
+        "id": "1613752141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6962195,
+          38.3430367
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028070299",
+        "name": "Moharque",
+        "type": "node",
+        "id": "1613752352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1023211,
+          38.1660906
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028111199",
+        "name": "Orihuelo",
+        "type": "node",
+        "id": "1613752582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2642453,
+          38.0887333
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090699",
+        "name": "Puerto Hondo",
+        "type": "node",
+        "id": "1613753093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1490432,
+          38.0833222
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028090899",
+        "name": "Puerto Ortiz",
+        "type": "node",
+        "id": "1613753109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0489992,
+          38.2484953
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028041299",
+        "name": "Rincón de Los Huertos",
+        "type": "node",
+        "id": "1613753144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1908094,
+          38.2029414
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028100999",
+        "name": "Rincón del Sastre",
+        "type": "node",
+        "id": "1613753152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6930585,
+          38.3346618
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028070301",
+        "name": "Salmerón",
+        "type": "node",
+        "id": "1613753220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6870588,
+          38.3527137
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028070499",
+        "name": "Torre Arenas",
+        "type": "node",
+        "id": "1613753641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8070861,
+          38.2014715
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028010300",
+        "name": "Ulea",
+        "type": "node",
+        "id": "1613753815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5349215,
+          38.2363882
+        ]
+      },
+      "properties": {
+        "ref:ine": "30019001500",
+        "name": "Veredilla",
+        "type": "node",
+        "id": "1613753928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0906451,
+          38.2177524
+        ]
+      },
+      "properties": {
+        "ref:ine": "30028111399",
+        "name": "Zaén de Abajo",
+        "type": "node",
+        "id": "1613754112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9262107,
+          37.4299288
+        ]
+      },
+      "properties": {
+        "ref:ine": "41091000401",
+        "name": "Valdezorras",
+        "type": "node",
+        "id": "1719370537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0268818,
+          43.582971
+        ]
+      },
+      "properties": {
+        "ref:ine": "15076010701",
+        "name": "As Loibas",
+        "type": "node",
+        "id": "1864688148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6083675,
+          42.9745163
+        ]
+      },
+      "properties": {
+        "ref:ine": "27028030400",
+        "name": "A Costa",
+        "type": "node",
+        "id": "1929829279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0949257,
+          37.3479315
+        ]
+      },
+      "properties": {
+        "ref:ine": "04017001001",
+        "name": "Los Castos",
+        "type": "node",
+        "id": "1962256297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1802005,
+          43.5113957
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054031301",
+        "name": "Piñeiros",
+        "type": "node",
+        "id": "2028880804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1888587,
+          43.5251898
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054030801",
+        "name": "O Feal",
+        "type": "node",
+        "id": "2028882865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9834254,
+          42.791211
+        ]
+      },
+      "properties": {
+        "ref:ine": "15053020801",
+        "name": "A Ribeira de Creo",
+        "type": "node",
+        "id": "2040653838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1414702,
+          39.5108599
+        ]
+      },
+      "properties": {
+        "ref:ine": "46213001801",
+        "name": "Los Chicanos",
+        "type": "node",
+        "id": "2062223541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1492564,
+          39.5175862
+        ]
+      },
+      "properties": {
+        "ref:ine": "46213002601",
+        "name": "Los Ochandos",
+        "type": "node",
+        "id": "2063695884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3546026,
+          40.2510445
+        ]
+      },
+      "properties": {
+        "ref:ine": "12139000999",
+        "name": "Ermitori de Sant Joan de Penyagolosa",
+        "type": "node",
+        "id": "2063696065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0209979,
+          42.5277799
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073010200",
+        "name": "A Cerca",
+        "type": "node",
+        "id": "2471388684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0125308,
+          42.5312653
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073010499",
+        "name": "Listres",
+        "type": "node",
+        "id": "2471388757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0210631,
+          42.5203606
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073010699",
+        "name": "Trasporto",
+        "type": "node",
+        "id": "2471388771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9971729,
+          42.5647192
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073090599",
+        "name": "Deán Pequeno",
+        "type": "node",
+        "id": "2472474491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0030937,
+          42.5309528
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073040201",
+        "name": "Os Areeiros",
+        "type": "node",
+        "id": "2472474497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6414144,
+          43.2578585
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Grixario",
+        "type": "node",
+        "id": "2492834042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2425104,
+          43.5762636
+        ]
+      },
+      "properties": {
+        "ref:ine": "33021060301",
+        "name": "Vivíu",
+        "type": "node",
+        "id": "2767481681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.241011,
+          43.5812025
+        ]
+      },
+      "properties": {
+        "ref:ine": "33021060101",
+        "name": "Rieguabaxu",
+        "type": "node",
+        "id": "2974400728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2351806,
+          43.5739743
+        ]
+      },
+      "properties": {
+        "ref:ine": "33021060201",
+        "name": "Rieguarriba",
+        "type": "node",
+        "id": "2974400729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.373544,
+          42.8019943
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012060901",
+        "name": "A Torre",
+        "type": "node",
+        "id": "3261646321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4621337,
+          42.8215006
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012120901",
+        "name": "Quián",
+        "type": "node",
+        "id": "3406733073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7333156,
+          42.8330792
+        ]
+      },
+      "properties": {
+        "ref:ine": "15074121501",
+        "name": "A Calle",
+        "type": "node",
+        "id": "3455283951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67987,
+          43.3505525
+        ]
+      },
+      "properties": {
+        "ref:ine": "48908000001",
+        "name": "Kanpantxua",
+        "type": "node",
+        "id": "3481010310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7920422,
+          43.2822532
+        ]
+      },
+      "properties": {
+        "ref:ine": "48052000199",
+        "name": "Gaztelu",
+        "type": "node",
+        "id": "3481662403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.003998,
+          42.7604344
+        ]
+      },
+      "properties": {
+        "ref:ine": "25025000999",
+        "name": "Montgarri",
+        "type": "node",
+        "id": "3686236844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.522081,
+          42.4360911
+        ]
+      },
+      "properties": {
+        "ref:ine": "22072000901",
+        "name": "Sieso de Jaca",
+        "type": "node",
+        "id": "3809258546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2239258,
+          38.4023033
+        ]
+      },
+      "properties": {
+        "ref:ine": "30022000503",
+        "name": "Casas del Conejo",
+        "type": "node",
+        "id": "3927225590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1905361,
+          38.3020079
+        ]
+      },
+      "properties": {
+        "ref:ine": "30022000901",
+        "name": "Peña Roja",
+        "type": "node",
+        "id": "3927594288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2356108,
+          38.4183226
+        ]
+      },
+      "properties": {
+        "ref:ine": "30022000504",
+        "name": "Casas del Puerto",
+        "type": "node",
+        "id": "3927660510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1562456,
+          38.3428593
+        ]
+      },
+      "properties": {
+        "ref:ine": "30022001301",
+        "name": "Charco de la Peña",
+        "type": "node",
+        "id": "4631971396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0327249,
+          43.1525228
+        ]
+      },
+      "properties": {
+        "ref:ine": "01042000299",
+        "name": "Jandiola",
+        "type": "node",
+        "id": "4813693974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2159468,
+          43.5266114
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054051101",
+        "name": "As Viñas",
+        "type": "node",
+        "id": "4887865251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1757599,
+          43.5053521
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050201",
+        "name": "Cornido",
+        "type": "node",
+        "id": "4983987212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1719262,
+          43.5083026
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054051200",
+        "name": "As Covas",
+        "type": "node",
+        "id": "4984002726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1516545,
+          43.525178
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054070200",
+        "name": "As Ferrerías",
+        "type": "node",
+        "id": "4984011767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0866057,
+          43.5353133
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054031301",
+        "name": "Piñeiros",
+        "type": "node",
+        "id": "4984032624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1727444,
+          43.5151108
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054031401",
+        "name": "O Ponto",
+        "type": "node",
+        "id": "4984088307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1788086,
+          43.5157549
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054030301",
+        "name": "Ansede",
+        "type": "node",
+        "id": "4984088308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1974772,
+          43.5005865
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054040799",
+        "name": "O Roibo",
+        "type": "node",
+        "id": "4984097285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1880168,
+          43.4930756
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050501",
+        "name": "Longras",
+        "type": "node",
+        "id": "5002094713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1708991,
+          43.5101387
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050601",
+        "name": "O Outeiro",
+        "type": "node",
+        "id": "5002146543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1832534,
+          43.5031982
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050499",
+        "name": "A Fonte de Neixa",
+        "type": "node",
+        "id": "5002174662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1827632,
+          43.5027304
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050901",
+        "name": "O Souto",
+        "type": "node",
+        "id": "5002174663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.182483,
+          43.4961041
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054051001",
+        "name": "O Vilar da Faisca",
+        "type": "node",
+        "id": "5002185802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1843878,
+          43.501145
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054051101",
+        "name": "As Viñas",
+        "type": "node",
+        "id": "5002188337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1844237,
+          43.4985888
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050701",
+        "name": "A Pena",
+        "type": "node",
+        "id": "5002199909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5270587,
+          38.9878168
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000404",
+        "name": "Can Guasch",
+        "type": "node",
+        "id": "5169910274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5459149,
+          38.9906318
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000407",
+        "name": "Can Sansó",
+        "type": "node",
+        "id": "5169959769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2112548,
+          43.3764017
+        ]
+      },
+      "properties": {
+        "ref:ine": "15048070501",
+        "name": "Perbes",
+        "type": "node",
+        "id": "6150593985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2132068,
+          43.3763806
+        ]
+      },
+      "properties": {
+        "ref:ine": "15048070501",
+        "name": "Perbes",
+        "type": "node",
+        "id": "6150593986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5415847,
+          43.1958872
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Igrexario",
+        "type": "node",
+        "id": "6163392921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.578962,
+          43.2245079
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041071001",
+        "name": "O Grixario",
+        "type": "node",
+        "id": "6163667751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5600796,
+          43.2211989
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041051301",
+        "name": "San Pantaión",
+        "type": "node",
+        "id": "6163667774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5478959,
+          43.2307559
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Igrexario",
+        "type": "node",
+        "id": "6163669394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4783237,
+          43.2348029
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041104701",
+        "name": "Santa Baia",
+        "type": "node",
+        "id": "6164033889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5076329,
+          43.2395392
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041041501",
+        "name": "San Paio",
+        "type": "node",
+        "id": "6164465404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5109654,
+          43.2477973
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Igrexario",
+        "type": "node",
+        "id": "6164465414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4973342,
+          43.251565
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041041701",
+        "name": "Vilarmaior",
+        "type": "node",
+        "id": "6164465431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5649707,
+          43.2524017
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Igrexario",
+        "type": "node",
+        "id": "6164465490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6042792,
+          43.2773886
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Grixario",
+        "type": "node",
+        "id": "6164465514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6151603,
+          43.2457893
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041011901",
+        "name": "Xeriz",
+        "type": "node",
+        "id": "6164681579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6039687,
+          43.2520217
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041013801",
+        "name": "O Cancelo",
+        "type": "node",
+        "id": "6165474788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6104595,
+          43.2477008
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110601",
+        "name": "O Grixario",
+        "type": "node",
+        "id": "6165474808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5946266,
+          43.312792
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041020501",
+        "name": "Xermaña",
+        "type": "node",
+        "id": "6165774488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8715964,
+          42.8035213
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057000101",
+        "name": "Noia",
+        "type": "node",
+        "id": "6725499992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8469745,
+          42.7827063
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057000100",
+        "name": "Noia",
+        "type": "node",
+        "id": "6725499994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7879318,
+          42.1429822
+        ]
+      },
+      "properties": {
+        "ref:ine": "36035000001",
+        "name": "Nigrán",
+        "type": "node",
+        "id": "6761815894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9194589,
+          41.4084039
+        ]
+      },
+      "properties": {
+        "ref:ine": "08072000105",
+        "name": "Can Planes Sud",
+        "type": "node",
+        "id": "6776448549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3915822,
+          43.3417189
+        ]
+      },
+      "properties": {
+        "ref:ine": "15030020499",
+        "name": "Castaño de Eirís",
+        "type": "node",
+        "id": "7214501044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3900303,
+          42.8090936
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012110601",
+        "name": "Loureiro",
+        "type": "node",
+        "id": "7236650551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.20426,
+          40.230755
+        ]
+      },
+      "properties": {
+        "ref:ine": "45099001002",
+        "name": "Cerro Alto",
+        "type": "node",
+        "id": "7560287219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8883486,
+          42.7827877
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057000101",
+        "name": "Noia",
+        "type": "node",
+        "id": "8660538142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7469268,
+          42.2981076
+        ]
+      },
+      "properties": {
+        "ref:ine": "36029000001",
+        "name": "Moaña",
+        "type": "node",
+        "id": "8703042772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7286778,
+          42.3069812
+        ]
+      },
+      "properties": {
+        "ref:ine": "36029000001",
+        "name": "Moaña",
+        "type": "node",
+        "id": "8703042780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7994269,
+          42.1421915
+        ]
+      },
+      "properties": {
+        "ref:ine": "36035000001",
+        "name": "Nigrán",
+        "type": "node",
+        "id": "8710809941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4641848,
+          42.8028054
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012080401",
+        "name": "Lestedo",
+        "type": "node",
+        "id": "8722169300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4198148,
+          42.8718361
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012090501",
+        "name": "Loureda",
+        "type": "node",
+        "id": "8722169310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4590102,
+          42.8283449
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012121401",
+        "name": "Sergude",
+        "type": "node",
+        "id": "8722169314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3690673,
+          42.7905928
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012130501",
+        "name": "Sucira",
+        "type": "node",
+        "id": "8722169818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4379091,
+          42.8108577
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012050501",
+        "name": "A Granxa",
+        "type": "node",
+        "id": "8722169822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3852472,
+          42.7933235
+        ]
+      },
+      "properties": {
+        "ref:ine": "15012030101",
+        "name": "Donas",
+        "type": "node",
+        "id": "8722169824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9994135,
+          42.5526131
+        ]
+      },
+      "properties": {
+        "ref:ine": "15073090300",
+        "name": "Coveliño",
+        "type": "node",
+        "id": "8976669349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8817737,
+          42.7756763
+        ]
+      },
+      "properties": {
+        "ref:ine": "15057020901",
+        "name": "A Costaneira",
+        "type": "node",
+        "id": "9280987026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.97833,
+          42.7929751
+        ]
+      },
+      "properties": {
+        "ref:ine": "15053020901",
+        "name": "A Ribeira do Maio",
+        "type": "node",
+        "id": "9353073222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9714652,
+          42.7902043
+        ]
+      },
+      "properties": {
+        "ref:ine": "15053021501",
+        "name": "O Portiño",
+        "type": "node",
+        "id": "9353073226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4444717,
+          42.8999778
+        ]
+      },
+      "properties": {
+        "ref:ine": "15078190700",
+        "name": "A Lameira",
+        "type": "node",
+        "id": "9376018162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8294248,
+          42.5693897
+        ]
+      },
+      "properties": {
+        "ref:ine": "36061070100",
+        "name": "A Braña",
+        "type": "node",
+        "id": "10138405954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1535595,
+          42.8408076
+        ]
+      },
+      "properties": {
+        "ref:ine": "24137000502",
+        "name": "Barrio Colominas",
+        "type": "node",
+        "id": "10300356697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1455507,
+          42.832203
+        ]
+      },
+      "properties": {
+        "ref:ine": "24137000402",
+        "name": "Barrio la Herrera",
+        "type": "node",
+        "id": "10300356704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9395828,
+          43.4051167
+        ]
+      },
+      "properties": {
+        "ref:ine": "48043000101",
+        "name": "Agirre",
+        "type": "node",
+        "id": "10563501140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9438662,
+          43.4080129
+        ]
+      },
+      "properties": {
+        "ref:ine": "48043000201",
+        "name": "Areantza",
+        "type": "node",
+        "id": "10563501142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0200386,
+          43.1620785
+        ]
+      },
+      "properties": {
+        "ref:ine": "01042000001",
+        "name": "Eskauriatza",
+        "type": "node",
+        "id": "10599868053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8557131,
+          43.2893015
+        ]
+      },
+      "properties": {
+        "ref:ine": "20063000101",
+        "name": "Altzibar poligonoa",
+        "type": "node",
+        "id": "10607867857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0039666,
+          40.3055838
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301018",
+        "name": "Caño Viejo",
+        "type": "node",
+        "id": "11097683049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0025195,
+          40.3017553
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301017",
+        "name": "Pastos",
+        "type": "node",
+        "id": "11097683050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0082205,
+          40.2954342
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301006",
+        "name": "La Estación",
+        "type": "node",
+        "id": "11097683051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0090359,
+          40.2926846
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301002",
+        "name": "Barrio Estación",
+        "type": "node",
+        "id": "11097683052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0158298,
+          40.2920822
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301007",
+        "name": "Oasís",
+        "type": "node",
+        "id": "11097683053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0198918,
+          40.2898913
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301011",
+        "name": "Fuente Sapo",
+        "type": "node",
+        "id": "11097683054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0224452,
+          40.2862554
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301011",
+        "name": "Señorío - Navalar",
+        "type": "node",
+        "id": "11097683055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0185749,
+          40.2838926
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301005",
+        "name": "Covadonga",
+        "type": "node",
+        "id": "11097683056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0170406,
+          40.2817535
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301013",
+        "name": "Cinco Siglos",
+        "type": "node",
+        "id": "11097683057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0097326,
+          40.2822298
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301014",
+        "name": "Galileo",
+        "type": "node",
+        "id": "11097683058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0121074,
+          40.2877518
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301004",
+        "name": "Casco Antiguo",
+        "type": "node",
+        "id": "11097683059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0024078,
+          40.2925762
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301003",
+        "name": "Los Bastos",
+        "type": "node",
+        "id": "11097683060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9966158,
+          40.2939302
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301008",
+        "name": "Residencia",
+        "type": "node",
+        "id": "11097683061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9972154,
+          40.2903437
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301001",
+        "name": "Alparache",
+        "type": "node",
+        "id": "11097683062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9838233,
+          40.2993102
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301016",
+        "name": "La Dehesa",
+        "type": "node",
+        "id": "11097683063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0166882,
+          40.2937886
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301012",
+        "name": "Sierra",
+        "type": "node",
+        "id": "11097694675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0215243,
+          40.2804722
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301015",
+        "name": "Santa Gadea",
+        "type": "node",
+        "id": "11097694676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0268964,
+          40.2815772
+        ]
+      },
+      "properties": {
+        "ref:ine": "280960301010",
+        "name": "Los Manzanos",
+        "type": "node",
+        "id": "11097904440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.961371,
+          40.2916095
+        ]
+      },
+      "properties": {
+        "ref:ine": "0960399001",
+        "name": "Centro Penitenciario Madrid IV",
+        "type": "node",
+        "id": "11097942003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7071825,
+          37.7278424
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016191500",
+        "name": "Isla Grossa",
+        "type": "relation",
+        "id": "3590776"
+      }
+    }
+  ]
 }
