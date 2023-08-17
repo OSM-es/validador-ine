@@ -67,7 +67,7 @@
       "OpenStreetMap": osm
     };
 
-    L.control.layers(baseLayers).addTo(map);
+    const layerControl = L.control.layers(baseLayers).addTo(map);
 
     const community = L.control({ position: 'topleft' });
     community.onAdd = function (map) {
@@ -89,14 +89,14 @@
     }
     github.addTo(map);
 
-    fetch("./ES.geojson")
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (data) {
-        const markers = L.markerClusterGroup();
-        markers.addLayer(L.geoJson(data, {
-          // filter: feature => feature.properties.population > 1e4,
+    Promise.all([
+      fetch("./ES.geojson").then(response => response.json()),
+      fetch("./ES.leftover.geojson").then(response => response.json())
+    ])
+      .then(function ([missingData, leftoverData]) {
+        const [missing, leftover] = [L.markerClusterGroup(), L.markerClusterGroup()];
+        
+        missing.addLayer(L.geoJson(missingData, {
           onEachFeature: function (feature, layer) {
             const { lat, lng } = layer.getLatLng()
             const buffer = layer.getLatLng().toBounds(1000)
@@ -110,14 +110,19 @@
             layer.bindPopup(`${table}${links}`);
           }
         }));
+
+        leftover.addLayer(L.geoJson(leftoverData));
         
-        map.addLayer(markers);
-        map.fitBounds(markers.getBounds());
+        layerControl.addOverlay(missing, "Faltantes");
+        layerControl.addOverlay(leftover, "Sobrantes");
+
+        map.addLayer(missing);
+        map.fitBounds(missing.getBounds());
 
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
           this._div = L.DomUtil.create('div', 'leaflet-remaining-items');
-          this._div.innerHTML = `Total: <em>${markers.getLayers().length}</em>`;
+          this._div.innerHTML = `Total: <em>${missing.getLayers().length}</em>`;
           return this._div;
         }
         remaining.addTo(map);
