@@ -121,7 +121,7 @@
             const editorJosm = `http://127.0.0.1:8111/load_and_zoom?select=${type}${id}&left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
 
             const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a></div>`
-            const msg = `<p>La referencia <code>${ine}</code> es errónea o inexistente.</p><p>Usa los enlaces de abajo para eliminarla.</p>`
+            const msg = `<p>La referencia <code>${ine}</code> es errónea, o ha dejado de existir. Puedes comprobarlo <a href="https://www.ine.es/nomen2/index.do">aquí</a>.<br>Usa los siguientes enlaces para eliminarla.</p>`
             layer.bindPopup(`${msg}${links}`);
           }
         }));
