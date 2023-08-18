@@ -129,14 +129,15 @@ Promise.all([
   // - O bien es: "diseminados", y es el único elemento de su grupo
   const missingItems = Object.entries(entities)
     .flatMap(([, group]) => group.filter((item) => !refOSM.includes(item["ref:ine"]) && (isValidType(item, group) || isValidSparse(item, group))))
-
+  
   // crea un GeoJson con los elementos faltantes
   fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.geojson`), JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
-
+  
   // una entidad se considera sobrante si su código INE no existe en el fichero del IGN
   // bien por que haya sido asimilada por otra entidad, haya desaparecido, o simplemente esté mal
-  const leftoverItems = fromOSM.filter(x => !fromINE.some(y => x["ref:ine"] === y["ref:ine"]))
-
+  const refINE = fromINE.map(({ "ref:ine": ine }) => ine)
+  const leftoverItems = fromOSM.filter(x => !refINE.includes(x["ref:ine"]))
+  
   // crea un GeoJson con los elementos faltantes
   fs.writeFile(path.join(__dirname, `${filterFn || "ES"}.leftover.geojson`), JSON.stringify(GeoJSON.parse(leftoverItems, { Point: ["lat", "lon"] }), null, 2), () => { })
 })
