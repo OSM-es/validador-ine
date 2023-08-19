@@ -118,22 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2087701,
-          42.0990718
-        ]
-      },
-      "properties": {
-        "ref:ine": "34141000101",
-        "name": "Colonia Militar Infantil General Varela",
-        "type": "node",
-        "id": "350321786"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.8070821,
           42.1405445
         ]
