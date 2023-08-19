@@ -102,22 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3019287,
-          42.7122089
-        ]
-      },
-      "properties": {
-        "ref:ine": "34005000201",
-        "name": "Becerril del Carpio",
-        "type": "node",
-        "id": "347836824"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.6292275,
           40.9277321
         ]
@@ -543,22 +527,6 @@
         "name": "Urbanización Amelia",
         "type": "node",
         "id": "1455834447"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0267479,
-          43.1547427
-        ]
-      },
-      "properties": {
-        "ref:ine": "01042000699",
-        "name": "Okondo",
-        "type": "node",
-        "id": "1459089915"
       }
     },
     {
@@ -2518,22 +2486,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0327249,
-          43.1525228
-        ]
-      },
-      "properties": {
-        "ref:ine": "01042000299",
-        "name": "Jandiola",
-        "type": "node",
-        "id": "4813693974"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2159468,
           43.5266114
         ]
@@ -3430,38 +3382,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.1535595,
-          42.8408076
-        ]
-      },
-      "properties": {
-        "ref:ine": "24137000502",
-        "name": "Barrio Colominas",
-        "type": "node",
-        "id": "10300356697"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.1455507,
-          42.832203
-        ]
-      },
-      "properties": {
-        "ref:ine": "24137000402",
-        "name": "Barrio la Herrera",
-        "type": "node",
-        "id": "10300356704"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.9395828,
           43.4051167
         ]
@@ -3487,22 +3407,6 @@
         "name": "Areantza",
         "type": "node",
         "id": "10563501142"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0200386,
-          43.1620785
-        ]
-      },
-      "properties": {
-        "ref:ine": "01042000001",
-        "name": "Eskauriatza",
-        "type": "node",
-        "id": "10599868053"
       }
     },
     {
