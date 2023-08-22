@@ -102,22 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6292275,
-          40.9277321
-        ]
-      },
-      "properties": {
-        "ref:ine": "37085000401",
-        "name": "Navahonda",
-        "type": "node",
-        "id": "349235206"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.8070821,
           42.1405445
         ]
@@ -159,38 +143,6 @@
         "name": "Oiartzun",
         "type": "node",
         "id": "450877742"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65567,
-          40.9455554
-        ]
-      },
-      "properties": {
-        "ref:ine": "37085000501",
-        "name": "Polígono Industrial El Montalvo",
-        "type": "node",
-        "id": "495766793"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0519421,
-          39.3142132
-        ]
-      },
-      "properties": {
-        "ref:ine": "13036000001",
-        "name": "Los Cortijos",
-        "type": "node",
-        "id": "945874720"
       }
     },
     {
@@ -1759,22 +1711,6 @@
         "name": "Zaén de Abajo",
         "type": "node",
         "id": "1613754112"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9262107,
-          37.4299288
-        ]
-      },
-      "properties": {
-        "ref:ine": "41091000401",
-        "name": "Valdezorras",
-        "type": "node",
-        "id": "1719370537"
       }
     },
     {
