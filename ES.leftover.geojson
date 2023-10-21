@@ -102,22 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.8070821,
-          42.1405445
-        ]
-      },
-      "properties": {
-        "ref:ine": "36035000001",
-        "name": "Nigrán",
-        "type": "node",
-        "id": "416382576"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.155797,
           39.5223078
         ]
