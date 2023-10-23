@@ -390,22 +390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.7356868,
-          42.2816553
-        ]
-      },
-      "properties": {
-        "ref:ine": "36029000001",
-        "name": "Moaña",
-        "type": "node",
-        "id": "1263362733"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.3114552,
           41.7354947
         ]
