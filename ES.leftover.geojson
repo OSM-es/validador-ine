@@ -438,22 +438,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0231089,
-          42.1866663
-        ]
-      },
-      "properties": {
-        "ref:ine": "32068000001",
-        "name": "O Picouto",
-        "type": "node",
-        "id": "1459284477"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.28288,
           41.6173948
         ]
