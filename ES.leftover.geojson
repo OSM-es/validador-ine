@@ -70,8 +70,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1066273,
-          38.776511
+          -0.1086551,
+          38.7784515
         ]
       },
       "properties": {
@@ -2614,22 +2614,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6039687,
-          43.2520217
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041013801",
-        "name": "O Cancelo",
-        "type": "node",
-        "id": "6165474788"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6104595,
           43.2477008
         ]
@@ -2646,8 +2630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5946266,
-          43.312792
+          -8.5949815,
+          43.3128532
         ]
       },
       "properties": {
