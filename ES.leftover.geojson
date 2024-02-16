@@ -390,6 +390,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -17.7741726,
+          28.6914889
+        ]
+      },
+      "properties": {
+        "ref:ine": "3803700220",
+        "name": "Roque de Arriba",
+        "type": "node",
+        "id": "1437814782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.3114552,
           41.7354947
         ]
@@ -2191,22 +2207,6 @@
         "name": "As Ferrerías",
         "type": "node",
         "id": "4984011767"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.0866057,
-          43.5353133
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054031301",
-        "name": "Piñeiros",
-        "type": "node",
-        "id": "4984032624"
       }
     },
     {
