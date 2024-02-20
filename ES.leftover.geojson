@@ -1990,22 +1990,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.7333156,
-          42.8330792
-        ]
-      },
-      "properties": {
-        "ref:ine": "15074121501",
-        "name": "A Calle",
-        "type": "node",
-        "id": "3455283951"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.67987,
           43.3505525
         ]
