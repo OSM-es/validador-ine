@@ -2774,102 +2774,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4641848,
-          42.8028054
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012080401",
-        "name": "Lestedo",
-        "type": "node",
-        "id": "8722169300"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4198148,
-          42.8718361
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012090501",
-        "name": "Loureda",
-        "type": "node",
-        "id": "8722169310"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4590102,
-          42.8283449
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012121401",
-        "name": "Sergude",
-        "type": "node",
-        "id": "8722169314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3690673,
-          42.7905928
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012130501",
-        "name": "Sucira",
-        "type": "node",
-        "id": "8722169818"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4379091,
-          42.8108577
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012050501",
-        "name": "A Granxa",
-        "type": "node",
-        "id": "8722169822"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3852472,
-          42.7933235
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012030101",
-        "name": "Donas",
-        "type": "node",
-        "id": "8722169824"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]
@@ -3023,6 +2927,102 @@
         "name": "Isla Grossa",
         "type": "relation",
         "id": "3590776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2012589,
+          43.5003688
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054060000",
+        "name": "Santa Icia de Xubia",
+        "type": "relation",
+        "id": "12696695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.182531,
+          43.5148356
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054030000",
+        "name": "Nosa Señora dos Desamparados de Xubia",
+        "type": "relation",
+        "id": "12696696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.156201,
+          43.5249371
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054080000",
+        "name": "Xubia",
+        "type": "relation",
+        "id": "12696701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1780208,
+          43.5019542
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054050000",
+        "name": "San Martiño de Xubia",
+        "type": "relation",
+        "id": "12696702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1934424,
+          43.4998172
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054040000",
+        "name": "San Xosé Obreiro de Xubia",
+        "type": "relation",
+        "id": "12696703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1980944,
+          43.4936187
+        ]
+      },
+      "properties": {
+        "ref:ine": "15054080000",
+        "name": "Santiago Apóstolo de Xubia",
+        "type": "relation",
+        "id": "12696704"
       }
     },
     {
