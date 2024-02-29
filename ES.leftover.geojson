@@ -2374,22 +2374,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.2112548,
-          43.3764017
-        ]
-      },
-      "properties": {
-        "ref:ine": "15048070501",
-        "name": "Perbes",
-        "type": "node",
-        "id": "6150593985"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2132068,
           43.3763806
         ]
@@ -2703,70 +2687,6 @@
         "name": "Loureiro",
         "type": "node",
         "id": "7236650551"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8883486,
-          42.7827877
-        ]
-      },
-      "properties": {
-        "ref:ine": "15057000101",
-        "name": "Noia",
-        "type": "node",
-        "id": "8660538142"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7469268,
-          42.2981076
-        ]
-      },
-      "properties": {
-        "ref:ine": "36029000001",
-        "name": "Moaña",
-        "type": "node",
-        "id": "8703042772"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7286778,
-          42.3069812
-        ]
-      },
-      "properties": {
-        "ref:ine": "36029000001",
-        "name": "Moaña",
-        "type": "node",
-        "id": "8703042780"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7994269,
-          42.1421915
-        ]
-      },
-      "properties": {
-        "ref:ine": "36035000001",
-        "name": "Nigrán",
-        "type": "node",
-        "id": "8710809941"
       }
     },
     {
