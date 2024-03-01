@@ -2598,54 +2598,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.8715964,
-          42.8035213
-        ]
-      },
-      "properties": {
-        "ref:ine": "15057000101",
-        "name": "Noia",
-        "type": "node",
-        "id": "6725499992"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8469745,
-          42.7827063
-        ]
-      },
-      "properties": {
-        "ref:ine": "15057000100",
-        "name": "Noia",
-        "type": "node",
-        "id": "6725499994"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7879318,
-          42.1429822
-        ]
-      },
-      "properties": {
-        "ref:ine": "36035000001",
-        "name": "Nigrán",
-        "type": "node",
-        "id": "6761815894"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.9196374,
           41.408169
         ]
