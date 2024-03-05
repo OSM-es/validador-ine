@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.8877375,
-          42.7850763
-        ]
-      },
-      "properties": {
-        "ref:ine": "15057000101",
-        "name": "Noia",
-        "type": "node",
-        "id": "133573190"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.1850181,
           43.5063821
         ]
@@ -1958,22 +1942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.373544,
-          42.8019943
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012060901",
-        "name": "A Torre",
-        "type": "node",
-        "id": "3261646321"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4621337,
           42.8215006
         ]
@@ -2118,22 +2086,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.2159468,
-          43.5266114
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054051101",
-        "name": "As Viñas",
-        "type": "node",
-        "id": "4887865251"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.1757599,
           43.5053521
         ]
@@ -2159,22 +2111,6 @@
         "name": "As Covas",
         "type": "node",
         "id": "4984002726"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1516545,
-          43.525178
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054070200",
-        "name": "As Ferrerías",
-        "type": "node",
-        "id": "4984011767"
       }
     },
     {
@@ -2511,22 +2447,6 @@
         "name": "Vilarmaior",
         "type": "node",
         "id": "6164465431"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5649707,
-          43.2524017
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Igrexario",
-        "type": "node",
-        "id": "6164465490"
       }
     },
     {
