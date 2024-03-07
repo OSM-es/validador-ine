@@ -267,7 +267,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "15057022000",
+        "ref:ine": "15057022099",
         "name": "O Loureiro",
         "type": "node",
         "id": "979848293"
@@ -1675,7 +1675,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "27028030400",
+        "ref:ine": "27028030499",
         "name": "A Costa",
         "type": "node",
         "id": "1929829279"
@@ -1803,7 +1803,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "15073010200",
+        "ref:ine": "15073010299",
         "name": "A Cerca",
         "type": "node",
         "id": "2471388684"
@@ -1871,22 +1871,6 @@
         "name": "Os Areeiros",
         "type": "node",
         "id": "2472474497"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6414144,
-          43.2578585
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Grixario",
-        "type": "node",
-        "id": "2492834042"
       }
     },
     {
@@ -2107,7 +2091,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "15054051200",
+        "ref:ine": "15054051299",
         "name": "As Covas",
         "type": "node",
         "id": "4984002726"
@@ -2326,38 +2310,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5415847,
-          43.1958872
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Igrexario",
-        "type": "node",
-        "id": "6163392921"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.578962,
-          43.2245079
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041071001",
-        "name": "O Grixario",
-        "type": "node",
-        "id": "6163667751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5600796,
           43.2211989
         ]
@@ -2422,22 +2374,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5109654,
-          43.2477973
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Igrexario",
-        "type": "node",
-        "id": "6164465414"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4973342,
           43.251565
         ]
@@ -2454,22 +2390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6042792,
-          43.2773886
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Grixario",
-        "type": "node",
-        "id": "6164465514"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6151603,
           43.2457893
         ]
@@ -2479,22 +2399,6 @@
         "name": "Xeriz",
         "type": "node",
         "id": "6164681579"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6104595,
-          43.2477008
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Grixario",
-        "type": "node",
-        "id": "6165474808"
       }
     },
     {
@@ -2571,7 +2475,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "15073090300",
+        "ref:ine": "15073090399",
         "name": "Coveliño",
         "type": "node",
         "id": "8976669349"
@@ -2635,7 +2539,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "15078190700",
+        "ref:ine": "15078190799",
         "name": "A Lameira",
         "type": "node",
         "id": "9376018162"
@@ -2651,7 +2555,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "36061070100",
+        "ref:ine": "36061070199",
         "name": "A Braña",
         "type": "node",
         "id": "10138405954"
