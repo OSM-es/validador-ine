@@ -2736,22 +2736,6 @@
         "type": "relation",
         "id": "12696704"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8457878,
-          42.0492036
-        ]
-      },
-      "properties": {
-        "ref:ine": "1716900000000",
-        "name": "Sant Julià de Ramis",
-        "type": "relation",
-        "id": "16787490"
-      }
     }
   ]
 }
