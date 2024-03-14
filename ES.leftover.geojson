@@ -2054,8 +2054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1562456,
-          38.3428593
+          -1.1554891,
+          38.3433171
         ]
       },
       "properties": {
@@ -2527,22 +2527,6 @@
         "name": "O Portiño",
         "type": "node",
         "id": "9353073226"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4444717,
-          42.8999778
-        ]
-      },
-      "properties": {
-        "ref:ine": "15078190799",
-        "name": "A Lameira",
-        "type": "node",
-        "id": "9376018162"
       }
     },
     {
