@@ -1926,22 +1926,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4621337,
-          42.8215006
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012120901",
-        "name": "Quián",
-        "type": "node",
-        "id": "3406733073"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.67987,
           43.3505525
         ]
@@ -2447,22 +2431,6 @@
         "name": "Castaño de Eirís",
         "type": "node",
         "id": "7214501044"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3900303,
-          42.8090936
-        ]
-      },
-      "properties": {
-        "ref:ine": "15012110601",
-        "name": "Loureiro",
-        "type": "node",
-        "id": "7236650551"
       }
     },
     {
