@@ -2422,22 +2422,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3915822,
-          43.3417189
-        ]
-      },
-      "properties": {
-        "ref:ine": "15030020499",
-        "name": "Castaño de Eirís",
-        "type": "node",
-        "id": "7214501044"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]
