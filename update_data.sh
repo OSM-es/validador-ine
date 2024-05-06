@@ -6,4 +6,4 @@
 query='[out:csv("ref:ine","name",::type,::id,::lat,::lon; true; ";")][timeout:900];area["ISO3166-1"="ES"]->.searchArea;nwr(area.searchArea)["ref:ine"];out center;'
 wget -O "ES.csv" --post-data="${query}" "https://overpass-api.de/api/interpreter"
 
-DATE=$(ls -Art ENTIDADES*csv | tail -n 1 | cut -d'.' -f2) node find_missing_ref_ine.js ENTIDADES.csv ES.csv
+DATE=$(ls -Art ENTIDADES.*.csv | tail -n 1 | cut -d'.' -f2) node find_missing_ref_ine.js ENTIDADES.csv ES.csv
