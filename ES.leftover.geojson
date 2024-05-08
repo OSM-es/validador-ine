@@ -2390,70 +2390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5600796,
-          43.2211989
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041051301",
-        "name": "San Pantaión",
-        "type": "node",
-        "id": "6163667774"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5478959,
-          43.2307559
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041110601",
-        "name": "O Igrexario",
-        "type": "node",
-        "id": "6163669394"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4783237,
-          43.2348029
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041104701",
-        "name": "Santa Baia",
-        "type": "node",
-        "id": "6164033889"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5076329,
-          43.2395392
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041041501",
-        "name": "San Paio",
-        "type": "node",
-        "id": "6164465404"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4973342,
           43.251565
         ]
@@ -2463,22 +2399,6 @@
         "name": "Vilarmaior",
         "type": "node",
         "id": "6164465431"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6151603,
-          43.2457893
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041011901",
-        "name": "Xeriz",
-        "type": "node",
-        "id": "6164681579"
       }
     },
     {
