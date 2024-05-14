@@ -118,38 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8609097,
-          43.3027326
-        ]
-      },
-      "properties": {
-        "ref:ine": "20063000001",
-        "name": "Oiartzun",
-        "type": "node",
-        "id": "450877742"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.818861,
-          43.2185696
-        ]
-      },
-      "properties": {
-        "ref:ine": "48036000601",
-        "name": "Usansolo",
-        "type": "node",
-        "id": "571400072"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0771454,
           38.1861159
         ]
@@ -383,22 +351,6 @@
         "name": "O Fronzal",
         "type": "node",
         "id": "1241617807"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8126096,
-          43.2851837
-        ]
-      },
-      "properties": {
-        "ref:ine": "20063000299",
-        "name": "Arditurri",
-        "type": "node",
-        "id": "1242990392"
       }
     },
     {
@@ -2022,38 +1974,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.67987,
-          43.3505525
-        ]
-      },
-      "properties": {
-        "ref:ine": "48908000001",
-        "name": "Kanpantxua",
-        "type": "node",
-        "id": "3481010310"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7920422,
-          43.2822532
-        ]
-      },
-      "properties": {
-        "ref:ine": "48052000199",
-        "name": "Gaztelu",
-        "type": "node",
-        "id": "3481662403"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.003998,
           42.7604344
         ]
@@ -2959,86 +2879,6 @@
         "name": "La Llave",
         "type": "node",
         "id": "10271185294"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9395828,
-          43.4051167
-        ]
-      },
-      "properties": {
-        "ref:ine": "48043000101",
-        "name": "Agirre",
-        "type": "node",
-        "id": "10563501140"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9438662,
-          43.4080129
-        ]
-      },
-      "properties": {
-        "ref:ine": "48043000201",
-        "name": "Areantza",
-        "type": "node",
-        "id": "10563501142"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4114132,
-          43.2106967
-        ]
-      },
-      "properties": {
-        "ref:ine": "20032000701",
-        "name": "Azkue (San Roke)",
-        "type": "node",
-        "id": "10602146369"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8557131,
-          43.2893015
-        ]
-      },
-      "properties": {
-        "ref:ine": "20063000101",
-        "name": "Altzibar poligonoa",
-        "type": "node",
-        "id": "10607867857"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7016261,
-          43.2207148
-        ]
-      },
-      "properties": {
-        "ref:ine": "31259000799",
-        "name": "Elutse",
-        "type": "node",
-        "id": "10974843648"
       }
     },
     {
