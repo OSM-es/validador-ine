@@ -22,38 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.5722075,
-          43.5373176
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076311201",
-        "name": "Quintueles",
-        "type": "node",
-        "id": "226904728"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.5434646,
-          43.53241
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076300401",
-        "name": "Quintes",
-        "type": "node",
-        "id": "227089802"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1086551,
           38.7784515
         ]
@@ -1919,54 +1887,6 @@
         "name": "Os Areeiros",
         "type": "node",
         "id": "2472474497"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2425104,
-          43.5762636
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021060301",
-        "name": "Vivíu",
-        "type": "node",
-        "id": "2767481681"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.241011,
-          43.5812025
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021060101",
-        "name": "Rieguabaxu",
-        "type": "node",
-        "id": "2974400728"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2351806,
-          43.5739743
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021060201",
-        "name": "Rieguarriba",
-        "type": "node",
-        "id": "2974400729"
       }
     },
     {
