@@ -2054,22 +2054,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1974772,
-          43.5005865
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054040799",
-        "name": "O Roibo",
-        "type": "node",
-        "id": "4984097285"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.1880168,
           43.4930756
         ]
