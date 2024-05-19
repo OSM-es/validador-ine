@@ -1670,22 +1670,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0268818,
-          43.582971
-        ]
-      },
-      "properties": {
-        "ref:ine": "15076010701",
-        "name": "As Loibas",
-        "type": "node",
-        "id": "1864688148"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.6083675,
           42.9745163
         ]
