@@ -2726,6 +2726,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.1810826,
+          43.458151
+        ]
+      },
+      "properties": {
+        "ref:ine": "015035010699",
+        "name": "Os Currás",
+        "type": "node",
+        "id": "11918458057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.7071825,
           37.7278424
         ]
