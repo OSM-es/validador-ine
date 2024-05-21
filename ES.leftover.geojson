@@ -2246,70 +2246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9371685,
-          43.5360328
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081044299",
-        "name": "Poelle",
-        "type": "node",
-        "id": "6294596146"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9298082,
-          43.5448705
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081044899",
-        "name": "Santo Estevo",
-        "type": "node",
-        "id": "6294596148"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9399932,
-          43.5262326
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081041999",
-        "name": "O Foxo",
-        "type": "node",
-        "id": "6295276038"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.959491,
-          43.520707
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081045699",
-        "name": "Vilachave",
-        "type": "node",
-        "id": "6295276047"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9655821,
           43.522299
         ]
@@ -2367,22 +2303,6 @@
         "name": "A Espiga",
         "type": "node",
         "id": "6295576957"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9612711,
-          43.4913484
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081021699",
-        "name": "A Lameira",
-        "type": "node",
-        "id": "6295577300"
       }
     },
     {
