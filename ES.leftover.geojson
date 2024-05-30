@@ -310,54 +310,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3114552,
-          41.7354947
-        ]
-      },
-      "properties": {
-        "ref:ine": "22099000701",
-        "name": "Egasa",
-        "type": "node",
-        "id": "1455833184"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9291444,
-          41.6075155
-        ]
-      },
-      "properties": {
-        "ref:ine": "50089000201",
-        "name": "Parador del Ciclista",
-        "type": "node",
-        "id": "1455833751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9284631,
-          41.5860585
-        ]
-      },
-      "properties": {
-        "ref:ine": "50089000301",
-        "name": "Urbanización Amelia",
-        "type": "node",
-        "id": "1455834447"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.28288,
           41.6173948
         ]
@@ -1823,22 +1775,6 @@
         "name": "Montgarri",
         "type": "node",
         "id": "3686236844"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.522081,
-          42.4360911
-        ]
-      },
-      "properties": {
-        "ref:ine": "22072000901",
-        "name": "Sieso de Jaca",
-        "type": "node",
-        "id": "3809258546"
       }
     },
     {
