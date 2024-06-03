@@ -21102,6 +21102,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.11582754,
+          41.77968565
+        ]
+      },
+      "properties": {
+        "ref:ine": "22903000301",
+        "name": "Santalecina",
+        "population": 236,
+        "ele": 228,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.775142,
           42.522788
         ]
