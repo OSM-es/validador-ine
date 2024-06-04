@@ -4068,23 +4068,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.78682213,
-          37.89341238
-        ]
-      },
-      "properties": {
-        "ref:ine": "14021002601",
-        "name": "Cortijo la Reina",
-        "population": 1,
-        "ele": 126,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.67728487,
           37.31069466
         ]
@@ -14128,23 +14111,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.76447773,
-          42.19259058
-        ]
-      },
-      "properties": {
-        "ref:ine": "17098001099",
-        "name": "Vila-Rodona",
-        "population": 5,
-        "ele": 145,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.673095926,
           41.77392583
         ]
@@ -21094,23 +21060,6 @@
         "name": "Anciles",
         "population": 164,
         "ele": 1105,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.11582754,
-          41.77968565
-        ]
-      },
-      "properties": {
-        "ref:ine": "22903000301",
-        "name": "Santalecina",
-        "population": 236,
-        "ele": 228,
         "population:date": "2023"
       }
     },
@@ -112610,23 +112559,6 @@
         "name": "L'Azoreira",
         "population": 10,
         "ele": 410,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.67581099,
-          27.75619649
-        ]
-      },
-      "properties": {
-        "ref:ine": "35019005599",
-        "name": "El Moral",
-        "population": 0,
-        "ele": 8,
         "population:date": "2023"
       }
     },
