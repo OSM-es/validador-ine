@@ -43804,23 +43804,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.707459,
-          36.6147
-        ]
-      },
-      "properties": {
-        "ref:ine": "29008000111",
-        "name": "Alhaurín Golf",
-        "population": 288,
-        "ele": 309,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.21982071,
           36.80159805
         ]
@@ -44238,74 +44221,6 @@
         "name": "La Sierra",
         "population": 15,
         "ele": 790,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.0373846,
-          36.5169344
-        ]
-      },
-      "properties": {
-        "ref:ine": "29023000101",
-        "name": "Artola",
-        "population": 3413,
-        "ele": 182,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.077679157,
-          36.50811843
-        ]
-      },
-      "properties": {
-        "ref:ine": "29023000202",
-        "name": "Montemayor",
-        "population": 63,
-        "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.035215286,
-          36.48152019
-        ]
-      },
-      "properties": {
-        "ref:ine": "29023000302",
-        "name": "La Alquería-El Paraíso",
-        "population": 1984,
-        "ele": 56,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.0722,
-          36.483831
-        ]
-      },
-      "properties": {
-        "ref:ine": "29023000303",
-        "name": "Parque Botánico las Lomas del Guadalmina",
-        "population": 115,
-        "ele": 99,
         "population:date": "2023"
       }
     },
@@ -44788,74 +44703,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.73916532,
-          36.63232643
-        ]
-      },
-      "properties": {
-        "ref:ine": "29042000102",
-        "name": "Las Delicias",
-        "population": 684,
-        "ele": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.72145246,
-          36.65556864
-        ]
-      },
-      "properties": {
-        "ref:ine": "29042000103",
-        "name": "Miralmonte",
-        "population": 125,
-        "ele": 153,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.75244064,
-          36.65061011
-        ]
-      },
-      "properties": {
-        "ref:ine": "29042000104",
-        "name": "Miravalle Los Montecillos",
-        "population": 1468,
-        "ele": 296,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.74281258,
-          36.67013078
-        ]
-      },
-      "properties": {
-        "ref:ine": "29042000105",
-        "name": "El Rodeo",
-        "population": 2296,
-        "ele": 144,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.24377799,
           36.8405975
         ]
@@ -45229,23 +45076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.9531631,
-          36.54351804
-        ]
-      },
-      "properties": {
-        "ref:ine": "29061000102",
-        "name": "Balcones del Lago",
-        "population": 160,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.28103146,
           36.6600756
         ]
@@ -45381,107 +45211,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.233135828,
-          36.35012371
-        ]
-      },
-      "properties": {
-        "ref:ine": "29068000501",
-        "name": "Castillo de la Duquesa",
-        "population": 3669,
-        "ele": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.75264699,
-          36.5014286
-        ]
-      },
-      "properties": {
-        "ref:ine": "29069000902",
-        "name": "Artola",
-        "population": 3753,
-        "ele": 125,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.79542522,
-          36.50214468
-        ]
-      },
-      "properties": {
-        "ref:ine": "29069000905",
-        "name": "Rícmar",
-        "population": 1267,
-        "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.84601153,
-          36.50723175
-        ]
-      },
-      "properties": {
-        "ref:ine": "29069000906",
-        "name": "Río Real",
-        "population": 4440,
-        "ele": 37,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.7203898,
-          36.55786538
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070000699",
-        "name": "Entrerríos",
-        "population": 1555,
-        "ele": 93,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.63820802,
-          36.55667887
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070000701",
-        "name": "Campo-Mijas",
-        "population": 6353,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.6391063,
           36.57064717
         ]
@@ -45491,125 +45220,6 @@
         "name": "Doña Pilar",
         "population": 731,
         "ele": 102,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.66838226,
-          36.55491754
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070000704",
-        "name": "Mijas Golf",
-        "population": 4185,
-        "ele": 54,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.68071482,
-          36.50368933
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001601",
-        "name": "La Cala",
-        "population": 4826,
-        "ele": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.66235384,
-          36.5342696
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001602",
-        "name": "Cerros del Águila",
-        "population": 2733,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.66518249,
-          36.50989239
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001603",
-        "name": "Chaparral",
-        "population": 4712,
-        "ele": 36,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.626032,
-          36.56000938
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001801",
-        "name": "Haza del Algarrobo",
-        "population": 509,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.62694047,
-          36.56603635
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001802",
-        "name": "Las Lomas de Mijas",
-        "population": 184,
-        "ele": 63,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.63809368,
-          36.56714564
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001803",
-        "name": "Media Legua",
-        "population": 225,
-        "ele": 77,
         "population:date": "2023"
       }
     },
@@ -45652,40 +45262,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.65674975,
-          36.58572702
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001901",
-        "name": "Alquería",
-        "population": 320,
-        "ele": 245,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.67936095,
-          36.59757943
-        ]
-      },
-      "properties": {
-        "ref:ine": "29070001902",
-        "name": "Valtocado",
-        "population": 326,
-        "ele": 339,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.88783804,
           36.75886279
         ]
@@ -45711,40 +45287,6 @@
         "name": "Macaca",
         "population": 580,
         "ele": 24,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.753225037,
-          36.52970172
-        ]
-      },
-      "properties": {
-        "ref:ine": "29076000102",
-        "name": "La Mairena",
-        "population": 705,
-        "ele": 327,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.861842,
-          36.543961
-        ]
-      },
-      "properties": {
-        "ref:ine": "29076000103",
-        "name": "Palo Alto",
-        "population": 27,
-        "ele": 321,
         "population:date": "2023"
       }
     },
@@ -135556,23 +135098,6 @@
         "name": "Chaín",
         "population": 163,
         "ele": 316,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.64628535,
-          42.71510587
-        ]
-      },
-      "properties": {
-        "ref:ine": "36044010499",
-        "name": "O Couto",
-        "population": 38,
-        "ele": 46,
         "population:date": "2023"
       }
     },
