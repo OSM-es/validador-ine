@@ -2054,38 +2054,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7101989,
-          37.4153707
-        ]
-      },
-      "properties": {
-        "ref:ine": "41024000116",
-        "name": "La Llave",
-        "type": "node",
-        "id": "10271185294"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7248261,
-          37.4334249
-        ]
-      },
-      "properties": {
-        "ref:ine": "41024000132",
-        "name": "Las Tres Rosas",
-        "type": "node",
-        "id": "11096641908"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.0955254,
           42.8595233
         ]

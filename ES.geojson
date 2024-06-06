@@ -4034,23 +4034,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.951311,
-          37.62786339
-        ]
-      },
-      "properties": {
-        "ref:ine": "14017000199",
-        "name": "Los Algarbes",
-        "population": 383,
-        "ele": 217,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.49071879,
           37.59697085
         ]
@@ -4093,23 +4076,6 @@
         "name": "Huertas Llanos",
         "population": 178,
         "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.93557758,
-          37.52127443
-        ]
-      },
-      "properties": {
-        "ref:ine": "14060000599",
-        "name": "Huertas Bocas del Salado",
-        "population": 32,
-        "ele": 129,
         "population:date": "2023"
       }
     },
