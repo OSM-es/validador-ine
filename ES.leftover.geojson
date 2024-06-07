@@ -22,22 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6167364,
-          36.8340484
-        ]
-      },
-      "properties": {
-        "ref:ine": "04102000603",
-        "name": "La Envía",
-        "type": "node",
-        "id": "330078682"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2474754,
           39.2268651
         ]
@@ -271,22 +255,6 @@
         "name": "Las Nogueras",
         "type": "node",
         "id": "1156378399"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2955029,
-          37.6201394
-        ]
-      },
-      "properties": {
-        "ref:ine": "23017000399",
-        "name": "Estación de Huelma",
-        "type": "node",
-        "id": "1202925448"
       }
     },
     {
@@ -1599,22 +1567,6 @@
         "name": "A Costa",
         "type": "node",
         "id": "1929829279"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0949257,
-          37.3479315
-        ]
-      },
-      "properties": {
-        "ref:ine": "04017001001",
-        "name": "Los Castos",
-        "type": "node",
-        "id": "1962256297"
       }
     },
     {

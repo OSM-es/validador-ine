@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.16958776,
-          36.8680786
-        ]
-      },
-      "properties": {
-        "ref:ine": "11034000299",
-        "name": "Casas Nuevas",
-        "population": 58,
-        "ele": 581,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.20667,
           40.248
         ]
@@ -4009,40 +3992,6 @@
         "name": "Mas del Pi",
         "population": 6,
         "ele": 286,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.25961119,
-          37.70601517
-        ]
-      },
-      "properties": {
-        "ref:ine": "14007000999",
-        "name": "La Sierra",
-        "population": 267,
-        "ele": 357,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.49071879,
-          37.59697085
-        ]
-      },
-      "properties": {
-        "ref:ine": "14019000299",
-        "name": "Carchena",
-        "population": 0,
-        "ele": 391,
         "population:date": "2023"
       }
     },
@@ -44076,74 +44025,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.52970723,
-          37.17872318
-        ]
-      },
-      "properties": {
-        "ref:ine": "29015000402",
-        "name": "Cañadas de Pareja",
-        "population": 89,
-        "ele": 488,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.57885449,
-          37.07199315
-        ]
-      },
-      "properties": {
-        "ref:ine": "29015000801",
-        "name": "Llanos de Antequera",
-        "population": 133,
-        "ele": 421,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.43982137,
-          37.0785381
-        ]
-      },
-      "properties": {
-        "ref:ine": "29017000401",
-        "name": "Huertas del Río",
-        "population": 89,
-        "ele": 497,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.8066614,
-          36.93414096
-        ]
-      },
-      "properties": {
-        "ref:ine": "29018000102",
-        "name": "Pantano del Chorro",
-        "population": 19,
-        "ele": 390,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.09100689,
           36.82878332
         ]
@@ -44153,91 +44034,6 @@
         "name": "Los Vados",
         "population": 45,
         "ele": 334,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.24027824,
-          36.60097552
-        ]
-      },
-      "properties": {
-        "ref:ine": "29022000299",
-        "name": "Genal",
-        "population": 21,
-        "ele": 432,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.28996496,
-          36.60661079
-        ]
-      },
-      "properties": {
-        "ref:ine": "29022000399",
-        "name": "La Sierra",
-        "population": 15,
-        "ele": 790,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.33537039,
-          36.57270688
-        ]
-      },
-      "properties": {
-        "ref:ine": "29024000299",
-        "name": "Opayar",
-        "population": 0,
-        "ele": 448,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.29662738,
-          36.59263888
-        ]
-      },
-      "properties": {
-        "ref:ine": "29024000399",
-        "name": "Sierra",
-        "population": 40,
-        "ele": 711,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.3300292,
-          36.60060686
-        ]
-      },
-      "properties": {
-        "ref:ine": "29024000499",
-        "name": "Vega",
-        "population": 110,
-        "ele": 356,
         "population:date": "2023"
       }
     },
@@ -44958,39 +44754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.33072279,
-          36.59541996
-        ]
-      },
-      "properties": {
-        "ref:ine": "29046000101",
-        "name": "Cañada del Real Tesoro",
-        "population": 375,
-        "ele": 349,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45350871,
-          37.24250399
-        ]
-      },
-      "properties": {
-        "ref:ine": "29049000101",
-        "name": "Aldea del Pilar",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.22086947,
           36.87680116
         ]
@@ -45017,39 +44780,6 @@
         "name": "La Molineta",
         "population": 21,
         "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.73763379,
-          37.13394794
-        ]
-      },
-      "properties": {
-        "ref:ine": "29055000102",
-        "name": "Barriada de la Realenga",
-        "population": 174,
-        "ele": 418,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.28103146,
-          36.6600756
-        ]
-      },
-      "properties": {
-        "ref:ine": "29063000201",
-        "name": "Barriada de la Estación",
-        "population": 49,
         "population:date": "2023"
       }
     },
@@ -45448,23 +45178,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.24063791,
-          36.80658191
-        ]
-      },
-      "properties": {
-        "ref:ine": "29084001306",
-        "name": "Puerto del Saúco",
-        "population": 12,
-        "ele": 839,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.07406905,
           36.83560806
         ]
@@ -45474,40 +45187,6 @@
         "name": "Valverdes",
         "population": 194,
         "ele": 346,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.84250645,
-          37.15534733
-        ]
-      },
-      "properties": {
-        "ref:ine": "29088000101",
-        "name": "Navahermosa",
-        "population": 225,
-        "ele": 424,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.89733645,
-          36.9790013
-        ]
-      },
-      "properties": {
-        "ref:ine": "29089000101",
-        "name": "Huerta de la Cueva",
-        "population": 12,
-        "ele": 428,
         "population:date": "2023"
       }
     },
@@ -45780,40 +45459,6 @@
         "name": "Zorrilla",
         "population": 34,
         "ele": 87,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.41270775,
-          37.1747669
-        ]
-      },
-      "properties": {
-        "ref:ine": "29095000199",
-        "name": "El Albaicín",
-        "population": 34,
-        "ele": 673,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.39645895,
-          37.20993113
-        ]
-      },
-      "properties": {
-        "ref:ine": "29095000401",
-        "name": "Caña",
-        "population": 31,
-        "ele": 648,
         "population:date": "2023"
       }
     },
@@ -168308,23 +167953,6 @@
         "name": "Las Cabañuelas",
         "population": 6751,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.619991,
-          36.837121
-        ]
-      },
-      "properties": {
-        "ref:ine": "04102001101",
-        "name": "La Envía",
-        "population": 1271,
-        "ele": 315,
         "population:date": "2023"
       }
     },
