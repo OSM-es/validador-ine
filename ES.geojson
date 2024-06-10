@@ -4050,23 +4050,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.864411354,
-          37.71343867
-        ]
-      },
-      "properties": {
-        "ref:ine": "14065000499",
-        "name": "Aldea Quintana",
-        "population": 82,
-        "ele": 280,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.26802242,
           43.22730183
         ]
