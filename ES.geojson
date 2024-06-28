@@ -4000,23 +4000,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.54766544,
-          38.76461483
-        ]
-      },
-      "properties": {
-        "ref:ine": "13015000301",
-        "name": "Fontanosas",
-        "population": 71,
-        "ele": 571,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.26802242,
           43.22730183
         ]
