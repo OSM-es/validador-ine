@@ -44148,23 +44148,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.20718883,
-          38.02010626
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015000501",
-        "name": "El Hornico",
-        "population": 4,
-        "ele": 1206,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.857059598,
           38.08840229
         ]
@@ -44174,124 +44157,6 @@
         "name": "Casablanca",
         "population": 207,
         "ele": 625,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.91117685,
-          38.02945368
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015000901",
-        "name": "Los Prados",
-        "population": 95,
-        "ele": 769,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.01743496,
-          38.06734165
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001302",
-        "name": "Casicas",
-        "population": 52,
-        "ele": 907,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.01312203,
-          38.06930634
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001303",
-        "name": "Noguericas",
-        "population": 44,
-        "ele": 908,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.95850605,
-          38.0425001
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001402",
-        "name": "Cabezuela",
-        "population": 27,
-        "ele": 830,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.978881915,
-          38.04992694
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001403",
-        "name": "Vereda",
-        "population": 5,
-        "ele": 837,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.88839418,
-          38.02832124
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001601",
-        "name": "Arrabal",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.13380265,
-          37.95374846
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015001801",
-        "name": "La Junquera",
-        "population": 1,
-        "ele": 1064,
         "population:date": "2023"
       }
     },
@@ -45486,15 +45351,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.79303214,
-          37.90573906
+          -1.79110258,
+          37.90617891
         ]
       },
       "properties": {
-        "ref:ine": "30024030102",
-        "name": "El Pardo",
-        "population": 31,
-        "ele": 777,
+        "ref:ine": "30024030499",
+        "name": "La Canaleja y El Pardo",
+        "population": 0,
+        "ele": 781,
         "population:date": "2023"
       }
     },
@@ -45554,23 +45419,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.95181978,
-          37.7086452
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024110199",
-        "name": "Fontanares",
-        "population": 47,
-        "ele": 653,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.63286941,
           37.69614994
         ]
@@ -45622,23 +45470,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.94781405,
-          37.65328864
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024140199",
-        "name": "El Águila",
-        "population": 6,
-        "ele": 854,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.64914633,
           37.66610889
         ]
@@ -45682,23 +45513,6 @@
         "name": "Urbanización Infanta Leonor",
         "population": 68,
         "ele": 296,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.92251993,
-          37.59380012
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024180599",
-        "name": "Nogalte",
-        "population": 24,
-        "ele": 803,
         "population:date": "2023"
       }
     },
@@ -46064,23 +45878,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.88827239,
-          37.86358677
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024340401",
-        "name": "El Rincón y el Mingrano",
-        "population": 30,
-        "ele": 748,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.69669936,
           37.83673975
         ]
@@ -46090,23 +45887,6 @@
         "name": "Casas Nuevas",
         "population": 0,
         "ele": 679,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.92843017,
-          37.62557063
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024360399",
-        "name": "Zarzalico",
-        "population": 57,
-        "ele": 823,
         "population:date": "2023"
       }
     },
@@ -46386,23 +46166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.24062972,
-          38.03637026
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000802",
-        "name": "Los Odres",
-        "population": 20,
-        "ele": 1347,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.868853269,
           38.30737802
         ]
@@ -46454,23 +46217,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.225885952,
-          38.12746198
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028001299",
-        "name": "Rogativa",
-        "population": 5,
-        "ele": 844,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.693612724,
           38.33453325
         ]
@@ -46480,23 +46226,6 @@
         "name": "Salmerón",
         "population": 10,
         "ele": 614,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.17075418,
-          38.1793802
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028001401",
-        "name": "Calar de la Santa",
-        "population": 162,
-        "ele": 1242,
         "population:date": "2023"
       }
     },
@@ -47975,40 +47704,6 @@
         "name": "El Campillo",
         "population": 48,
         "ele": 256,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.753311753,
-          37.57099862
-        ]
-      },
-      "properties": {
-        "ref:ine": "30033010299",
-        "name": "Esparragal",
-        "population": 2365,
-        "ele": 357,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.84295219,
-          37.52534974
-        ]
-      },
-      "properties": {
-        "ref:ine": "30033020299",
-        "name": "Puerto Adentro",
-        "population": 90,
-        "ele": 573,
         "population:date": "2023"
       }
     },

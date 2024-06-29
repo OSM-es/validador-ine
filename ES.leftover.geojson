@@ -459,7 +459,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "30028110300",
+        "ref:ine": "30028110399",
         "name": "Casa Nueva",
         "type": "node",
         "id": "1613749231"
@@ -2022,6 +2022,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.8494966,
+          41.7569969
+        ]
+      },
+      "properties": {
+        "ref:ine": "1706",
+        "name": "Montalegre",
+        "type": "relation",
+        "id": "2383830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.7071825,
           37.7278424
         ]
@@ -2031,6 +2047,70 @@
         "name": "Isla Grossa",
         "type": "relation",
         "id": "3590776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6450527,
+          41.522914
+        ]
+      },
+      "properties": {
+        "ref:ine": "17",
+        "name": "Vila Real",
+        "type": "relation",
+        "id": "3967823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6186487,
+          41.835412
+        ]
+      },
+      "properties": {
+        "ref:ine": "170643",
+        "name": "Vilar de Perdizes e Meixide",
+        "type": "relation",
+        "id": "4022861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5350575,
+          41.4565379
+        ]
+      },
+      "properties": {
+        "ref:ine": "11",
+        "name": "Norte",
+        "type": "relation",
+        "id": "5396677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6450527,
+          41.6590929
+        ]
+      },
+      "properties": {
+        "ref:ine": "11B",
+        "name": "Alto Tâmega",
+        "type": "relation",
+        "id": "5396813"
       }
     },
     {
