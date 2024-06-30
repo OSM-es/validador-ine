@@ -44301,6 +44301,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.94597507,
+          37.60995864
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016040701",
+        "name": "El Porche",
+        "population": 57,
+        "ele": 37,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1653508,
           37.63068074
         ]
@@ -44335,6 +44352,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.03795641,
+          37.60582908
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016071201",
+        "name": "Tentegorra",
+        "population": 643,
+        "ele": 76,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.092243159,
           37.66083397
         ]
@@ -44344,6 +44378,23 @@
         "name": "Los Castillejos",
         "population": 8,
         "ele": 123,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.83834491,
+          37.69245697
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016100601",
+        "name": "Punta Brava",
+        "population": 226,
+        "ele": 4,
         "population:date": "2023"
       }
     },
@@ -44708,6 +44759,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.77759561,
+          37.62283826
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016190301",
+        "name": "Los Belones",
+        "population": 2379,
+        "ele": 34,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.69959952,
+          37.63170507
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016190401",
+        "name": "Cabo de Palos",
+        "population": 1042,
+        "ele": 4,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.75851901,
           37.60840977
         ]
@@ -44717,6 +44802,23 @@
         "name": "Cobaticas",
         "population": 47,
         "ele": 70,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.79185479,
+          37.6463565
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016191101",
+        "name": "Los Nietos Viejos",
+        "population": 203,
+        "ele": 8,
         "population:date": "2023"
       }
     },
@@ -149108,23 +149210,6 @@
         "name": "Sant Feliu",
         "population": 25,
         "ele": 215,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.248452902,
-          41.61809324
-        ]
-      },
-      "properties": {
-        "ref:ine": "08041001499",
-        "name": "Can Comas",
-        "population": 6,
-        "ele": 149,
         "population:date": "2023"
       }
     },
