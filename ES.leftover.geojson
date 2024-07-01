@@ -1366,6 +1366,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.122118,
+          37.605923
+        ]
+      },
+      "properties": {
+        "ref:ine": "300161507",
+        "name": "Peñas Blancas",
+        "type": "node",
+        "id": "1613752971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2642453,
           38.0887333
         ]
