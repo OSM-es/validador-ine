@@ -53,17 +53,19 @@ Promise.all([
         skipLines: 1,
         headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
         // parsear los tipos de datos del archivo
-        mapValues: ({ header, value }) => ["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)
-          ? ["lon", "lat", "ele", "population"].includes(header)
-            ? Number(value.replace(/,/, "."))
-            : ["flag1", "flag2"].includes(header)
-              ? value === "VERDADERO"
-                ? true
-                : value === "FALSO"
-                  ? false
-                  : undefined
-              : value
-          : undefined
+        mapValues: ({ header, value }) => {
+          // ignorar los headers (columnas) que no interesan
+          if (!["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)) return undefined
+          // aplicar parseo numérico para las columnas de tipo número
+          if (["lon", "lat", "ele", "population"].includes(header)) return Number(value.replace(/,/, "."))
+          // devolver el dato para cualquier columna que no sea un "flag"
+          if (!["flag1", "flag2"].includes(header)) return value
+          // aplicar parseo booleano para los "flags"
+          if (value === "VERDADERO") return true
+          if (value === "FALSO") return false
+          // ignorar resto cosas
+          return undefined
+        }
       }))
       // - eliminar previamente elementos que estén señalados con VERDADERO,
       //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
