@@ -28,15 +28,6 @@ const groupBy = (data, key) => {
   }, {})
 };
 
-const types = {
-  m: "Municipio",
-  e: "Entidad singular",
-  ec: "Entidad colectiva",
-  c: "Capital de municipio",
-  oe: "Otras entidades",
-  d: "Diseminado",
-}
-
 const filterFn = argv("filter") || false;
 
 // puesto que los argumentos son falsables, en función de cuántos NO sean nulos
@@ -50,11 +41,11 @@ Promise.all([
       .pipe(csv({
         separator: ";",
         skipLines: 1,
-        headers: ["ref:ine", "name", , , "type", "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
+        headers: ["ref:ine", "name", , , , "population", , , "lon", "lat", , "ele", , "flag1", "flag2"],
         // parsear los tipos de datos del archivo
         mapValues: ({ header, value }) => {
           // ignorar los headers (columnas) que no interesan
-          if (!["ref:ine", "name", "type", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)) return undefined
+          if (!["ref:ine", "name", , "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)) return undefined
           // aplicar parseo numérico para las columnas de tipo número
           if (["lon", "lat", "ele", "population"].includes(header)) return Number(value.replace(/,/, "."))
           // devolver el dato para cualquier columna que no sea un "flag"
@@ -118,12 +109,14 @@ Promise.all([
   // agrupación por entidad singular (las 9 primeras cifras del código)
   const entities = groupBy(fromINE, ({ "ref:ine": ine }) => ine.slice(0, 9))
 
-  // comprueba que, aparte de "entidad singular", no exista más que un tipo en su grupo
-  const isUniqueElement = entityGroup => entityGroup.length && entityGroup.filter(({ type }) => ![types.e].includes(type)).length === 1
+  // comprueba que, aparte de la entidad singular (acabada en 00), solo existe otro elemento en su grupo
+  const isUniqueElement = entityGroup => entityGroup.length === 2
 
-  const isValidCapital = ({ ine, type }) => [types.c].includes(type) ? !ine.endsWith("00") : true
-  const isValidType = ({ "ref:ine": ine, type, population }, entityGroup) => [types.m, types.c, types.oe].includes(type) && isValidCapital({ ine, type }) && (population !== 0 || isUniqueElement(entityGroup))
-  const isValidSparse = ({ type }, entityGroup) => [types.d].includes(type) && isUniqueElement(entityGroup)
+  // comprueba que el código acabe en 000000 (municipio), o bien, no acabe en 00 (entidad singular) ni en 99 (diseminado)
+  const isValidType = ({ "ref:ine": ine, population }, entityGroup) => (ine.endsWith("000000") || (!ine.endsWith("00") && !ine.endsWith("99"))) && (population !== 0 || isUniqueElement(entityGroup))
+  
+  // comprueba que el diseminado sea el único elemento del grupo
+  const isValidSparse = ({ "ref:ine": ine }, entityGroup) => ine.endsWith("99") && isUniqueElement(entityGroup)
 
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
