@@ -998,22 +998,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6881502,
-          37.6556257
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024300100",
-        "name": "La Granja",
-        "type": "node",
-        "id": "1613750894"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1351028,
           38.2145331
         ]
