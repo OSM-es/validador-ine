@@ -1798,38 +1798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5270587,
-          38.9878168
-        ]
-      },
-      "properties": {
-        "ref:ine": "07054000404",
-        "name": "Can Guasch",
-        "type": "node",
-        "id": "5169910274"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.5459149,
-          38.9906318
-        ]
-      },
-      "properties": {
-        "ref:ine": "07054000407",
-        "name": "Can Sansó",
-        "type": "node",
-        "id": "5169959769"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2132068,
           43.3763806
         ]
