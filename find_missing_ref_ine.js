@@ -45,7 +45,7 @@ Promise.all([
         // parsear los tipos de datos del archivo
         mapValues: ({ header, value }) => {
           // ignorar los headers (columnas) que no interesan
-          if (!["ref:ine", "name", , "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)) return undefined
+          if (!["ref:ine", "name", "population", "lon", "lat", "ele", "flag1", "flag2"].includes(header)) return undefined
           // aplicar parseo numérico para las columnas de tipo número
           if (["lon", "lat", "ele", "population"].includes(header)) return Number(value.replace(/,/, "."))
           // devolver el dato para cualquier columna que no sea un "flag"
