@@ -2048,6 +2048,22 @@
         "type": "relation",
         "id": "12684317"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.041518,
+          37.6986585
+        ]
+      },
+      "properties": {
+        "ref:ine": "3000161306",
+        "name": "Los Vidales",
+        "type": "relation",
+        "id": "17795875"
+      }
     }
   ]
 }
