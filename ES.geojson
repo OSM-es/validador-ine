@@ -45165,39 +45165,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.07459507,
-          37.71969703
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000801",
-        "name": "Los Conesas",
-        "population": 252,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.18381391,
-          37.83527199
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000802",
-        "name": "Los Garcías",
-        "population": 36,
-        "ele": 305,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.19703977,
           37.98155871
         ]
