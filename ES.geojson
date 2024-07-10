@@ -43961,23 +43961,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.64039129,
-          38.04653312
-        ]
-      },
-      "properties": {
-        "ref:ine": "30012000799",
-        "name": "El Prado",
-        "population": 88,
-        "ele": 581,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.65352397,
           38.25599933
         ]
@@ -44072,23 +44055,6 @@
         "name": "Urbanización Coto Riñales",
         "population": 80,
         "ele": 391,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.857059598,
-          38.08840229
-        ]
-      },
-      "properties": {
-        "ref:ine": "30015000601",
-        "name": "Casablanca",
-        "population": 207,
-        "ele": 625,
         "population:date": "2023"
       }
     },
@@ -44385,23 +44351,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.67933837,
-          37.74538404
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024000199",
-        "name": "Barranco Hondo",
-        "population": 26,
-        "ele": 515,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.79110258,
           37.90617891
         ]
@@ -44411,91 +44360,6 @@
         "name": "La Canaleja y El Pardo",
         "population": 0,
         "ele": 781,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.75731989,
-          37.68998333
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024210101",
-        "name": "El Consejero",
-        "population": 34,
-        "ele": 379,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.73406645,
-          37.76679468
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024310199",
-        "name": "Los Raspajos",
-        "population": 3,
-        "ele": 506,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7150748,
-          37.77976567
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024310399",
-        "name": "Torralba",
-        "population": 3,
-        "ele": 527,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.70465906,
-          37.79943435
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024310501",
-        "name": "Zúñiga",
-        "population": 68,
-        "ele": 565,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.69669936,
-          37.83673975
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024350299",
-        "name": "Casas Nuevas",
-        "population": 0,
-        "ele": 679,
         "population:date": "2023"
       }
     },
@@ -44673,125 +44537,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.84913006,
-          38.17024953
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000499",
-        "name": "Arenal",
-        "population": 29,
-        "ele": 600,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0034,
-          38.17651408
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000599",
-        "name": "Bejar",
-        "population": 32,
-        "ele": 1136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0442466,
-          38.28395235
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000602",
-        "name": "Casa Requena",
-        "population": 50,
-        "ele": 899,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.089659324,
-          38.17376477
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000701",
-        "name": "Fuente Ribera",
-        "population": 18,
-        "ele": 115163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.868853269,
-          38.30737802
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028000999",
-        "name": "Cobatillas",
-        "population": 13,
-        "ele": 603,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.903039,
-          38.203656
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028001099",
-        "name": "Huerta Alhárabe",
-        "population": 478,
-        "ele": 585,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.915206766,
-          38.23677848
-        ]
-      },
-      "properties": {
-        "ref:ine": "30028001199",
-        "name": "El Roble",
-        "population": 39,
-        "ele": 595,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.693612724,
           38.33453325
         ]
@@ -44818,57 +44563,6 @@
         "name": "Los Baños",
         "population": 40,
         "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.59502243,
-          37.92065683
-        ]
-      },
-      "properties": {
-        "ref:ine": "30029000502",
-        "name": "Las Casicas",
-        "population": 24,
-        "ele": 506,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.45133105,
-          37.93658884
-        ]
-      },
-      "properties": {
-        "ref:ine": "30029001399",
-        "name": "Retamosa",
-        "population": 16,
-        "ele": 384,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.65956675,
-          37.86970536
-        ]
-      },
-      "properties": {
-        "ref:ine": "30029001499",
-        "name": "Rincones",
-        "population": 1,
-        "ele": 683,
         "population:date": "2023"
       }
     },
@@ -45491,23 +45185,6 @@
         "name": "La Arboleja",
         "population": 1818,
         "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.33817094,
-          37.95966528
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030110299",
-        "name": "La Zarza",
-        "population": 2,
-        "ele": 232,
         "population:date": "2023"
       }
     },
