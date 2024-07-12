@@ -43519,125 +43519,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.99121684,
-          38.20206437
-        ]
-      },
-      "properties": {
-        "ref:ine": "30001001099",
-        "name": "Los Carrillos",
-        "population": 35,
-        "ele": 181,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.00658313,
-          38.23779458
-        ]
-      },
-      "properties": {
-        "ref:ine": "30001001899",
-        "name": "La Umbría",
-        "population": 4,
-        "ele": 328,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.12162384,
-          38.31852458
-        ]
-      },
-      "properties": {
-        "ref:ine": "30001001999",
-        "name": "La Zarza",
-        "population": 58,
-        "ele": 657,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.00560809,
-          38.18481897
-        ]
-      },
-      "properties": {
-        "ref:ine": "30001002399",
-        "name": "La Tierra Colorada",
-        "population": 5,
-        "ele": 131,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.25116664,
-          38.300668
-        ]
-      },
-      "properties": {
-        "ref:ine": "30002000399",
-        "name": "El Boquerón",
-        "population": 16,
-        "ele": 439,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.29736306,
-          38.29932938
-        ]
-      },
-      "properties": {
-        "ref:ine": "30002000499",
-        "name": "Casablanca",
-        "population": 15,
-        "ele": 356,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3305936,
-          38.24298014
-        ]
-      },
-      "properties": {
-        "ref:ine": "30002000602",
-        "name": "Venta de la Aurora",
-        "population": 134,
-        "ele": 254,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.38920972,
           38.03200325
         ]
@@ -43842,23 +43723,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.32698818,
-          38.22580669
-        ]
-      },
-      "properties": {
-        "ref:ine": "30011000401",
-        "name": "Estación Férrea",
-        "population": 1236,
-        "ele": 238,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.38556355,
           38.18527236
         ]
@@ -43978,57 +43842,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.12779184,
-          38.20492766
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020000202",
-        "name": "Las Kalendas",
-        "population": 388,
-        "ele": 242,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17528728,
-          38.19310497
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020000499",
-        "name": "Los Carrillos",
-        "population": 101,
-        "ele": 309,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1429397,
-          38.2958495
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020000501",
-        "name": "Las Casicas",
-        "population": 126,
-        "ele": 662,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0648872,
           38.14243154
         ]
@@ -44046,23 +43859,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.16071874,
-          38.20529526
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020001499",
-        "name": "Las Peñas",
-        "population": 520,
-        "ele": 303,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.106868409,
           38.12235701
         ]
@@ -44072,39 +43868,6 @@
         "name": "Los Periquitos",
         "population": 153,
         "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.11678481,
-          38.40284577
-        ]
-      },
-      "properties": {
-        "ref:ine": "30022000199",
-        "name": "La Alberquilla",
-        "population": 32,
-        "ele": 652,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14278318,
-          38.36467503
-        ]
-      },
-      "properties": {
-        "ref:ine": "30022001201",
-        "name": "Casas de Díaz",
-        "population": 8,
         "population:date": "2023"
       }
     },
@@ -45638,23 +45401,6 @@
         "name": "Cuesta Blanca",
         "population": 18,
         "ele": 163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2713859,
-          38.17766288
-        ]
-      },
-      "properties": {
-        "ref:ine": "30040000299",
-        "name": "La Estación",
-        "population": 6,
-        "ele": 201,
         "population:date": "2023"
       }
     },
