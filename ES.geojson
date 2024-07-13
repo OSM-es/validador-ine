@@ -20951,40 +20951,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.13316365,
-          43.05278402
-        ]
-      },
-      "properties": {
-        "ref:ine": "20037000199",
-        "name": "Gaintza",
-        "population": 124,
-        "ele": 444,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.01155121,
-          43.09411875
-        ]
-      },
-      "properties": {
-        "ref:ine": "20060000199",
-        "name": "Orexa",
-        "population": 108,
-        "ele": 417,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.51023994,
           42.59067386
         ]
@@ -43502,23 +43468,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.11074684,
-          38.21001609
-        ]
-      },
-      "properties": {
-        "ref:ine": "30001000499",
-        "name": "Los Baños",
-        "population": 51,
-        "ele": 227,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.38920972,
           38.03200325
         ]
@@ -43842,40 +43791,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0648872,
-          38.14243154
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020001102",
-        "name": "El Reloj",
-        "population": 245,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.106868409,
-          38.12235701
-        ]
-      },
-      "properties": {
-        "ref:ine": "30020001501",
-        "name": "Los Periquitos",
-        "population": 153,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.79110258,
           37.90617891
         ]
@@ -43885,40 +43800,6 @@
         "name": "La Canaleja y El Pardo",
         "population": 0,
         "ele": 781,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.23313727,
-          38.13152176
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027000201",
-        "name": "Estación de Archena",
-        "population": 77,
-        "ele": 150,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.207757,
-          38.105404
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027000801",
-        "name": "Finca de Maximino",
-        "population": 175,
-        "ele": 134,
         "population:date": "2023"
       }
     },
@@ -43969,74 +43850,6 @@
         "ref:ine": "30027001304",
         "name": "Mirador de Agridulce II",
         "population": 1580,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2193899,
-          38.14745395
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027001406",
-        "name": "Toscas-Chorrico",
-        "population": 707,
-        "ele": 202,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.153686054,
-          38.11450201
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027001407",
-        "name": "Casa del Cura",
-        "population": 154,
-        "ele": 180,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.212014,
-          38.087492
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027001409",
-        "name": "Romeral II",
-        "population": 272,
-        "ele": 144,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.183314,
-          38.087872
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027001412",
-        "name": "La Quinta-Tierra Cálida",
-        "population": 1057,
-        "ele": 155,
         "population:date": "2023"
       }
     },
@@ -44869,22 +44682,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.11287136,
-          38.06921041
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200205",
-        "name": "Villaminas",
-        "population": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.105945717,
           38.04654685
         ]
@@ -45452,40 +45249,6 @@
         "name": "Agua Amarga",
         "population": 9,
         "ele": 141,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.05616329,
-          38.11300036
-        ]
-      },
-      "properties": {
-        "ref:ine": "30901000201",
-        "name": "La Almazara",
-        "population": 427,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.05816011,
-          38.12072014
-        ]
-      },
-      "properties": {
-        "ref:ine": "30901000202",
-        "name": "Los Cletos",
-        "population": 69,
-        "ele": 126,
         "population:date": "2023"
       }
     },
