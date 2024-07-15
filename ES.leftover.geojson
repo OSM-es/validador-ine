@@ -694,6 +694,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.7371569,
+          37.6603884
+        ]
+      },
+      "properties": {
+        "ref:ine": "Q3394559",
+        "name": "Isla del Ciervo",
+        "type": "way",
+        "id": "4787114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.8622306,
           42.2346685
         ]
