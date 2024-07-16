@@ -43468,23 +43468,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.225735817,
-          37.97541977
-        ]
-      },
-      "properties": {
-        "ref:ine": "30005000299",
-        "name": "Cañada Hermosa",
-        "population": 615,
-        "ele": 79,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.9981,
           38.0399
         ]
@@ -43687,172 +43670,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.19703977,
-          37.98155871
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001001",
-        "name": "Molino de la Olma",
-        "population": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.19101773,
-          37.98161133
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001003",
-        "name": "Los Pujantes",
-        "population": 98,
-        "ele": 50,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17558,
-          37.97474
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001101",
-        "name": "Barrio de los Caseros",
-        "population": 123,
-        "ele": 50,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17849872,
-          37.97546584
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001102",
-        "name": "Barrio de los Seanos",
-        "population": 48,
-        "ele": 52,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.185346674,
-          37.97332195
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001103",
-        "name": "La Generala",
-        "population": 54,
-        "ele": 52,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17594788,
-          37.97576509
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001104",
-        "name": "Los Pujantes",
-        "population": 100,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17565247,
-          37.98222019
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001201",
-        "name": "La Barca",
-        "population": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17287727,
-          37.98577282
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001202",
-        "name": "El Jopo",
-        "population": 42,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.21589406,
-          37.8987924
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001302",
-        "name": "Torre Guil",
-        "population": 1231,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.22233857,
-          37.89753812
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001303",
-        "name": "Frondoso Valley",
-        "population": 395,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.120593505,
           38.01165993
         ]
@@ -43904,73 +43721,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.15250149,
-          37.95014613
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001701",
-        "name": "Barrio de la Victoria",
-        "population": 167,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1603884,
-          37.92277456
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001702",
-        "name": "Buenavista",
-        "population": 146,
-        "ele": 149,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.193376962,
-          37.93621481
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001703",
-        "name": "Las Casillas",
-        "population": 150,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.17762943,
-          37.92033663
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001705",
-        "name": "San José de la Montaña",
-        "population": 241,
-        "ele": 124,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.07694439,
           37.96457016
         ]
@@ -44004,108 +43754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.16216077,
-          37.98858872
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030010201",
-        "name": "Carretera de la Ñora",
-        "population": 76,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.15975846,
-          37.99631932
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030010202",
-        "name": "Carril de los Penchos",
-        "population": 291,
-        "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13226486,
-          37.93269504
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030020102",
-        "name": "San Antonio el Pobre",
-        "population": 118,
-        "ele": 105,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.11226934,
-          37.9359805
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030030301",
-        "name": "Los Teatinos",
-        "population": 108,
-        "ele": 215,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14343574,
-          37.96351211
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030040102",
-        "name": "Las Barracas",
-        "population": 144,
-        "ele": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14599179,
-          37.95692875
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030040103",
-        "name": "Torre Pollo",
-        "population": 80,
-        "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.13720024,
           37.97152414
         ]
@@ -44115,74 +43763,6 @@
         "name": "La Herrera",
         "population": 298,
         "ele": 43,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.15649827,
-          37.96461878
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030040499",
-        "name": "La Aparecida",
-        "population": 275,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.15702213,
-          37.96642935
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030040799",
-        "name": "Los Mateos",
-        "population": 98,
-        "ele": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.18003958,
-          37.98483852
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030050102",
-        "name": "La Barca",
-        "population": 889,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.15440776,
-          37.97990608
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030060599",
-        "name": "La Arboleja",
-        "population": 1818,
-        "ele": 45,
         "population:date": "2023"
       }
     },
@@ -44376,6 +43956,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.17761566,
+          37.9194199
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030210702",
+        "name": "San José de la Montaña",
+        "population": 1188,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.11087124,
           37.96389462
         ]
@@ -44385,23 +43981,6 @@
         "name": "Zambrana",
         "population": 531,
         "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.18407402,
-          37.99216442
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030230599",
-        "name": "Los Jerónimos",
-        "population": 8,
-        "ele": 60,
         "population:date": "2023"
       }
     },
@@ -44571,6 +44150,23 @@
         "name": "Casas Carril Parada-Ronda Sur",
         "population": 3370,
         "ele": 42,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.233610218,
+          37.91882432
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030430299",
+        "name": "Torre Guil",
+        "population": 363,
+        "ele": 95,
         "population:date": "2023"
       }
     },
