@@ -43586,90 +43586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.08096618,
-          38.01028015
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000503",
-        "name": "La Cruz",
-        "population": 233,
-        "ele": 34,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.10383506,
-          38.00815513
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000504",
-        "name": "La Gloria",
-        "population": 1229,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.09071166,
-          37.9828
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000601",
-        "name": "La Azacaya",
-        "population": 202,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.10015325,
-          37.98048376
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000602",
-        "name": "Carril de la Enera",
-        "population": 200,
-        "ele": 41,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.10013229,
-          37.97335513
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000604",
-        "name": "Rincón de los Ciegos",
-        "population": 75,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.120593505,
           38.01165993
         ]
@@ -43679,90 +43595,6 @@
         "name": "Puente de la Portada",
         "population": 82,
         "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.06424108,
-          37.96674071
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001602",
-        "name": "El Bojal",
-        "population": 1483,
-        "ele": 81,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.08521008,
-          37.98463902
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001603",
-        "name": "El Canute",
-        "population": 194,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07694439,
-          37.96457016
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001901",
-        "name": "Casas Nuevas",
-        "population": 1143,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07869798,
-          37.95957118
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001902",
-        "name": "San José de la Montaña",
-        "population": 290,
-        "ele": 66,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13720024,
-          37.97152414
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030040399",
-        "name": "La Herrera",
-        "population": 298,
-        "ele": 43,
         "population:date": "2023"
       }
     },
@@ -43956,73 +43788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.17761566,
-          37.9194199
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030210702",
-        "name": "San José de la Montaña",
-        "population": 1188,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.11087124,
-          37.96389462
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030211199",
-        "name": "Zambrana",
-        "population": 531,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.12939295,
-          37.97860964
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030250101",
-        "name": "Barrio del Carmen",
-        "population": 803,
-        "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.066029391,
-          38.0074814
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030280101",
-        "name": "Huerta de Llano de Brujas",
-        "population": 390,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.18620969,
           37.99061761
         ]
@@ -44032,57 +43797,6 @@
         "name": "Los Jerónimos",
         "population": 58,
         "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.11268811,
-          37.98986956
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030350501",
-        "name": "El Secano",
-        "population": 123,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.09418144,
-          37.99741925
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030350701",
-        "name": "Barrio de los Arocas",
-        "population": 323,
-        "ele": 37,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.097733,
-          37.99395321
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030350702",
-        "name": "Ermita de los Remedios",
-        "population": 1424,
-        "ele": 39,
         "population:date": "2023"
       }
     },
@@ -44141,23 +43855,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.136127367,
-          37.96880688
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030420602",
-        "name": "Casas Carril Parada-Ronda Sur",
-        "population": 3370,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.233610218,
           37.91882432
         ]
@@ -44201,23 +43898,6 @@
         "name": "Casas del Carril de la Iglesia",
         "population": 5464,
         "ele": 34,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.05302698,
-          37.98187531
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030490302",
-        "name": "Torreagüera",
-        "population": 4808,
-        "ele": 51,
         "population:date": "2023"
       }
     },
