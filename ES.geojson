@@ -43468,23 +43468,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9981,
-          38.0399
-        ]
-      },
-      "properties": {
-        "ref:ine": "30010000307",
-        "name": "La Huerta",
-        "population": 1002,
-        "ele": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.092243159,
           37.66083397
         ]
@@ -43494,6 +43477,23 @@
         "name": "Los Castillejos",
         "population": 8,
         "ele": 123,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13937715,
+          37.64390024
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016180199",
+        "name": "Los Álamos",
+        "population": 30,
+        "ele": 200,
         "population:date": "2023"
       }
     },
@@ -43553,141 +43553,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.082441712,
-          38.05517526
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030150301",
-        "name": "Barrio de la Aurora",
-        "population": 326,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.08195775,
-          38.05129025
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030150302",
-        "name": "Barrio de San Antonio",
-        "population": 794,
-        "ele": 41,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.06528611,
-          38.05687426
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030150402",
-        "name": "Las Peñicas",
-        "population": 162,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.08308173,
-          38.04752372
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200199",
-        "name": "Azarbe",
-        "population": 774,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.08055,
-          38.03816
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200201",
-        "name": "Esparragal",
-        "population": 1674,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.09943908,
-          38.05219619
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200203",
-        "name": "Montecantalar",
-        "population": 21,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.094,
-          38.0429
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200204",
-        "name": "Montepinar-Los Ángeles",
-        "population": 2600,
-        "ele": 72,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.105945717,
-          38.04654685
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030200206",
-        "name": "Villa de la Plata",
-        "population": 639,
-        "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.18620969,
           37.99061761
         ]
@@ -43721,23 +43586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.01204,
-          38.04071
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030370102",
-        "name": "El Secano",
-        "population": 342,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.233610218,
           37.91882432
         ]
@@ -43747,23 +43595,6 @@
         "name": "Torre Guil",
         "population": 363,
         "ele": 95,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.04031834,
-          38.0336969
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030450101",
-        "name": "San José Obrero",
-        "population": 186,
-        "ele": 33,
         "population:date": "2023"
       }
     },
