@@ -113,10 +113,10 @@ Promise.all([
   const isUniqueElement = entityGroup => entityGroup.length === 2
 
   // comprueba que el código acabe en 000000 (municipio), o bien, no acabe en 00 (entidad singular) ni en 99 (diseminado)
-  const isValidType = ({ "ref:ine": ine, population }, entityGroup) => (ine.endsWith("000000") || (!ine.endsWith("00") && !ine.endsWith("99"))) && (population !== 0 && isUniqueElement(entityGroup))
+  const isValidType = ({ "ref:ine": ine, population }, entityGroup) => (ine.endsWith("000000") || (!ine.endsWith("00") && !ine.endsWith("99"))) && (population !== 0 || isUniqueElement(entityGroup))
   
-  // comprueba que el diseminado sea el único elemento del grupo
-  const isValidSparse = ({ "ref:ine": ine }, entityGroup) => ine.endsWith("99") && isUniqueElement(entityGroup)
+  // comprueba que el diseminado sea el único elemento del grupo, y tiene algo de población
+  const isValidSparse = ({ "ref:ine": ine, population }, entityGroup) => ine.endsWith("99") && isUniqueElement(entityGroup) && population !== 0
 
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
