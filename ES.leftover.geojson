@@ -230,38 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28288,
-          41.6173948
-        ]
-      },
-      "properties": {
-        "ref:ine": "08041000001",
-        "name": "Canovelles",
-        "type": "node",
-        "id": "1460478422"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.9973628,
-          42.0388268
-        ]
-      },
-      "properties": {
-        "ref:ine": "17068000001",
-        "name": "Foixà",
-        "type": "node",
-        "id": "1460478646"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.3192393,
           43.3480596
         ]
@@ -687,22 +655,6 @@
         "name": "Busel",
         "type": "node",
         "id": "11823190655"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7371569,
-          37.6603884
-        ]
-      },
-      "properties": {
-        "ref:ine": "Q3394559",
-        "name": "Isla del Ciervo",
-        "type": "way",
-        "id": "4787114"
       }
     },
     {

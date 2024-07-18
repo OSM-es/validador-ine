@@ -43502,22 +43502,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.73653116,
-          37.66069857
-        ]
-      },
-      "properties": {
-        "ref:ine": "30016191499",
-        "name": "Isla del Ciervo",
-        "population": 0,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.79110258,
           37.90617891
         ]
@@ -43569,40 +43553,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.11983775,
-          38.00859248
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000501",
-        "name": "Camino Viejo de Casillas",
-        "population": 415,
-        "ele": 37,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.120593505,
-          38.01165993
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030001503",
-        "name": "Puente de la Portada",
-        "population": 82,
-        "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.082441712,
           38.05517526
         ]
@@ -43646,56 +43596,6 @@
         "name": "Las Peñicas",
         "population": 162,
         "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14161146,
-          38.00647852
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030170102",
-        "name": "Senda de Granada",
-        "population": 1154,
-        "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14422139,
-          38.01724373
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030170202",
-        "name": "Torre Alcayna",
-        "population": 36,
-        "ele": 58,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14184238,
-          38.03430138
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030170203",
-        "name": "Ladera-Glorieta",
-        "population": 1274,
         "population:date": "2023"
       }
     },
@@ -43821,23 +43721,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.12334271,
-          38.01273081
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030360302",
-        "name": "Senda de Granada",
-        "population": 2437,
-        "ele": 39,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.01204,
           38.04071
         ]
@@ -43881,23 +43764,6 @@
         "name": "San José Obrero",
         "population": 186,
         "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.11391744,
-          38.004947
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030460201",
-        "name": "Casas del Carril de la Iglesia",
-        "population": 5464,
-        "ele": 34,
         "population:date": "2023"
       }
     },
