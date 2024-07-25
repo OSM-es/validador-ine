@@ -53574,57 +53574,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.30643262,
-          43.1625369
-        ]
-      },
-      "properties": {
-        "ref:ine": "33015070501",
-        "name": "Sotu",
-        "population": 74,
-        "ele": 646,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40050845,
-          43.20650533
-        ]
-      },
-      "properties": {
-        "ref:ine": "33015080301",
-        "name": "Tañes",
-        "population": 92,
-        "ele": 513,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.21823761,
-          43.08500524
-        ]
-      },
-      "properties": {
-        "ref:ine": "33015090299",
-        "name": "El Puertu",
-        "population": 4,
-        "ele": 1488,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.95094204,
           43.52872341
         ]
@@ -79968,23 +79917,6 @@
         "name": "La Viesca",
         "population": 6,
         "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.4449518,
-          43.20358286
-        ]
-      },
-      "properties": {
-        "ref:ine": "33067010201",
-        "name": "Llaíñes/Ladines",
-        "population": 65,
-        "ele": 616,
         "population:date": "2023"
       }
     },
