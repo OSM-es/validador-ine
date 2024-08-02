@@ -230,22 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28288,
-          41.6173948
-        ]
-      },
-      "properties": {
-        "ref:ine": "08041000001",
-        "name": "Canovelles",
-        "type": "node",
-        "id": "1460478422"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.3192393,
           43.3480596
         ]
