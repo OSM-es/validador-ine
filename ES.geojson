@@ -25762,23 +25762,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.80962559,
-          43.0957557
-        ]
-      },
-      "properties": {
-        "ref:ine": "27020050699",
-        "name": "Taín",
-        "population": 18,
-        "ele": 525,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.70257574,
           43.04992678
         ]
@@ -37640,6 +37623,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.17020102,
+          37.7238703
+        ]
+      },
+      "properties": {
+        "ref:ine": "30021090201",
+        "name": "Fuente Álamo de Murcia",
+        "population": 9441,
+        "ele": 127,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.91714347,
           37.75955381
         ]
@@ -45417,40 +45417,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.03683727,
-          42.31170269
-        ]
-      },
-      "properties": {
-        "ref:ine": "32083160299",
-        "name": "Poboado de Prada",
-        "population": 4,
-        "ele": 876,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.97288535,
-          42.22320562
-        ]
-      },
-      "properties": {
-        "ref:ine": "32083260101",
-        "name": "Valdín",
-        "population": 35,
-        "ele": 1156,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.92825859,
           42.10836485
         ]
@@ -45460,39 +45426,6 @@
         "name": "A Pía",
         "population": 12,
         "ele": 698,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.15401395,
-          42.16722766
-        ]
-      },
-      "properties": {
-        "ref:ine": "32086060199",
-        "name": "Ardexarxe",
-        "population": 3,
-        "ele": 919,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.07610216,
-          42.22040883
-        ]
-      },
-      "properties": {
-        "ref:ine": "32086300101",
-        "name": "Tabazoa de Hedroso",
-        "population": 12,
         "population:date": "2023"
       }
     },
@@ -46411,23 +46344,6 @@
         "name": "O Palacio",
         "population": 10,
         "ele": 432,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.08035856,
-          42.40772471
-        ]
-      },
-      "properties": {
-        "ref:ine": "32088090101",
-        "name": "San Miguel do Outeiro",
-        "population": 45,
-        "ele": 331,
         "population:date": "2023"
       }
     },
