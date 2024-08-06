@@ -37640,6 +37640,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.189087629,
+          37.82980654
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030160499",
+        "name": "Las Casicas",
+        "population": 5,
+        "ele": 320,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18481073,
+          37.8349359
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030160599",
+        "name": "Los Garcías",
+        "population": 7,
+        "ele": 311,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.05241375,
+          37.88877395
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030220399",
+        "name": "El Caracolero",
+        "population": 55,
+        "ele": 231,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.97705926,
+          37.83180046
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030260299",
+        "name": "Balsicas de Arriba",
+        "population": 17,
+        "ele": 126,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.10176521,
           37.81563811
         ]
