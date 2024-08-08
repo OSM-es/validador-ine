@@ -25847,23 +25847,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.79494715,
-          42.951099
-        ]
-      },
-      "properties": {
-        "ref:ine": "27020190401",
-        "name": "O Pacio",
-        "population": 22,
-        "ele": 556,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.89160486,
           42.9786137
         ]
@@ -28665,40 +28648,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7746034,
-          42.85500676
-        ]
-      },
-      "properties": {
-        "ref:ine": "27032110699",
-        "name": "Os Lameiros de Abaixo",
-        "population": 2,
-        "ele": 645,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.79168389,
-          42.80688206
-        ]
-      },
-      "properties": {
-        "ref:ine": "27032190601",
-        "name": "A Vacaloura",
-        "population": 17,
-        "ele": 601,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.72248787,
           43.53656067
         ]
@@ -29418,141 +29367,6 @@
         "name": "San Marcos",
         "population": 5,
         "ele": 395,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.81753195,
-          42.94693478
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040160699",
-        "name": "A Ponte Ferreira",
-        "population": 4,
-        "ele": 526,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.842285221,
-          42.89068607
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040180299",
-        "name": "O Coto",
-        "population": 1,
-        "ele": 651,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.84170238,
-          42.87452396
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040200399",
-        "name": "As Lamelas",
-        "population": 2,
-        "ele": 632,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.92820029,
-          42.87686684
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040230699",
-        "name": "Fonte de Mouros",
-        "population": 1,
-        "ele": 484,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.941434513,
-          42.87920602
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040231399",
-        "name": "Barreira",
-        "population": 5,
-        "ele": 455,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.91409099,
-          42.82089225
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040310699",
-        "name": "A Ponte Mercé",
-        "population": 2,
-        "ele": 474,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.867546678,
-          42.92322061
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040410599",
-        "name": "Perrá",
-        "population": 12,
-        "ele": 555,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.80960705,
-          42.89071067
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040420699",
-        "name": "A Devesa",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -90537,23 +90351,6 @@
         "name": "Grobas-Fenteira",
         "population": 38,
         "ele": 212,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.87960303,
-          42.71422
-        ]
-      },
-      "properties": {
-        "ref:ine": "36047181099",
-        "name": "As Antas",
-        "population": 3,
-        "ele": 812,
         "population:date": "2023"
       }
     },
