@@ -32991,40 +32991,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.69944686,
-          42.70447141
-        ]
-      },
-      "properties": {
-        "ref:ine": "27060051001",
-        "name": "Quintá",
-        "population": 11,
-        "ele": 463,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.74901162,
-          42.67265761
-        ]
-      },
-      "properties": {
-        "ref:ine": "27060210901",
-        "name": "Sobrecedo de Arriba",
-        "population": 30,
-        "ele": 507,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.11027792,
           43.46160074
         ]
@@ -114783,23 +114749,6 @@
         "name": "Fogars de la Selva",
         "population": 1632,
         "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.63802887,
-          41.43142411
-        ]
-      },
-      "properties": {
-        "ref:ine": "08085000101",
-        "name": "l'Alzinar",
-        "population": 30,
-        "ele": 397,
         "population:date": "2023"
       }
     },
