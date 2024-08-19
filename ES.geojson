@@ -113068,23 +113068,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99267751,
-          41.48416504
-        ]
-      },
-      "properties": {
-        "ref:ine": "08054000501",
-        "name": "Comte de Sert",
-        "population": 1313,
-        "ele": 114,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.99607455,
           41.45807342
         ]
@@ -113094,23 +113077,6 @@
         "name": "Santa Rita",
         "population": 74,
         "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.98334953,
-          41.46786977
-        ]
-      },
-      "properties": {
-        "ref:ine": "08054000801",
-        "name": "Santa Teresita",
-        "population": 258,
-        "ele": 93,
         "population:date": "2023"
       }
     },

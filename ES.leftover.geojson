@@ -470,22 +470,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.003998,
-          42.7604344
-        ]
-      },
-      "properties": {
-        "ref:ine": "25025000999",
-        "name": "Montgarri",
-        "type": "node",
-        "id": "3686236844"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2132068,
           43.3763806
         ]
