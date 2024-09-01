@@ -96686,23 +96686,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.15389344,
-          40.06079473
-        ]
-      },
-      "properties": {
-        "ref:ine": "45066000102",
-        "name": "Urbanización las Fuentes",
-        "population": 150,
-        "ele": 563,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.221395359,
           38.8986124
         ]
