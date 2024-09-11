@@ -102921,6 +102921,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.46046393,
+          38.65264761
+        ]
+      },
+      "properties": {
+        "ref:ine": "03009000104",
+        "name": "Urbanització L'Estepar",
+        "population": 122,
+        "ele": 795,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.54060807,
           38.66539847
         ]
