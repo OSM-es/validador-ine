@@ -39240,23 +39240,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.072247586,
-          42.32612244
-        ]
-      },
-      "properties": {
-        "ref:ine": "32025060401",
-        "name": "Xubín",
-        "population": 36,
-        "ele": 124,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.85060129,
           42.42370292
         ]
