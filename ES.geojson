@@ -64573,23 +64573,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.73982104,
-          43.07454733
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033140499",
-        "name": "Santandrés",
-        "population": 1,
-        "ele": 743,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.819578171,
           43.17273632
         ]
