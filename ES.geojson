@@ -4164,6 +4164,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.210992813,
+          43.37980315
+        ]
+      },
+      "properties": {
+        "ref:ine": "15048071001",
+        "name": "A Herbosa",
+        "population": 39,
+        "ele": 25,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.98622795,
           43.56214215
         ]
