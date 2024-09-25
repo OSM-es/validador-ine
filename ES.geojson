@@ -37083,6 +37083,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.15975846,
+          37.99631932
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030010202",
+        "name": "Carril de los Penchos",
+        "population": 291,
+        "ele": 44,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13409276,
+          37.95038724
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030020399",
+        "name": "Huerta de la Alberca",
+        "population": 443,
+        "ele": 49,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11082307,
+          37.94268909
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030030101",
+        "name": "Algezares",
+        "population": 4142,
+        "ele": 65,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.189087629,
           37.82980654
         ]
@@ -37160,6 +37211,23 @@
         "name": "Lo Jurado",
         "population": 26,
         "ele": 187,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08555869,
+          37.78117532
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030500499",
+        "name": "Los Bastidas",
+        "population": 18,
+        "ele": 138,
         "population:date": "2023"
       }
     },

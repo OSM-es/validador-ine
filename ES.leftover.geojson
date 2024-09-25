@@ -704,6 +704,22 @@
         "type": "relation",
         "id": "12684317"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1411771,
+          37.9278833
+        ]
+      },
+      "properties": {
+        "ref:ine": "3003020100",
+        "name": "Alberca de las Torres",
+        "type": "relation",
+        "id": "18085371"
+      }
     }
   ]
 }
