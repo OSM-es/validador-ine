@@ -662,7 +662,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1774628,
+          -1.1771459,
           37.5632875
         ]
       },
@@ -719,6 +719,38 @@
         "name": "Alberca de las Torres",
         "type": "relation",
         "id": "18085371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2135145,
+          37.9506334
+        ]
+      },
+      "properties": {
+        "ref:ine": "3003430400",
+        "name": "La Voz Negra",
+        "type": "relation",
+        "id": "18089485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2823609,
+          37.9289848
+        ]
+      },
+      "properties": {
+        "ref:ine": "3003430600",
+        "name": "Ermita de Belen",
+        "type": "relation",
+        "id": "18089608"
       }
     }
   ]

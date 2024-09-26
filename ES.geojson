@@ -37202,6 +37202,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.233610218,
+          37.91882432
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030430299",
+        "name": "Torre Guil",
+        "population": 363,
+        "ele": 95,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26485179,
+          37.92843479
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030430799",
+        "name": "El Puntarrón",
+        "population": 843,
+        "ele": 92,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1245285,
+          37.94608966
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030470199",
+        "name": "Huerta de Santo Ángel",
+        "population": 599,
+        "ele": 44,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12422968,
+          37.93323404
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030470499",
+        "name": "Campo Eremitorio de la Luz",
+        "population": 7,
+        "ele": 156,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.10176521,
           37.81563811
         ]
