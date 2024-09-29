@@ -37168,6 +37168,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.0991522,
+          37.95045842
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030210899",
+        "name": "Los Lages",
+        "population": 35,
+        "ele": 50,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11087124,
+          37.96389462
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030211199",
+        "name": "Zambrana",
+        "population": 531,
+        "ele": 42,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.05241375,
           37.88877395
         ]
@@ -37194,6 +37228,23 @@
         "name": "Balsicas de Arriba",
         "population": 17,
         "ele": 126,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.04249716,
+          37.99251432
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030380199",
+        "name": "Huerta y Campo de los Ramos",
+        "population": 432,
+        "ele": 37,
         "population:date": "2023"
       }
     },

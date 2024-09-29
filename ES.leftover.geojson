@@ -832,6 +832,22 @@
         "type": "relation",
         "id": "18089608"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0842059,
+          37.9534491
+        ]
+      },
+      "properties": {
+        "ref:ine": "3003210700",
+        "name": "Los Garres",
+        "type": "relation",
+        "id": "18099340"
+      }
     }
   ]
 }
