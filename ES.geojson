@@ -37134,6 +37134,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.03473315,
+          38.01546333
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030050299",
+        "name": "Huerta de Alquerías",
+        "population": 1601,
+        "ele": 32,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.189087629,
           37.82980654
         ]
@@ -37245,6 +37262,40 @@
         "name": "Huerta y Campo de los Ramos",
         "population": 432,
         "ele": 37,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16427548,
+          37.98141231
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030410199",
+        "name": "Huerta del Rincón de Seca",
+        "population": 1591,
+        "ele": 47,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11593236,
+          37.97073467
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030420999",
+        "name": "Huerta de San Benito",
+        "population": 1021,
+        "ele": 41,
         "population:date": "2023"
       }
     },
