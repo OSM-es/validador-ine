@@ -37185,6 +37185,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.17750415,
+          37.96674854
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030190199",
+        "name": "Casas de la Huerta de Era Alta",
+        "population": 500,
+        "ele": 53,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.0991522,
           37.95045842
         ]
