@@ -662,6 +662,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.9994078,
+          38.0399192
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000306",
+        "name": "Brazal Nuevo",
+        "type": "node",
+        "id": "12214258414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9893416,
+          38.0356126
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000305",
+        "name": "Brazal de Pollos",
+        "type": "node",
+        "id": "12214258415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0004745,
+          38.0307346
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000304",
+        "name": "Brazal de La Raja",
+        "type": "node",
+        "id": "12214258416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9942297,
+          38.0369503
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000303",
+        "name": "Brazal de La Cruz",
+        "type": "node",
+        "id": "12214258417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9999153,
+          38.0367871
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000302",
+        "name": "Brazal de Alamos",
+        "type": "node",
+        "id": "12214258418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9926867,
+          38.0439973
+        ]
+      },
+      "properties": {
+        "ref:ine": "30010000301",
+        "name": "Carretera de Zeneta",
+        "type": "node",
+        "id": "12214258419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1771459,
           37.5632875
         ]

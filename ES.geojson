@@ -37151,6 +37151,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.33817094,
+          37.95966528
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030110299",
+        "name": "La Zarza",
+        "population": 2,
+        "ele": 232,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.189087629,
           37.82980654
         ]
@@ -37381,6 +37398,23 @@
         "name": "Campo Eremitorio de la Luz",
         "population": 7,
         "ele": 156,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06062535,
+          37.99596907
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030490299",
+        "name": "Rincón del Gallego",
+        "population": 501,
+        "ele": 38,
         "population:date": "2023"
       }
     },
