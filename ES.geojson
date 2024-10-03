@@ -37151,6 +37151,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.12695292,
+          38.01633001
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030100299",
+        "name": "Huerta y Campo del Cabezo",
+        "population": 111,
+        "ele": 44,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.33817094,
           37.95966528
         ]
@@ -37219,6 +37236,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.08308173,
+          38.04752372
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030200199",
+        "name": "Azarbe",
+        "population": 774,
+        "ele": 42,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.0991522,
           37.95045842
         ]
@@ -37279,6 +37313,23 @@
         "name": "Balsicas de Arriba",
         "population": 17,
         "ele": 126,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09227583,
+          38.01820532
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030300499",
+        "name": "Huerta de Monteagudo",
+        "population": 1146,
+        "ele": 33,
         "population:date": "2023"
       }
     },
