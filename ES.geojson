@@ -37151,6 +37151,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.166881394,
+          37.98794519
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030060399",
+        "name": "Rincón de los Illanes",
+        "population": 186,
+        "ele": 46,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14349375,
+          37.98378959
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030060699",
+        "name": "Belchí",
+        "population": 159,
+        "ele": 45,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.12695292,
           38.01633001
         ]
@@ -37296,6 +37330,40 @@
         "name": "El Caracolero",
         "population": 55,
         "ele": 231,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17161451,
+          37.99306177
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030230299",
+        "name": "La Galapacha",
+        "population": 395,
+        "ele": 48,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18407402,
+          37.99216442
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030230599",
+        "name": "Los Jerónimos",
+        "population": 8,
+        "ele": 60,
         "population:date": "2023"
       }
     },
