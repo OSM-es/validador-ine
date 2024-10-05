@@ -37406,6 +37406,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.19239718,
+          37.98608349
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030320199",
+        "name": "Molino de los Casianos",
+        "population": 64,
+        "ele": 54,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18620969,
+          37.99061761
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030320399",
+        "name": "Los Jerónimos",
+        "population": 58,
+        "ele": 57,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.192990308,
+          37.99436252
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030320499",
+        "name": "Los Polvorines",
+        "population": 4,
+        "ele": 100,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.19365252,
+          37.9859676
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030320599",
+        "name": "Soto de la Hoya",
+        "population": 29,
+        "ele": 54,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09726019,
+          37.98845741
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030350399",
+        "name": "Rincón de los Garcías",
+        "population": 768,
+        "ele": 39,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09346055,
+          38.00326516
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030350999",
+        "name": "Torre de la Manresa",
+        "population": 336,
+        "ele": 34,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.04249716,
           37.99251432
         ]
