@@ -37134,6 +37134,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.13720024,
+          37.97152414
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040399",
+        "name": "La Herrera",
+        "population": 298,
+        "ele": 43,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15649827,
+          37.96461878
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040499",
+        "name": "La Aparecida",
+        "population": 275,
+        "ele": 47,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14853333,
+          37.96449366
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040599",
+        "name": "Torre Salinas",
+        "population": 752,
+        "ele": 45,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13724603,
+          37.9607107
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040699",
+        "name": "Los Alburquerques",
+        "population": 141,
+        "ele": 42,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15702213,
+          37.96642935
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040799",
+        "name": "Los Mateos",
+        "population": 98,
+        "ele": 46,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16696311,
+          37.9557705
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040899",
+        "name": "Los Maurillos",
+        "population": 178,
+        "ele": 52,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16092331,
+          37.96063273
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030040999",
+        "name": "Rincón del Merino",
+        "population": 275,
+        "ele": 49,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.03473315,
           38.01546333
         ]
