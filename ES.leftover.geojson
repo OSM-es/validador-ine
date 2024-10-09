@@ -230,6 +230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.4725634,
+          38.9181285
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000110",
+        "name": "Puig Manyà",
+        "type": "node",
+        "id": "1242623360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.3192393,
           43.3480596
         ]
@@ -470,6 +486,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.5459149,
+          38.9906318
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000407",
+        "name": "Can Sansó",
+        "type": "node",
+        "id": "5169959769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5367648,
+          38.9905279
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000414",
+        "name": "sa Rota d'en Pere Cardona",
+        "type": "node",
+        "id": "5169963798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.2132068,
           43.3763806
         ]
@@ -646,6 +694,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.468302,
+          38.923541
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000103",
+        "name": "Can Pep Simó",
+        "type": "node",
+        "id": "11042819612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.531816,
+          38.9619803
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000413",
+        "name": "Punta Blanca",
+        "type": "node",
+        "id": "11626330340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.0955254,
           42.8595233
         ]
@@ -655,6 +735,150 @@
         "name": "Busel",
         "type": "node",
         "id": "11823190655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4569803,
+          38.9360951
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000102",
+        "name": "Can Lluís de sa Rota",
+        "type": "node",
+        "id": "11909852516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5200561,
+          38.9631045
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000418",
+        "name": "Valverde",
+        "type": "node",
+        "id": "11910508258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5137422,
+          38.9552207
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000410",
+        "name": "Espárragos",
+        "type": "node",
+        "id": "11910508259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5138602,
+          38.9576068
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000408",
+        "name": "Ca na Polla",
+        "type": "node",
+        "id": "11910508260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5207432,
+          38.9712337
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000412",
+        "name": "Miramar",
+        "type": "node",
+        "id": "11917905730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6068041,
+          39.0307151
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000303",
+        "name": "Cala Boix",
+        "type": "node",
+        "id": "11923023381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.593495,
+          39.0265103
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000305",
+        "name": "Cala Mastella",
+        "type": "node",
+        "id": "11923040241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5921405,
+          39.0179542
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000307",
+        "name": "Club Cala Azul",
+        "type": "node",
+        "id": "11923040242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5814197,
+          39.0145198
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000310",
+        "name": "La Joya",
+        "type": "node",
+        "id": "11923040244"
       }
     },
     {
@@ -751,6 +975,102 @@
         "name": "Carretera de Zeneta",
         "type": "node",
         "id": "12214258419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5914876,
+          39.0473956
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000302",
+        "name": "Bungalow Park",
+        "type": "node",
+        "id": "12218687621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6063106,
+          39.0354008
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000311",
+        "name": "Pou des Lleo",
+        "type": "node",
+        "id": "12222533375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4591165,
+          38.928391
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000107",
+        "name": "Cana Ventura",
+        "type": "node",
+        "id": "12236170515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.523356,
+          38.9703043
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000401",
+        "name": "Buenavista",
+        "type": "node",
+        "id": "12236323031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5490809,
+          38.991777
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000403",
+        "name": "Sa Caleta",
+        "type": "node",
+        "id": "12236323033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6021687,
+          39.0284819
+        ]
+      },
+      "properties": {
+        "ref:ine": "07054000301",
+        "name": "Sa Barcarrompuda",
+        "type": "node",
+        "id": "12236323036"
       }
     },
     {
