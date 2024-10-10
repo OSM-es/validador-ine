@@ -4704,23 +4704,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.00342603,
-          42.56761701
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073021699",
-        "name": "A Soledá",
-        "population": 4,
-        "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.00640483,
           42.60529661
         ]
