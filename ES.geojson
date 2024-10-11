@@ -37083,6 +37083,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.20502476,
+          38.19156301
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027000999",
+        "name": "La Hurona",
+        "population": 26,
+        "ele": 325,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.15975846,
           37.99631932
         ]
