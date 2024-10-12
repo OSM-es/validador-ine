@@ -37083,6 +37083,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.22758729,
+          37.63584144
+        ]
+      },
+      "properties": {
+        "ref:ine": "30026001199",
+        "name": "Mingrano",
+        "population": 13,
+        "ele": 275,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.297269548,
+          37.61622086
+        ]
+      },
+      "properties": {
+        "ref:ine": "30026001499",
+        "name": "Los Rincones",
+        "population": 23,
+        "ele": 104,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.20809251,
+          38.13020514
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027000199",
+        "name": "Albarda",
+        "population": 137,
+        "ele": 174,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23701595,
+          38.13532889
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027000399",
+        "name": "Campotéjar Baja",
+        "population": 74,
+        "ele": 153,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2261,
+          38.1591
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027000599",
+        "name": "Comala",
+        "population": 132,
+        "ele": 225,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21875974,
+          38.15318478
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027000699",
+        "name": "La Espada",
+        "population": 148,
+        "ele": 210,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.20502476,
           38.19156301
         ]
