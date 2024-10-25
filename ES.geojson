@@ -3576,6 +3576,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.24408918,
+          43.23389555
+        ]
+      },
+      "properties": {
+        "ref:ine": "15001040601",
+        "name": "Cos",
+        "population": 91,
+        "ele": 76,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23633672,
+          43.24829489
+        ]
+      },
+      "properties": {
+        "ref:ine": "15001100901",
+        "name": "Limiñón",
+        "population": 247,
+        "ele": 99,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25224536,
+          43.22449082
+        ]
+      },
+      "properties": {
+        "ref:ine": "15001121101",
+        "name": "Meangos",
+        "population": 60,
+        "ele": 115,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.59874486,
           42.84280068
         ]
