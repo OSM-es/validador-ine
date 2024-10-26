@@ -90466,6 +90466,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.70079153,
+          42.51943847
+        ]
+      },
+      "properties": {
+        "ref:ine": "36028060501",
+        "name": "O Mosteiro",
+        "population": 317,
+        "ele": 50,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0,
           0
         ]
