@@ -25612,6 +25612,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.83221122,
+          43.3765297
+        ]
+      },
+      "properties": {
+        "ref:ine": "27021060699",
+        "name": "Os Miraces",
+        "population": 1,
+        "ele": 500,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.73325687,
           43.43651665
         ]
