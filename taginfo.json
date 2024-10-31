@@ -3,7 +3,7 @@
   "data_url": "https://raw.githubusercontent.com/OSM-es/validador-ine/main/taginfo.json",
   "project": {
     "name": "INE references validator",
-    "description": "Discover which places from the spanish National Statistics Institute (INE) are missign in OSM",
+    "description": "Discover which places from the spanish National Statistics Institute (INE) are missing in OSM",
     "project_url": "https://github.com/OSM-es/validador-ine",
     "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Instituto_Nacionalde_Estad%C3%ADstica_%28Spain%29_logo.svg/320px-Instituto_Nacionalde_Estad%C3%ADstica_%28Spain%29_logo.svg.png",
     "contact_name": "Hugoren Martinako",
