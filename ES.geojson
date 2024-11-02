@@ -36216,23 +36216,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.12422968,
-          37.93323404
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030470499",
-        "name": "Campo Eremitorio de la Luz",
-        "population": 7,
-        "ele": 156,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.85096617,
           42.17430133
         ]
