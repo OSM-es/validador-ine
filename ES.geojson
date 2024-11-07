@@ -102257,40 +102257,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.55985274,
-          38.43221315
-        ]
-      },
-      "properties": {
-        "ref:ine": "03014000502",
-        "name": "La Serreta",
-        "population": 180,
-        "ele": 209,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.55140452,
-          38.42628809
-        ]
-      },
-      "properties": {
-        "ref:ine": "03014000810",
-        "name": "Serreta de la Torre",
-        "population": 132,
-        "ele": 201,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.42552267,
           38.77311802
         ]
@@ -102968,22 +102934,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.38411081,
-          38.43602197
-        ]
-      },
-      "properties": {
-        "ref:ine": "03050000201",
-        "name": "L'Almadrava",
-        "population": 1647,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.6301621,
           38.56512666
         ]
@@ -103605,23 +103555,6 @@
         "name": "l'Orxa/Lorcha",
         "population": 548,
         "ele": 261,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.43192962,
-          38.41588891
-        ]
-      },
-      "properties": {
-        "ref:ine": "03090000117",
-        "name": "Les Penyetes",
-        "population": 141,
-        "ele": 51,
         "population:date": "2023"
       }
     },
