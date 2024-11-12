@@ -101833,57 +101833,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.52628393,
-          38.70991985
-        ]
-      },
-      "properties": {
-        "ref:ine": "03009000102",
-        "name": "Urbanització El Baradello-El Sergent",
-        "population": 749,
-        "ele": 826,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.46046393,
-          38.65264761
-        ]
-      },
-      "properties": {
-        "ref:ine": "03009000104",
-        "name": "Urbanització L'Estepar",
-        "population": 122,
-        "ele": 795,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.54060807,
-          38.66539847
-        ]
-      },
-      "properties": {
-        "ref:ine": "03009000105",
-        "name": "Font Roja",
-        "population": 1,
-        "ele": 1048,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.57536861,
           38.68662235
         ]
@@ -101893,23 +101842,6 @@
         "name": "Urbanització Montsol",
         "population": 150,
         "ele": 818,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.47083794,
-          38.71207618
-        ]
-      },
-      "properties": {
-        "ref:ine": "03009000107",
-        "name": "Sol i Camp",
-        "population": 252,
-        "ele": 585,
         "population:date": "2023"
       }
     },
@@ -103640,23 +103572,6 @@
         "name": "Urbanització El Tossal",
         "population": 542,
         "ele": 191,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.69270408,
-          38.6215383
-        ]
-      },
-      "properties": {
-        "ref:ine": "03096000102",
-        "name": "Polígono Industrial els Vasalos",
-        "population": 1,
-        "ele": 683,
         "population:date": "2023"
       }
     },
