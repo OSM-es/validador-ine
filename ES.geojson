@@ -345,23 +345,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.50865997,
-          39.8530899
-        ]
-      },
-      "properties": {
-        "ref:ine": "12012000299",
-        "name": "Convento",
-        "population": 19,
-        "ele": 391,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.517082,
           39.854222
         ]
@@ -101833,90 +101816,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.144742727,
-          38.73241632
-        ]
-      },
-      "properties": {
-        "ref:ine": "03042000102",
-        "name": "el Poble Nou de Benitatxell/Benitachell",
-        "population": 1876,
-        "ele": 159,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15726053,
-          38.73491777
-        ]
-      },
-      "properties": {
-        "ref:ine": "03042000103",
-        "name": "Urbanització Els Calistros i l'Assagador",
-        "population": 235,
-        "ele": 126,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.17177706,
-          38.72265689
-        ]
-      },
-      "properties": {
-        "ref:ine": "03042000104",
-        "name": "Urbanització El Cim del Sol",
-        "population": 1482,
-        "ele": 200,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.13287766,
-          38.74062845
-        ]
-      },
-      "properties": {
-        "ref:ine": "03042000105",
-        "name": "Urbanització Les Fonts",
-        "population": 341,
-        "ele": 109,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.122236,
-          38.741544
-        ]
-      },
-      "properties": {
-        "ref:ine": "03042000106",
-        "name": "el Racó de Nadal",
-        "population": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.01304277,
           38.87089963
         ]
@@ -102087,40 +101986,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.157597,
-          38.74441283
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000202",
-        "name": "Alborada",
-        "population": 34,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.1903255,
-          38.77166519
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000203",
-        "name": "l'Arenal",
-        "population": 3131,
-        "ele": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.18285629,
           38.78599039
         ]
@@ -102130,40 +101995,6 @@
         "name": "Bahía de Jávea",
         "population": 1135,
         "ele": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.22123348,
-          38.7373577
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000205",
-        "name": "Urbanització Balcó al Mar",
-        "population": 627,
-        "ele": 153,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15180321,
-          38.74344286
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000207",
-        "name": "Los Cerezos",
-        "population": 95,
-        "ele": 74,
         "population:date": "2023"
       }
     },
@@ -102189,40 +102020,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.21008611,
-          38.73709207
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000209",
-        "name": "Costa Nova",
-        "population": 822,
-        "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.13837512,
-          38.75562867
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000210",
-        "name": "Covatelles",
-        "population": 154,
-        "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.121906041,
           38.79308305
         ]
@@ -102232,74 +102029,6 @@
         "name": "Urbanització L'Ermita",
         "population": 365,
         "ele": 83,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.17698697,
-          38.75972147
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000213",
-        "name": "Urbanització La Finca",
-        "population": 453,
-        "ele": 53,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.13828506,
-          38.74521166
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000215",
-        "name": "Lluca",
-        "population": 115,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.14439823,
-          38.75173088
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000216",
-        "name": "La Mandarina",
-        "population": 51,
-        "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.22098452,
-          38.7526679
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000217",
-        "name": "Urbanització Mar Blau",
-        "population": 215,
-        "ele": 40,
         "population:date": "2023"
       }
     },
@@ -102325,23 +102054,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.19736134,
-          38.76832055
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000219",
-        "name": "Parque Calablanca",
-        "population": 157,
-        "ele": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.18104394,
           38.78874858
         ]
@@ -102359,40 +102071,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15258891,
-          38.75985005
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000221",
-        "name": "Urbanització El Rafalet",
-        "population": 392,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.170465911,
-          38.75954213
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000222",
-        "name": "Sol del Este",
-        "population": 408,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.14791675,
           38.78757491
         ]
@@ -102402,57 +102080,6 @@
         "name": "Tesoro de Jávea",
         "population": 206,
         "ele": 69,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.20597136,
-          38.75411171
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000225",
-        "name": "Toscal",
-        "population": 465,
-        "ele": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.21318354,
-          38.74617546
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000226",
-        "name": "Trencall",
-        "population": 172,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.17606282,
-          38.74697786
-        ]
-      },
-      "properties": {
-        "ref:ine": "03082000227",
-        "name": "Urbanització de la Vall del Sol",
-        "population": 584,
-        "ele": 72,
         "population:date": "2023"
       }
     },
@@ -102638,23 +102265,6 @@
         "name": "Urbanització Montpego",
         "population": 122,
         "ele": 201,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.11796558,
-          38.73186481
-        ]
-      },
-      "properties": {
-        "ref:ine": "03128000206",
-        "name": "Urbanització Els Castellons",
-        "population": 79,
-        "ele": 187,
         "population:date": "2023"
       }
     },

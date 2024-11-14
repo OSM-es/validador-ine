@@ -758,6 +758,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.2371072,
+          41.3161143
+        ]
+      },
+      "properties": {
+        "ref:ine": "431613",
+        "name": "Masmolets",
+        "type": "node",
+        "id": "12335246978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1771459,
           37.5632875
         ]
