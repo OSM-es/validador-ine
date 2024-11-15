@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1086551,
-          38.7784515
-        ]
-      },
-      "properties": {
-        "ref:ine": "03137000001",
-        "name": "la Vall de Laguar",
-        "type": "node",
-        "id": "247579004"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2474754,
           39.2268651
         ]
@@ -31,22 +15,6 @@
         "name": "Mareny Blau",
         "type": "node",
         "id": "339674310"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.155797,
-          39.5223078
-        ]
-      },
-      "properties": {
-        "ref:ine": "46213003701",
-        "name": "Turquía",
-        "type": "node",
-        "id": "427101806"
       }
     },
     {
@@ -335,38 +303,6 @@
         "name": "A Ribeira de Creo",
         "type": "node",
         "id": "2040653838"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1414702,
-          39.5108599
-        ]
-      },
-      "properties": {
-        "ref:ine": "46213001801",
-        "name": "Los Chicanos",
-        "type": "node",
-        "id": "2062223541"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1492564,
-          39.5175862
-        ]
-      },
-      "properties": {
-        "ref:ine": "46213002601",
-        "name": "Los Ochandos",
-        "type": "node",
-        "id": "2063695884"
       }
     },
     {
