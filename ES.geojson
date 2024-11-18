@@ -36182,6 +36182,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.42184081,
+          37.71832557
+        ]
+      },
+      "properties": {
+        "ref:ine": "30039031099",
+        "name": "Paretón",
+        "population": 328,
+        "ele": 204,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.85096617,
           42.17430133
         ]
@@ -51305,40 +51322,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.03274663,
-          43.34122618
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012030401",
-        "name": "Sotu l'Ensertal",
-        "population": 33,
-        "ele": 150,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.00770457,
-          43.37197711
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012050299",
-        "name": "Cuerres",
-        "population": 7,
-        "ele": 337,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.03574544,
           43.34937579
         ]
@@ -51433,23 +51416,6 @@
         "name": "Viña",
         "population": 5,
         "ele": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.0509898,
-          43.39204494
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012110301",
-        "name": "Santianes d'Ola",
-        "population": 33,
-        "ele": 236,
         "population:date": "2023"
       }
     },
