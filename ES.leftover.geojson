@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2474754,
-          39.2268651
-        ]
-      },
-      "properties": {
-        "ref:ine": "46235000301",
-        "name": "Mareny Blau",
-        "type": "node",
-        "id": "339674310"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.8758124,
           42.7764845
         ]
