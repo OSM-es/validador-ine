@@ -94328,6 +94328,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.50639135,
+          38.45451329
+        ]
+      },
+      "properties": {
+        "ref:ine": "03090000104",
+        "name": "El Boter Sector XXX-La Vall del Sol",
+        "population": 182,
+        "ele": 198,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.92379297,
           41.52092166
         ]
