@@ -328,23 +328,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.467787981,
-          40.09310521
-        ]
-      },
-      "properties": {
-        "ref:ine": "12013000399",
-        "name": "Masía del Plano de Abajo",
-        "population": 2,
-        "ele": 835,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.18972565,
           40.4575876
         ]
@@ -751,57 +734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.39766322,
-          40.13631578
-        ]
-      },
-      "properties": {
-        "ref:ine": "12041000799",
-        "name": "Mas de Adelantado",
-        "population": 2,
-        "ele": 556,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.35836122,
-          40.13291197
-        ]
-      },
-      "properties": {
-        "ref:ine": "12041001199",
-        "name": "Masía de Roque Chiva",
-        "population": 1,
-        "ele": 937,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.36474476,
-          40.12655388
-        ]
-      },
-      "properties": {
-        "ref:ine": "12041001399",
-        "name": "Masía del Pozo",
-        "population": 2,
-        "ele": 921,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.00079903,
           40.50137387
         ]
@@ -879,57 +811,6 @@
         "name": "Mas de Jaume",
         "population": 1,
         "ele": 784,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.54254245,
-          40.18402829
-        ]
-      },
-      "properties": {
-        "ref:ine": "12048000502",
-        "name": "Barrio San Blas",
-        "population": 14,
-        "ele": 975,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.500183129,
-          40.1403198
-        ]
-      },
-      "properties": {
-        "ref:ine": "12048000801",
-        "name": "San Vicente",
-        "population": 110,
-        "ele": 850,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.49804755,
-          40.13528697
-        ]
-      },
-      "properties": {
-        "ref:ine": "12048000802",
-        "name": "Barrio el Cerrito",
-        "population": 13,
-        "ele": 831,
         "population:date": "2023"
       }
     },
@@ -1083,57 +964,6 @@
         "name": "Mas de Molló",
         "population": 7,
         "ele": 500,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.40049077,
-          40.09632108
-        ]
-      },
-      "properties": {
-        "ref:ine": "12073000599",
-        "name": "Masía de Benachera",
-        "population": 11,
-        "ele": 867,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.32608652,
-          40.1114077
-        ]
-      },
-      "properties": {
-        "ref:ine": "12073000899",
-        "name": "Masía de Reduela",
-        "population": 3,
-        "ele": 831,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.51490752,
-          40.06391882
-        ]
-      },
-      "properties": {
-        "ref:ine": "12079000101",
-        "name": "La Alquería",
-        "population": 40,
-        "ele": 453,
         "population:date": "2023"
       }
     },
@@ -2339,57 +2169,6 @@
         "name": "Mas Llosar",
         "population": 9,
         "ele": 1131,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.39504037,
-          40.23797379
-        ]
-      },
-      "properties": {
-        "ref:ine": "12130000299",
-        "name": "Mas del Carbo",
-        "population": 8,
-        "ele": 947,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.43501087,
-          40.20230422
-        ]
-      },
-      "properties": {
-        "ref:ine": "12130000301",
-        "name": "Mas de la Peña",
-        "population": 17,
-        "ele": 826,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.40155449,
-          40.16445378
-        ]
-      },
-      "properties": {
-        "ref:ine": "12130000401",
-        "name": "Masía de la Cimorreta",
-        "population": 12,
-        "ele": 808,
         "population:date": "2023"
       }
     },
@@ -93397,6 +93176,23 @@
         "name": "Lledó",
         "population": 147,
         "ele": 461,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.095212936,
+          37.35421939
+        ]
+      },
+      "properties": {
+        "ref:ine": "04017002501",
+        "name": "Polígono Industrial",
+        "population": 27,
+        "ele": 337,
         "population:date": "2023"
       }
     },
