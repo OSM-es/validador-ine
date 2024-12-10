@@ -28982,6 +28982,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.7686626,
+          42.68240731
+        ]
+      },
+      "properties": {
+        "ref:ine": "27060260501",
+        "name": "Fontao",
+        "population": 18,
+        "ele": 597,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.11027792,
           43.46160074
         ]
