@@ -294,22 +294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3546026,
-          40.2510445
-        ]
-      },
-      "properties": {
-        "ref:ine": "12139000999",
-        "name": "Ermitori de Sant Joan de Penyagolosa",
-        "type": "node",
-        "id": "2063696065"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0209979,
           42.5277799
         ]
