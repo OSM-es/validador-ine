@@ -35910,23 +35910,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.81947697,
-          42.04579762
-        ]
-      },
-      "properties": {
-        "ref:ine": "32062050599",
-        "name": "Eido de Ribeira",
-        "population": 11,
-        "ele": 614,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.2916392,
           42.2742104
         ]
@@ -82277,22 +82260,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36058041099",
-        "name": "Carballal",
-        "population": 23,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.21903544,
           42.73886265
         ]
@@ -82682,23 +82649,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.53048464,
-          40.5536194
-        ]
-      },
-      "properties": {
-        "ref:ine": "43004000301",
-        "name": "Les Cases D'Alcanar",
-        "population": 1323,
-        "ele": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.19704034,
           41.29601838
         ]
@@ -83075,23 +83025,6 @@
         "ref:ine": "43014000201",
         "name": "Balada",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.55420332,
-          40.69957553
-        ]
-      },
-      "properties": {
-        "ref:ine": "43014000301",
-        "name": "Favaret",
-        "population": 218,
-        "ele": 55,
         "population:date": "2023"
       }
     },
@@ -84475,23 +84408,6 @@
         "name": "Pins Manous",
         "population": 332,
         "ele": 143,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.28236554,
-          40.6361383
-        ]
-      },
-      "properties": {
-        "ref:ine": "43044000101",
-        "name": "La Sénia",
-        "population": 5539,
-        "ele": 363,
         "population:date": "2023"
       }
     },
@@ -87786,91 +87702,6 @@
         "ref:ine": "43155000202",
         "name": "Colonia Gasol",
         "population": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.56488461,
-          40.75364729
-        ]
-      },
-      "properties": {
-        "ref:ine": "43155000302",
-        "name": "La Font de Quinto",
-        "population": 54,
-        "ele": 10,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.56883598,
-          40.75637876
-        ]
-      },
-      "properties": {
-        "ref:ine": "43155000303",
-        "name": "El Raval del Pom",
-        "population": 19,
-        "ele": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.34857285,
-          40.60876459
-        ]
-      },
-      "properties": {
-        "ref:ine": "43156000101",
-        "name": "El Castell",
-        "population": 101,
-        "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.36593575,
-          40.62708607
-        ]
-      },
-      "properties": {
-        "ref:ine": "43156000401",
-        "name": "Els Valentins",
-        "population": 246,
-        "ele": 214,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.41534435,
-          40.6395513
-        ]
-      },
-      "properties": {
-        "ref:ine": "43156000601",
-        "name": "La Miliana",
-        "population": 26,
-        "ele": 154,
         "population:date": "2023"
       }
     },
@@ -93787,23 +93618,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.71977016,
-          41.37737297
-        ]
-      },
-      "properties": {
-        "ref:ine": "08094000101",
-        "name": "La Granada",
-        "population": 2187,
-        "ele": 260,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.515987227,
           41.72362004
         ]
@@ -96413,40 +96227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.669202748,
-          41.35554151
-        ]
-      },
-      "properties": {
-        "ref:ine": "08154000102",
-        "name": "l'Agrícola",
-        "population": 146,
-        "ele": 199,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.67053579,
-          41.36334823
-        ]
-      },
-      "properties": {
-        "ref:ine": "08154000103",
-        "name": "la Rectoria",
-        "population": 30,
-        "ele": 210,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.652156654,
           41.36290889
         ]
@@ -96456,22 +96236,6 @@
         "name": "la Serra-el Pla de Cavalls",
         "population": 365,
         "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.67500311,
-          41.36473291
-        ]
-      },
-      "properties": {
-        "ref:ine": "08154000105",
-        "name": "la Xarmada",
-        "population": 8,
         "population:date": "2023"
       }
     },
@@ -101112,23 +100876,6 @@
         "name": "el Coll del Guix",
         "population": 25,
         "ele": 412,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.6496632,
-          41.33202907
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000201",
-        "name": "Cal Rubió",
-        "population": 135,
-        "ele": 197,
         "population:date": "2023"
       }
     },
