@@ -88451,6 +88451,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.43609688,
+          39.31459761
+        ]
+      },
+      "properties": {
+        "ref:ine": "46194000118",
+        "name": "Centre Penitenciari",
+        "population": 15,
+        "ele": 34,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.92379297,
           41.52092166
         ]
