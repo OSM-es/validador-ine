@@ -182,22 +182,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.3192393,
-          43.3480596
-        ]
-      },
-      "properties": {
-        "ref:ine": "27044043701",
-        "name": "A Macieira",
-        "type": "node",
-        "id": "1609414405"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0623467,
           37.6480591
         ]
