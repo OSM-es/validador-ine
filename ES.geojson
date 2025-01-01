@@ -71693,6 +71693,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.3693724,
+          40.77469834
+        ]
+      },
+      "properties": {
+        "ref:ine": "40104000301",
+        "name": "Urbanización Coto de San Isidro",
+        "population": 303,
+        "ele": 1137,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.400477886,
           41.34130339
         ]
