@@ -19348,6 +19348,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.8916062,
+          40.4727589
+        ]
+      },
+      "properties": {
+        "ref:ine": "28080004399",
+        "name": "La Grajera",
+        "population": 70,
+        "ele": 707,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.85096617,
           42.17430133
         ]
@@ -71685,23 +71702,6 @@
         "name": "Carranques",
         "population": 8,
         "ele": 336,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3693724,
-          40.77469834
-        ]
-      },
-      "properties": {
-        "ref:ine": "40104000301",
-        "name": "Urbanización Coto de San Isidro",
-        "population": 303,
-        "ele": 1137,
         "population:date": "2023"
       }
     },
