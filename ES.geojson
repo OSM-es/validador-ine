@@ -73781,23 +73781,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.31917152,
-          40.63409848
-        ]
-      },
-      "properties": {
-        "ref:ine": "43044000299",
-        "name": "Els Plans",
-        "population": 42,
-        "ele": 303,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.47510831,
           41.07667505
         ]
@@ -74145,23 +74128,6 @@
         "name": "lo Riber",
         "population": 13,
         "ele": 49,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.46296985,
-          40.68080737
-        ]
-      },
-      "properties": {
-        "ref:ine": "43063000101",
-        "name": "La Galera",
-        "population": 691,
-        "ele": 112,
         "population:date": "2023"
       }
     },
