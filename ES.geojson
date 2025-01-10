@@ -28836,23 +28836,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.57141745,
-          43.08495882
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002050799",
-        "name": "Vil.lar",
-        "population": 7,
-        "ele": 718,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.57292357,
           43.10595926
         ]
@@ -29483,23 +29466,6 @@
         "name": "Pel.luno",
         "population": 143,
         "ele": 578,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.470271457,
-          43.08899433
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002130199",
-        "name": "Cuevas",
-        "population": 8,
-        "ele": 775,
         "population:date": "2023"
       }
     },
