@@ -50214,23 +50214,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.78359538,
-          43.25292656
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037120999",
-        "name": "La Estación",
-        "population": 6,
-        "ele": 206,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78289279,
           43.23182901
         ]
@@ -76639,23 +76622,6 @@
         "name": "Xalets de Salou i Mirador de Salou",
         "population": 600,
         "ele": 13,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.68168167,
-          40.78475953
-        ]
-      },
-      "properties": {
-        "ref:ine": "43906000105",
-        "name": "El Roquer",
-        "population": 62,
-        "ele": 8,
         "population:date": "2023"
       }
     },
