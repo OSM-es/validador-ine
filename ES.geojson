@@ -54598,23 +54598,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.33246744,
-          43.28893489
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049070199",
-        "name": "Les Cuerries",
-        "population": 4,
-        "ele": 497,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.36186521,
           43.29880343
         ]
@@ -54624,39 +54607,6 @@
         "name": "La Villa",
         "population": 45,
         "ele": 243,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.33246744,
-          43.28893489
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049070999",
-        "name": "El Campón",
-        "population": 2,
-        "ele": 497,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.32680033,
-          43.29095027
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049071399",
-        "name": "El Pedrosu",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -55286,40 +55236,6 @@
         "ref:ine": "33049220799",
         "name": "La Covaya",
         "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.19154415,
-          43.225108
-        ]
-      },
-      "properties": {
-        "ref:ine": "33050030101",
-        "name": "Carangres",
-        "population": 11,
-        "ele": 753,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.25417237,
-          43.24054893
-        ]
-      },
-      "properties": {
-        "ref:ine": "33050080399",
-        "name": "Vallimoru",
-        "population": 3,
-        "ele": 666,
         "population:date": "2023"
       }
     },
