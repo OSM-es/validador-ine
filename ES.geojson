@@ -30009,74 +30009,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.107886195,
-          43.31511045
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003021699",
-        "name": "La Teyera",
-        "population": 6,
-        "ele": 580,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.13751877,
-          43.29323151
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003030299",
-        "name": "Corigos",
-        "population": 14,
-        "ele": 118,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.134091377,
-          43.28839367
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003031299",
-        "name": "El Pontigu",
-        "population": 5,
-        "ele": 100,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.131591558,
-          43.30022413
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003031399",
-        "name": "Buxil",
-        "population": 1,
-        "ele": 120,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -30085,22 +30017,6 @@
         "ref:ine": "33003031999",
         "name": "Matagüés",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.13515425,
-          43.29505855
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003032199",
-        "name": "Teyacrespa",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -34191,108 +34107,6 @@
         "name": "Vil.lalái",
         "population": 11,
         "ele": 699,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.12749781,
-          43.34839001
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012020201",
-        "name": "Cangues d'Onís/Cangas de Onís",
-        "population": 3838,
-        "ele": 81,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.10437508,
-          43.40226729
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012070199",
-        "name": "Agüera",
-        "population": 7,
-        "ele": 28,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.10682805,
-          43.40997476
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012070401",
-        "name": "El Llanu",
-        "population": 17,
-        "ele": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.07860628,
-          43.39444568
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012070899",
-        "name": "San Tiso",
-        "population": 5,
-        "ele": 183,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.09187783,
-          43.4008398
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012070999",
-        "name": "Villa",
-        "population": 26,
-        "ele": 211,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.09704869,
-          43.40897497
-        ]
-      },
-      "properties": {
-        "ref:ine": "33012071099",
-        "name": "Viña",
-        "population": 5,
-        "ele": 17,
         "population:date": "2023"
       }
     },
@@ -54057,23 +53871,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.11922333,
-          43.42328805
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045030499",
-        "name": "Tresmonte",
-        "population": 5,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.23673056,
           43.40651697
         ]
@@ -54142,23 +53939,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.14619659,
-          43.31599414
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045070201",
-        "name": "El Colláu l'Andrín",
-        "population": 11,
-        "ele": 402,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.23681653,
           43.31179924
         ]
@@ -54185,23 +53965,6 @@
         "name": "San Andrés",
         "population": 8,
         "ele": 70,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.13618672,
-          43.35057815
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045130899",
-        "name": "Caxidi",
-        "population": 38,
-        "ele": 107,
         "population:date": "2023"
       }
     },
@@ -56162,23 +55925,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.08316516,
-          43.46619817
-        ]
-      },
-      "properties": {
-        "ref:ine": "33056040602",
-        "name": "Urbanización Astursella",
-        "population": 258,
-        "ele": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.14048164,
           43.45091309
         ]
@@ -56205,40 +55951,6 @@
         "name": "El Carmen/El Carme",
         "population": 33,
         "ele": 95,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.10863862,
-          43.42762566
-        ]
-      },
-      "properties": {
-        "ref:ine": "33056060899",
-        "name": "Tresmonte",
-        "population": 2,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.08945796,
-          43.45041616
-        ]
-      },
-      "properties": {
-        "ref:ine": "33056090299",
-        "name": "Samiguel",
-        "population": 30,
-        "ele": 57,
         "population:date": "2023"
       }
     },
@@ -71641,40 +71353,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.08979953,
-          41.25186573
-        ]
-      },
-      "properties": {
-        "ref:ine": "43003000101",
-        "name": "L'Albiol",
-        "population": 15,
-        "ele": 822,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.1552514,
-          41.23617929
-        ]
-      },
-      "properties": {
-        "ref:ine": "43003000301",
-        "name": "les Masies Catalanes",
-        "population": 456,
-        "ele": 250,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.19704034,
           41.29601838
         ]
@@ -71709,38 +71387,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.16022187,
-          41.23552018
-        ]
-      },
-      "properties": {
-        "ref:ine": "43005000701",
-        "name": "les Masies Catalanes",
-        "population": 171,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.15963573,
-          41.26745934
-        ]
-      },
-      "properties": {
-        "ref:ine": "43005000801",
-        "name": "Residencial Remei",
-        "population": 213,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.20168177,
           41.28357094
         ]
@@ -71750,22 +71396,6 @@
         "name": "Serradalt",
         "population": 359,
         "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.1581835,
-          41.25159249
-        ]
-      },
-      "properties": {
-        "ref:ine": "43005001001",
-        "name": "La Burquera",
-        "population": 3,
         "population:date": "2023"
       }
     },
@@ -71790,40 +71420,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.172729514,
-          41.27532989
-        ]
-      },
-      "properties": {
-        "ref:ine": "43005001201",
-        "name": "Mas de Gassol",
-        "population": 93,
-        "ele": 380,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.157770157,
-          41.25364545
-        ]
-      },
-      "properties": {
-        "ref:ine": "43005001301",
-        "name": "Mas Llorenç",
-        "population": 47,
-        "ele": 830,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.161160469,
           41.23375994
         ]
@@ -71833,106 +71429,6 @@
         "name": "Mas del Cano",
         "population": 16,
         "ele": 220,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.04627339,
-          41.20213628
-        ]
-      },
-      "properties": {
-        "ref:ine": "43007000101",
-        "name": "L'Aleixar",
-        "population": 638,
-        "ele": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.994289443,
-          41.20700866
-        ]
-      },
-      "properties": {
-        "ref:ine": "43009000299",
-        "name": "Les Barqueres",
-        "population": 128,
-        "ele": 339,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.00381445,
-          41.21320754
-        ]
-      },
-      "properties": {
-        "ref:ine": "43009000599",
-        "name": "Portugal",
-        "population": 285,
-        "ele": 380,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96903814,
-          41.20763644
-        ]
-      },
-      "properties": {
-        "ref:ine": "43009000699",
-        "name": "Sant Antoni",
-        "population": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10936642,
-          41.18748941
-        ]
-      },
-      "properties": {
-        "ref:ine": "43011000299",
-        "name": "Puntarrons",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10462364,
-          41.19194216
-        ]
-      },
-      "properties": {
-        "ref:ine": "43011000501",
-        "name": "Castellmoster",
-        "population": 57,
-        "ele": 259,
         "population:date": "2023"
       }
     },
@@ -72001,40 +71497,6 @@
         "name": "les Casetes de Puigmoltó",
         "population": 13,
         "ele": 140,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.90976361,
-          41.13745524
-        ]
-      },
-      "properties": {
-        "ref:ine": "43017000101",
-        "name": "L'Argentera",
-        "population": 126,
-        "ele": 343,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.908550024,
-          41.13548202
-        ]
-      },
-      "properties": {
-        "ref:ine": "43017000201",
-        "name": "La Sort",
-        "population": 7,
-        "ele": 331,
         "population:date": "2023"
       }
     },
@@ -72203,39 +71665,6 @@
         "ref:ine": "43030000301",
         "name": "La Font de la Gavatxa",
         "population": 26,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.01959446,
-          41.172479
-        ]
-      },
-      "properties": {
-        "ref:ine": "43031000101",
-        "name": "Les Borges del Camp",
-        "population": 1858,
-        "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.00594593,
-          41.1685325
-        ]
-      },
-      "properties": {
-        "ref:ine": "43033000201",
-        "name": "Les Costes",
-        "population": 25,
         "population:date": "2023"
       }
     },
@@ -72453,274 +71882,6 @@
         "ref:ine": "43037000501",
         "name": "Bonanova",
         "population": 378,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.02440805,
-          41.06377119
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000108",
-        "name": "L'Ardiaca",
-        "population": 1623,
-        "ele": 20,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.07262177,
-          41.0685506
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000201",
-        "name": "Cambrils Badia",
-        "population": 2771,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.03755127,
-          41.06201404
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000309",
-        "name": "La Llosa",
-        "population": 2321,
-        "ele": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.0980237,
-          41.08617673
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000403",
-        "name": "Mas d'en Bosc",
-        "population": 2818,
-        "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.01868913,
-          41.10555712
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000599",
-        "name": "Parc de Samà",
-        "population": 330,
-        "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.09968823,
-          41.07386396
-        ]
-      },
-      "properties": {
-        "ref:ine": "43038000603",
-        "name": "Vilafortuny",
-        "population": 6524,
-        "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.0858175,
-          41.18667716
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000201",
-        "name": "Les Planes del Puig",
-        "population": 404,
-        "ele": 278,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10033986,
-          41.1846207
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000301",
-        "name": "Els Pugets",
-        "population": 303,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.08903225,
-          41.18191162
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000401",
-        "name": "Les Serres",
-        "population": 224,
-        "ele": 437,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10095523,
-          41.19055766
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000501",
-        "name": "La Flor del Camp",
-        "population": 182,
-        "ele": 248,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10439729,
-          41.18656106
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000601",
-        "name": "Les Arboceres",
-        "population": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10283586,
-          41.19191273
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000701",
-        "name": "Castellmoster",
-        "population": 427,
-        "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10074163,
-          41.17607936
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000801",
-        "name": "El Pinar IV Fase",
-        "population": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.083210111,
-          41.1830124
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042000901",
-        "name": "el Puig",
-        "population": 31,
-        "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.090918779,
-          41.18975841
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042001001",
-        "name": "Les Rouredes",
-        "population": 128,
-        "ele": 313,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.082732678,
-          41.19108451
-        ]
-      },
-      "properties": {
-        "ref:ine": "43042001101",
-        "name": "els Suvians",
-        "population": 27,
-        "ele": 350,
         "population:date": "2023"
       }
     },
@@ -73492,23 +72653,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.00460558,
-          41.2777934
-        ]
-      },
-      "properties": {
-        "ref:ine": "43057000101",
-        "name": "La Febró",
-        "population": 36,
-        "ele": 760,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.24821947,
           41.20750102
         ]
@@ -73594,23 +72738,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0391269,
-          41.18904436
-        ]
-      },
-      "properties": {
-        "ref:ine": "43081000299",
-        "name": "Rocabruna",
-        "population": 68,
-        "ele": 270,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.20645363,
           41.24796769
         ]
@@ -73637,23 +72764,6 @@
         "name": "La Guàrdia dels Prats",
         "population": 141,
         "ele": 363,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.12548839,
-          41.31250026
-        ]
-      },
-      "properties": {
-        "ref:ine": "43086000401",
-        "name": "El Pinetell",
-        "population": 7,
-        "ele": 610,
         "population:date": "2023"
       }
     },
@@ -73780,332 +72890,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.083679249,
-          41.27368191
+          1.00202972,
+          41.0442899
         ]
       },
       "properties": {
-        "ref:ine": "43091000101",
-        "name": "L'Aixàviga",
-        "population": 4,
-        "ele": 749,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.08179336,
-          41.28033041
-        ]
-      },
-      "properties": {
-        "ref:ine": "43091000201",
-        "name": "El Bosquet",
-        "population": 7,
-        "ele": 774,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.12742458,
-          41.30304092
-        ]
-      },
-      "properties": {
-        "ref:ine": "43091000399",
-        "name": "Cabrera",
-        "population": 7,
-        "ele": 515,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.07445107,
-          41.30385162
-        ]
-      },
-      "properties": {
-        "ref:ine": "43091000401",
-        "name": "La Cadeneta",
-        "population": 10,
-        "ele": 690,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.92322976,
-          41.02668439
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000102",
-        "name": "El Casalot",
-        "population": 802,
-        "ele": 62,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.94377132,
-          41.01979253
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000103",
-        "name": "Costa Zèfir",
-        "population": 446,
-        "ele": 28,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.926874099,
-          41.02715978
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000109",
-        "name": "Vía Marina",
-        "population": 137,
-        "ele": 52,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.93022208,
-          40.99561735
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000110",
-        "name": "Sudoest",
-        "population": 704,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.92518266,
-          41.04023067
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000202",
-        "name": "Bonmont Terres Noves",
-        "population": 362,
-        "ele": 82,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.97546655,
-          41.06859674
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000301",
-        "name": "Club Mont-roig",
-        "population": 501,
-        "ele": 72,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96374469,
-          41.02693851
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000302",
-        "name": "Etersa",
-        "population": 13,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9528086,
-          41.03171699
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000303",
-        "name": "Masos d'en Blader",
-        "population": 561,
-        "ele": 22,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.01280367,
-          41.05393388
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000306",
-        "name": "El Paradís",
-        "population": 55,
-        "ele": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.95730697,
-          41.02319467
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000307",
-        "name": "El Parc de Mont-roig",
-        "population": 37,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96395967,
-          41.02768091
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000309",
-        "name": "La Riviera",
-        "population": 18,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9943836,
-          41.05316456
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000310",
-        "name": "Rustical Balneari",
-        "population": 3,
-        "ele": 20,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96633598,
-          41.03664017
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000311",
-        "name": "Rustical Mont-roig",
-        "population": 120,
-        "ele": 18,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96466922,
-          41.03282766
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000312",
-        "name": "Sant Miquel de Mont-roig",
-        "population": 147,
-        "ele": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.99856776,
-          41.04781481
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000313",
-        "name": "Pla Parcial Sector 28",
-        "population": 127,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.95277068,
-          41.02565433
-        ]
-      },
-      "properties": {
-        "ref:ine": "43092000314",
-        "name": "Urbanització Solemio",
-        "population": 169,
+        "ref:ine": "43092000305",
+        "name": "Mont-roig Badia",
+        "population": 96,
+        "ele": 3,
         "population:date": "2023"
       }
     },
@@ -74617,57 +73410,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.08408881,
-          41.16007679
-        ]
-      },
-      "properties": {
-        "ref:ine": "43123000901",
-        "name": "Pelayo",
-        "population": 514,
-        "ele": 141,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.10217434,
-          41.17352687
-        ]
-      },
-      "properties": {
-        "ref:ine": "43123001001",
-        "name": "El Pinar",
-        "population": 530,
-        "ele": 183,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.17788139,
-          41.31882022
-        ]
-      },
-      "properties": {
-        "ref:ine": "43124000101",
-        "name": "La Riba",
-        "population": 529,
-        "ele": 253,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.36183115,
           41.16478355
         ]
@@ -74736,40 +73478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.94610184,
-          41.13247913
-        ]
-      },
-      "properties": {
-        "ref:ine": "43127000201",
-        "name": "el Mar de Riudecanyes",
-        "population": 206,
-        "ele": 267,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.96991564,
-          41.14216047
-        ]
-      },
-      "properties": {
-        "ref:ine": "43127000301",
-        "name": "Montclar",
-        "population": 194,
-        "ele": 291,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.94634268,
           41.17058381
         ]
@@ -74779,56 +73487,6 @@
         "name": "Les Irles",
         "population": 34,
         "ele": 368,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.98076953,
-          41.16781463
-        ]
-      },
-      "properties": {
-        "ref:ine": "43128000201",
-        "name": "Les Costes",
-        "population": 113,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.99272449,
-          41.16626718
-        ]
-      },
-      "properties": {
-        "ref:ine": "43128000301",
-        "name": "Les Voltes",
-        "population": 5,
-        "ele": 286,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.97467765,
-          41.17171593
-        ]
-      },
-      "properties": {
-        "ref:ine": "43128000401",
-        "name": "Riu-club",
-        "population": 213,
-        "ele": 349,
         "population:date": "2023"
       }
     },
@@ -75373,89 +74031,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.14289296,
-          41.21582248
-        ]
-      },
-      "properties": {
-        "ref:ine": "43145000199",
-        "name": "Paret-Delgada",
-        "population": 355,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.11922649,
-          41.21624909
-        ]
-      },
-      "properties": {
-        "ref:ine": "43145000299",
-        "name": "Sant Pere",
-        "population": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.13660414,
-          41.21591006
-        ]
-      },
-      "properties": {
-        "ref:ine": "43145000301",
-        "name": "La Selva del Camp",
-        "population": 5108,
-        "ele": 245,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.22589315,
-          41.11685932
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000201",
-        "name": "Icomar",
-        "population": 542,
-        "ele": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.22401745,
-          41.12016321
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000202",
-        "name": "Riu Clar",
-        "population": 990,
-        "ele": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.31871406,
           41.14347192
         ]
@@ -75608,56 +74183,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.21220741,
-          41.12520499
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000601",
-        "name": "La Floresta",
-        "population": 1187,
-        "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.22034577,
-          41.12379966
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000602",
-        "name": "Parc Riu Clar",
-        "population": 600,
-        "ele": 21,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.22718003,
-          41.13542559
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000603",
-        "name": "Barri de Mongons",
-        "population": 776,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.24871407,
           41.12582853
         ]
@@ -75667,23 +74192,6 @@
         "name": "L'Oliva",
         "population": 102,
         "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.19623261,
-          41.09955494
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148000899",
-        "name": "Les Pinedes",
-        "population": 46,
-        "ele": 8,
         "population:date": "2023"
       }
     },
@@ -75941,40 +74449,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.21450641,
-          41.1238895
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148001403",
-        "name": "La Granja",
-        "population": 3375,
-        "ele": 26,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.20928619,
-          41.11435063
-        ]
-      },
-      "properties": {
-        "ref:ine": "43148001405",
-        "name": "Verge del Pilar",
-        "population": 521,
-        "ele": 16,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.24183403,
           41.12205772
         ]
@@ -76210,23 +74684,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.92317336,
-          40.99065349
-        ]
-      },
-      "properties": {
-        "ref:ine": "43162000101",
-        "name": "L'Hospitalet de L'infant",
-        "population": 5883,
-        "ele": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.52279553,
           41.18229879
         ]
@@ -76362,40 +74819,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.96135599,
-          41.10536791
-        ]
-      },
-      "properties": {
-        "ref:ine": "43167000101",
-        "name": "L'Arbocet",
-        "population": 37,
-        "ele": 148,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.93769154,
-          41.11306254
-        ]
-      },
-      "properties": {
-        "ref:ine": "43167000201",
-        "name": "Vilanova d'Escornalbou",
-        "population": 457,
-        "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.36298536,
           41.28590562
         ]
@@ -76412,40 +74835,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.18226538,
-          41.07924877
-        ]
-      },
-      "properties": {
-        "ref:ine": "43171000101",
-        "name": "La Pineda",
-        "population": 3766,
-        "ele": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.12844926,
-          41.1299105
-        ]
-      },
-      "properties": {
-        "ref:ine": "43171000201",
-        "name": "La Plana",
-        "population": 668,
-        "ele": 71,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.08066417,
           41.38071347
         ]
@@ -76454,107 +74843,6 @@
         "ref:ine": "43176000302",
         "name": "Poblet",
         "population": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.03904984,
-          41.11445339
-        ]
-      },
-      "properties": {
-        "ref:ine": "43178000101",
-        "name": "Vinyols",
-        "population": 1442,
-        "ele": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.06374076,
-          41.07794964
-        ]
-      },
-      "properties": {
-        "ref:ine": "43178000201",
-        "name": "Area Especial CN340",
-        "population": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.06043568,
-          41.08104667
-        ]
-      },
-      "properties": {
-        "ref:ine": "43178000202",
-        "name": "el Molí d'Avall",
-        "population": 298,
-        "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.060655146,
-          41.07275673
-        ]
-      },
-      "properties": {
-        "ref:ine": "43178000301",
-        "name": "Fontcoberta",
-        "population": 185,
-        "ele": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.16533497,
-          41.08149371
-        ]
-      },
-      "properties": {
-        "ref:ine": "43905000104",
-        "name": "Xalets de Salou i Mirador de Salou",
-        "population": 600,
-        "ele": 13,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.18007857,
-          41.12136946
-        ]
-      },
-      "properties": {
-        "ref:ine": "43907000101",
-        "name": "La Canonja",
-        "population": 5922,
-        "ele": 38,
         "population:date": "2023"
       }
     },
