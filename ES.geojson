@@ -53786,23 +53786,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.14497343,
-          43.40279154
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045030101",
-        "name": "H.uentes",
-        "population": 34,
-        "ele": 59,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.23681653,
           43.31179924
         ]
@@ -53829,23 +53812,6 @@
         "name": "Soto",
         "population": 37,
         "ele": 86,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.19466209,
-          43.33830545
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045150299",
-        "name": "Carriu",
-        "population": 5,
-        "ele": 320,
         "population:date": "2023"
       }
     },
@@ -53914,23 +53880,6 @@
         "name": "Robléu",
         "population": 25,
         "ele": 515,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.324408225,
-          43.40862285
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049011099",
-        "name": "H.uentes",
-        "population": 8,
-        "ele": 434,
         "population:date": "2023"
       }
     },
@@ -70981,23 +70930,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.364450455,
-          41.38261688
-        ]
-      },
-      "properties": {
-        "ref:ine": "43001000599",
-        "name": "La Planeta",
-        "population": 5,
-        "ele": 356,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.63316741,
           41.31167571
         ]
@@ -71024,40 +70956,6 @@
         "name": "les Casetes de Puigmoltó",
         "population": 13,
         "ele": 140,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.43544695,
-          41.17529141
-        ]
-      },
-      "properties": {
-        "ref:ine": "43050000201",
-        "name": "La Coma",
-        "population": 246,
-        "ele": 73,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.43557256,
-          41.17502288
-        ]
-      },
-      "properties": {
-        "ref:ine": "43050000401",
-        "name": "Les Eres",
-        "population": 122,
-        "ele": 71,
         "population:date": "2023"
       }
     },
