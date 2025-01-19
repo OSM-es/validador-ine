@@ -18142,23 +18142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.89780518,
-          42.81023562
-        ]
-      },
-      "properties": {
-        "ref:ine": "27003020399",
-        "name": "Mancegar",
-        "population": 9,
-        "ele": 510,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.20532321,
           43.55655273
         ]
@@ -44484,22 +44467,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031074499",
-        "name": "El Vallucu",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.753343701,
           43.29438142
         ]
@@ -45116,22 +45083,6 @@
         "ref:ine": "33032052499",
         "name": "La Carba les Llanes",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032052699",
-        "name": "L'Horrón de Riba",
-        "population": 11,
         "population:date": "2023"
       }
     },
@@ -53786,74 +53737,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.23681653,
-          43.31179924
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045100499",
-        "name": "El Picu",
-        "population": 6,
-        "ele": 524,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.23079567,
-          43.35920753
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045140101",
-        "name": "Soto",
-        "population": 37,
-        "ele": 86,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.21405467,
-          43.35425641
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045150301",
-        "name": "Llames",
-        "population": 154,
-        "ele": 152,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.18405407,
-          43.34969193
-        ]
-      },
-      "properties": {
-        "ref:ine": "33045150499",
-        "name": "Granda",
-        "population": 35,
-        "ele": 213,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.87475644,
           43.24313228
         ]
@@ -54323,23 +54206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.23788689,
-          43.31173328
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049120499",
-        "name": "El Picu",
-        "population": 4,
-        "ele": 541,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -54697,23 +54563,6 @@
         "name": "Caldevilla",
         "population": 62,
         "ele": 174,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.24003089,
-          43.33820003
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049190299",
-        "name": "La Frecha",
-        "population": 17,
-        "ele": 450,
         "population:date": "2023"
       }
     },
