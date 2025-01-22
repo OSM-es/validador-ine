@@ -104,8 +104,9 @@
 
             const editorId = `https://www.openstreetmap.org/edit?editor=id#map=19/${lat}/${lng}`
             const editorJosm = `http://127.0.0.1:8111/load_and_zoom?left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
+            const share = `geo:${lat},${lng}?z=15`
 
-            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a></div>`
+            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>`
             const { name, ...props } = feature.properties
             const table = `<table><caption>${name}</caption>${Object.entries(props).sort().map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("")}</table>`
             layer.bindPopup(`${table}${links}`);
@@ -120,8 +121,9 @@
 
             const editorId = `https://www.openstreetmap.org/edit?${type}=${id}#map=19/${lat}/${lng}`
             const editorJosm = `http://127.0.0.1:8111/load_and_zoom?select=${type}${id}&left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
+            const share = `geo:${lat},${lng}?z=15`
 
-            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a></div>`
+            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>` 
             const msg = `<p>La referencia <code>${ine}</code> es errónea, o ha dejado de existir. Puedes comprobarlo <a href="https://www.ine.es/nomen2/index.do" target="_blank" rel="noopener">aquí</a>.<br>Usa los siguientes enlaces para eliminarla</p>`
             layer.bindPopup(`${msg}${links}`);
           }
