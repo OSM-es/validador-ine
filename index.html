@@ -96,18 +96,44 @@
     ])
       .then(function ([missingData, leftoverData]) {
         const [missing, leftover] = [L.markerClusterGroup(), L.markerClusterGroup()];
+
+        // https://github.com/openstreetmap/iD/blob/develop/API.md#id-standalone
+        const getUrlId = ({ lat, lng, type = "editor", id = "id" }) => {
+          const qs = new URLSearchParams({
+            map: [19, lat, lng].join("/"),
+            source: "https://osm-es.github.io/validador-ine/"
+          })
+
+          return `https://www.openstreetmap.org/edit?${type}=${id}#${qs.toString()}`
+        }
+
+        // https://josm.openstreetmap.de/wiki/Help/RemoteControlCommands
+        const getUrlJOSM = ({ buffer, type, id }) => {
+          const qs = new URLSearchParams({
+            left: buffer.getWest(),
+            bottom: buffer.getSouth(),
+            right: buffer.getEast(),
+            top: buffer.getNorth(),
+            changeset_source: "https://osm-es.github.io/validador-ine/",
+            ...(!!type && !!id && { select: `${type}${id}` })
+          })
+          
+          return `http://127.0.0.1:8111/load_and_zoom?${qs.toString()}`
+        }
+
+        const getUrlShare = ({ lat, lng }) => `geo:${lat},${lng}?z=15`
+        const getUrlMarkup = ({ editorId, editorJosm, share }) => `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>`
         
         missing.addLayer(L.geoJson(missingData, {
           onEachFeature: function (feature, layer) {
             const { lat, lng } = layer.getLatLng()
-            const buffer = layer.getLatLng().toBounds(1000)
-
-            const editorId = `https://www.openstreetmap.org/edit?editor=id#map=19/${lat}/${lng}`
-            const editorJosm = `http://127.0.0.1:8111/load_and_zoom?left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
-            const share = `geo:${lat},${lng}?z=15`
-
-            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>`
             const { name, ...props } = feature.properties
+            const buffer = layer.getLatLng().toBounds(1000)
+            const editorId = getUrlId({ lat, lng })
+            const editorJosm = getUrlJOSM({ buffer })
+            const share = getUrlShare({ lat, lng })
+            const links = getUrlMarkup({ editorId, editorJosm, share })
+
             const table = `<table><caption>${name}</caption>${Object.entries(props).sort().map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("")}</table>`
             layer.bindPopup(`${table}${links}`);
           }
@@ -117,13 +143,12 @@
           onEachFeature: function (feature, layer) {
             const { lat, lng } = layer.getLatLng()
             const { id, type, "ref:ine": ine } = feature.properties
-            const buffer = layer.getLatLng().toBounds(100)
+            const buffer = layer.getLatLng().toBounds(1000)
+            const editorId = getUrlId({ lat, lng })
+            const editorJosm = getUrlJOSM({ buffer, type, id })
+            const share = getUrlShare({ lat, lng })
+            const links = getUrlMarkup({ editorId, editorJosm, share })
 
-            const editorId = `https://www.openstreetmap.org/edit?${type}=${id}#map=19/${lat}/${lng}`
-            const editorJosm = `http://127.0.0.1:8111/load_and_zoom?select=${type}${id}&left=${buffer.getWest()}&bottom=${buffer.getSouth()}&right=${buffer.getEast()}&top=${buffer.getNorth()}`
-            const share = `geo:${lat},${lng}?z=15`
-
-            const links = `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>` 
             const msg = `<p>La referencia <code>${ine}</code> es errónea, o ha dejado de existir. Puedes comprobarlo <a href="https://www.ine.es/nomen2/index.do" target="_blank" rel="noopener">aquí</a>.<br>Usa los siguientes enlaces para eliminarla</p>`
             layer.bindPopup(`${msg}${links}`);
           }
