@@ -13611,56 +13611,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.87191124,
-          42.20019559
-        ]
-      },
-      "properties": {
-        "ref:ine": "25215000201",
-        "name": "Academia General Básica de Suboficiales",
-        "population": 208,
-        "ele": 726,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.87672736,
-          42.20069015
-        ]
-      },
-      "properties": {
-        "ref:ine": "25234002801",
-        "name": "Acadèmia General Bàsica de Suboficials",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.23555179,
-          42.28588717
-        ]
-      },
-      "properties": {
-        "ref:ine": "25906000801",
-        "name": "la Guàrdia d'Ares",
-        "population": 9,
-        "ele": 1593,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.48791616,
           43.37350423
         ]
