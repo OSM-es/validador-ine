@@ -66214,6 +66214,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.72658062,
+          40.96937582
+        ]
+      },
+      "properties": {
+        "ref:ine": "37117000601",
+        "name": "Polígono Industrial el Mirador",
+        "population": 0,
+        "ele": 791,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.40554459,
           43.41964829
         ]
