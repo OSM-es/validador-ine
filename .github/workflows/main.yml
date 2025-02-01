@@ -23,8 +23,8 @@ jobs:
         with:
           commit_message: Update data
       - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
-      - uses: actions/deploy-pages@v1
+      - uses: actions/deploy-pages@v4
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
