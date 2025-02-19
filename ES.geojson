@@ -66231,40 +66231,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.63316741,
-          41.31167571
-        ]
-      },
-      "properties": {
-        "ref:ine": "43016000201",
-        "name": "Cal Vies",
-        "population": 1,
-        "ele": 151,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.623208751,
-          41.29181601
-        ]
-      },
-      "properties": {
-        "ref:ine": "43016000301",
-        "name": "les Casetes de Puigmoltó",
-        "population": 13,
-        "ele": 140,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.92379297,
           41.52092166
         ]
@@ -68647,23 +68613,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.74191337,
-          41.28263449
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000102",
-        "name": "Les Amèriques",
-        "population": 105,
-        "ele": 135,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.7105732,
           41.27327986
         ]
@@ -68673,90 +68622,6 @@
         "name": "Can Roca",
         "population": 159,
         "ele": 205,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.69469619,
-          41.29111543
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000105",
-        "name": "Daltmar",
-        "population": 101,
-        "ele": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.72288364,
-          41.28485668
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000106",
-        "name": "Nou Canyelles",
-        "population": 139,
-        "ele": 124,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70342899,
-          41.27229877
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000107",
-        "name": "Les Palmeres",
-        "population": 1218,
-        "ele": 256,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.73672126,
-          41.27942496
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000108",
-        "name": "Vora Sitges",
-        "population": 393,
-        "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.71489123,
-          41.29780133
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000109",
-        "name": "La Cogullada",
-        "population": 110,
         "population:date": "2023"
       }
     },
@@ -69356,23 +69221,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.64182863,
-          41.29500644
-        ]
-      },
-      "properties": {
-        "ref:ine": "08058000601",
-        "name": "Les Masuques",
-        "population": 132,
-        "ele": 137,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.71673535,
           41.66409034
         ]
@@ -69569,90 +69417,6 @@
         "name": "Clot de la Bleda",
         "population": 13,
         "ele": 393,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.61551552,
-          41.33848697
-        ]
-      },
-      "properties": {
-        "ref:ine": "08065000199",
-        "name": "Cal Farines",
-        "population": 39,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.58907084,
-          41.3244745
-        ]
-      },
-      "properties": {
-        "ref:ine": "08065000299",
-        "name": "Cal Margarit",
-        "population": 46,
-        "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.62427281,
-          41.32011846
-        ]
-      },
-      "properties": {
-        "ref:ine": "08065000599",
-        "name": "Les Casetes",
-        "population": 97,
-        "ele": 182,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.63081932,
-          41.34048963
-        ]
-      },
-      "properties": {
-        "ref:ine": "08065001299",
-        "name": "Ratera",
-        "population": 65,
-        "ele": 206,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.59585175,
-          41.32308913
-        ]
-      },
-      "properties": {
-        "ref:ine": "08065001599",
-        "name": "El Cusco",
-        "population": 44,
         "population:date": "2023"
       }
     },
@@ -73554,22 +73318,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.68535964,
-          41.3307766
-        ]
-      },
-      "properties": {
-        "ref:ine": "08145000801",
-        "name": "Polígon Industrial el Clot de Moja",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.84412622,
           41.3503613
         ]
@@ -76828,23 +76576,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.65355693,
-          41.34603641
-        ]
-      },
-      "properties": {
-        "ref:ine": "08227000101",
-        "name": "La Bleda",
-        "population": 153,
-        "ele": 204,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.615024077,
           41.40204475
         ]
@@ -76973,23 +76704,6 @@
         "name": "La Fassina",
         "population": 43,
         "ele": 272,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.64344627,
-          41.34366572
-        ]
-      },
-      "properties": {
-        "ref:ine": "08227001199",
-        "name": "el Garrofer",
-        "population": 36,
-        "ele": 216,
         "population:date": "2023"
       }
     },
@@ -78235,125 +77949,6 @@
         "name": "el Coll del Guix",
         "population": 25,
         "ele": 412,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.64727882,
-          41.3363697
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000202",
-        "name": "Muscarola",
-        "population": 29,
-        "ele": 203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.65194111,
-          41.33746033
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000203",
-        "name": "La Rovira",
-        "population": 60,
-        "ele": 203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.66400812,
-          41.32186526
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000601",
-        "name": "Els Monjos",
-        "population": 5564,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.66598511,
-          41.32861675
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000602",
-        "name": "Cal Salines",
-        "population": 55,
-        "ele": 182,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.64771741,
-          41.31056858
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000901",
-        "name": "La Ràpita",
-        "population": 1586,
-        "ele": 163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.64283577,
-          41.30402576
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000902",
-        "name": "Cal Claramunt",
-        "population": 39,
-        "ele": 155,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.64639622,
-          41.31667809
-        ]
-      },
-      "properties": {
-        "ref:ine": "08251000903",
-        "name": "Sardinyola",
-        "population": 65,
-        "ele": 173,
         "population:date": "2023"
       }
     },
@@ -81393,23 +80988,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.71002839,
-          41.33722621
-        ]
-      },
-      "properties": {
-        "ref:ine": "08305000299",
-        "name": "El Molí d'en Rovira",
-        "population": 118,
-        "ele": 200,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.73657709,
           41.34869016
         ]
@@ -81419,23 +80997,6 @@
         "name": "Pere Pau",
         "population": 116,
         "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.66626575,
-          41.32950273
-        ]
-      },
-      "properties": {
-        "ref:ine": "08305000499",
-        "name": "Les Salines",
-        "population": 43,
-        "ele": 181,
         "population:date": "2023"
       }
     },
