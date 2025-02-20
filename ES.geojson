@@ -67285,23 +67285,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.76437043,
-          41.33277885
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013000101",
-        "name": "L'Arboçar",
-        "population": 188,
-        "ele": 264,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.79945135,
           41.36817081
         ]
@@ -68605,23 +68588,6 @@
         "name": "la Parellada",
         "population": 112,
         "ele": 354,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7105732,
-          41.27327986
-        ]
-      },
-      "properties": {
-        "ref:ine": "08043000104",
-        "name": "Can Roca",
-        "population": 159,
-        "ele": 205,
         "population:date": "2023"
       }
     },
@@ -73285,23 +73251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.75509366,
-          41.31790676
-        ]
-      },
-      "properties": {
-        "ref:ine": "08145000501",
-        "name": "Can Trabal",
-        "population": 538,
-        "ele": 240,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.73378713,
           41.35572127
         ]
@@ -73411,23 +73360,6 @@
         "name": "Puig de Vidre",
         "population": 30,
         "ele": 304,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.77475243,
-          41.30361603
-        ]
-      },
-      "properties": {
-        "ref:ine": "08148000201",
-        "name": "Olivella-Urbanització",
-        "population": 4008,
-        "ele": 196,
         "population:date": "2023"
       }
     },
@@ -74842,155 +74774,6 @@
         "ref:ine": "08167000102",
         "name": "Polígono 2",
         "population": 1640,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.53013661,
-          41.42278305
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000299",
-        "name": "Can Ponç i els Sovals",
-        "population": 10,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.500330508,
-          41.40517958
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000399",
-        "name": "Cal Soler de Roset",
-        "population": 9,
-        "ele": 756,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.51975642,
-          41.39244022
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000599",
-        "name": "Sapera i el Mas de la Riera",
-        "population": 46,
-        "ele": 616,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.52069595,
-          41.41694264
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000799",
-        "name": "La Rectoria",
-        "population": 19,
-        "ele": 628,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.49264481,
-          41.43006242
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000801",
-        "name": "Urbanització Can Sendro",
-        "population": 7,
-        "ele": 776,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.51175233,
-          41.4135128
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168000901",
-        "name": "Les Fonts de Sant Bernat",
-        "population": 56,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.48154687,
-          41.42508883
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168001001",
-        "name": "La Ponderosa",
-        "population": 89,
-        "ele": 751,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.48212978,
-          41.42883443
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168001101",
-        "name": "Urbanització la Rimbalda",
-        "population": 31,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.50569716,
-          41.42086523
-        ]
-      },
-      "properties": {
-        "ref:ine": "08168001201",
-        "name": "Cal Pontonet",
-        "population": 20,
         "population:date": "2023"
       }
     },
