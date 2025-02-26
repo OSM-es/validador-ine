@@ -67921,22 +67921,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.93516678,
-          41.75872218
-        ]
-      },
-      "properties": {
-        "ref:ine": "08034000301",
-        "name": "la Colònia Jorba",
-        "population": 34,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.66275193,
           41.62138453
         ]
@@ -70698,106 +70682,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.838973811,
-          41.74644658
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113000299",
-        "name": "el Colomer",
-        "population": 40,
-        "ele": 296,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.79229788,
-          41.71362736
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113000499",
-        "name": "les Ferreres",
-        "population": 87,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.867868354,
-          41.70033635
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113001399",
-        "name": "Pont de Vilomara",
-        "population": 34,
-        "ele": 208,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83326842,
-          41.71008743
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113001401",
-        "name": "Fabrica Blanca",
-        "population": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.832664956,
-          41.71030222
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113001402",
-        "name": "Fabrica Vermella",
-        "population": 20,
-        "ele": 195,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.811048884,
-          41.71615439
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113001501",
-        "name": "Carretera d'Igualada",
-        "population": 23,
-        "ele": 248,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.9035772,
           41.47598255
         ]
@@ -71620,40 +71504,6 @@
         "name": "La Monjoia",
         "population": 13,
         "ele": 942,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.970266158,
-          41.70158898
-        ]
-      },
-      "properties": {
-        "ref:ine": "08139000102",
-        "name": "El Raval",
-        "population": 26,
-        "ele": 442,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.90892015,
-          41.76361008
-        ]
-      },
-      "properties": {
-        "ref:ine": "08140000201",
-        "name": "el Galobard",
-        "population": 4,
-        "ele": 277,
         "population:date": "2023"
       }
     },
@@ -72974,57 +72824,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.87116652,
-          41.69986456
-        ]
-      },
-      "properties": {
-        "ref:ine": "08182000101",
-        "name": "El Pont de Vilomara",
-        "population": 2775,
-        "ele": 204,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.87157254,
-          41.69795007
-        ]
-      },
-      "properties": {
-        "ref:ine": "08182000102",
-        "name": "Marquet Paradís",
-        "population": 876,
-        "ele": 205,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.89684065,
-          41.71728975
-        ]
-      },
-      "properties": {
-        "ref:ine": "08182000103",
-        "name": "River Park",
-        "population": 316,
-        "ele": 366,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.3192278,
           41.9880024
         ]
@@ -73720,107 +73519,6 @@
         "name": "les Solanes",
         "population": 11,
         "ele": 600,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83200108,
-          41.75952204
-        ]
-      },
-      "properties": {
-        "ref:ine": "08213000101",
-        "name": "La Rosaleda de Bages",
-        "population": 531,
-        "ele": 308,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.88479239,
-          41.73969075
-        ]
-      },
-      "properties": {
-        "ref:ine": "08213000401",
-        "name": "Les Brucardes",
-        "population": 711,
-        "ele": 311,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.90085523,
-          41.74272752
-        ]
-      },
-      "properties": {
-        "ref:ine": "08213000701",
-        "name": "Sant Benet de Bages",
-        "population": 8,
-        "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.84405086,
-          41.75838286
-        ]
-      },
-      "properties": {
-        "ref:ine": "08213000801",
-        "name": "Sant Iscle i Santa Victòria",
-        "population": 8,
-        "ele": 295,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.80602081,
-          41.76845108
-        ]
-      },
-      "properties": {
-        "ref:ine": "08218000199",
-        "name": "Joncadella",
-        "population": 18,
-        "ele": 278,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.791095,
-          41.77269937
-        ]
-      },
-      "properties": {
-        "ref:ine": "08218000201",
-        "name": "Sant Martí de Torroella",
-        "population": 70,
         "population:date": "2023"
       }
     },
