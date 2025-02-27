@@ -68327,57 +68327,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.887317,
-          41.665769
-        ]
-      },
-      "properties": {
-        "ref:ine": "08053001199",
-        "name": "Raval del Clot",
-        "population": 14,
-        "ele": 380,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.824406,
-          41.648949
-        ]
-      },
-      "properties": {
-        "ref:ine": "08053001899",
-        "name": "Molí de l'Alzina",
-        "population": 6,
-        "ele": 220,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.80765276,
-          41.64177731
-        ]
-      },
-      "properties": {
-        "ref:ine": "08053001901",
-        "name": "el Pla de les Botges",
-        "population": 27,
-        "ele": 314,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.8542308,
           41.64713249
         ]
@@ -68503,125 +68452,6 @@
         "name": "el Solà del Boix",
         "population": 0,
         "ele": 675,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.71673535,
-          41.66409034
-        ]
-      },
-      "properties": {
-        "ref:ine": "08059000599",
-        "name": "Canyelles",
-        "population": 40,
-        "ele": 450,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.84489285,
-          41.67777984
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061000101",
-        "name": "La Fàbrica",
-        "population": 179,
-        "ele": 193,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83995335,
-          41.6845664
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061000399",
-        "name": "Can Font",
-        "population": 30,
-        "ele": 194,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83492772,
-          41.69073938
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061000799",
-        "name": "Els Torrents",
-        "population": 32,
-        "ele": 212,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86765272,
-          41.68160896
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061000899",
-        "name": "Boades",
-        "population": 65,
-        "ele": 227,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83892525,
-          41.66889293
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061000901",
-        "name": "Mas Planoi",
-        "population": 1318,
-        "ele": 250,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.840228,
-          41.669339
-        ]
-      },
-      "properties": {
-        "ref:ine": "08061001099",
-        "name": "Urbanització Mas Planoi IV",
-        "population": 29,
-        "ele": 253,
         "population:date": "2023"
       }
     },
@@ -69961,124 +69791,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.7880907,
-          41.67968115
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000101",
-        "name": "Coll D'Arboç",
-        "population": 31,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.77360272,
-          41.66758436
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000201",
-        "name": "Raval del Parrot",
-        "population": 27,
-        "ele": 381,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.75827419,
-          41.68390247
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000301",
-        "name": "Raval del Sellerès",
-        "population": 97,
-        "ele": 307,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.78527393,
-          41.68572208
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000401",
-        "name": "El Calbet",
-        "population": 1502,
-        "ele": 324,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7764756,
-          41.67446023
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000801",
-        "name": "El Graell",
-        "population": 171,
-        "ele": 344,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.78891054,
-          41.68658008
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098000901",
-        "name": "El Pinyot",
-        "population": 50,
-        "ele": 300,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.73749013,
-          41.67396659
-        ]
-      },
-      "properties": {
-        "ref:ine": "08098001101",
-        "name": "Set-Rengs",
-        "population": 8,
-        "ele": 386,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.37839118,
           41.59945935
         ]
@@ -71385,23 +71097,6 @@
         "name": "Monestir de Montserrat",
         "population": 44,
         "ele": 727,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81480523,
-          41.65311894
-        ]
-      },
-      "properties": {
-        "ref:ine": "08127000699",
-        "name": "Vilamaric",
-        "population": 7,
-        "ele": 288,
         "population:date": "2023"
       }
     },
@@ -74485,22 +74180,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.79408417,
-          41.64501344
-        ]
-      },
-      "properties": {
-        "ref:ine": "08242000399",
-        "name": "Pla de Roldors",
-        "population": 21,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.81713501,
           41.61178288
         ]
@@ -75010,56 +74689,6 @@
         "ref:ine": "08261001199",
         "name": "La Vall",
         "population": 1060,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.869925138,
-          41.68213989
-        ]
-      },
-      "properties": {
-        "ref:ine": "08262000199",
-        "name": "Boades",
-        "population": 15,
-        "ele": 180,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83711084,
-          41.66024594
-        ]
-      },
-      "properties": {
-        "ref:ine": "08262000299",
-        "name": "El Clot del Tufau",
-        "population": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83196687,
-          41.660428
-        ]
-      },
-      "properties": {
-        "ref:ine": "08262000601",
-        "name": "Can Xesc",
-        "population": 57,
-        "ele": 214,
         "population:date": "2023"
       }
     },
