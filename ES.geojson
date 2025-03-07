@@ -67232,40 +67232,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.7826575,
-          41.57903397
-        ]
-      },
-      "properties": {
-        "ref:ine": "08025000101",
-        "name": "El Bruc",
-        "population": 1214,
-        "ele": 475,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.800109921,
-          41.5714723
-        ]
-      },
-      "properties": {
-        "ref:ine": "08025000301",
-        "name": "el Bruc Residencial",
-        "population": 246,
-        "ele": 414,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.69160573,
           41.48770176
         ]
@@ -67325,22 +67291,6 @@
         "ref:ine": "08028000799",
         "name": "Agolladolç",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.69712695,
-          41.51583977
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028000899",
-        "name": "Cal Bota",
-        "population": 20,
         "population:date": "2023"
       }
     },
@@ -67804,22 +67754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.87081681,
-          41.62019446
-        ]
-      },
-      "properties": {
-        "ref:ine": "08053002401",
-        "name": "La Vall de Montserrat",
-        "population": 516,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.99607455,
           41.45807342
         ]
@@ -68148,139 +68082,6 @@
         "ref:ine": "08068001901",
         "name": "Can Roig",
         "population": 70,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8069551,
-          41.56370647
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069000301",
-        "name": "Can Dalmases",
-        "population": 1245,
-        "ele": 365,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81699229,
-          41.56112606
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069000401",
-        "name": "La Font del Còdol",
-        "population": 224,
-        "ele": 334,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.82211033,
-          41.56127766
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069000501",
-        "name": "Les Illes",
-        "population": 204,
-        "ele": 279,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.82248354,
-          41.56383947
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069000601",
-        "name": "La Fumada",
-        "population": 75,
-        "ele": 334,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81632372,
-          41.56490214
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069000701",
-        "name": "Pla del Castell",
-        "population": 1431,
-        "ele": 354,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.82432785,
-          41.57191962
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069001001",
-        "name": "El Pujolet",
-        "population": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.82395635,
-          41.56793472
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069001101",
-        "name": "Els Clots",
-        "population": 212,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81165824,
-          41.56360205
-        ]
-      },
-      "properties": {
-        "ref:ine": "08069001201",
-        "name": "Pla de Can Migrat",
-        "population": 263,
         "population:date": "2023"
       }
     },
@@ -70748,23 +70549,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.74427844,
-          41.55513991
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000201",
-        "name": "Ca n'Aguilera",
-        "population": 179,
-        "ele": 501,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.763967323,
           41.48603255
         ]
@@ -70884,40 +70668,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.749209213,
-          41.54480213
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001001",
-        "name": "el Bosc de l'Àliga",
-        "population": 258,
-        "ele": 394,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.752929733,
-          41.55010998
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001401",
-        "name": "Can Martí de l'Estela",
-        "population": 806,
-        "ele": 398,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.72864362,
           41.51037374
         ]
@@ -70985,23 +70735,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.73420382,
-          41.53250261
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161002101",
-        "name": "la Venta i Can Mossarro",
-        "population": 488,
-        "ele": 351,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.81987653,
           41.52584744
         ]
@@ -71019,23 +70752,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.770237,
-          41.533939
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162000201",
-        "name": "Els Hostalets de Pierola",
-        "population": 2029,
-        "ele": 250,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.83439761,
           41.52016778
         ]
@@ -71045,56 +70761,6 @@
         "name": "Can Fontimarc",
         "population": 12,
         "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.749610754,
-          41.56767943
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162000899",
-        "name": "els Boscos de Can Martí",
-        "population": 45,
-        "ele": 520,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.75892333,
-          41.55181313
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162000999",
-        "name": "Can Rovira",
-        "population": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.782381535,
-          41.56711325
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162001099",
-        "name": "Can Termens",
-        "population": 22,
-        "ele": 426,
         "population:date": "2023"
       }
     },
@@ -71295,23 +70961,6 @@
         "name": "Les Tarumbes",
         "population": 19,
         "ele": 203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.67975788,
-          41.55698853
-        ]
-      },
-      "properties": {
-        "ref:ine": "08165000201",
-        "name": "Can Galan",
-        "population": 726,
-        "ele": 307,
         "population:date": "2023"
       }
     },
@@ -73998,40 +73647,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.68678563,
-          41.53832107
-        ]
-      },
-      "properties": {
-        "ref:ine": "08286000101",
-        "name": "La Torre Baixa",
-        "population": 137,
-        "ele": 383,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.6680969,
-          41.54121366
-        ]
-      },
-      "properties": {
-        "ref:ine": "08286000601",
-        "name": "Xaró",
-        "population": 141,
-        "ele": 358,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.74446722,
           41.42629377
         ]
@@ -74274,40 +73889,6 @@
         "name": "Can Cabassa",
         "population": 46,
         "ele": 269,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.874465869,
-          41.60568124
-        ]
-      },
-      "properties": {
-        "ref:ine": "08291001701",
-        "name": "Can Xoles del Palà",
-        "population": 98,
-        "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70566952,
-          41.51894458
-        ]
-      },
-      "properties": {
-        "ref:ine": "08292000101",
-        "name": "Vallbona d'Anoia",
-        "population": 1428,
-        "ele": 287,
         "population:date": "2023"
       }
     },
