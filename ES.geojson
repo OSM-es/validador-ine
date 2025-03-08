@@ -67232,89 +67232,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.69160573,
-          41.48770176
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028000199",
-        "name": "Can Feixes",
-        "population": 10,
-        "ele": 323,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.73946446,
-          41.4776165
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028000399",
-        "name": "Can Gallego",
-        "population": 10,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7222345,
-          41.47067106
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028000401",
-        "name": "Can Ros",
-        "population": 945,
-        "ele": 260,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70005577,
-          41.47786261
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028000799",
-        "name": "Agolladolç",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70945128,
-          41.48844375
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028001199",
-        "name": "Guitxa Nova",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.403499,
           41.53369604
         ]
@@ -69722,23 +69639,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.692554,
-          41.47926378
-        ]
-      },
-      "properties": {
-        "ref:ine": "08122000499",
-        "name": "La Quadra d'Agullàdols",
-        "population": 38,
-        "ele": 357,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.16892818,
           41.47098097
         ]
@@ -70532,74 +70432,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.72019725,
-          41.49805948
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000101",
-        "name": "el Bedorc",
-        "population": 278,
-        "ele": 209,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.763967323,
-          41.48603255
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000301",
-        "name": "Can Bou",
-        "population": 29,
-        "ele": 306,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.763967323,
-          41.48603255
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000302",
-        "name": "Urbanització Can Bou",
-        "population": 253,
-        "ele": 306,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.785711097,
-          41.49555141
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000401",
-        "name": "Can Cairot",
-        "population": 19,
-        "ele": 289,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.794389536,
           41.46786603
         ]
@@ -70643,90 +70475,6 @@
         "name": "Can Canals",
         "population": 1628,
         "ele": 277,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.774413633,
-          41.49620232
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000601",
-        "name": "Can Creixell",
-        "population": 20,
-        "ele": 210,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.72864362,
-          41.51037374
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001601",
-        "name": "Can Mata",
-        "population": 524,
-        "ele": 290,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.731445612,
-          41.50376
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001701",
-        "name": "el Castell de la Ventosa",
-        "population": 189,
-        "ele": 247,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76459384,
-          41.51281001
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001801",
-        "name": "La Grua",
-        "population": 74,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76256497,
-          41.5161479
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161001901",
-        "name": "Sant Jordi",
-        "population": 220,
-        "ele": 332,
         "population:date": "2023"
       }
     },
@@ -73655,23 +73403,6 @@
         "ref:ine": "08287000301",
         "name": "Cal Rossell de la Serra",
         "population": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.71238909,
-          41.4653011
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000499",
-        "name": "el Carrer del Bessó",
-        "population": 11,
-        "ele": 312,
         "population:date": "2023"
       }
     },
