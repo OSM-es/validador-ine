@@ -66965,91 +66965,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.79945135,
-          41.36817081
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013000301",
-        "name": "Cantallops",
-        "population": 263,
-        "ele": 276,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.78108799,
-          41.35268332
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013000401",
-        "name": "Les Gunyoles",
-        "population": 280,
-        "ele": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76525014,
-          41.3810677
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013000501",
-        "name": "Sant Sebastià dels Gorgs",
-        "population": 94,
-        "ele": 213,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.79132576,
-          41.36467198
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013000899",
-        "name": "Collblanc",
-        "population": 51,
-        "ele": 278,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81197245,
-          41.34372883
-        ]
-      },
-      "properties": {
-        "ref:ine": "08013001001",
-        "name": "Urbanització Can Mitjans",
-        "population": 174,
-        "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.91034306,
           41.33420818
         ]
@@ -69843,39 +69758,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.84412622,
-          41.3503613
-        ]
-      },
-      "properties": {
-        "ref:ine": "08146000301",
-        "name": "Can Costa",
-        "population": 106,
-        "ele": 318,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.85552982,
-          41.35172725
-        ]
-      },
-      "properties": {
-        "ref:ine": "08146000401",
-        "name": "Can Morgades",
-        "population": 183,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.88692153,
           41.36429399
         ]
@@ -69893,23 +69775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.85014946,
-          41.34771942
-        ]
-      },
-      "properties": {
-        "ref:ine": "08146000601",
-        "name": "Can Xacó",
-        "population": 148,
-        "ele": 284,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.88926642,
           41.36701884
         ]
@@ -69919,23 +69784,6 @@
         "name": "Pla del Pèlec",
         "population": 490,
         "ele": 473,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.844168901,
-          41.35023989
-        ]
-      },
-      "properties": {
-        "ref:ine": "08146000801",
-        "name": "Puig de Vidre",
-        "population": 30,
-        "ele": 304,
         "population:date": "2023"
       }
     },
@@ -70675,40 +70523,6 @@
         "name": "Montessol",
         "population": 56,
         "ele": 112,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.74190944,
-          41.41869069
-        ]
-      },
-      "properties": {
-        "ref:ine": "08164000401",
-        "name": "Les Parellades",
-        "population": 71,
-        "ele": 236,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.73398071,
-          41.41105559
-        ]
-      },
-      "properties": {
-        "ref:ine": "08164000601",
-        "name": "Les Tarumbes",
-        "population": 19,
-        "ele": 203,
         "population:date": "2023"
       }
     },
@@ -72690,193 +72504,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.73934143,
-          41.40979037
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000101",
-        "name": "Ca l'Avi",
-        "population": 102,
-        "ele": 197,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.75450017,
-          41.40479426
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000201",
-        "name": "Can Bas",
-        "population": 19,
-        "ele": 193,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.77546162,
-          41.4104506
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000301",
-        "name": "Can Batista",
-        "population": 57,
-        "ele": 154,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.805706024,
-          41.39821183
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000501",
-        "name": "Can Rossell",
-        "population": 76,
-        "ele": 342,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.80313544,
-          41.36939815
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000601",
-        "name": "Cantallops",
-        "population": 92,
-        "ele": 282,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8092281,
-          41.40900341
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000701",
-        "name": "Els Casots",
-        "population": 50,
-        "ele": 333,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.77105035,
-          41.39058747
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273000801",
-        "name": "Lavern",
-        "population": 426,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81360985,
-          41.38517925
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001001",
-        "name": "El Pago",
-        "population": 66,
-        "ele": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7546295,
-          41.40491275
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001101",
-        "name": "Sant Joan",
-        "population": 50,
-        "ele": 194,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.79099992,
-          41.38806951
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001202",
-        "name": "La Guàrdia",
-        "population": 61,
-        "ele": 329,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.797766685,
-          41.40099639
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001301",
-        "name": "Urbanització Can Rossell",
-        "population": 172,
-        "ele": 337,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.835876451,
           41.4215089
         ]
@@ -72886,23 +72513,6 @@
         "name": "Casablanca",
         "population": 438,
         "ele": 208,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81666753,
-          41.37485238
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001501",
-        "name": "La Muntanya Rodona",
-        "population": 106,
-        "ele": 345,
         "population:date": "2023"
       }
     },
@@ -73387,106 +72997,6 @@
         "name": "Roca-rossa",
         "population": 88,
         "ele": 412,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.74446722,
-          41.42629377
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000301",
-        "name": "Cal Rossell de la Serra",
-        "population": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.72824024,
-          41.45137202
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000501",
-        "name": "el Carrer del Bosc",
-        "population": 174,
-        "ele": 242,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.72993358,
-          41.44680602
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000601",
-        "name": "Lavit",
-        "population": 136,
-        "ele": 210,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.73054401,
-          41.44374128
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000701",
-        "name": "La Pineda",
-        "population": 718,
-        "ele": 215,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.75194701,
-          41.43939967
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287000899",
-        "name": "La Riera",
-        "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7242271,
-          41.44844528
-        ]
-      },
-      "properties": {
-        "ref:ine": "08287001001",
-        "name": "Terrassola",
-        "population": 221,
-        "ele": 206,
         "population:date": "2023"
       }
     },
