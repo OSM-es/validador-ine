@@ -66131,107 +66131,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.92379297,
-          41.52092166
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001302",
-        "name": "Can Vilalba",
-        "population": 1619,
-        "ele": 139,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.92891302,
-          41.50115344
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001303",
-        "name": "les Carpes de Vilalba",
-        "population": 824,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.91666989,
-          41.53121315
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001304",
-        "name": "Sant Miquel",
-        "population": 55,
-        "ele": 112,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.929257503,
-          41.50605337
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001305",
-        "name": "Santa Maria de Vilalba i Can Torres",
-        "population": 237,
-        "ele": 128,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.88020201,
-          41.51194877
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001402",
-        "name": "Ca n'Amat",
-        "population": 776,
-        "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8969302,
-          41.51057912
-        ]
-      },
-      "properties": {
-        "ref:ine": "08001001403",
-        "name": "Polígon Barcelones",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.290370464,
           41.49843714
         ]
@@ -68244,40 +68143,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.87178051,
-          41.54834584
-        ]
-      },
-      "properties": {
-        "ref:ine": "08076000301",
-        "name": "la Colònia Sedó",
-        "population": 330,
-        "ele": 83,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83607488,
-          41.53357856
-        ]
-      },
-      "properties": {
-        "ref:ine": "08076000501",
-        "name": "el Mas d'en Gall",
-        "population": 2124,
-        "ele": 271,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.443422675,
           41.72774181
         ]
@@ -69368,74 +69233,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.83054442,
-          41.50785175
-        ]
-      },
-      "properties": {
-        "ref:ine": "08119000401",
-        "name": "Can Parellada",
-        "population": 1965,
-        "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7974994,
-          41.48048936
-        ]
-      },
-      "properties": {
-        "ref:ine": "08119000501",
-        "name": "Can Quiseró",
-        "population": 339,
-        "ele": 254,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.80848378,
-          41.49546555
-        ]
-      },
-      "properties": {
-        "ref:ine": "08119000601",
-        "name": "Can Valls",
-        "population": 190,
-        "ele": 246,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.80571663,
-          41.48958217
-        ]
-      },
-      "properties": {
-        "ref:ine": "08119000701",
-        "name": "El Maset",
-        "population": 1248,
-        "ele": 218,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.02112523,
           41.60186416
         ]
@@ -70280,57 +70077,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.794389536,
-          41.46786603
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000501",
-        "name": "El Portell",
-        "population": 279,
-        "ele": 292,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.778129388,
-          41.46718714
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000502",
-        "name": "Can Canals (Nucli Antic)",
-        "population": 42,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.784972002,
-          41.47072442
-        ]
-      },
-      "properties": {
-        "ref:ine": "08161000503",
-        "name": "Can Canals",
-        "population": 1628,
-        "ele": 277,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.81987653,
           41.52584744
         ]
@@ -70340,23 +70086,6 @@
         "name": "Can Gras",
         "population": 35,
         "ele": 261,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.83439761,
-          41.52016778
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162000499",
-        "name": "Can Fontimarc",
-        "population": 12,
-        "ele": 229,
         "population:date": "2023"
       }
     },
@@ -71013,57 +70742,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.839627673,
-          41.49900277
-        ]
-      },
-      "properties": {
-        "ref:ine": "08208000101",
-        "name": "la Beguda Alta",
-        "population": 200,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.88089415,
-          41.50655113
-        ]
-      },
-      "properties": {
-        "ref:ine": "08208000601",
-        "name": "Ca n'Amat",
-        "population": 1462,
-        "ele": 161,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86661188,
-          41.50100695
-        ]
-      },
-      "properties": {
-        "ref:ine": "08208000701",
-        "name": "Vallserrat",
-        "population": 2312,
-        "ele": 191,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.90299849,
           41.47478807
         ]
@@ -71073,23 +70751,6 @@
         "name": "Pou del Merli",
         "population": 132,
         "ele": 129,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8445087,
-          41.49509515
-        ]
-      },
-      "properties": {
-        "ref:ine": "08208000901",
-        "name": "Masía Bach",
-        "population": 426,
-        "ele": 245,
         "population:date": "2023"
       }
     },
@@ -71132,40 +70793,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.82533004,
-          41.46817564
-        ]
-      },
-      "properties": {
-        "ref:ine": "08222000301",
-        "name": "Sant Llorenç d'Hortons",
-        "population": 1792,
-        "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81593631,
-          41.47437544
-        ]
-      },
-      "properties": {
-        "ref:ine": "08222000501",
-        "name": "El Torrentfondo",
-        "population": 35,
-        "ele": 220,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.87254591,
           41.46004599
         ]
@@ -71174,23 +70801,6 @@
         "ref:ine": "08222000699",
         "name": "Can Bargallo",
         "population": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.79403211,
-          41.47369764
-        ]
-      },
-      "properties": {
-        "ref:ine": "08222000701",
-        "name": "El Grandet",
-        "population": 216,
-        "ele": 299,
         "population:date": "2023"
       }
     },
@@ -71881,57 +71491,6 @@
         "name": "Vallès Parc",
         "population": 1161,
         "ele": 181,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.79570408,
-          41.4610149
-        ]
-      },
-      "properties": {
-        "ref:ine": "08240000101",
-        "name": "Can Benet de la Prua",
-        "population": 64,
-        "ele": 222,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.81021256,
-          41.44026888
-        ]
-      },
-      "properties": {
-        "ref:ine": "08240000301",
-        "name": "Espiells",
-        "population": 48,
-        "ele": 181,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.78591176,
-          41.4467706
-        ]
-      },
-      "properties": {
-        "ref:ine": "08240000401",
-        "name": "Monistrol d'Anoia",
-        "population": 10,
-        "ele": 137,
         "population:date": "2023"
       }
     },
