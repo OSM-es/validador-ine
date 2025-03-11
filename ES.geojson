@@ -67485,90 +67485,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99607455,
-          41.45807342
-        ]
-      },
-      "properties": {
-        "ref:ine": "08054000701",
-        "name": "Santa Rita",
-        "population": 74,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.98345676,
-          41.481706
-        ]
-      },
-      "properties": {
-        "ref:ine": "08054001199",
-        "name": "Polígon Industrial Comte de Sert",
-        "population": 15,
-        "ele": 159,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.93980745,
-          41.47669135
-        ]
-      },
-      "properties": {
-        "ref:ine": "08054001501",
-        "name": "La Colònia del Carme",
-        "population": 21,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.94161055,
-          41.45713495
-        ]
-      },
-      "properties": {
-        "ref:ine": "08066000401",
-        "name": "Can Sunyer del Palau",
-        "population": 723,
-        "ele": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.937028022,
-          41.46259628
-        ]
-      },
-      "properties": {
-        "ref:ine": "08066000601",
-        "name": "Valldaina",
-        "population": 92,
-        "ele": 234,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.97021923,
           41.38938886
         ]
@@ -68397,123 +68313,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.84558513,
-          41.43684606
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000201",
-        "name": "El Puig",
-        "population": 67,
-        "ele": 133,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.85538935,
-          41.42860324
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000401",
-        "name": "La Valenciana",
-        "population": 41,
-        "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.85421579,
-          41.44633592
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000501",
-        "name": "Les Cases Noves",
-        "population": 45,
-        "ele": 201,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.85007572,
-          41.41977717
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000601",
-        "name": "Martivell",
-        "population": 731,
-        "ele": 278,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86856683,
-          41.45268397
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000701",
-        "name": "Sant Salvador de la Calçada",
-        "population": 101,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.872739792,
-          41.45516697
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000703",
-        "name": "Urbanització Vinya Ceguet",
-        "population": 4,
-        "ele": 94,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.85107891,
-          41.4382161
-        ]
-      },
-      "properties": {
-        "ref:ine": "08091000901",
-        "name": "El Maset",
-        "population": 26,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.515987227,
           41.72362004
         ]
@@ -69193,38 +68992,6 @@
         "name": "Barri de Can Xiol",
         "population": 211,
         "ele": 106,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9035772,
-          41.47598255
-        ]
-      },
-      "properties": {
-        "ref:ine": "08114000399",
-        "name": "Pou del Merli",
-        "population": 121,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.92327365,
-          41.46544978
-        ]
-      },
-      "properties": {
-        "ref:ine": "08114000499",
-        "name": "Sant Genis",
-        "population": 5,
         "population:date": "2023"
       }
     },
@@ -70077,23 +69844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.81987653,
-          41.52584744
-        ]
-      },
-      "properties": {
-        "ref:ine": "08162000199",
-        "name": "Can Gras",
-        "population": 35,
-        "ele": 261,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.6870878,
           41.63304518
         ]
@@ -70742,23 +70492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.90299849,
-          41.47478807
-        ]
-      },
-      "properties": {
-        "ref:ine": "08208000801",
-        "name": "Pou del Merli",
-        "population": 132,
-        "ele": 129,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.24940832,
           41.50188896
         ]
@@ -70785,38 +70518,6 @@
         "name": "Mas Llombard",
         "population": 948,
         "ele": 194,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.87254591,
-          41.46004599
-        ]
-      },
-      "properties": {
-        "ref:ine": "08222000699",
-        "name": "Can Bargallo",
-        "population": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86559476,
-          41.45834735
-        ]
-      },
-      "properties": {
-        "ref:ine": "08222000801",
-        "name": "Vinya del Pollastre",
-        "population": 70,
         "population:date": "2023"
       }
     },
@@ -72055,23 +71756,6 @@
         "name": "Can Vinyals",
         "population": 380,
         "ele": 279,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.835876451,
-          41.4215089
-        ]
-      },
-      "properties": {
-        "ref:ine": "08273001401",
-        "name": "Casablanca",
-        "population": 438,
-        "ele": 208,
         "population:date": "2023"
       }
     },
