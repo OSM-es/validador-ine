@@ -1287,6 +1287,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.107910156,
+          42.89873726
+        ]
+      },
+      "properties": {
+        "ref:ine": "15079131099",
+        "name": "O Fervedoiro",
+        "population": 5,
+        "ele": 310,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.61936839,
           42.81635012
         ]
