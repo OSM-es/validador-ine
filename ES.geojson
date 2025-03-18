@@ -68396,210 +68396,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.17818909,
-          41.57491048
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000101",
-        "name": "El Carrer de Baix i la Plana de Can Periquet",
-        "population": 1402,
-        "ele": 125,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17452664,
-          41.59595201
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000201",
-        "name": "el Carrer de Dalt, la Pineda i la Plana de l'Alzina",
-        "population": 2544,
-        "ele": 137,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17641078,
-          41.56380989
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000301",
-        "name": "Polígon Industrial Riera de Caldes",
-        "population": 529,
-        "ele": 100,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17219031,
-          41.59098127
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000401",
-        "name": "Montjuïc",
-        "population": 632,
-        "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16567308,
-          41.58462913
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000601",
-        "name": "La Sagrera",
-        "population": 1352,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16452571,
-          41.58056757
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000901",
-        "name": "Can Riera",
-        "population": 637,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17276143,
-          41.59323718
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156000902",
-        "name": "La Serra",
-        "population": 493,
-        "ele": 134,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18561424,
-          41.59495925
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156001001",
-        "name": "Can Falguera-Els Turons",
-        "population": 1664,
-        "ele": 183,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18316011,
-          41.57736885
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156001101",
-        "name": "Can Cortès i la Pedra Llarga",
-        "population": 1210,
-        "ele": 139,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18502153,
-          41.5724281
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156001201",
-        "name": "Can Maiol",
-        "population": 171,
-        "ele": 141,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1705703,
-          41.56755092
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156001301",
-        "name": "Can Perera i Can Valls",
-        "population": 140,
-        "ele": 126,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18602989,
-          41.57905553
-        ]
-      },
-      "properties": {
-        "ref:ine": "08156001401",
-        "name": "El Castell i la Tenda Nova",
-        "population": 759,
-        "ele": 162,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.239733883,
           41.56907398
         ]
@@ -68940,38 +68736,6 @@
         "name": "Montessol",
         "population": 56,
         "ele": 112,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16130515,
-          41.55130675
-        ]
-      },
-      "properties": {
-        "ref:ine": "08167000101",
-        "name": "Polígono 1",
-        "population": 6614,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16001111,
-          41.54289357
-        ]
-      },
-      "properties": {
-        "ref:ine": "08167000102",
-        "name": "Polígono 2",
-        "population": 1640,
         "population:date": "2023"
       }
     },
@@ -69422,40 +69186,6 @@
         "name": "Les Margarides",
         "population": 40,
         "ele": 412,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.24940832,
-          41.50188896
-        ]
-      },
-      "properties": {
-        "ref:ine": "08209000301",
-        "name": "Mas Corts",
-        "population": 353,
-        "ele": 253,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.23742244,
-          41.50226049
-        ]
-      },
-      "properties": {
-        "ref:ine": "08209000401",
-        "name": "Mas Llombard",
-        "population": 948,
-        "ele": 194,
         "population:date": "2023"
       }
     },
@@ -70053,22 +69783,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25038565,
-          41.52521536
-        ]
-      },
-      "properties": {
-        "ref:ine": "08256000101",
-        "name": "Barrí Colomer",
-        "population": 214,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.45356084,
           41.68858715
         ]
@@ -70129,40 +69843,6 @@
         "name": "Sanata",
         "population": 990,
         "ele": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.19105065,
-          41.52175987
-        ]
-      },
-      "properties": {
-        "ref:ine": "08260000101",
-        "name": "La Florida",
-        "population": 7553,
-        "ele": 58,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.19616699,
-          41.52962308
-        ]
-      },
-      "properties": {
-        "ref:ine": "08260000299",
-        "name": "Mogoda",
-        "population": 98,
-        "ele": 65,
         "population:date": "2023"
       }
     },
@@ -70406,22 +70086,6 @@
         "ref:ine": "08264002401",
         "name": "Regadiu Sud",
         "population": 243,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.14909241,
-          41.58652519
-        ]
-      },
-      "properties": {
-        "ref:ine": "08267000999",
-        "name": "Can Fargues",
-        "population": 68,
         "population:date": "2023"
       }
     },
