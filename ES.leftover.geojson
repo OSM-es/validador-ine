@@ -214,6 +214,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.6417883,
+          38.2873008
+        ]
+      },
+      "properties": {
+        "ref:ine": "3065001399",
+        "name": "Jubalcoi",
+        "type": "node",
+        "id": "12696272390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1771459,
           37.5632875
         ]
