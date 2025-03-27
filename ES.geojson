@@ -66165,40 +66165,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.24950875,
-          41.65183214
-        ]
-      },
-      "properties": {
-        "ref:ine": "08005000699",
-        "name": "Can Plantada",
-        "population": 25,
-        "ele": 206,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.26025946,
-          41.65373018
-        ]
-      },
-      "properties": {
-        "ref:ine": "08005000701",
-        "name": "Can Reixac",
-        "population": 207,
-        "ele": 217,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.56582883,
           41.58605029
         ]
@@ -66597,23 +66563,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.19211768,
-          41.67669008
-        ]
-      },
-      "properties": {
-        "ref:ine": "08023001201",
-        "name": "Can Traver",
-        "population": 502,
-        "ele": 283,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.52733996,
           41.56984859
         ]
@@ -66690,39 +66639,6 @@
         "ref:ine": "08035000601",
         "name": "Parc de Calella",
         "population": 733,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.21472296,
-          41.6504021
-        ]
-      },
-      "properties": {
-        "ref:ine": "08041000199",
-        "name": "La Serra",
-        "population": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.27802588,
-          41.62321905
-        ]
-      },
-      "properties": {
-        "ref:ine": "08041001201",
-        "name": "Sant Feliu",
-        "population": 25,
-        "ele": 215,
         "population:date": "2023"
       }
     },
@@ -67271,104 +67187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.23831648,
-          41.61098359
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000101",
-        "name": "Lliçà d'Amunt",
-        "population": 2481,
-        "ele": 142,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.23545235,
-          41.62587134
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000102",
-        "name": "La Cruïlla",
-        "population": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.23664566,
-          41.61934913
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000103",
-        "name": "El Pla",
-        "population": 185,
-        "ele": 143,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.22960201,
-          41.62924602
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000104",
-        "name": "Barri Ballesta",
-        "population": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.23868024,
-          41.60862614
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000105",
-        "name": "Barri Can Peret Manent",
-        "population": 19,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.26215614,
-          41.63063021
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000106",
-        "name": "Barri la Serra",
-        "population": 52,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.25036485,
           41.60280316
         ]
@@ -67377,73 +67195,6 @@
         "ref:ine": "08107000107",
         "name": "Barri Migdia",
         "population": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.24893571,
-          41.62463605
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000108",
-        "name": "Santa Justa",
-        "population": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.25051063,
-          41.61094651
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000111",
-        "name": "Raval de Merlès",
-        "population": 46,
-        "ele": 168,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.22821725,
-          41.62456208
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000115",
-        "name": "la Pineda Feu",
-        "population": 408,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.25296471,
-          41.61044905
-        ]
-      },
-      "properties": {
-        "ref:ine": "08107000116",
-        "name": "Raval d'en Xicota",
-        "population": 63,
-        "ele": 156,
         "population:date": "2023"
       }
     },
@@ -68447,108 +68198,6 @@
         "ref:ine": "08235001501",
         "name": "Urbanització el Cassarell",
         "population": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.23681891,
-          41.65555866
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000101",
-        "name": "El Bonaire",
-        "population": 268,
-        "ele": 188,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2324692,
-          41.63751565
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000201",
-        "name": "El Rieral",
-        "population": 1908,
-        "ele": 170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2265844,
-          41.65270716
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000301",
-        "name": "La Sagrera",
-        "population": 1368,
-        "ele": 218,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.21648422,
-          41.64875681
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000501",
-        "name": "La Serra",
-        "population": 572,
-        "ele": 241,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.21533371,
-          41.64460574
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000601",
-        "name": "El Serrat",
-        "population": 1007,
-        "ele": 233,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.21362794,
-          41.63675798
-        ]
-      },
-      "properties": {
-        "ref:ine": "08248000701",
-        "name": "La Vall",
-        "population": 766,
-        "ele": 214,
         "population:date": "2023"
       }
     },
