@@ -38,22 +38,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9685642,
-          42.2094271
-        ]
-      },
-      "properties": {
-        "ref:ine": "32020040901",
-        "name": "Os Pazos",
-        "type": "node",
-        "id": "1818330035"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9786836,
           42.2079235
         ]
