@@ -150,22 +150,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4005746,
-          42.0054923
-        ]
-      },
-      "properties": {
-        "ref:ine": "32021060299",
-        "name": "Ribas",
-        "type": "node",
-        "id": "8121736299"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]
@@ -191,6 +175,22 @@
         "name": "A Braña",
         "type": "node",
         "id": "10138405954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9625692,
+          42.3612432
+        ]
+      },
+      "properties": {
+        "ref:ine": "3200208050",
+        "name": "Monte Asnal",
+        "type": "node",
+        "id": "10554649400"
       }
     },
     {
