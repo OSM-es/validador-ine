@@ -57708,6 +57708,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -17.89405324,
+          28.63539624
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001004",
+        "name": "Tajuya",
+        "population": 14,
+        "ele": 457,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.40554459,
           43.41964829
         ]
