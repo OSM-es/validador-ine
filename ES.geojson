@@ -6317,241 +6317,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82328022,
-          41.74604028
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000101",
-        "name": "Mas Romeu Residencial",
-        "population": 283,
-        "ele": 194,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.88348295,
-          41.70863773
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000299",
-        "name": "Canyelles",
-        "population": 733,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82192445,
-          41.74041772
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000401",
-        "name": "la Creu de Lloret",
-        "population": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.79564027,
-          41.73878905
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000404",
-        "name": "Masies de Lloret",
-        "population": 54,
-        "ele": 216,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8233241,
-          41.72982742
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000406",
-        "name": "els Pinars",
-        "population": 720,
-        "ele": 109,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.81770333,
-          41.73607868
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000407",
-        "name": "L'Hostalet",
-        "population": 857,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.81044179,
-          41.69404825
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000601",
-        "name": "Costa d'en Gallina",
-        "population": 104,
-        "ele": 79,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.818316639,
-          41.69837093
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000602",
-        "name": "Papalús",
-        "population": 12,
-        "ele": 34,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.87507376,
-          41.70602587
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000603",
-        "name": "Soleia",
-        "population": 188,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.86869182,
-          41.71777323
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000701",
-        "name": "Coll del Llop",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8791978,
-          41.71842419
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000703",
-        "name": "La Riviera",
-        "population": 79,
-        "ele": 181,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8804589,
-          41.71909203
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000705",
-        "name": "Serrabrava",
-        "population": 491,
-        "ele": 236,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82218297,
-          41.70730759
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000801",
-        "name": "Condado de Jaruco",
-        "population": 526,
-        "ele": 74,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.81272612,
-          41.68950327
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000999",
-        "name": "Santa Cristina",
-        "population": 44,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.20756283,
           42.13079886
         ]
@@ -7069,23 +6834,6 @@
         "name": "El Molí",
         "population": 175,
         "ele": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.78119416,
-          41.74326622
-        ]
-      },
-      "properties": {
-        "ref:ine": "17103001001",
-        "name": "Pantans de Montbarbat",
-        "population": 843,
-        "ele": 160,
         "population:date": "2023"
       }
     },
@@ -12210,40 +11958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.89229401,
-          41.7101002
-        ]
-      },
-      "properties": {
-        "ref:ine": "17202000101",
-        "name": "Canyelles",
-        "population": 40,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.892825681,
-          41.70784738
-        ]
-      },
-      "properties": {
-        "ref:ine": "17202000102",
-        "name": "Playa Brava",
-        "population": 24,
-        "ele": 80,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.96399754,
           41.74707016
         ]
@@ -12270,57 +11984,6 @@
         "name": "Sant Grau",
         "population": 7,
         "ele": 384,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.909324247,
-          41.71009002
-        ]
-      },
-      "properties": {
-        "ref:ine": "17202001101",
-        "name": "Cala Llevado",
-        "population": 15,
-        "ele": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.875107007,
-          41.73752238
-        ]
-      },
-      "properties": {
-        "ref:ine": "17202001399",
-        "name": "la Fermina",
-        "population": 7,
-        "ele": 240,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.90575257,
-          41.72814952
-        ]
-      },
-      "properties": {
-        "ref:ine": "17202001401",
-        "name": "Sant Eloi",
-        "population": 27,
-        "ele": 20,
         "population:date": "2023"
       }
     },
@@ -12863,23 +12526,6 @@
         "name": "Pla de la Font",
         "population": 185,
         "ele": 124,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.78912747,
-          41.74831594
-        ]
-      },
-      "properties": {
-        "ref:ine": "17213000701",
-        "name": "Puigventós",
-        "population": 244,
-        "ele": 137,
         "population:date": "2023"
       }
     },
@@ -57700,23 +57346,6 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.89405324,
-          28.63539624
-        ]
-      },
-      "properties": {
-        "ref:ine": "38024001004",
-        "name": "Tajuya",
-        "population": 14,
-        "ele": 457,
         "population:date": "2023"
       }
     },
