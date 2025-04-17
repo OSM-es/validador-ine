@@ -13274,6 +13274,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.66604506,
+          42.61632178
+        ]
+      },
+      "properties": {
+        "ref:ine": "22130003599",
+        "name": "Lastiesas Altas",
+        "population": 7,
+        "ele": 925,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.48791616,
           43.37350423
         ]
