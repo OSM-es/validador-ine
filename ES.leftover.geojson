@@ -54,22 +54,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.6083675,
-          42.9745163
-        ]
-      },
-      "properties": {
-        "ref:ine": "27028030499",
-        "name": "A Costa",
-        "type": "node",
-        "id": "1929829279"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0209979,
           42.5277799
         ]

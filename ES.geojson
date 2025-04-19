@@ -13716,40 +13716,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.608470662,
-          42.97422126
-        ]
-      },
-      "properties": {
-        "ref:ine": "27028211099",
-        "name": "Camiño da Costa",
-        "population": 23,
-        "ele": 518,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.59683,
-          43.055869
-        ]
-      },
-      "properties": {
-        "ref:ine": "27028520999",
-        "name": "Estrada Da Coruña",
-        "population": 41,
-        "ele": 453,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.55605321,
           42.506549
         ]
