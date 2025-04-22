@@ -12026,23 +12026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.45692713,
-          42.11759527
-        ]
-      },
-      "properties": {
-        "ref:ine": "17207010101",
-        "name": "Sant Esteve d'en Bas",
-        "population": 1023,
-        "ele": 450,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.453556061,
           42.11155528
         ]
@@ -13149,23 +13132,6 @@
         "name": "Sies",
         "population": 65,
         "ele": 73,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.99099519,
-          41.95621822
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901030101",
-        "name": "Sant Sadurní de l'Heura",
-        "population": 172,
-        "ele": 111,
         "population:date": "2023"
       }
     },
