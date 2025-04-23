@@ -13240,23 +13240,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.66604506,
-          42.61632178
-        ]
-      },
-      "properties": {
-        "ref:ine": "22130003599",
-        "name": "Lastiesas Altas",
-        "population": 7,
-        "ele": 925,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -17830,23 +17813,6 @@
         "name": "La Presa",
         "population": 2,
         "ele": 570,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.57831813,
-          43.32175203
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006013499",
-        "name": "El Robedal",
-        "population": 8,
-        "ele": 558,
         "population:date": "2023"
       }
     },
@@ -31898,22 +31864,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.57869551,
-          43.32163547
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032053299",
-        "name": "El Robledal",
-        "population": 16,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.554951429,
           43.25310727
         ]
@@ -41178,22 +41128,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.25042125,
-          43.36699882
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049201099",
-        "name": "El Robedal",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.34938101,
           43.34401912
         ]
@@ -41814,40 +41748,6 @@
         "name": "Chanuces",
         "population": 30,
         "ele": 849,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95243345,
-          43.16342106
-        ]
-      },
-      "properties": {
-        "ref:ine": "33053090401",
-        "name": "Vil.larecho",
-        "population": 4,
-        "ele": 816,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.94025787,
-          43.16807492
-        ]
-      },
-      "properties": {
-        "ref:ine": "33053090501",
-        "name": "Muriel.los",
-        "population": 25,
-        "ele": 954,
         "population:date": "2023"
       }
     },
@@ -48632,108 +48532,6 @@
         "name": "La Barrera",
         "population": 2,
         "ele": 472,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.14176242,
-          43.17168181
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072080201",
-        "name": "Campiel.lu",
-        "population": 63,
-        "ele": 622,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.12789713,
-          43.18533594
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072080399",
-        "name": "Castru",
-        "population": 3,
-        "ele": 714,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.13592568,
-          43.18521317
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072080799",
-        "name": "Infiesta",
-        "population": 2,
-        "ele": 678,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.11232468,
-          43.18782505
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072080999",
-        "name": "Murias",
-        "population": 7,
-        "ele": 776,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.10988144,
-          43.18249587
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072081001",
-        "name": "Prau",
-        "population": 23,
-        "ele": 633,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.13844089,
-          43.19536986
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072120201",
-        "name": "Vil.lamayor",
-        "population": 53,
-        "ele": 844,
         "population:date": "2023"
       }
     },
