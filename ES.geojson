@@ -38928,22 +38928,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82561931,
-          43.26422191
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044182499",
-        "name": "Sopeña",
-        "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.79876107,
           43.37672173
         ]
@@ -39621,72 +39605,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38800601,
-          43.36312732
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049080999",
-        "name": "Sopeña",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42153155,
-          43.28665109
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049090201",
-        "name": "La Marea",
-        "population": 4,
-        "ele": 395,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.43070002,
-          43.28351214
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049090599",
-        "name": "La Comba",
-        "population": 7,
-        "ele": 508,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049090999",
-        "name": "Miera",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -39761,23 +39679,6 @@
         "ref:ine": "33049140799",
         "name": "La Cueva",
         "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.41772465,
-          43.33146502
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049141199",
-        "name": "La Rebollada",
-        "population": 5,
-        "ele": 398,
         "population:date": "2023"
       }
     },
