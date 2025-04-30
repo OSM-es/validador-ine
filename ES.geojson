@@ -24433,23 +24433,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.29901101,
-          43.42737788
-        ]
-      },
-      "properties": {
-        "ref:ine": "33019060201",
-        "name": "L'Esllavayu",
-        "population": 18,
-        "ele": 263,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.33485904,
           43.50207889
         ]
@@ -39539,22 +39522,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.30906968,
-          43.41184101
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049040999",
-        "name": "La Llama",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.33404667,
           43.40645352
         ]
@@ -45766,40 +45733,6 @@
         "name": "La Viesca",
         "population": 6,
         "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46074839,
-          43.23214804
-        ]
-      },
-      "properties": {
-        "ref:ine": "33067020101",
-        "name": "Campiellos",
-        "population": 102,
-        "ele": 523,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45408413,
-          43.22135994
-        ]
-      },
-      "properties": {
-        "ref:ine": "33067020301",
-        "name": "Rusecu/Rioseco",
-        "population": 349,
-        "ele": 385,
         "population:date": "2023"
       }
     },
