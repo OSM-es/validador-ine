@@ -5520,57 +5520,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.88281114,
-          42.41017031
-        ]
-      },
-      "properties": {
-        "ref:ine": "17086000199",
-        "name": "Veïnat de Canadal",
-        "population": 1,
-        "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.87348755,
-          42.4173111
-        ]
-      },
-      "properties": {
-        "ref:ine": "17086000201",
-        "name": "La Jonquera",
-        "population": 3313,
-        "ele": 112,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8638616,
-          42.46229361
-        ]
-      },
-      "properties": {
-        "ref:ine": "17086000301",
-        "name": "El Portús",
-        "population": 51,
-        "ele": 265,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.84740964,
           42.44024446
         ]
@@ -55468,6 +55417,23 @@
         "name": "Pedra Branca",
         "population": 180,
         "ele": 58,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72221337,
+          42.22004821
+        ]
+      },
+      "properties": {
+        "ref:ine": "36057130501",
+        "name": "Freixeiro",
+        "population": 2870,
+        "ele": 17,
         "population:date": "2023"
       }
     },
