@@ -39437,23 +39437,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.32206713,
-          43.39352428
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049040101",
-        "name": "Borines/Boriñes",
-        "population": 11,
-        "ele": 205,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.32163481,
           43.40224916
         ]
