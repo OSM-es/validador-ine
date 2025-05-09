@@ -13501,6 +13501,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.15638116,
+          38.06970296
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027001410",
+        "name": "Montepríncipe",
+        "population": 428,
+        "ele": 240,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.78189747,
           42.21859384
         ]
@@ -26213,23 +26230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.62018104,
-          43.50912846
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024200399",
-        "name": "La Cuesta",
-        "population": 15,
-        "ele": 80,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.773574252,
           43.49363669
         ]
@@ -30276,40 +30276,6 @@
         "name": "Les Llinariegues",
         "population": 13,
         "ele": 314,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.49590528,
-          43.24137121
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032020101",
-        "name": "L'Aldea",
-        "population": 2,
-        "ele": 452,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.50168991,
-          43.2455766
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032020201",
-        "name": "Boroñes",
-        "population": 43,
-        "ele": 419,
         "population:date": "2023"
       }
     },
