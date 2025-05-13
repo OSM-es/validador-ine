@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.24773295,
+          39.08246702
+        ]
+      },
+      "properties": {
+        "ref:ine": "13053000101",
+        "name": "Herrera de la Mancha",
+        "population": 9,
+        "ele": 658,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.24408918,
           43.23389555
         ]
@@ -13493,23 +13510,6 @@
         "name": "Aranza",
         "population": 38,
         "ele": 471,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.15638116,
-          38.06970296
-        ]
-      },
-      "properties": {
-        "ref:ine": "30027001410",
-        "name": "Montepríncipe",
-        "population": 428,
-        "ele": 240,
         "population:date": "2023"
       }
     },
