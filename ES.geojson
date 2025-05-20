@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.24773295,
-          39.08246702
-        ]
-      },
-      "properties": {
-        "ref:ine": "13053000101",
-        "name": "Herrera de la Mancha",
-        "population": 9,
-        "ele": 658,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.24408918,
           43.23389555
         ]
