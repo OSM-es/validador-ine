@@ -3193,91 +3193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82242902,
-          41.83746045
-        ]
-      },
-      "properties": {
-        "ref:ine": "17033000401",
-        "name": "Aigües Bones",
-        "population": 1051,
-        "ele": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.80370705,
-          41.85499341
-        ]
-      },
-      "properties": {
-        "ref:ine": "17033000601",
-        "name": "Urbanització Can Solà Gros I",
-        "population": 366,
-        "ele": 109,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.808674483,
-          41.85406843
-        ]
-      },
-      "properties": {
-        "ref:ine": "17033000701",
-        "name": "Urbanització Can Solà Gros II",
-        "population": 337,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.80784479,
-          41.84103982
-        ]
-      },
-      "properties": {
-        "ref:ine": "17033001199",
-        "name": "Veïnat d'Israel",
-        "population": 104,
-        "ele": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.810712292,
-          41.85726539
-        ]
-      },
-      "properties": {
-        "ref:ine": "17033001399",
-        "name": "Veïnat de Dalt",
-        "population": 53,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.848327832,
           41.8062744
         ]
@@ -3955,23 +3870,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.83099182,
-          41.88824466
-        ]
-      },
-      "properties": {
-        "ref:ine": "17038000299",
-        "name": "Can Bosc",
-        "population": 19,
-        "ele": 103,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.850320452,
           41.89919288
         ]
@@ -3981,23 +3879,6 @@
         "name": "Can Canyet",
         "population": 37,
         "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.83848385,
-          41.88558046
-        ]
-      },
-      "properties": {
-        "ref:ine": "17038000499",
-        "name": "Can Dionís",
-        "population": 18,
-        "ele": 111,
         "population:date": "2023"
       }
     },
@@ -4226,23 +4107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.85220498,
-          41.87308852
-        ]
-      },
-      "properties": {
-        "ref:ine": "17044000899",
-        "name": "Mosqueroles",
-        "population": 35,
-        "ele": 120,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.84701077,
           41.88334948
         ]
@@ -4252,23 +4116,6 @@
         "name": "Sangosta",
         "population": 62,
         "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.87993907,
-          41.87038279
-        ]
-      },
-      "properties": {
-        "ref:ine": "17044001099",
-        "name": "Serinyà",
-        "population": 52,
-        "ele": 126,
         "population:date": "2023"
       }
     },
@@ -8431,74 +8278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.791110169,
-          41.88577442
-        ]
-      },
-      "properties": {
-        "ref:ine": "17150000399",
-        "name": "Veïnat de Can Calderó",
-        "population": 87,
-        "ele": 102,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.81081822,
-          41.89499546
-        ]
-      },
-      "properties": {
-        "ref:ine": "17150000499",
-        "name": "Veïnat de l'Estació",
-        "population": 63,
-        "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.78364415,
-          41.88843589
-        ]
-      },
-      "properties": {
-        "ref:ine": "17150000599",
-        "name": "Veïnat de la Pequenya",
-        "population": 27,
-        "ele": 104,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8006897,
-          41.87625327
-        ]
-      },
-      "properties": {
-        "ref:ine": "17150000699",
-        "name": "Veïnat de Torreponça",
-        "population": 55,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.777490867,
           41.89730997
         ]
@@ -8776,57 +8555,6 @@
         "name": "Sant Miquel de Monteia",
         "population": 3,
         "ele": 738,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82317385,
-          41.87768593
-        ]
-      },
-      "properties": {
-        "ref:ine": "17157000299",
-        "name": "el Veïnat de Baix",
-        "population": 39,
-        "ele": 106,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82669443,
-          41.86818015
-        ]
-      },
-      "properties": {
-        "ref:ine": "17157000399",
-        "name": "el Veïnat de Dalt",
-        "population": 65,
-        "ele": 135,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82218496,
-          41.86045445
-        ]
-      },
-      "properties": {
-        "ref:ine": "17157000499",
-        "name": "les Bosques",
-        "population": 49,
-        "ele": 114,
         "population:date": "2023"
       }
     },
