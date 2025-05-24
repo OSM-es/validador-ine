@@ -3872,40 +3872,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.17214853,
-          42.3421497
-        ]
-      },
-      "properties": {
-        "ref:ine": "17043000399",
-        "name": "Fustanyà",
-        "population": 10,
-        "ele": 1170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18476092,
-          42.34222198
-        ]
-      },
-      "properties": {
-        "ref:ine": "17043000601",
-        "name": "Serrat",
-        "population": 20,
-        "ele": 1354,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.8880379,
           41.88364914
         ]
@@ -4402,23 +4368,6 @@
         "name": "Veïnat Santa Anna",
         "population": 3,
         "ele": 180,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8529095,
-          42.35919799
-        ]
-      },
-      "properties": {
-        "ref:ine": "17061000401",
-        "name": "Tartera",
-        "population": 9,
-        "ele": 1173,
         "population:date": "2023"
       }
     },
@@ -6758,40 +6707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.22237181,
-          42.31154692
-        ]
-      },
-      "properties": {
-        "ref:ine": "17125000199",
-        "name": "Llavanera",
-        "population": 2,
-        "ele": 1163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.20804285,
-          42.31143072
-        ]
-      },
-      "properties": {
-        "ref:ine": "17125000599",
-        "name": "Pujalt",
-        "population": 6,
-        "ele": 1117,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.11096879,
           42.29624717
         ]
@@ -6937,108 +6852,6 @@
         "name": "Pocafarina",
         "population": 113,
         "ele": 335,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.098601,
-          42.30829
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000199",
-        "name": "Aspre",
-        "population": 6,
-        "ele": 1250,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.11182716,
-          42.31439202
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000201",
-        "name": "Les Casetes",
-        "population": 4,
-        "ele": 1065,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.103774548,
-          42.32218155
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000399",
-        "name": "Fosses",
-        "population": 9,
-        "ele": 1309,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.112185955,
-          42.3205494
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000499",
-        "name": "Croells-Serrat",
-        "population": 5,
-        "ele": 1203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.10481785,
-          42.31578751
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000599",
-        "name": "El Moli",
-        "population": 13,
-        "ele": 1126,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.10807165,
-          42.32082925
-        ]
-      },
-      "properties": {
-        "ref:ine": "17134000801",
-        "name": "El Puig",
-        "population": 10,
-        "ele": 1213,
         "population:date": "2023"
       }
     },
@@ -7477,40 +7290,6 @@
         "name": "Armàncies",
         "population": 14,
         "ele": 887,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18162427,
-          42.31821622
-        ]
-      },
-      "properties": {
-        "ref:ine": "17145000699",
-        "name": "Ribesaltes",
-        "population": 41,
-        "ele": 1096,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.13544162,
-          42.31790469
-        ]
-      },
-      "properties": {
-        "ref:ine": "17145000801",
-        "name": "El Solà-Ventolà",
-        "population": 30,
-        "ele": 1303,
         "population:date": "2023"
       }
     },
@@ -9290,39 +9069,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2653523,
-          42.42713642
-        ]
-      },
-      "properties": {
-        "ref:ine": "17192000299",
-        "name": "Estació d'Esqui Vallter 2000",
-        "population": 1,
-        "ele": 2160,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.26979258,
-          42.42058139
-        ]
-      },
-      "properties": {
-        "ref:ine": "17192000399",
-        "name": "Pastuira-Pla d'Hospitalet",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.51707175,
           41.95331273
         ]
@@ -9585,22 +9331,6 @@
         "ref:ine": "17200000199",
         "name": "Sant Antoni",
         "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.06970637,
-          42.32189345
-        ]
-      },
-      "properties": {
-        "ref:ine": "17201000299",
-        "name": "Espinosa",
-        "population": 9,
         "population:date": "2023"
       }
     },
