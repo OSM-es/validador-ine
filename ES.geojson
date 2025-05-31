@@ -18410,23 +18410,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76302191,
-          43.58405078
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014072099",
-        "name": "La Formiga",
-        "population": 12,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.75733708,
           43.56941301
         ]
@@ -22413,23 +22396,6 @@
         "name": "Villascusa",
         "population": 17,
         "ele": 288,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.26371567,
-          43.49166031
-        ]
-      },
-      "properties": {
-        "ref:ine": "33019140201",
-        "name": "San Xuan",
-        "population": 43,
-        "ele": 33,
         "population:date": "2023"
       }
     },
@@ -29500,40 +29466,6 @@
         "name": "Reconcos",
         "population": 14,
         "ele": 591,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77305849,
-          42.97945178
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033130101",
-        "name": "Brañil.lín",
-        "population": 3,
-        "ele": 1448,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77234082,
-          43.01585624
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033130299",
-        "name": "La Campa",
-        "population": 12,
-        "ele": 975,
         "population:date": "2023"
       }
     },
@@ -37340,90 +37272,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.33552302,
-          43.40630631
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049010401",
-        "name": "Robléu",
-        "population": 25,
-        "ele": 515,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.32163481,
-          43.40224916
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049040299",
-        "name": "La Infiesta",
-        "population": 18,
-        "ele": 254,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.33404667,
-          43.40645352
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049050499",
-        "name": "Robléu",
-        "population": 19,
-        "ele": 503,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39569817,
-          43.37481598
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049061199",
-        "name": "La Cabaña",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37843616,
-          43.3762479
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049080199",
-        "name": "Lludeña",
-        "population": 11,
-        "ele": 281,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -37448,40 +37296,6 @@
         "ref:ine": "33049121899",
         "name": "Solapeñe",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.35719373,
-          43.38488169
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049130699",
-        "name": "El Carbayón",
-        "population": 3,
-        "ele": 333,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.35751037,
-          43.38890905
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049130999",
-        "name": "La Formiga",
-        "population": 1,
-        "ele": 427,
         "population:date": "2023"
       }
     },
@@ -48601,23 +48415,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38907068,
-          43.44896015
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076060199",
-        "name": "Breceña",
-        "population": 13,
-        "ele": 325,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.38486917,
           43.45463044
         ]
@@ -48635,23 +48432,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.39196171,
-          43.44925085
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076060499",
-        "name": "Cuetu",
-        "population": 3,
-        "ele": 318,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -48660,23 +48440,6 @@
         "ref:ine": "33076060599",
         "name": "El Charcón",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.385702553,
-          43.44418914
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076060699",
-        "name": "La Infiesta",
-        "population": 11,
-        "ele": 332,
         "population:date": "2023"
       }
     },
@@ -51489,23 +51252,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.3235848,
-          43.52675443
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350299",
-        "name": "La Busta",
-        "population": 23,
-        "ele": 129,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.34491136,
           43.5019722
         ]
@@ -51532,23 +51278,6 @@
         "name": "Espina",
         "population": 32,
         "ele": 27,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.326309204,
-          43.52809333
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350699",
-        "name": "La Fuentona",
-        "population": 1,
-        "ele": 126,
         "population:date": "2023"
       }
     },
@@ -51961,23 +51690,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.46762741,
-          43.43541475
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076380399",
-        "name": "Cuetu",
-        "population": 8,
-        "ele": 203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.48273537,
           43.43503352
         ]
@@ -51987,23 +51699,6 @@
         "name": "Mogoyu",
         "population": 30,
         "ele": 295,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46960358,
-          43.43053685
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076380799",
-        "name": "Oteru",
-        "population": 5,
-        "ele": 201,
         "population:date": "2023"
       }
     },
