@@ -22387,23 +22387,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.32598236,
-          43.46740502
-        ]
-      },
-      "properties": {
-        "ref:ine": "33019100401",
-        "name": "Villascusa",
-        "population": 17,
-        "ele": 288,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.88282783,
           43.53645893
         ]
@@ -25556,23 +25539,6 @@
         "name": "Pereda",
         "population": 30,
         "ele": 256,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.12080656,
-          43.35230096
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026151299",
-        "name": "Santa Cristina",
-        "population": 4,
-        "ele": 395,
         "population:date": "2023"
       }
     },
@@ -29241,22 +29207,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.79449872,
-          43.10495548
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033040599",
-        "name": "La Pandiel.la",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -29289,23 +29239,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.81571699,
-          43.13057435
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033060101",
-        "name": "La Cobertoria",
-        "population": 9,
-        "ele": 345,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.81914478,
           43.14229446
         ]
@@ -29315,23 +29248,6 @@
         "name": "Columbiel.lo",
         "population": 64,
         "ele": 355,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81650032,
-          43.1342468
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033060301",
-        "name": "El Piridiil.lu",
-        "population": 20,
-        "ele": 452,
         "population:date": "2023"
       }
     },
@@ -29356,56 +29272,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77066626,
-          43.10757943
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033070299",
-        "name": "L.linares",
-        "population": 4,
-        "ele": 917,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77672639,
-          43.01514655
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033080299",
-        "name": "Las Campas",
-        "population": 2,
-        "ele": 862,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81413138,
-          43.12656147
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033080699",
-        "name": "Santa Cristina",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.82965276,
           43.06351738
         ]
@@ -29415,23 +29281,6 @@
         "name": "Espineo",
         "population": 35,
         "ele": 466,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79015527,
-          43.04178793
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033110101",
-        "name": "Chanos",
-        "population": 28,
-        "ele": 866,
         "population:date": "2023"
       }
     },
@@ -29474,40 +29323,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77527545,
-          43.01426331
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033130899",
-        "name": "La Pedrosa",
-        "population": 5,
-        "ele": 940,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7848867,
-          43.02600556
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033131099",
-        "name": "Vil.lar",
-        "population": 2,
-        "ele": 755,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.819578171,
           43.17273632
         ]
@@ -29517,91 +29332,6 @@
         "name": "Castañera",
         "population": 7,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.817993303,
-          43.15930161
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033162199",
-        "name": "El Val.le",
-        "population": 40,
-        "ele": 477,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77028594,
-          43.08225944
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033170101",
-        "name": "Güel.les",
-        "population": 26,
-        "ele": 595,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77054575,
-          43.07576101
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033170299",
-        "name": "Fresneo",
-        "population": 3,
-        "ele": 567,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76603635,
-          43.0765455
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033170499",
-        "name": "Las Puentes",
-        "population": 7,
-        "ele": 506,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78514345,
-          43.01540109
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033180101",
-        "name": "Samiguel",
-        "population": 23,
-        "ele": 725,
         "population:date": "2023"
       }
     },
@@ -32555,22 +32285,6 @@
         "ref:ine": "33037030999",
         "name": "Merujedo",
         "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81173861,
-          43.22927721
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037031099",
-        "name": "La Pandiella",
-        "population": 4,
         "population:date": "2023"
       }
     },
