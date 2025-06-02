@@ -17530,23 +17530,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.42830294,
-          43.24875474
-        ]
-      },
-      "properties": {
-        "ref:ine": "33011440401",
-        "name": "L.lamas del Mouru",
-        "population": 28,
-        "ele": 741,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.4545237,
           43.2367444
         ]
@@ -29349,23 +29332,6 @@
         "name": "Sotiel.lo",
         "population": 48,
         "ele": 417,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83708759,
-          43.02635217
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033200699",
-        "name": "Los Pontones",
-        "population": 4,
-        "ele": 592,
         "population:date": "2023"
       }
     },
@@ -42470,23 +42436,6 @@
         "name": "La Cuesta",
         "population": 6,
         "ele": 301,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.67952693,
-          43.38104814
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066080701",
-        "name": "La Parte",
-        "population": 50,
-        "ele": 226,
         "population:date": "2023"
       }
     },
