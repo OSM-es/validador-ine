@@ -12571,23 +12571,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.579220057,
-          43.09723435
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002050599",
-        "name": "Rumañón",
-        "population": 2,
-        "ele": 617,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.57292357,
           43.10595926
         ]
@@ -29255,23 +29238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82965276,
-          43.06351738
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033100101",
-        "name": "Espineo",
-        "population": 35,
-        "ele": 466,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.855853723,
           43.18306215
         ]
@@ -29315,23 +29281,6 @@
         "name": "Castañera",
         "population": 7,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82924044,
-          43.08657868
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033190201",
-        "name": "Sotiel.lo",
-        "population": 48,
-        "ele": 417,
         "population:date": "2023"
       }
     },
@@ -29494,22 +29443,6 @@
         "ref:ine": "33033222799",
         "name": "La Teyera",
         "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8568011,
-          43.09567205
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033230101",
-        "name": "Val.le",
-        "population": 19,
         "population:date": "2023"
       }
     },
@@ -30683,23 +30616,6 @@
         "name": "Pena",
         "population": 8,
         "ele": 484,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.48659707,
-          43.49720812
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034133299",
-        "name": "Val.le",
-        "population": 9,
-        "ele": 409,
         "population:date": "2023"
       }
     },
