@@ -2235,39 +2235,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.17062977,
-          41.92900729
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000201",
-        "name": "Les Argiles",
-        "population": 162,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.17224987,
-          41.92596944
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000202",
-        "name": "Els Blanquers",
-        "population": 41,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.22509241,
           41.94762089
         ]
@@ -2285,40 +2252,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.17425156,
-          41.93023582
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000205",
-        "name": "Mas Domingo",
-        "population": 44,
-        "ele": 66,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.16097066,
-          41.92984996
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000206",
-        "name": "Les Rajoleries",
-        "population": 30,
-        "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.19794114,
           41.94595985
         ]
@@ -2328,73 +2261,6 @@
         "name": "Sant Josep",
         "population": 260,
         "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.16694034,
-          41.92492348
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000208",
-        "name": "El Terme",
-        "population": 7,
-        "ele": 65,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.188481331,
-          41.9249034
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000209",
-        "name": "Urbanització Cantallops",
-        "population": 6,
-        "ele": 150,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.1832175,
-          41.92745659
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000210",
-        "name": "Urbanització Casa de Camp",
-        "population": 49,
-        "ele": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.15863401,
-          41.93603214
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000211",
-        "name": "Polígon Riera d'Esclanya",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -3052,39 +2918,6 @@
         "name": "El Pla",
         "population": 13,
         "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.06630062,
-          41.87325369
-        ]
-      },
-      "properties": {
-        "ref:ine": "17034000209",
-        "name": "Puig Rosell",
-        "population": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.111630678,
-          41.86158291
-        ]
-      },
-      "properties": {
-        "ref:ine": "17034000409",
-        "name": "Parc Sant Daniel",
-        "population": 8,
-        "ele": 52,
         "population:date": "2023"
       }
     },
@@ -5472,57 +5305,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.15898441,
-          41.88785219
-        ]
-      },
-      "properties": {
-        "ref:ine": "17110000199",
-        "name": "Canyelles",
-        "population": 68,
-        "ele": 67,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.159642,
-          41.892149
-        ]
-      },
-      "properties": {
-        "ref:ine": "17110000999",
-        "name": "Roqueta",
-        "population": 17,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.14981017,
-          41.89757444
-        ]
-      },
-      "properties": {
-        "ref:ine": "17110001201",
-        "name": "Torre Simona",
-        "population": 206,
-        "ele": 39,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.85981988,
           42.23319262
         ]
@@ -5743,40 +5525,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.175282371,
-          41.91485933
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000199",
-        "name": "el Bruguerol",
-        "population": 175,
-        "ele": 58,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.16354731,
-          41.89512355
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000399",
-        "name": "Ermedàs",
-        "population": 44,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.13156923,
           41.93794899
         ]
@@ -5786,57 +5534,6 @@
         "name": "La Barceloneta",
         "population": 118,
         "ele": 63,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.13928931,
-          41.93231038
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000502",
-        "name": "Estació",
-        "population": 38,
-        "ele": 54,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.16996336,
-          41.91885639
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000503",
-        "name": "Poble",
-        "population": 26,
-        "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.17033178,
-          41.90772371
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000799",
-        "name": "Santa Margarida",
-        "population": 33,
-        "ele": 44,
         "population:date": "2023"
       }
     },
@@ -9029,39 +8726,6 @@
         "name": "Sant Salvador de Bianya",
         "population": 90,
         "ele": 574,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.12552187,
-          41.88100367
-        ]
-      },
-      "properties": {
-        "ref:ine": "17209000199",
-        "name": "Vall-llobrega",
-        "population": 260,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.12323592,
-          41.88923853
-        ]
-      },
-      "properties": {
-        "ref:ine": "17209000301",
-        "name": "Urbanització Vall-Llobrega",
-        "population": 58,
         "population:date": "2023"
       }
     },
@@ -12350,40 +12014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.66061839,
-          43.12438367
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002100301",
-        "name": "Vil.lar",
-        "population": 11,
-        "ele": 760,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.68833667,
-          43.13864662
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002110199",
-        "name": "Arnizo",
-        "population": 4,
-        "ele": 547,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.71361215,
           43.15299675
         ]
@@ -12493,23 +12123,6 @@
         "name": "Ruea",
         "population": 12,
         "ele": 373,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.69596507,
-          43.12589698
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002112199",
-        "name": "Los Tornos",
-        "population": 3,
-        "ele": 650,
         "population:date": "2023"
       }
     },
@@ -27494,40 +27107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.57140109,
-          43.22410365
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032030599",
-        "name": "La Boza",
-        "population": 1,
-        "ele": 590,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.53256333,
-          43.2207654
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032040101",
-        "name": "L'Acebal",
-        "population": 69,
-        "ele": 393,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.53821203,
           43.23819858
         ]
@@ -28372,40 +27951,6 @@
         "name": "Bustiello",
         "population": 5,
         "ele": 452,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55883337,
-          43.22742904
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032081099",
-        "name": "La Correoria",
-        "population": 5,
-        "ele": 327,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.54593458,
-          43.21012252
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032081799",
-        "name": "Grandiella",
-        "population": 3,
-        "ele": 646,
         "population:date": "2023"
       }
     },
