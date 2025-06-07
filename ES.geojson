@@ -4304,57 +4304,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.03254808,
-          42.2344435
-        ]
-      },
-      "properties": {
-        "ref:ine": "17080000199",
-        "name": "Aranyonet",
-        "population": 10,
-        "ele": 1081,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.08003832,
-          42.24653286
-        ]
-      },
-      "properties": {
-        "ref:ine": "17080000201",
-        "name": "El Cortal",
-        "population": 14,
-        "ele": 915,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.08579792,
-          42.26573479
-        ]
-      },
-      "properties": {
-        "ref:ine": "17080000499",
-        "name": "Montgrony",
-        "population": 8,
-        "ele": 1365,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.84740964,
           42.44024446
         ]
@@ -5517,23 +5466,6 @@
         "name": "Santa Creu d'Horta",
         "population": 35,
         "ele": 639,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.13156923,
-          41.93794899
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000501",
-        "name": "La Barceloneta",
-        "population": 118,
-        "ele": 63,
         "population:date": "2023"
       }
     },
@@ -11496,23 +11428,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.62242,
-          43.161048
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002030101",
-        "name": "Cabanaquinta/Cabañaquinta",
-        "population": 1340,
-        "ele": 423,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.74669875,
           43.17640119
         ]
@@ -12267,23 +12182,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.621373653,
-          43.15697188
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002142399",
-        "name": "La Rozá",
-        "population": 1,
-        "ele": 424,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.62628746,
           43.16250105
         ]
@@ -12460,6 +12358,22 @@
         "name": "Los Estrul.lones",
         "population": 14,
         "ele": 396,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33002170499",
+        "name": "Orozá",
+        "population": 1,
         "population:date": "2023"
       }
     },
@@ -14832,125 +14746,6 @@
         "name": "Villanova",
         "population": 45,
         "ele": 366,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40380346,
-          43.41560601
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009010899",
-        "name": "Villanueva",
-        "population": 10,
-        "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.41789395,
-          43.39380682
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009020399",
-        "name": "La Cruciada",
-        "population": 26,
-        "ele": 340,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42201549,
-          43.39095528
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009020601",
-        "name": "Iría",
-        "population": 10,
-        "ele": 356,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37965072,
-          43.41359014
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009030299",
-        "name": "Graméu",
-        "population": 13,
-        "ele": 282,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.409688546,
-          43.40045375
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009050499",
-        "name": "Miyangues",
-        "population": 8,
-        "ele": 345,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37671005,
-          43.39777689
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009050599",
-        "name": "La Parte",
-        "population": 23,
-        "ele": 361,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40613224,
-          43.38645543
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009050601",
-        "name": "Peñella",
-        "population": 27,
-        "ele": 383,
         "population:date": "2023"
       }
     },
@@ -21248,23 +21043,6 @@
         "name": "Llebredo",
         "population": 20,
         "ele": 344,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.33485904,
-          43.50207889
-        ]
-      },
-      "properties": {
-        "ref:ine": "33019080101",
-        "name": "Castiellu",
-        "population": 29,
-        "ele": 162,
         "population:date": "2023"
       }
     },
@@ -27917,74 +27695,6 @@
         "name": "La Bárgana",
         "population": 36,
         "ele": 635,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58496444,
-          43.19921608
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032071101",
-        "name": "La Cuesta",
-        "population": 21,
-        "ele": 484,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58485503,
-          43.20886217
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032080499",
-        "name": "Bustiello",
-        "population": 5,
-        "ele": 452,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.59774615,
-          43.21559338
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032082099",
-        "name": "Les Mestes",
-        "population": 9,
-        "ele": 425,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58087515,
-          43.21023068
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032082901",
-        "name": "San Pedro",
-        "population": 45,
-        "ele": 370,
         "population:date": "2023"
       }
     },
@@ -47700,23 +47410,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.40570775,
-          43.452447
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076151099",
-        "name": "La Piñera",
-        "population": 10,
-        "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -48144,38 +47837,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.34966101,
-          43.47964362
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076190199",
-        "name": "La Cabañona",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.34625644,
-          43.48145133
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076190399",
-        "name": "La Llastra",
-        "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -48302,23 +47963,6 @@
         "name": "Llames",
         "population": 32,
         "ele": 170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40404449,
-          43.51834673
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076210501",
-        "name": "Samartín",
-        "population": 96,
-        "ele": 21,
         "population:date": "2023"
       }
     },
@@ -48712,23 +48356,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.41947728,
-          43.54196257
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240799",
-        "name": "Oles",
-        "population": 26,
-        "ele": 149,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.43032036,
           43.52995529
         ]
@@ -48738,74 +48365,6 @@
         "name": "Piedresblanques",
         "population": 47,
         "ele": 171,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.41533295,
-          43.5373682
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240999",
-        "name": "Santa Mariña",
-        "population": 39,
-        "ele": 153,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.351677743,
-          43.46377273
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076250201",
-        "name": "Piñera",
-        "population": 5,
-        "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.35969408,
-          43.46770461
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076250301",
-        "name": "Santa Eugenia/Santoxenia",
-        "population": 17,
-        "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.33842623,
-          43.47240056
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076250499",
-        "name": "La Venta",
-        "population": 6,
-        "ele": 190,
         "population:date": "2023"
       }
     },
@@ -48865,22 +48424,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.34154362,
-          43.45163628
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076270399",
-        "name": "El Cayu",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -48889,23 +48432,6 @@
         "ref:ine": "33076280199",
         "name": "Los Casares",
         "population": 14,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36781094,
-          43.48719272
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076280299",
-        "name": "La Cotaraxa",
-        "population": 2,
-        "ele": 164,
         "population:date": "2023"
       }
     },
@@ -48947,40 +48473,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.36632412,
-          43.48806989
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076280799",
-        "name": "L'Oteru",
-        "population": 13,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36156606,
-          43.48561112
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076280801",
-        "name": "La Pría",
-        "population": 12,
-        "ele": 133,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.470590591,
           43.51738098
         ]
@@ -49006,23 +48498,6 @@
         "ref:ine": "33076281299",
         "name": "Les Tarandielles",
         "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36269625,
-          43.49366443
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076281401",
-        "name": "La Vega",
-        "population": 14,
-        "ele": 36,
         "population:date": "2023"
       }
     },
@@ -49292,22 +48767,6 @@
         "ref:ine": "33076320199",
         "name": "La Castañera",
         "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.34187227,
-          43.45310623
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076320201",
-        "name": "El Cayu",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -49666,40 +49125,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.36888234,
-          43.50289161
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350101",
-        "name": "Bárzana",
-        "population": 42,
-        "ele": 69,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.34491136,
-          43.5019722
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350401",
-        "name": "Castiellu",
-        "population": 15,
-        "ele": 200,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.38092586,
           43.5078097
         ]
@@ -49734,40 +49159,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.34378978,
-          43.50846908
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076351101",
-        "name": "La Rasa",
-        "population": 28,
-        "ele": 170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36539068,
-          43.52306984
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076351299",
-        "name": "El Rebollal",
-        "population": 2,
-        "ele": 72,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.36053229,
           43.51017751
         ]
@@ -49776,40 +49167,6 @@
         "ref:ine": "33076351601",
         "name": "Vega",
         "population": 34,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.35986571,
-          43.52481375
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076351701",
-        "name": "Villar",
-        "population": 27,
-        "ele": 144,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36683613,
-          43.51446812
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076351801",
-        "name": "Seloriu",
-        "population": 234,
-        "ele": 26,
         "population:date": "2023"
       }
     },
@@ -49878,23 +49235,6 @@
         "name": "San Roque",
         "population": 50,
         "ele": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40304341,
-          43.54797282
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076360599",
-        "name": "Villar",
-        "population": 23,
-        "ele": 122,
         "population:date": "2023"
       }
     },
@@ -50063,6 +49403,23 @@
         "ref:ine": "33076371299",
         "name": "Valdaces",
         "population": 8,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.39744867,
+          43.49176133
+        ]
+      },
+      "properties": {
+        "ref:ine": "33076371301",
+        "name": "Villar",
+        "population": 25,
+        "ele": 175,
         "population:date": "2023"
       }
     },
@@ -51515,23 +50872,6 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40554459,
-          43.41964829
-        ]
-      },
-      "properties": {
-        "ref:ine": "39009000107",
-        "name": "Carranques",
-        "population": 8,
-        "ele": 336,
         "population:date": "2023"
       }
     }
