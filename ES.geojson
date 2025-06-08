@@ -14754,57 +14754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.41949717,
-          43.43159048
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009060201",
-        "name": "Ñao/Niao",
-        "population": 21,
-        "ele": 279,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42429015,
-          43.42723896
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009060599",
-        "name": "Viñón",
-        "population": 12,
-        "ele": 167,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42833955,
-          43.43242043
-        ]
-      },
-      "properties": {
-        "ref:ine": "33009060699",
-        "name": "La Roza",
-        "population": 5,
-        "ele": 286,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.03566248,
           43.40890167
         ]
@@ -46206,22 +46155,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.47143536,
-          43.443058
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076020599",
-        "name": "La Viesca",
-        "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -46885,22 +46818,6 @@
         "name": "El Valle",
         "population": 1,
         "ele": 106,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45241509,
-          43.4384164
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076081599",
-        "name": "Vega",
-        "population": 6,
         "population:date": "2023"
       }
     },
@@ -49461,23 +49378,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.46683505,
-          43.43507169
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076380299",
-        "name": "Condarcu",
-        "population": 11,
-        "ele": 206,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.48273537,
           43.43503352
         ]
@@ -49504,23 +49404,6 @@
         "name": "Riañu",
         "population": 2,
         "ele": 272,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46306776,
-          43.44210413
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076381199",
-        "name": "Villar",
-        "population": 4,
-        "ele": 119,
         "population:date": "2023"
       }
     },
