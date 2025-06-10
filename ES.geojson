@@ -11980,23 +11980,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.699329376,
-          43.13201395
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002110999",
-        "name": "Fresnadiel.lo",
-        "population": 3,
-        "ele": 752,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -12123,23 +12106,6 @@
         "name": "L.lagar",
         "population": 22,
         "ele": 359,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.693357,
-          43.164288
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002141599",
-        "name": "L.lameres",
-        "population": 9,
-        "ele": 465,
         "population:date": "2023"
       }
     },
@@ -12341,23 +12307,6 @@
         "ref:ine": "33002160499",
         "name": "El Pedregal",
         "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.66746214,
-          43.16415846
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002170399",
-        "name": "Los Estrul.lones",
-        "population": 14,
-        "ele": 396,
         "population:date": "2023"
       }
     },
@@ -26885,22 +26834,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.55443426,
-          43.23972823
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032041499",
-        "name": "La Canterona",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.54994225,
           43.2625283
         ]
@@ -27691,23 +27624,6 @@
         "ref:ine": "33033050699",
         "name": "La Cueva",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81914478,
-          43.14229446
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033060201",
-        "name": "Columbiel.lo",
-        "population": 64,
-        "ele": 355,
         "population:date": "2023"
       }
     },
@@ -41040,23 +40956,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.15651925,
-          43.09227183
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068040201",
-        "name": "Éndriga",
-        "population": 18,
-        "ele": 1068,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.25965221,
           43.08011212
         ]
@@ -42111,23 +42010,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.03881603,
-          43.10630286
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072050201",
-        "name": "La Vil.la de Su",
-        "population": 25,
-        "ele": 1039,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.12006481,
           43.15538901
         ]
@@ -42196,23 +42078,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.09286039,
-          43.14137438
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072070299",
-        "name": "Cuañana",
-        "population": 14,
-        "ele": 564,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.09091586,
           43.15669512
         ]
@@ -42222,23 +42087,6 @@
         "name": "Monteciel.lu",
         "population": 34,
         "ele": 531,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.08665812,
-          43.14561959
-        ]
-      },
-      "properties": {
-        "ref:ine": "33072070401",
-        "name": "Riel.lu",
-        "population": 23,
-        "ele": 486,
         "population:date": "2023"
       }
     },
