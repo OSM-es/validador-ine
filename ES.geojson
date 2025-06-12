@@ -11511,54 +11511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002042099",
-        "name": "Legalidá",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002042199",
-        "name": "El Terceru Legalidá",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002042299",
-        "name": "El Quintu Legalidá",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.74251723,
           43.14950678
         ]
@@ -11828,22 +11780,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002094499",
-        "name": "Naveo",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.71361215,
           43.15299675
         ]
@@ -11887,38 +11823,6 @@
         "name": "La Corralá",
         "population": 18,
         "ele": 365,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002111099",
-        "name": "Les Fureres",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002111799",
-        "name": "El Pasaúriu",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -12012,22 +11916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002142899",
-        "name": "Vegalatorre",
-        "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.69995019,
           43.17675833
         ]
@@ -12094,38 +11982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002170499",
-        "name": "Orozá",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002170599",
-        "name": "La Palombar",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63206925,
           43.15176023
         ]
@@ -12168,102 +12024,6 @@
         "name": "La Foz",
         "population": 1,
         "ele": 532,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002180299",
-        "name": "Fornos",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003020699",
-        "name": "Los Caneyones",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003021099",
-        "name": "La H.uente'l Sapu",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003021299",
-        "name": "El Molín de la Llastra",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003031999",
-        "name": "Matagüés",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33003040299",
-        "name": "La Yana",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -25297,22 +25057,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031010899",
-        "name": "El Colláu",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.683515072,
           43.33112084
         ]
@@ -25500,22 +25244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031023199",
-        "name": "Foyeo",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.667271614,
           43.2404001
         ]
@@ -25541,23 +25269,6 @@
         "ref:ine": "33031025199",
         "name": "El Picu Castiellu",
         "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.68269968,
-          43.26123542
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031025299",
-        "name": "El Pasaúriu",
-        "population": 1,
-        "ele": 434,
         "population:date": "2023"
       }
     },
@@ -25938,22 +25649,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031043499",
-        "name": "Conforcos",
-        "population": 13,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.747051239,
           43.3135043
         ]
@@ -25963,22 +25658,6 @@
         "name": "La Cabaña",
         "population": 6,
         "ele": 296,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031050999",
-        "name": "El Corro",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -26013,22 +25692,6 @@
         "name": "La Riera",
         "population": 4,
         "ele": 199,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031052099",
-        "name": "La Rionda",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -27378,38 +27041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033050699",
-        "name": "La Cueva",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033060499",
-        "name": "La Puente",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.855853723,
           43.18306215
         ]
@@ -27461,22 +27092,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033220199",
-        "name": "Cabo",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.81142653,
           43.17990608
         ]
@@ -27502,38 +27117,6 @@
         "ref:ine": "33033220699",
         "name": "El Questru",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8136051,
-          43.18581325
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033221499",
-        "name": "El Padrún",
-        "population": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033221599",
-        "name": "El Riquixu",
-        "population": 3,
         "population:date": "2023"
       }
     },
@@ -27583,22 +27166,6 @@
         "ref:ine": "33033222499",
         "name": "La Viña",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033222699",
-        "name": "El Retel.lón",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -30547,23 +30114,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77158,
-          43.24196341
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037063601",
-        "name": "La Quinta",
-        "population": 17,
-        "ele": 310,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76698827,
           43.24038189
         ]
@@ -33232,23 +32782,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76628071,
-          43.33564417
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044030999",
-        "name": "La Cueva",
-        "population": 6,
-        "ele": 186,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.84372206,
           43.36232165
         ]
@@ -34650,23 +34183,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.86409289,
-          43.40625645
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044300701",
-        "name": "Quintana",
-        "population": 26,
-        "ele": 199,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.98868962,
           43.33043122
         ]
@@ -34693,23 +34209,6 @@
         "name": "Llugarín",
         "population": 27,
         "ele": 223,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.86409289,
-          43.40625645
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044320899",
-        "name": "Quintana",
-        "population": 30,
-        "ele": 199,
         "population:date": "2023"
       }
     },
