@@ -11445,38 +11445,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002040499",
-        "name": "Los Col.laos",
-        "population": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002040599",
-        "name": "Comenencia",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76735452,
           43.18181883
         ]
@@ -27174,22 +27142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033222799",
-        "name": "La Teyera",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.86035085,
           43.17157008
         ]
@@ -29621,22 +29573,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037010399",
-        "name": "Los Barreros",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83471785,
           43.27363093
         ]
@@ -30098,22 +30034,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037063499",
-        "name": "El Plano",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76698827,
           43.24038189
         ]
@@ -30338,22 +30258,6 @@
         "name": "La Barraca",
         "population": 0,
         "ele": 293,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037090699",
-        "name": "La Collá",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -31304,22 +31208,6 @@
         "name": "Vil.lapindi/Villapendi",
         "population": 115,
         "ele": 331,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037138999",
-        "name": "El Col.laón",
-        "population": 8,
         "population:date": "2023"
       }
     },
@@ -33524,22 +33412,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044160399",
-        "name": "La Cárcova",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.784613651,
           43.33220051
         ]
@@ -33633,22 +33505,6 @@
         "name": "Malpica",
         "population": 12,
         "ele": 127,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044181399",
-        "name": "La Capilla",
-        "population": 6,
         "population:date": "2023"
       }
     },
@@ -34243,22 +34099,6 @@
         "name": "Fontelas",
         "population": 1,
         "ele": 615,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33049120999",
-        "name": "L'Hedráu",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -37974,22 +37814,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060036899",
-        "name": "Valles",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63047126,
           43.29514495
         ]
@@ -38212,22 +38036,6 @@
         "name": "Llinares",
         "population": 9,
         "ele": 292,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060042199",
-        "name": "El Yanu",
-        "population": 9,
         "population:date": "2023"
       }
     },
@@ -38497,22 +38305,6 @@
         "name": "La Seca'l Agua",
         "population": 2,
         "ele": 523,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060053899",
-        "name": "La Vallica l'Agua",
-        "population": 4,
         "population:date": "2023"
       }
     },
@@ -39430,22 +39222,6 @@
         "name": "La Cerezalina",
         "population": 0,
         "ele": 321,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066041599",
-        "name": "La Bullina",
-        "population": 7,
         "population:date": "2023"
       }
     },
@@ -43014,22 +42790,6 @@
         "name": "La Piñera",
         "population": 19,
         "ele": 501,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073241299",
-        "name": "La Soledá",
-        "population": 11,
         "population:date": "2023"
       }
     },
