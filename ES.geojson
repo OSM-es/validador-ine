@@ -26260,23 +26260,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.551743507,
-          43.24145913
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032050399",
-        "name": "La Carba",
-        "population": 10,
-        "ele": 449,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.551872253,
           43.25962004
         ]
@@ -26513,70 +26496,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032052499",
-        "name": "La Carba les Llanes",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032052799",
-        "name": "Llancuervu",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032052899",
-        "name": "El Llosón",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032052999",
-        "name": "L ' Umines",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.62382279,
           43.29103876
         ]
@@ -26668,22 +26587,6 @@
         "ref:ine": "33032060599",
         "name": "La Brañueta",
         "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032060999",
-        "name": "El Campu",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -26920,22 +26823,6 @@
         "name": "L'Azorea Baxo",
         "population": 6,
         "ele": 428,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032065599",
-        "name": "La Vaúga",
-        "population": 1,
         "population:date": "2023"
       }
     },
