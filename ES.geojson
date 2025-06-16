@@ -43010,22 +43010,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073350399",
-        "name": "Los Chanos",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.38846911,
           43.33420284
         ]
@@ -44561,22 +44545,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.3759805,
-          43.46278417
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076070199",
-        "name": "El Batón",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.37906096,
           43.46568246
         ]
@@ -45100,23 +45068,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.394802094,
-          43.45068356
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076130899",
-        "name": "El Cuetu",
-        "population": 4,
-        "ele": 249,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.38746109,
           43.47337692
         ]
@@ -45143,72 +45094,6 @@
         "name": "Sorribes",
         "population": 1,
         "ele": 54,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.4481775,
-          43.41729347
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076140199",
-        "name": "Arcenoyu",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45735552,
-          43.4200499
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076140799",
-        "name": "La Espina",
-        "population": 11,
-        "ele": 386,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.44913296,
-          43.41403151
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076141401",
-        "name": "Rali",
-        "population": 1,
-        "ele": 445,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42899632,
-          43.48493642
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076141699",
-        "name": "La Teyera",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -46377,23 +46262,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.48205968,
-          43.50729664
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076340599",
-        "name": "El Cuetu",
-        "population": 25,
-        "ele": 171,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.4945384,
           43.51352571
         ]
@@ -46792,23 +46660,6 @@
         "name": "La Venta Villaverde",
         "population": 18,
         "ele": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47911245,
-          43.42740464
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076380899",
-        "name": "Riañu",
-        "population": 2,
-        "ele": 272,
         "population:date": "2023"
       }
     },
