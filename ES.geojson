@@ -2994,40 +2994,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.15292453,
-          42.2248489
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000499",
-        "name": "Sant Cristòfol",
-        "population": 7,
-        "ele": 740,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.126006374,
-          42.23125402
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000599",
-        "name": "Sant Llorenç",
-        "population": 62,
-        "ele": 778,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.16705469,
           42.23951502
         ]
@@ -3054,23 +3020,6 @@
         "name": "Sant Pere d'Aüira",
         "population": 6,
         "ele": 1026,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.10564556,
-          42.22976778
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000899",
-        "name": "Sant Quintí de Puigrodon",
-        "population": 13,
-        "ele": 1087,
         "population:date": "2023"
       }
     },
@@ -44494,57 +44443,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38486917,
-          43.45463044
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076060399",
-        "name": "Ceyanes",
-        "population": 8,
-        "ele": 300,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37908457,
-          43.44989774
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076060999",
-        "name": "Pandu",
-        "population": 7,
-        "ele": 278,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38484348,
-          43.44768879
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076061299",
-        "name": "El Terreru",
-        "population": 2,
-        "ele": 341,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.37906096,
           43.46568246
         ]
@@ -46575,23 +46473,6 @@
         "name": "Onón",
         "population": 32,
         "ele": 25,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40612962,
-          43.49734154
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370801",
-        "name": "Pandu",
-        "population": 32,
-        "ele": 151,
         "population:date": "2023"
       }
     },
