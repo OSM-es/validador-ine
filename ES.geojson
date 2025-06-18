@@ -2167,23 +2167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.20879484,
-          41.94458952
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000107",
-        "name": "Urbanització Residencial Begur",
-        "population": 728,
-        "ele": 170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.20099123,
           41.95676284
         ]
@@ -2193,23 +2176,6 @@
         "name": "Urbanització sa Fontansa",
         "population": 536,
         "ele": 181,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2063863,
-          41.94967381
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000109",
-        "name": "Urbanització Font de la Salut",
-        "population": 3,
-        "ele": 211,
         "population:date": "2023"
       }
     },
@@ -2244,74 +2210,6 @@
         "name": "Colomina",
         "population": 120,
         "ele": 158,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.19794114,
-          41.94595985
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000207",
-        "name": "Sant Josep",
-        "population": 260,
-        "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21653651,
-          41.93282072
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000401",
-        "name": "Aiguablava",
-        "population": 6,
-        "ele": 36,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.208050728,
-          41.92614068
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000403",
-        "name": "Urbanització Sector Sud d'Aiguablava",
-        "population": 27,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.208974557,
-          41.92899048
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000404",
-        "name": "Urbanització ses Falugues",
-        "population": 17,
-        "ele": 124,
         "population:date": "2023"
       }
     },
@@ -2379,140 +2277,6 @@
         "name": "Urbanització sa Nau Perduda",
         "population": 15,
         "ele": 141,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21006862,
-          41.93938105
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000601",
-        "name": "Can Ferran",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.215260506,
-          41.9419557
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000602",
-        "name": "Dos Cales",
-        "population": 7,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21722767,
-          41.94098895
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000604",
-        "name": "Urbanització Cap Rubi",
-        "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.207874937,
-          41.94043276
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000605",
-        "name": "Urbanització es Castellet",
-        "population": 3,
-        "ele": 95,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.210459084,
-          41.94373594
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000606",
-        "name": "Urbanització los Olivos",
-        "population": 1,
-        "ele": 128,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21267041,
-          41.9418352
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000607",
-        "name": "Urbanització Platja Fonda",
-        "population": 7,
-        "ele": 66,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21059456,
-          41.94523471
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000609",
-        "name": "Urbanització ses Costes",
-        "population": 34,
-        "ele": 177,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.207364082,
-          41.93608189
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000612",
-        "name": "Urbanització Puig del Montcal",
-        "population": 12,
-        "ele": 80,
         "population:date": "2023"
       }
     },
@@ -5415,23 +5179,6 @@
         "name": "Santa Creu d'Horta",
         "population": 35,
         "ele": 639,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20993181,
-          41.92342046
-        ]
-      },
-      "properties": {
-        "ref:ine": "17117000801",
-        "name": "Aigua Xelida",
-        "population": 147,
-        "ele": 82,
         "population:date": "2023"
       }
     },
@@ -44435,40 +44182,6 @@
         "name": "Los Torales",
         "population": 17,
         "ele": 241,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37906096,
-          43.46568246
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076070401",
-        "name": "El Bustiu",
-        "population": 15,
-        "ele": 178,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.371499062,
-          43.4619918
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076070599",
-        "name": "El Caliellu",
-        "population": 7,
-        "ele": 220,
         "population:date": "2023"
       }
     },
