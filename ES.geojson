@@ -45234,23 +45234,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38056138,
-          43.47115273
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076221199",
-        "name": "La Llosanueva",
-        "population": 1,
-        "ele": 96,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.38205108,
           43.49081365
         ]
@@ -47588,6 +47571,23 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43876178,
+          38.39043137
+        ]
+      },
+      "properties": {
+        "ref:ine": "03119000109",
+        "name": "la Santa Faç",
+        "population": 187,
+        "ele": 28,
         "population:date": "2023"
       }
     }
