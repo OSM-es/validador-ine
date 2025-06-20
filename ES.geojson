@@ -2099,74 +2099,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.217953444,
-          41.952824
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000103",
-        "name": "Urbanització Creu d'en Rallo",
-        "population": 6,
-        "ele": 240,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2071179,
-          41.96322787
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000104",
-        "name": "Urbanització es Valls",
-        "population": 40,
-        "ele": 97,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20695245,
-          41.96058015
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000105",
-        "name": "Urbanització Mas Gispert",
-        "population": 40,
-        "ele": 128,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.217854199,
-          41.95583114
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000106",
-        "name": "Urbanització Mas Prats",
-        "population": 55,
-        "ele": 183,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.20099123,
           41.95676284
         ]
@@ -2201,39 +2133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.22509241,
-          41.94762089
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000203",
-        "name": "Colomina",
-        "population": 120,
-        "ele": 158,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.23179371,
-          41.96571135
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000501",
-        "name": "Cap sa Sal",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.22001059,
           41.96443768
         ]
@@ -2243,191 +2142,6 @@
         "name": "Aiguablava",
         "population": 21,
         "ele": 111,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.220646381,
-          41.9728202
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000504",
-        "name": "Urbanització S'Antiga",
-        "population": 2,
-        "ele": 70,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.22153657,
-          41.96947859
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000505",
-        "name": "Urbanització sa Nau Perduda",
-        "population": 15,
-        "ele": 141,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.207331896,
-          41.97520113
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000702",
-        "name": "Urbanització Cala del Rei",
-        "population": 1,
-        "ele": 80,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.203992456,
-          41.9744906
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000703",
-        "name": "Catalònia",
-        "population": 14,
-        "ele": 78,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.21108771,
-          41.96672428
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000704",
-        "name": "Urbanització la Coma",
-        "population": 9,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.205961464,
-          41.96839087
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000705",
-        "name": "Urbanització Mas Mato",
-        "population": 58,
-        "ele": 101,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.209831715,
-          41.972549
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000706",
-        "name": "Urbanització Port Des Pi",
-        "population": 18,
-        "ele": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.22213516,
-          41.95418371
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000802",
-        "name": "Urbanització la Borna",
-        "population": 81,
-        "ele": 135,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.225098848,
-          41.9589037
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000803",
-        "name": "Urbanització Rec de Sa Tuna",
-        "population": 6,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20677768,
-          41.97744135
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000901",
-        "name": "El Raco",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20200974,
-          41.98124176
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000902",
-        "name": "Urbanització Sa Punta",
-        "population": 75,
         "population:date": "2023"
       }
     },
@@ -44679,23 +44393,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38746109,
-          43.47337692
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076130999",
-        "name": "Felgueres",
-        "population": 6,
-        "ele": 101,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.44755148,
           43.48019158
         ]
@@ -45115,40 +44812,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.40687955,
-          43.48415279
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220199",
-        "name": "Agüelle",
-        "population": 12,
-        "ele": 203,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40113917,
-          43.47971744
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220399",
-        "name": "Camatierra",
-        "population": 2,
-        "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.436065197,
           43.46652385
         ]
@@ -45158,57 +44821,6 @@
         "name": "Los Campos",
         "population": 4,
         "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38220548,
-          43.48278779
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220601",
-        "name": "Cueli",
-        "population": 15,
-        "ele": 184,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38659949,
-          43.4731608
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220799",
-        "name": "Les Felgueres",
-        "population": 10,
-        "ele": 104,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.37401558,
-          43.47700646
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220801",
-        "name": "Gancéu",
-        "population": 9,
-        "ele": 193,
         "population:date": "2023"
       }
     },
@@ -45243,23 +44855,6 @@
         "name": "La Miyar",
         "population": 15,
         "ele": 172,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38084523,
-          43.47302868
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076221799",
-        "name": "La Sota",
-        "population": 1,
-        "ele": 65,
         "population:date": "2023"
       }
     },
@@ -45326,23 +44921,6 @@
         "name": "Turbeñu",
         "population": 22,
         "ele": 164,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38732405,
-          43.47272248
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076231199",
-        "name": "Les Vallines",
-        "population": 1,
-        "ele": 93,
         "population:date": "2023"
       }
     },
@@ -45966,56 +45544,6 @@
         "name": "Villanueva",
         "population": 25,
         "ele": 138,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38092586,
-          43.5078097
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350501",
-        "name": "Espina",
-        "population": 32,
-        "ele": 27,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39036574,
-          43.51378944
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076350901",
-        "name": "El Picu",
-        "population": 7,
-        "ele": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.36053229,
-          43.51017751
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076351601",
-        "name": "Vega",
-        "population": 34,
         "population:date": "2023"
       }
     },
@@ -47579,15 +47107,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.43876178,
-          38.39043137
+          -0.50973347,
+          38.45728753
         ]
       },
       "properties": {
-        "ref:ine": "03119000109",
-        "name": "la Santa Faç",
-        "population": 187,
-        "ele": 28,
+        "ref:ine": "03014000705",
+        "name": "Urbanització La Vall del Sol",
+        "population": 70,
+        "ele": 210,
         "population:date": "2023"
       }
     }
