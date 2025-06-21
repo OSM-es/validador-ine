@@ -2455,57 +2455,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.165780888,
-          42.21848156
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000299",
-        "name": "La Creu",
-        "population": 93,
-        "ele": 718,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16705469,
-          42.23951502
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000699",
-        "name": "Sant Martí d'Armàncies",
-        "population": 76,
-        "ele": 761,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.13883551,
-          42.24778165
-        ]
-      },
-      "properties": {
-        "ref:ine": "17036000799",
-        "name": "Sant Pere d'Aüira",
-        "population": 6,
-        "ele": 1026,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.850320452,
           41.89919288
         ]
@@ -4171,23 +4120,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.20756283,
-          42.13079886
-        ]
-      },
-      "properties": {
-        "ref:ine": "17096000101",
-        "name": "La Farga de Bebié",
-        "population": 3,
-        "ele": 606,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.93961501,
           41.99592233
         ]
@@ -4690,23 +4622,6 @@
         "name": "Torremirona",
         "population": 380,
         "ele": 142,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.22720975,
-          42.27411373
-        ]
-      },
-      "properties": {
-        "ref:ine": "17112000399",
-        "name": "Sant Martí d'Ogassa",
-        "population": 25,
-        "ele": 1510,
         "population:date": "2023"
       }
     },
@@ -5721,224 +5636,6 @@
         "name": "Sant Mateu de Montnegre",
         "population": 39,
         "ele": 364,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.15929091,
-          42.26804417
-        ]
-      },
-      "properties": {
-        "ref:ine": "17145000199",
-        "name": "Armàncies",
-        "population": 14,
-        "ele": 887,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.196539,
-          42.18920018
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000101",
-        "name": "Agafallops",
-        "population": 341,
-        "ele": 674,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.19276145,
-          42.2100502
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000102",
-        "name": "La Caseta Pigrau",
-        "population": 553,
-        "ele": 786,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.19282662,
-          42.17448491
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000299",
-        "name": "la Colònia de Santa Maria",
-        "population": 27,
-        "ele": 660,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18505779,
-          42.20053026
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000401",
-        "name": "Grup Santa Maria",
-        "population": 105,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2265577,
-          42.22127953
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000599",
-        "name": "Rama",
-        "population": 16,
-        "ele": 757,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17830462,
-          42.18606312
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000699",
-        "name": "El Remei",
-        "population": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.16824225,
-          42.213676
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000801",
-        "name": "La Colònia Noguera",
-        "population": 45,
-        "ele": 715,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18398667,
-          42.20375591
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000802",
-        "name": "La Colònia Sorribes",
-        "population": 19,
-        "ele": 720,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.21127626,
-          42.1825026
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000999",
-        "name": "Sant Antoni",
-        "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.19567523,
-          42.19905599
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147001099",
-        "name": "Sant Bartomeu",
-        "population": 49,
-        "ele": 721,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.24362044,
-          42.18962816
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147001199",
-        "name": "Sant Bernabé de les Tenes",
-        "population": 16,
-        "ele": 800,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.18449251,
-          42.20774927
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147001299",
-        "name": "Sant Roc",
-        "population": 77,
-        "ele": 762,
         "population:date": "2023"
       }
     },
@@ -44260,23 +43957,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.50055867,
-          43.53946044
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076110499",
-        "name": "El Fresnu",
-        "population": 18,
-        "ele": 150,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.49918841,
           43.52367056
         ]
@@ -44821,40 +44501,6 @@
         "name": "Los Campos",
         "population": 4,
         "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39106819,
-          43.48426851
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076220999",
-        "name": "La Era",
-        "population": 4,
-        "ele": 201,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.38205108,
-          43.49081365
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076221201",
-        "name": "La Miyar",
-        "population": 15,
-        "ele": 172,
         "population:date": "2023"
       }
     },
@@ -45654,23 +45300,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.39448927,
-          43.50043124
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370499",
-        "name": "El Fresnu",
-        "population": 6,
-        "ele": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.434648991,
           43.48098988
         ]
@@ -45714,40 +45343,6 @@
         "name": "La Rionda",
         "population": 7,
         "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39431243,
-          43.49564479
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076371199",
-        "name": "La Sienra",
-        "population": 1,
-        "ele": 104,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39744867,
-          43.49176133
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076371301",
-        "name": "Villar",
-        "population": 25,
-        "ele": 175,
         "population:date": "2023"
       }
     },
@@ -47099,23 +46694,6 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.50973347,
-          38.45728753
-        ]
-      },
-      "properties": {
-        "ref:ine": "03014000705",
-        "name": "Urbanització La Vall del Sol",
-        "population": 70,
-        "ele": 210,
         "population:date": "2023"
       }
     }
