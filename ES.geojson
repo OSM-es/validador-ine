@@ -43838,23 +43838,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.41661899,
-          43.49519334
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076100299",
-        "name": "Ayones",
-        "population": 5,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.41246423,
           43.48714144
         ]
@@ -44694,23 +44677,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.408256054,
-          43.50069601
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076280399",
-        "name": "La Cuesta",
-        "population": 7,
-        "ele": 27,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.470590591,
           43.51738098
         ]
@@ -45266,40 +45232,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.39908219,
-          43.50708794
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370199",
-        "name": "L'Alegría",
-        "population": 10,
-        "ele": 25,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40795216,
-          43.50056262
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370299",
-        "name": "La Cuesta",
-        "population": 6,
-        "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.434648991,
           43.48098988
         ]
@@ -45309,57 +45241,6 @@
         "name": "Moreda",
         "population": 8,
         "ele": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40212601,
-          43.50367453
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370701",
-        "name": "Onón",
-        "population": 32,
-        "ele": 25,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40795216,
-          43.50056262
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076370999",
-        "name": "La Rionda",
-        "population": 7,
-        "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39303697,
-          43.50468453
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076371401",
-        "name": "La Venta Villaverde",
-        "population": 18,
-        "ele": 1,
         "population:date": "2023"
       }
     },
