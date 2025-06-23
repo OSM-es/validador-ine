@@ -31176,23 +31176,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.72733961,
-          43.51564692
-        ]
-      },
-      "properties": {
-        "ref:ine": "33041020899",
-        "name": "Piquera",
-        "population": 17,
-        "ele": 69,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.66876099,
           43.5511768
         ]
@@ -36867,23 +36850,6 @@
         "ref:ine": "33060042299",
         "name": "Los Llanos",
         "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.61726758,
-          43.28104129
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060043299",
-        "name": "La Piquera",
-        "population": 3,
-        "ele": 252,
         "population:date": "2023"
       }
     },
@@ -43838,23 +43804,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.41246423,
-          43.48714144
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076100499",
-        "name": "Carda",
-        "population": 12,
-        "ele": 143,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.42340517,
           43.46999664
         ]
@@ -43898,23 +43847,6 @@
         "name": "La Payariega",
         "population": 8,
         "ele": 63,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.4145133,
-          43.48549545
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076100899",
-        "name": "El Pinu",
-        "population": 2,
-        "ele": 200,
         "population:date": "2023"
       }
     },
@@ -44105,23 +44037,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.402649653,
-          43.45532231
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076150799",
-        "name": "El Moratín",
-        "population": 6,
-        "ele": 175,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.43178557,
           43.47185722
         ]
@@ -44147,22 +44062,6 @@
         "ref:ine": "33076160899",
         "name": "El Peral",
         "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.41676119,
-          43.4624785
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076160999",
-        "name": "La Piquera",
-        "population": 5,
         "population:date": "2023"
       }
     },
@@ -44357,23 +44256,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.38453151,
-          43.46239003
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076200299",
-        "name": "Acebéu",
-        "population": 1,
-        "ele": 163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.42231057,
           43.49555906
         ]
@@ -44407,23 +44289,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.39541033,
-          43.46428756
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076200899",
-        "name": "Paniceres",
-        "population": 9,
-        "ele": 165,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.54257335,
           43.51076506
         ]
@@ -44433,23 +44298,6 @@
         "name": "El Puente la Vega",
         "population": 3,
         "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.3937401,
-          43.46738394
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076201199",
-        "name": "El Vallín",
-        "population": 4,
-        "ele": 156,
         "population:date": "2023"
       }
     },
