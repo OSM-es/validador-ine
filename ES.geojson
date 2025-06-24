@@ -44054,22 +44054,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.42058653,
-          43.46045266
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076160899",
-        "name": "El Peral",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.42630756,
           43.47677282
         ]
@@ -44079,22 +44063,6 @@
         "name": "San Vicenti",
         "population": 41,
         "ele": 131,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.41702415,
-          43.46535425
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076161299",
-        "name": "El Tisoriu",
-        "population": 18,
         "population:date": "2023"
       }
     },
@@ -44264,23 +44232,6 @@
         "ref:ine": "33076200499",
         "name": "La Carbayera",
         "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.39324315,
-          43.4657556
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076200699",
-        "name": "La Malena",
-        "population": 6,
-        "ele": 142,
         "population:date": "2023"
       }
     },
