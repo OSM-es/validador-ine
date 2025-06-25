@@ -25384,23 +25384,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.558288097,
-          43.25274391
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032050999",
-        "name": "Les Llanes",
-        "population": 18,
-        "ele": 433,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.551679134,
           43.25278689
         ]
@@ -43332,23 +43315,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.45377167,
-          43.54216765
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076031399",
-        "name": "El Toral",
-        "population": 19,
-        "ele": 142,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.53485721,
           43.51587067
         ]
@@ -43375,23 +43341,6 @@
         "name": "El Fonduxu",
         "population": 91,
         "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.400300078,
-          43.54467987
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076040799",
-        "name": "Samiguel de Llonxes",
-        "population": 209,
-        "ele": 12,
         "population:date": "2023"
       }
     },
@@ -43729,23 +43678,6 @@
         "name": "El Valle",
         "population": 1,
         "ele": 106,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46783925,
-          43.53201437
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076090399",
-        "name": "Manzanéu",
-        "population": 45,
-        "ele": 170,
         "population:date": "2023"
       }
     },
@@ -44257,23 +44189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.42181028,
-          43.51985344
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076210299",
-        "name": "Llames",
-        "population": 32,
-        "ele": 170,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.436065197,
           43.46652385
         ]
@@ -44349,74 +44264,6 @@
         "name": "Turbeñu",
         "population": 22,
         "ele": 164,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42650319,
-          43.53506062
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240199",
-        "name": "Les Areñes",
-        "population": 90,
-        "ele": 171,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42322316,
-          43.53567047
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240399",
-        "name": "Llata",
-        "population": 5,
-        "ele": 165,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.44657168,
-          43.5294104
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240499",
-        "name": "La Lloraza",
-        "population": 66,
-        "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.43032036,
-          43.52995529
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076240899",
-        "name": "Piedresblanques",
-        "population": 47,
-        "ele": 171,
         "population:date": "2023"
       }
     },
@@ -44761,23 +44608,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.422868729,
-          43.52000284
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076331099",
-        "name": "Les Llanes",
-        "population": 6,
-        "ele": 164,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.51302957,
           43.4639227
         ]
@@ -44955,74 +44785,6 @@
         "name": "Villanueva",
         "population": 25,
         "ele": 138,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40579561,
-          43.5353184
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076360199",
-        "name": "La Talaya",
-        "population": 43,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.40661839,
-          43.54200003
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076360299",
-        "name": "Les Mestres",
-        "population": 1,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.403943061,
-          43.5463889
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076360301",
-        "name": "Samiguel",
-        "population": 83,
-        "ele": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.400251246,
-          43.54552396
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076360401",
-        "name": "San Roque",
-        "population": 50,
-        "ele": 9,
         "population:date": "2023"
       }
     },
