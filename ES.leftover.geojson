@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0623467,
-          37.6480591
-        ]
-      },
-      "properties": {
-        "ref:ine": "30016111101",
-        "name": "Los Segados",
-        "type": "node",
-        "id": "1613751826"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9662949,
           42.2390288
         ]
@@ -159,54 +143,6 @@
         "name": "A Braña",
         "type": "node",
         "id": "10138405954"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6417883,
-          38.2873008
-        ]
-      },
-      "properties": {
-        "ref:ine": "3065001399",
-        "name": "Jubalcoi",
-        "type": "node",
-        "id": "12696272390"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1771459,
-          37.5632875
-        ]
-      },
-      "properties": {
-        "ref:ine": "300161501",
-        "name": "La Azohía",
-        "type": "relation",
-        "id": "3395079"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7071825,
-          37.7278424
-        ]
-      },
-      "properties": {
-        "ref:ine": "30016191500",
-        "name": "Isla Grosa",
-        "type": "relation",
-        "id": "3590776"
       }
     },
     {
