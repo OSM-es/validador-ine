@@ -41305,23 +41305,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.44858593,
-          43.47610859
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076010299",
-        "name": "Les Baragañes",
-        "population": 7,
-        "ele": 20,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.46445315,
           43.46647533
         ]
@@ -41523,23 +41506,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.45626452,
-          43.50235265
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076050101",
-        "name": "Cabañes",
-        "population": 12,
-        "ele": 324,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.46567987,
           43.51212626
         ]
@@ -41548,56 +41514,6 @@
         "ref:ine": "33076050499",
         "name": "Les Maseres",
         "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.43124642,
-          43.50156407
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076050501",
-        "name": "Pentanes",
-        "population": 72,
-        "ele": 65,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.42164867,
-          43.49911168
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076050899",
-        "name": "El Porréu",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.43278888,
-          43.49469719
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076050999",
-        "name": "El Retiro",
-        "population": 1,
-        "ele": 4,
         "population:date": "2023"
       }
     },
@@ -41843,23 +41759,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.42050937,
-          43.48793477
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076100799",
-        "name": "La Payariega",
-        "population": 8,
-        "ele": 63,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.50032335,
           43.54544418
         ]
@@ -41953,23 +41852,6 @@
         "name": "La Vega",
         "population": 13,
         "ele": 94,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.44755148,
-          43.48019158
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076131399",
-        "name": "Sorribes",
-        "population": 1,
-        "ele": 54,
         "population:date": "2023"
       }
     },
