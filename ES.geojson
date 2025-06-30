@@ -20380,23 +20380,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.06729844,
-          43.40057016
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026060399",
-        "name": "Bustiellu",
-        "population": 22,
-        "ele": 82,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.067886353,
           43.39917783
         ]
@@ -32702,23 +32685,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.220921,
-          43.425046
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059050599",
-        "name": "Casamayor",
-        "population": 24,
-        "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.2244263,
           43.42352293
         ]
@@ -36991,23 +36957,6 @@
         "name": "La Viesca",
         "population": 6,
         "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24003298,
-          43.18312716
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068020101",
-        "name": "Bustariega",
-        "population": 8,
-        "ele": 987,
         "population:date": "2023"
       }
     },
@@ -41305,56 +41254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.46445315,
-          43.46647533
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076010599",
-        "name": "Casquita",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45903625,
-          43.4661148
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076010699",
-        "name": "Conciella",
-        "population": 11,
-        "ele": 25,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45618686,
-          43.46443828
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076010999",
-        "name": "La Gotera",
-        "population": 4,
-        "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.45127725,
           43.47081053
         ]
@@ -41363,23 +41262,6 @@
         "ref:ine": "33076011299",
         "name": "La Mesada",
         "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.44035919,
-          43.47353831
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076012101",
-        "name": "El Sur",
-        "population": 12,
-        "ele": 6,
         "population:date": "2023"
       }
     },
@@ -41431,23 +41313,6 @@
         "name": "El Camín Rial",
         "population": 73,
         "ele": 168,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.45981427,
-          43.52000509
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076030699",
-        "name": "Cuatro Caminos",
-        "population": 5,
-        "ele": 161,
         "population:date": "2023"
       }
     },
@@ -41538,40 +41403,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.45217047,
-          43.51030104
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076051199",
-        "name": "Los Torales",
-        "population": 17,
-        "ele": 241,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46380581,
-          43.45784538
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076080199",
-        "name": "La Bustariega",
-        "population": 3,
-        "ele": 54,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.46688571,
           43.46306432
         ]
@@ -41598,23 +41429,6 @@
         "name": "El Pulu Riba",
         "population": 38,
         "ele": 82,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47090008,
-          43.45115524
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076080599",
-        "name": "La Corolla",
-        "population": 13,
-        "ele": 110,
         "population:date": "2023"
       }
     },
@@ -41666,23 +41480,6 @@
         "name": "La Riega",
         "population": 7,
         "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46402842,
-          43.46484575
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076081299",
-        "name": "El Ronzón",
-        "population": 1,
-        "ele": 20,
         "population:date": "2023"
       }
     },
@@ -41809,23 +41606,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.48401418,
-          43.53834473
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076120299",
-        "name": "Bustiellu",
-        "population": 19,
-        "ele": 163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.51613241,
           43.51543824
         ]
@@ -41884,40 +41664,6 @@
         "ref:ine": "33076150599",
         "name": "La Granda",
         "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.43178557,
-          43.47185722
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076160599",
-        "name": "Llavanderu",
-        "population": 16,
-        "ele": 43,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.46424785,
-          43.46629067
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076170299",
-        "name": "Casquita",
-        "population": 15,
-        "ele": 21,
         "population:date": "2023"
       }
     },
@@ -42212,23 +41958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.55069392,
-          43.53055467
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076300199",
-        "name": "Cimavilla",
-        "population": 290,
-        "ele": 160,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.575437476,
           43.54043803
         ]
@@ -42472,23 +42201,6 @@
         "name": "La Obra",
         "population": 40,
         "ele": 148,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47457469,
-          43.51332957
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076341099",
-        "name": "Santiago",
-        "population": 51,
-        "ele": 154,
         "population:date": "2023"
       }
     },
