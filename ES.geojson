@@ -4597,74 +4597,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.57582219,
-          42.06603789
-        ]
-      },
-      "properties": {
-        "ref:ine": "17133000199",
-        "name": "Les Encies",
-        "population": 63,
-        "ele": 456,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.53299476,
-          42.04314838
-        ]
-      },
-      "properties": {
-        "ref:ine": "17133000699",
-        "name": "La Costa",
-        "population": 32,
-        "ele": 643,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.53692802,
-          42.05562039
-        ]
-      },
-      "properties": {
-        "ref:ine": "17133000801",
-        "name": "Les Planes d'Hostoles",
-        "population": 1410,
-        "ele": 371,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.54990355,
-          42.05621229
-        ]
-      },
-      "properties": {
-        "ref:ine": "17133000999",
-        "name": "Pocafarina",
-        "population": 113,
-        "ele": 335,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.90781967,
           42.17711042
         ]
@@ -5212,91 +5144,6 @@
         "name": "Sobrevila",
         "population": 23,
         "ele": 93,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5122768,
-          42.08214183
-        ]
-      },
-      "properties": {
-        "ref:ine": "17161000199",
-        "name": "Bastons",
-        "population": 23,
-        "ele": 475,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.49483608,
-          42.07989592
-        ]
-      },
-      "properties": {
-        "ref:ine": "17161000399",
-        "name": "la Fàbrega",
-        "population": 28,
-        "ele": 503,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.49469213,
-          42.08737971
-        ]
-      },
-      "properties": {
-        "ref:ine": "17161000499",
-        "name": "Pallerols",
-        "population": 36,
-        "ele": 485,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.49673898,
-          42.0639717
-        ]
-      },
-      "properties": {
-        "ref:ine": "17161000599",
-        "name": "La Salut",
-        "population": 1,
-        "ele": 968,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.51950035,
-          42.06695119
-        ]
-      },
-      "properties": {
-        "ref:ine": "17161000999",
-        "name": "La Torra",
-        "population": 13,
-        "ele": 451,
         "population:date": "2023"
       }
     },
@@ -7936,6 +7783,23 @@
         "name": "Aranza",
         "population": 38,
         "ele": 471,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2825069,
+          37.91486939
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030430699",
+        "name": "Ermita de Belén",
+        "population": 13,
+        "ele": 106,
         "population:date": "2023"
       }
     },
