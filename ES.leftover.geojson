@@ -160,54 +160,6 @@
         "type": "relation",
         "id": "12684317"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1411771,
-          37.9278833
-        ]
-      },
-      "properties": {
-        "ref:ine": "3003020100",
-        "name": "Alberca de las Torres",
-        "type": "relation",
-        "id": "18085371"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2135145,
-          37.9506401
-        ]
-      },
-      "properties": {
-        "ref:ine": "3003430400",
-        "name": "La Voz Negra",
-        "type": "relation",
-        "id": "18089485"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0842059,
-          37.9534491
-        ]
-      },
-      "properties": {
-        "ref:ine": "3003210700",
-        "name": "Los Garres",
-        "type": "relation",
-        "id": "18099340"
-      }
     }
   ]
 }
