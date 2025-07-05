@@ -3974,91 +3974,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.86740262,
-          42.04809961
-        ]
-      },
-      "properties": {
-        "ref:ine": "17169000201",
-        "name": "Medinyà",
-        "population": 807,
-        "ele": 52,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.82009371,
-          42.02704988
-        ]
-      },
-      "properties": {
-        "ref:ine": "17169000301",
-        "name": "Montagut",
-        "population": 469,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.822918889,
-          42.03234065
-        ]
-      },
-      "properties": {
-        "ref:ine": "17169001001",
-        "name": "el Camp de les Comes",
-        "population": 436,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.85703796,
-          42.03583825
-        ]
-      },
-      "properties": {
-        "ref:ine": "17169001101",
-        "name": "el Pla de Baix",
-        "population": 1164,
-        "ele": 48,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.85391033,
-          42.02988997
-        ]
-      },
-      "properties": {
-        "ref:ine": "17169001301",
-        "name": "el Golf de Sant Julià",
-        "population": 564,
-        "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.7802957,
           42.31694303
         ]
@@ -39483,158 +39398,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.49106226,
-          43.44705287
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076020101",
-        "name": "Ambas",
-        "population": 21,
-        "ele": 140,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.48765668,
-          43.45351093
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076020201",
-        "name": "Castiellu",
-        "population": 35,
-        "ele": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47933026,
-          43.45542067
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076051099",
-        "name": "La Riega",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47483976,
-          43.46017311
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076080301",
-        "name": "El Pulu Riba",
-        "population": 38,
-        "ele": 82,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47868187,
-          43.46193567
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076080699",
-        "name": "El Llanu",
-        "population": 8,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.474342203,
-          43.4571559
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076080999",
-        "name": "La Piñera",
-        "population": 7,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47841952,
-          43.4558186
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076081199",
-        "name": "La Riega",
-        "population": 7,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47634467,
-          43.4610049
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076081399",
-        "name": "El Traviesu",
-        "population": 6,
-        "ele": 134,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.47970944,
-          43.45683508
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076081499",
-        "name": "El Valle",
-        "population": 1,
-        "ele": 106,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.55381027,
           43.46655708
         ]
@@ -39661,22 +39424,6 @@
         "name": "Santecia",
         "population": 17,
         "ele": 191,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.48371794,
-          43.45753139
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076150299",
-        "name": "El Castañéu",
-        "population": 7,
         "population:date": "2023"
       }
     },
@@ -39768,73 +39515,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.49238173,
-          43.47194732
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076230799",
-        "name": "El Pueblu",
-        "population": 3,
-        "ele": 111,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.49469738,
-          43.47233798
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076230899",
-        "name": "La Torre",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.50335869,
-          43.46801571
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076231001",
-        "name": "Turbeñu",
-        "population": 22,
-        "ele": 164,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.53095158,
-          43.48133706
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076261299",
-        "name": "El Valle",
-        "population": 7,
-        "ele": 137,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.50175946,
           43.44123666
         ]
@@ -39885,23 +39565,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.51102168,
-          43.43274075
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076290799",
-        "name": "El Polléu",
-        "population": 1,
-        "ele": 191,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.50465378,
           43.43830996
         ]
@@ -39911,57 +39574,6 @@
         "name": "Valdediós",
         "population": 2,
         "ele": 191,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.575437476,
-          43.54043803
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076310101",
-        "name": "La Capellanía",
-        "population": 65,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.582731,
-          43.543969
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076310701",
-        "name": "El Peñucal",
-        "population": 34,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.579287,
-          43.542173
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076311001",
-        "name": "San Clemente",
-        "population": 42,
-        "ele": 121,
         "population:date": "2023"
       }
     },
@@ -39994,22 +39606,6 @@
         "ref:ine": "33076330499",
         "name": "La Cortina",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.53213784,
-          43.45497403
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076330699",
-        "name": "La Cueva",
-        "population": 4,
         "population:date": "2023"
       }
     },
