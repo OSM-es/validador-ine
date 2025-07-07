@@ -39264,23 +39264,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.48470641,
-          43.4608414
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076170899",
-        "name": "El Mayorazu",
-        "population": 1,
-        "ele": 39,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.49380682,
           43.44828059
         ]
