@@ -1846,23 +1846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0440191,
-          41.97872728
-        ]
-      },
-      "properties": {
-        "ref:ine": "17022000201",
-        "name": "Castell d'Empordà",
-        "population": 7,
-        "ele": 65,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.93402218,
           42.21204698
         ]
@@ -2109,23 +2092,6 @@
         "name": "Cassà de Pelràs",
         "population": 22,
         "ele": 127,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.01328849,
-          41.9866068
-        ]
-      },
-      "properties": {
-        "ref:ine": "17057000202",
-        "name": "Santa Cristina",
-        "population": 695,
-        "ele": 53,
         "population:date": "2023"
       }
     },
@@ -2707,23 +2673,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.857325077,
-          41.91954294
-        ]
-      },
-      "properties": {
-        "ref:ine": "17090000999",
-        "name": "Veinat Carretera de Fornells",
-        "population": 68,
-        "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.16284007,
           42.37066741
         ]
@@ -2851,23 +2800,6 @@
         "name": "Bevià",
         "population": 17,
         "ele": 154,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.97098626,
-          41.98890943
-        ]
-      },
-      "properties": {
-        "ref:ine": "17097000501",
-        "name": "Millars",
-        "population": 28,
-        "ele": 112,
         "population:date": "2023"
       }
     },
@@ -4556,208 +4488,6 @@
         "name": "Polígon Empordá Internacional",
         "population": 0,
         "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.02820284,
-          41.97080621
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010201",
-        "name": "La Bordeta",
-        "population": 161,
-        "ele": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.02116029,
-          41.95234367
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010399",
-        "name": "De la Font",
-        "population": 24,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.02904465,
-          41.96414093
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010401",
-        "name": "Puigventós",
-        "population": 399,
-        "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.01263817,
-          41.93396183
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010599",
-        "name": "Rabioses",
-        "population": 86,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.00376104,
-          41.94699551
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010899",
-        "name": "Sant Joan de Salelles",
-        "population": 20,
-        "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.99935733,
-          41.95298512
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901010999",
-        "name": "Sant Miquel de Cruïlles",
-        "population": 14,
-        "ele": 87,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.98881907,
-          41.98029316
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901020299",
-        "name": "Sies",
-        "population": 65,
-        "ele": 73,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.977529159,
-          41.9517582
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901030299",
-        "name": "Banyeres",
-        "population": 30,
-        "ele": 112,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.02013243,
-          41.98331836
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901030499",
-        "name": "Veinat Rissec",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.99505057,
-          41.94260915
-        ]
-      },
-      "properties": {
-        "ref:ine": "17901030599",
-        "name": "Veinat Sant Joan",
-        "population": 14,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.03032707,
-          41.97087773
-        ]
-      },
-      "properties": {
-        "ref:ine": "17902030101",
-        "name": "La Bordeta",
-        "population": 223,
-        "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.045888011,
-          41.96614837
-        ]
-      },
-      "properties": {
-        "ref:ine": "17902030201",
-        "name": "el Puig de Sant Ramon",
-        "population": 529,
-        "ele": 78,
         "population:date": "2023"
       }
     },
@@ -39248,22 +38978,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.50451919,
-          43.45361082
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076150599",
-        "name": "La Granda",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.49380682,
           43.44828059
         ]
@@ -39281,22 +38995,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.50038602,
-          43.46128274
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076230399",
-        "name": "Casares",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.50175946,
           43.44123666
         ]
@@ -39306,22 +39004,6 @@
         "name": "Congares",
         "population": 11,
         "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.50523529,
-          43.45269472
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076290399",
-        "name": "La Granda",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -39364,22 +39046,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.50016039,
-          43.45520995
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076330399",
-        "name": "Conceyeru",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.53197909,
           43.44376753
         ]
@@ -39413,39 +39079,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.51302957,
-          43.4639227
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076331199",
-        "name": "El Mayáu",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.499944687,
-          43.46238117
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076331399",
-        "name": "La Parada",
-        "population": 2,
-        "ele": 130,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.53395064,
           43.4519175
         ]
@@ -39455,23 +39088,6 @@
         "name": "Sopeñes",
         "population": 11,
         "ele": 234,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.5161695,
-          43.4609453
-        ]
-      },
-      "properties": {
-        "ref:ine": "33076341399",
-        "name": "Villanueva",
-        "population": 25,
-        "ele": 138,
         "population:date": "2023"
       }
     },
