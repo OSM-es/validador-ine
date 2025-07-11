@@ -7806,23 +7806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.54248394,
-          43.33013619
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006020999",
-        "name": "La Castañal",
-        "population": 19,
-        "ele": 427,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.5676735,
           43.34044122
         ]
@@ -7959,23 +7942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.5497198,
-          43.33445012
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006023499",
-        "name": "El Valle",
-        "population": 11,
-        "ele": 437,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.56228183,
           43.333683
         ]
@@ -8036,23 +8002,6 @@
         "name": "El Llosón",
         "population": 3,
         "ele": 313,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.54676636,
-          43.33255304
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006024399",
-        "name": "El Prou Río",
-        "population": 5,
-        "ele": 322,
         "population:date": "2023"
       }
     },
@@ -33225,23 +33174,6 @@
         "name": "L'Otero",
         "population": 97,
         "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.66457915,
-          43.4230413
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066090599",
-        "name": "Pando",
-        "population": 7,
-        "ele": 317,
         "population:date": "2023"
       }
     },
