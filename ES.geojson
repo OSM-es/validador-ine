@@ -7568,23 +7568,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.54944124,
-          43.31482716
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006011101",
-        "name": "Pedríu",
-        "population": 23,
-        "ele": 540,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.59725095,
           43.32787845
         ]
@@ -7645,23 +7628,6 @@
         "name": "La Casilla",
         "population": 10,
         "ele": 620,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55508847,
-          43.30569685
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006012999",
-        "name": "La Llera",
-        "population": 23,
-        "ele": 393,
         "population:date": "2023"
       }
     },
@@ -16410,23 +16376,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.63523125,
-          43.47944755
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024130399",
-        "name": "Llinares",
-        "population": 121,
-        "ele": 87,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.65861467,
           43.46426536
         ]
@@ -18273,23 +18222,6 @@
         "name": "La Cabaña",
         "population": 1,
         "ele": 544,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.53953927,
-          43.36365141
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026260699",
-        "name": "Robléu",
-        "population": 7,
-        "ele": 305,
         "population:date": "2023"
       }
     },
@@ -26210,23 +26142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.54238479,
-          43.36350793
-        ]
-      },
-      "properties": {
-        "ref:ine": "33040050299",
-        "name": "Robléu",
-        "population": 35,
-        "ele": 293,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.70982126,
           43.53752832
         ]
@@ -33029,23 +32944,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.61372255,
-          43.34497103
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066042699",
-        "name": "La Llosa",
-        "population": 2,
-        "ele": 370,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63345864,
           43.32976921
         ]
@@ -33351,23 +33249,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.58693862,
-          43.36994561
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066161701",
-        "name": "La Cabaña",
-        "population": 18,
-        "ele": 367,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.57778592,
           43.36570438
         ]
@@ -33513,23 +33394,6 @@
         "name": "La Venta la Salve",
         "population": 48,
         "ele": 267,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65104198,
-          43.40327724
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066260201",
-        "name": "La Cabaña",
-        "population": 119,
-        "ele": 276,
         "population:date": "2023"
       }
     },
