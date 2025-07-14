@@ -7823,57 +7823,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.55101274,
-          43.34058014
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006021699",
-        "name": "El Faíu",
-        "population": 3,
-        "ele": 319,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55082341,
-          43.34165586
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006021899",
-        "name": "La Fragua",
-        "population": 6,
-        "ele": 291,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55503209,
-          43.34199407
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006022499",
-        "name": "El Praón",
-        "population": 8,
-        "ele": 290,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.5680101,
           43.34227951
         ]
@@ -7883,23 +7832,6 @@
         "name": "El Rebullu",
         "population": 11,
         "ele": 411,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55321075,
-          43.3397477
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006022799",
-        "name": "Ricóu",
-        "population": 5,
-        "ele": 295,
         "population:date": "2023"
       }
     },
@@ -20367,74 +20299,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.53821203,
-          43.23819858
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032040301",
-        "name": "Ciargüelo",
-        "population": 50,
-        "ele": 313,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.544828773,
-          43.24362208
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032040999",
-        "name": "Pando",
-        "population": 3,
-        "ele": 477,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.535532236,
-          43.23841681
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032041099",
-        "name": "Payandi",
-        "population": 7,
-        "ele": 352,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.544791222,
-          43.23856922
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032041101",
-        "name": "El Puente d'Arcu",
-        "population": 57,
-        "ele": 318,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.54994225,
           43.2625283
         ]
@@ -20570,23 +20434,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.546636581,
-          43.25530692
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032051599",
-        "name": "Les Portilles",
-        "population": 3,
-        "ele": 384,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.56333065,
           43.25429111
         ]
@@ -20645,23 +20492,6 @@
         "ref:ine": "33032053001",
         "name": "L'Otero",
         "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.548374653,
-          43.25732287
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032053199",
-        "name": "El Pandu",
-        "population": 1,
-        "ele": 477,
         "population:date": "2023"
       }
     },
@@ -25846,57 +25676,6 @@
         "name": "Villar",
         "population": 287,
         "ele": 133,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.54243984,
-          43.34119434
-        ]
-      },
-      "properties": {
-        "ref:ine": "33040040499",
-        "name": "Carbayal",
-        "population": 9,
-        "ele": 345,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.5399309,
-          43.34404141
-        ]
-      },
-      "properties": {
-        "ref:ine": "33040040599",
-        "name": "El Caspiu",
-        "population": 11,
-        "ele": 305,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.54575902,
-          43.33973382
-        ]
-      },
-      "properties": {
-        "ref:ine": "33040040899",
-        "name": "Roíles",
-        "population": 5,
-        "ele": 362,
         "population:date": "2023"
       }
     },
