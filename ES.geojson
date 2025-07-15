@@ -1711,22 +1711,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.76516339,
-          42.13374119
-        ]
-      },
-      "properties": {
-        "ref:ine": "17015000601",
-        "name": "Els Pins",
-        "population": 49,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.79644488,
           42.12143452
         ]
@@ -1736,23 +1720,6 @@
         "name": "Puigpalter",
         "population": 3,
         "ele": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.77667863,
-          42.11055429
-        ]
-      },
-      "properties": {
-        "ref:ine": "17015001099",
-        "name": "Mas Riera",
-        "population": 9,
-        "ele": 138,
         "population:date": "2023"
       }
     },
@@ -1889,57 +1856,6 @@
         "name": "El Pla",
         "population": 13,
         "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.76487465,
-          42.09702115
-        ]
-      },
-      "properties": {
-        "ref:ine": "17035000102",
-        "name": "La Bóbila",
-        "population": 112,
-        "ele": 164,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.76384206,
-          42.10156731
-        ]
-      },
-      "properties": {
-        "ref:ine": "17035000103",
-        "name": "Passatge Ramió",
-        "population": 103,
-        "ele": 155,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.768127659,
-          42.10229496
-        ]
-      },
-      "properties": {
-        "ref:ine": "17035000104",
-        "name": "Pla de Can Vilarnau",
-        "population": 126,
-        "ele": 150,
         "population:date": "2023"
       }
     },
@@ -2977,123 +2893,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.746309115,
-          42.10194037
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000202",
-        "name": "la Perpinyana",
-        "population": 25,
-        "ele": 192,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.74670798,
-          42.10382766
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000203",
-        "name": "Pratdalles",
-        "population": 56,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.75444683,
-          42.10424966
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000205",
-        "name": "Pujada de Mianegues",
-        "population": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.74161799,
-          42.1183529
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000301",
-        "name": "Cal Germà",
-        "population": 23,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.73455143,
-          42.14498722
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000302",
-        "name": "Caselles Davall",
-        "population": 143,
-        "ele": 283,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.75843035,
-          42.14797561
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000599",
-        "name": "Usall",
-        "population": 94,
-        "ele": 225,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.77311296,
-          42.10300893
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000601",
-        "name": "Les Pedreres",
-        "population": 1162,
-        "ele": 143,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.13414729,
           42.42586781
         ]
@@ -3425,23 +3224,6 @@
         "name": "La Cellera d'Amont",
         "population": 30,
         "ele": 198,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.73597157,
-          42.14983596
-        ]
-      },
-      "properties": {
-        "ref:ine": "17190000499",
-        "name": "Casals",
-        "population": 37,
-        "ele": 254,
         "population:date": "2023"
       }
     },
@@ -7789,23 +7571,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.55880489,
-          43.33107764
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006021499",
-        "name": "El Cuitu",
-        "population": 1,
-        "ele": 479,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.5789538,
           43.34754367
         ]
@@ -7942,23 +7707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.55834146,
-          43.34089357
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006024899",
-        "name": "La Vega Solavilla",
-        "population": 11,
-        "ele": 292,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.56508294,
           43.32609268
         ]
@@ -8036,23 +7784,6 @@
         "name": "La Cruz",
         "population": 10,
         "ele": 528,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.59307982,
-          43.33854405
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006030999",
-        "name": "El Cuitu",
-        "population": 15,
-        "ele": 573,
         "population:date": "2023"
       }
     },
@@ -10662,23 +10393,6 @@
         "name": "Castiello",
         "population": 15,
         "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83470184,
-          43.55109673
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014061099",
-        "name": "La Granda",
-        "population": 15,
-        "ele": 59,
         "population:date": "2023"
       }
     },
@@ -24679,23 +24393,6 @@
         "name": "Tablao",
         "population": 1,
         "ele": 442,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.72580166,
-          43.20941562
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037137799",
-        "name": "La Teyera",
-        "population": 2,
-        "ele": 429,
         "population:date": "2023"
       }
     },
