@@ -31218,23 +31218,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.782003009,
-          43.38083029
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066141201",
-        "name": "La Quinta Florez",
-        "population": 111,
-        "ele": 182,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.59118305,
           43.36324943
         ]
