@@ -9389,23 +9389,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.83840845,
-          43.5309082
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014110199",
-        "name": "Alredor de la Ilesia",
-        "population": 13,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.82992933,
           43.53324344
         ]
@@ -9440,23 +9423,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8391303,
-          43.52941364
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014110899",
-        "name": "La Güelga",
-        "population": 17,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.82429227,
           43.52701723
         ]
@@ -9474,40 +9440,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.84139741,
-          43.53657834
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014111399",
-        "name": "El Redal",
-        "population": 15,
-        "ele": 102,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.85104542,
-          43.53541059
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014111501",
-        "name": "Samartín",
-        "population": 0,
-        "ele": 104,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.84082511,
           43.51701825
         ]
@@ -9517,23 +9449,6 @@
         "name": "La Tabla",
         "population": 22,
         "ele": 156,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.84325735,
-          43.53059855
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014111999",
-        "name": "La Vallina",
-        "population": 1,
-        "ele": 95,
         "population:date": "2023"
       }
     },
@@ -14637,23 +14552,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82440041,
-          43.63576145
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025020499",
-        "name": "La Quintana",
-        "population": 36,
-        "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.828777503,
           43.56703404
         ]
@@ -14663,74 +14561,6 @@
         "name": "San Zabornín",
         "population": 46,
         "ele": 90,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83126828,
-          43.62045639
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025050199",
-        "name": "La Cabaña",
-        "population": 14,
-        "ele": 27,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82473449,
-          43.62701969
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025050299",
-        "name": "Xelaz",
-        "population": 26,
-        "ele": 26,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81565855,
-          43.62112128
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025050399",
-        "name": "Villanueva",
-        "population": 120,
-        "ele": 22,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82650433,
-          43.62141168
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025050499",
-        "name": "Eres",
-        "population": 32,
-        "ele": 21,
         "population:date": "2023"
       }
     },
@@ -14901,23 +14731,6 @@
         "name": "Lloreda",
         "population": 15,
         "ele": 53,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.84582223,
-          43.61554795
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025110199",
-        "name": "Les Cabañes",
-        "population": 30,
-        "ele": 91,
         "population:date": "2023"
       }
     },
