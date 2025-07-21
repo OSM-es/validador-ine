@@ -14739,23 +14739,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8602893,
-          43.60859603
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025130199",
-        "name": "La Cabrera",
-        "population": 7,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.86275519,
           43.59240866
         ]
