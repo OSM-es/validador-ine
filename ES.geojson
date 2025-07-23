@@ -1575,74 +1575,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.906412504,
-          42.23880746
-        ]
-      },
-      "properties": {
-        "ref:ine": "17012000102",
-        "name": "el Mas Pau",
-        "population": 1254,
-        "ele": 74,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.9223659,
-          42.24340965
-        ]
-      },
-      "properties": {
-        "ref:ine": "17012000103",
-        "name": "La Timba",
-        "population": 2,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.92820048,
-          42.26121904
-        ]
-      },
-      "properties": {
-        "ref:ine": "17012000299",
-        "name": "les Tres Cases",
-        "population": 4,
-        "ele": 94,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.91589406,
-          42.24279284
-        ]
-      },
-      "properties": {
-        "ref:ine": "17012000399",
-        "name": "Santa Eugènia",
-        "population": 14,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.80049422,
           42.40383379
         ]
@@ -1660,23 +1592,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.93402218,
-          42.21204698
-        ]
-      },
-      "properties": {
-        "ref:ine": "17026000299",
-        "name": "Creixell",
-        "population": 67,
-        "ele": 68,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.85606254,
           42.32960828
         ]
@@ -1686,39 +1601,6 @@
         "name": "Boadella d'Empordà",
         "population": 139,
         "ele": 86,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.83829536,
-          42.26699191
-        ]
-      },
-      "properties": {
-        "ref:ine": "17051000299",
-        "name": "La Mare de Déu de Vida",
-        "population": 41,
-        "ele": 188,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.84948227,
-          42.28432613
-        ]
-      },
-      "properties": {
-        "ref:ine": "17051000399",
-        "name": "Ribera de Les Planes",
-        "population": 20,
         "population:date": "2023"
       }
     },
@@ -1844,91 +1726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.83319971,
-          42.24518028
-        ]
-      },
-      "properties": {
-        "ref:ine": "17088000299",
-        "name": "Llavanera",
-        "population": 20,
-        "ele": 142,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.815965995,
-          42.25958196
-        ]
-      },
-      "properties": {
-        "ref:ine": "17088000399",
-        "name": "Manol",
-        "population": 36,
-        "ele": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.80954961,
-          42.25376251
-        ]
-      },
-      "properties": {
-        "ref:ine": "17088000499",
-        "name": "el Pujol",
-        "population": 51,
-        "ele": 233,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.9121437,
-          42.29059584
-        ]
-      },
-      "properties": {
-        "ref:ine": "17093000301",
-        "name": "El Poblenou",
-        "population": 174,
-        "ele": 169,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.92001925,
-          42.29789653
-        ]
-      },
-      "properties": {
-        "ref:ine": "17093000401",
-        "name": "La Vall",
-        "population": 47,
-        "ele": 113,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.76105653,
           42.38271196
         ]
@@ -2014,40 +1811,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.85981988,
-          42.23319262
-        ]
-      },
-      "properties": {
-        "ref:ine": "17111000401",
-        "name": "Torremirona",
-        "population": 380,
-        "ele": 142,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.89223935,
-          42.2252834
-        ]
-      },
-      "properties": {
-        "ref:ine": "17115000201",
-        "name": "Pols",
-        "population": 6,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.7802957,
           42.31694303
         ]
@@ -2056,40 +1819,6 @@
         "ref:ine": "17171000302",
         "name": "Sant Antoni",
         "population": 71,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.87450394,
-          42.30893396
-        ]
-      },
-      "properties": {
-        "ref:ine": "17196000199",
-        "name": "La Guàrdia",
-        "population": 21,
-        "ele": 221,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.86967227,
-          42.29830139
-        ]
-      },
-      "properties": {
-        "ref:ine": "17196000299",
-        "name": "Palau-surroca",
-        "population": 30,
-        "ele": 212,
         "population:date": "2023"
       }
     },
@@ -36091,40 +35820,6 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.52999191,
-          39.63480807
-        ]
-      },
-      "properties": {
-        "ref:ine": "46202000501",
-        "name": "Lloma Llarga I",
-        "population": 252,
-        "ele": 161,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.51902117,
-          39.63044809
-        ]
-      },
-      "properties": {
-        "ref:ine": "46202000502",
-        "name": "Lloma Llarga II",
-        "population": 112,
-        "ele": 150,
         "population:date": "2023"
       }
     }
