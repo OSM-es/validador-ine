@@ -28390,23 +28390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.63587157,
-          43.2463798
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060050799",
-        "name": "La Casanueva",
-        "population": 4,
-        "ele": 535,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.625729561,
           43.25336514
         ]
