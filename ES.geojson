@@ -13927,23 +13927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.00012964,
-          43.36008766
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026020199",
-        "name": "Báscones",
-        "population": 12,
-        "ele": 162,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.01092609,
           43.34684704
         ]
