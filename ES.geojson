@@ -4814,40 +4814,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2280201,
-          43.2934174
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005040101",
-        "name": "La Herrería",
-        "population": 10,
-        "ele": 195,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.23752131,
-          43.30082372
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005040102",
-        "name": "El Machuco",
-        "population": 14,
-        "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.21778488,
           43.28188653
         ]
@@ -5316,23 +5282,6 @@
         "name": "La Cuesta",
         "population": 15,
         "ele": 342,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.56508294,
-          43.32609268
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006024999",
-        "name": "La Vegona",
-        "population": 4,
-        "ele": 312,
         "population:date": "2023"
       }
     },
@@ -29536,23 +29485,6 @@
         "name": "Colloto/Cualloto",
         "population": 587,
         "ele": 167,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.59118305,
-          43.36324943
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066160101",
-        "name": "L'Acebal",
-        "population": 77,
-        "ele": 417,
         "population:date": "2023"
       }
     },
