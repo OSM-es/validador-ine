@@ -13384,23 +13384,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.65403892,
-          43.47495138
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024110499",
-        "name": "Villaverde",
-        "population": 64,
-        "ele": 217,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63441473,
           43.46094527
         ]
@@ -16037,23 +16020,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.701282024,
-          43.31803186
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031010799",
-        "name": "La Campa",
-        "population": 2,
-        "ele": 301,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.683515072,
           43.33112084
         ]
@@ -16097,23 +16063,6 @@
         "name": "La Caleya",
         "population": 7,
         "ele": 417,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.664562583,
-          43.2853615
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031020901",
-        "name": "La Campa",
-        "population": 11,
-        "ele": 325,
         "population:date": "2023"
       }
     },
@@ -16283,23 +16232,6 @@
         "name": "El Rebullu",
         "population": 1,
         "ele": 672,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.680677295,
-          43.28105411
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031026199",
-        "name": "La Roza",
-        "population": 9,
-        "ele": 422,
         "population:date": "2023"
       }
     },
@@ -20322,22 +20254,6 @@
         "name": "Llames",
         "population": 3,
         "ele": 326,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83821529,
-          43.26219002
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037042599",
-        "name": "El Períu",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -27424,23 +27340,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.59704652,
-          43.29993409
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060020799",
-        "name": "El Caliyu",
-        "population": 7,
-        "ele": 492,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61758321,
           43.30390474
         ]
@@ -29358,23 +29257,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.751282056,
-          43.39770545
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066070701",
-        "name": "Castañera",
-        "population": 59,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.67114865,
           43.40108019
         ]
@@ -29401,23 +29283,6 @@
         "name": "L'Otero",
         "population": 97,
         "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7364465,
-          43.35743205
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066120101",
-        "name": "El Campu",
-        "population": 35,
-        "ele": 302,
         "population:date": "2023"
       }
     },
@@ -32392,23 +32257,6 @@
         "name": "Verrugosu",
         "population": 2,
         "ele": 600,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.442377382,
-          43.36864009
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073210201",
-        "name": "Zreizar",
-        "population": 29,
-        "ele": 680,
         "population:date": "2023"
       }
     },
