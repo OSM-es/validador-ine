@@ -22013,23 +22013,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.87063192,
-          43.26327127
-        ]
-      },
-      "properties": {
-        "ref:ine": "33038020501",
-        "name": "Les Maces",
-        "population": 204,
-        "ele": 267,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.8703238,
           43.26353112
         ]
@@ -29503,23 +29486,6 @@
         "name": "H.ueyu",
         "population": 192,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.66160332,
-          43.3621713
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066252199",
-        "name": "La Rotella",
-        "population": 40,
-        "ele": 256,
         "population:date": "2023"
       }
     },
