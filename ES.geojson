@@ -23687,23 +23687,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.95952055,
-          43.37105082
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044170401",
-        "name": "San Pedru",
-        "population": 9,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.8076939,
           43.29049633
         ]
@@ -24953,23 +24936,6 @@
         "name": "L'Escampleru",
         "population": 132,
         "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95776814,
-          43.37460772
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054060301",
-        "name": "Campanal",
-        "population": 18,
-        "ele": 116,
         "population:date": "2023"
       }
     },
