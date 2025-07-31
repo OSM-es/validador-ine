@@ -3950,23 +3950,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.698889494,
-          43.12831235
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002110699",
-        "name": "La Carrera",
-        "population": 4,
-        "ele": 730,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.713191032,
           43.15066731
         ]
@@ -4942,23 +4925,6 @@
         "name": "Noceda",
         "population": 9,
         "ele": 756,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26715649,
-          43.2562899
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005070499",
-        "name": "Acicorvu",
-        "population": 1,
-        "ele": 792,
         "population:date": "2023"
       }
     },
@@ -29622,23 +29588,6 @@
         "name": "Gúa",
         "population": 14,
         "ele": 860,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.234939694,
-          43.15288827
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068060101",
-        "name": "Las Morteras",
-        "population": 9,
-        "ele": 864,
         "population:date": "2023"
       }
     },
