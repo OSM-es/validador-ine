@@ -207,23 +207,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.07445621,
-          43.00192012
-        ]
-      },
-      "properties": {
-        "ref:ine": "15010102599",
-        "name": "Castro",
-        "population": 4,
-        "ele": 533,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.65552007,
           42.8302296
         ]
@@ -1711,23 +1694,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.61355827,
-          43.19717439
-        ]
-      },
-      "properties": {
-        "ref:ine": "27015091799",
-        "name": "A Quenlla",
-        "population": 7,
-        "ele": 404,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.021929,
           43.198417
         ]
@@ -2764,23 +2730,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.094576291,
-          41.92373316
-        ]
-      },
-      "properties": {
-        "ref:ine": "32030020101",
-        "name": "Asperelo e Olín",
-        "population": 24,
-        "ele": 479,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.65444421,
           42.30773414
         ]
@@ -2892,23 +2841,6 @@
         "name": "Loña do Monte",
         "population": 116,
         "ele": 655,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.65176747,
-          42.3995366
-        ]
-      },
-      "properties": {
-        "ref:ine": "32052110501",
-        "name": "Vilar de Cerreda",
-        "population": 125,
-        "ele": 578,
         "population:date": "2023"
       }
     },
@@ -15655,23 +15587,6 @@
         "name": "Salvador",
         "population": 7,
         "ele": 760,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.83133467,
-          43.09411944
-        ]
-      },
-      "properties": {
-        "ref:ine": "33028080401",
-        "name": "Morentán",
-        "population": 10,
-        "ele": 721,
         "population:date": "2023"
       }
     },
