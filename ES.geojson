@@ -1524,23 +1524,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.3945484,
-          43.38818905
-        ]
-      },
-      "properties": {
-        "ref:ine": "27001110199",
-        "name": "Bicos",
-        "population": 8,
-        "ele": 338,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.20532321,
           43.55655273
         ]
@@ -1618,23 +1601,6 @@
         "name": "Ribas Pequenas",
         "population": 63,
         "ele": 333,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.46424986,
-          43.68637879
-        ]
-      },
-      "properties": {
-        "ref:ine": "27013022499",
-        "name": "Castelo",
-        "population": 77,
-        "ele": 97,
         "population:date": "2023"
       }
     },
@@ -2263,23 +2229,6 @@
         "name": "Torbeo",
         "population": 41,
         "ele": 650,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.29832849,
-          43.30202121
-        ]
-      },
-      "properties": {
-        "ref:ine": "27054010601",
-        "name": "Aldurfe",
-        "population": 73,
-        "ele": 508,
         "population:date": "2023"
       }
     },
@@ -13342,23 +13291,6 @@
         "name": "Arroyo",
         "population": 212,
         "ele": 118,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.71946796,
-          43.45731353
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024190199",
-        "name": "La Figar",
-        "population": 58,
-        "ele": 100,
         "population:date": "2023"
       }
     },
@@ -28876,23 +28808,6 @@
         "name": "El Cuto",
         "population": 64,
         "ele": 213,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73385351,
-          43.44932582
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066012201",
-        "name": "Picalloreú",
-        "population": 13,
-        "ele": 90,
         "population:date": "2023"
       }
     },
