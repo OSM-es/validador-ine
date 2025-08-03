@@ -27470,23 +27470,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.5848357,
-          43.28350801
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060032099",
-        "name": "El Colláu",
-        "population": 4,
-        "ele": 412,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63602497,
           43.28730942
         ]
