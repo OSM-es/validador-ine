@@ -20808,23 +20808,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77400226,
-          43.22776816
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037111201",
-        "name": "Vistalegre",
-        "population": 13,
-        "ele": 342,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78786129,
           43.25732463
         ]
