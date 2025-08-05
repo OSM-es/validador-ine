@@ -2016,23 +2016,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.06333182,
-          42.65137146
-        ]
-      },
-      "properties": {
-        "ref:ine": "27045100201",
-        "name": "Riocereixa",
-        "population": 22,
-        "ele": 1013,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.39325113,
           42.52302713
         ]
@@ -28841,23 +28824,6 @@
         "name": "La Quintana",
         "population": 41,
         "ele": 264,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.62047944,
-          43.38584805
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066020801",
-        "name": "La Rebollá",
-        "population": 29,
-        "ele": 236,
         "population:date": "2023"
       }
     },
