@@ -2577,23 +2577,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.26938693,
-          42.8719308
-        ]
-      },
-      "properties": {
-        "ref:ine": "27901010101",
-        "name": "Aranza",
-        "population": 38,
-        "ele": 471,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.78189747,
           42.21859384
         ]
@@ -13197,23 +13180,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.657285377,
-          43.45509397
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024110299",
-        "name": "El Monte",
-        "population": 96,
-        "ele": 485,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63441473,
           43.46094527
         ]
@@ -13240,23 +13206,6 @@
         "name": "Llavandera",
         "population": 61,
         "ele": 182,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65861467,
-          43.46426536
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024130499",
-        "name": "El Monte",
-        "population": 27,
-        "ele": 343,
         "population:date": "2023"
       }
     },
@@ -29044,40 +28993,6 @@
         "name": "La Cruz",
         "population": 10,
         "ele": 539,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.57383123,
-          43.36120139
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066161001",
-        "name": "El Monte",
-        "population": 7,
-        "ele": 446,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.57778592,
-          43.36570438
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066162399",
-        "name": "El Rebollal",
-        "population": 20,
-        "ele": 329,
         "population:date": "2023"
       }
     },
