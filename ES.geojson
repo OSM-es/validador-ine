@@ -13112,23 +13112,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.61623683,
-          43.48369278
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024040599",
-        "name": "Robleo",
-        "population": 121,
-        "ele": 153,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.72549578,
           43.49626484
         ]
@@ -27535,22 +27518,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.63047126,
-          43.29514495
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060037099",
-        "name": "La Vallina",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61731996,
           43.29030542
         ]
@@ -27576,22 +27543,6 @@
         "name": "Vistalegre",
         "population": 7,
         "ele": 314,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60354429,
-          43.3230441
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060037699",
-        "name": "El Candanal",
-        "population": 5,
         "population:date": "2023"
       }
     },
