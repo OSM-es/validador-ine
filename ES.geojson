@@ -4780,23 +4780,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2191845,
-          43.3211967
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005080702",
-        "name": "Silviella",
-        "population": 30,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.33928831,
           43.25594732
         ]
@@ -19270,23 +19253,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.80758837,
-          43.45609119
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035060999",
-        "name": "Robleo",
-        "population": 90,
-        "ele": 240,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.80849762,
           43.43248751
         ]
@@ -22841,23 +22807,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.816249414,
-          43.34173022
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044070601",
-        "name": "El Cruce",
-        "population": 36,
-        "ele": 364,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83669102,
           43.33247718
         ]
@@ -25940,23 +25889,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.329331,
-          43.428888
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059160599",
-        "name": "El Cándanu",
-        "population": 8,
-        "ele": 465,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.32147939,
           43.44316934
         ]
@@ -26296,23 +26228,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.25823,
-          43.47254
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059190599",
-        "name": "El Cándanu",
-        "population": 2,
-        "ele": 270,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.29429663,
           43.48021967
         ]
@@ -26457,23 +26372,6 @@
         "name": "La Barraca",
         "population": 11,
         "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26805936,
-          43.3324329
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059200199",
-        "name": "Miera",
-        "population": 16,
-        "ele": 542,
         "population:date": "2023"
       }
     },
