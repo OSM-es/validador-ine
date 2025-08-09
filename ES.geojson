@@ -7425,23 +7425,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7763852,
-          43.58913802
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014030999",
-        "name": "La Mata",
-        "population": 3,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.7718208,
           43.59791043
         ]
@@ -7857,23 +7840,6 @@
         "name": "La Residencia",
         "population": 0,
         "ele": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79770953,
-          43.5609313
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014071399",
-        "name": "El Cuitu",
-        "population": 6,
-        "ele": 88,
         "population:date": "2023"
       }
     },
@@ -8391,23 +8357,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.78529202,
-          43.54268694
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014120199",
-        "name": "El Cuitu",
-        "population": 3,
-        "ele": 66,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.79782491,
           43.53293568
         ]
@@ -8434,40 +8383,6 @@
         "name": "Llacín",
         "population": 6,
         "ele": 62,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78783327,
-          43.54008587
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014120699",
-        "name": "La Mata",
-        "population": 31,
-        "ele": 72,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78605407,
-          43.53961606
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014120899",
-        "name": "El Palacio",
-        "population": 8,
-        "ele": 70,
         "population:date": "2023"
       }
     },
@@ -13688,22 +13603,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.98098282,
-          43.36296573
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026040299",
-        "name": "La Vallina",
-        "population": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.12210268,
           43.39845215
         ]
@@ -13831,23 +13730,6 @@
         "name": "Las Murias",
         "population": 10,
         "ele": 577,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.05241173,
-          43.32761501
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026070999",
-        "name": "Pumarín",
-        "population": 13,
-        "ele": 289,
         "population:date": "2023"
       }
     },
@@ -20470,23 +20352,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.75089322,
-          43.26120978
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037102399",
-        "name": "El Cruce",
-        "population": 2,
-        "ele": 399,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.72681137,
           43.25633934
         ]
@@ -23373,23 +23238,6 @@
         "name": "Malpica",
         "population": 12,
         "ele": 127,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82632,
-          43.30261
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044181499",
-        "name": "El Cruce",
-        "population": 7,
-        "ele": 212,
         "population:date": "2023"
       }
     },
@@ -27091,23 +26939,6 @@
         "name": "La Rotella",
         "population": 39,
         "ele": 316,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.575754643,
-          43.29208361
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060025299",
-        "name": "La Vallina",
-        "population": 1,
-        "ele": 513,
         "population:date": "2023"
       }
     },
