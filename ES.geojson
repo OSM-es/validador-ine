@@ -8001,23 +8001,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.75560221,
-          43.57427187
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014073699",
-        "name": "La Torre",
-        "population": 9,
-        "ele": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.779722,
           43.563333
         ]
@@ -8323,23 +8306,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.84082511,
-          43.51701825
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014111799",
-        "name": "La Tabla",
-        "population": 22,
-        "ele": 156,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.832962777,
           43.51502608
         ]
@@ -8383,40 +8349,6 @@
         "name": "Llacín",
         "population": 6,
         "ele": 62,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.75545934,
-          43.57331192
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014121399",
-        "name": "La Torre",
-        "population": 19,
-        "ele": 20,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73700701,
-          43.54952639
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014121499",
-        "name": "La Vega",
-        "population": 21,
-        "ele": 35,
         "population:date": "2023"
       }
     },
@@ -11111,23 +11043,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.99078483,
-          43.45522739
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017072799",
-        "name": "Vilar",
-        "population": 1,
-        "ele": 204,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.04506716,
           43.4737353
         ]
@@ -11171,23 +11086,6 @@
         "name": "Siares/Seares",
         "population": 49,
         "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.039397207,
-          43.48448147
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017081299",
-        "name": "Vilar",
-        "population": 4,
-        "ele": 50,
         "population:date": "2023"
       }
     },
@@ -13586,23 +13484,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.02527472,
-          43.33524948
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026030299",
-        "name": "La Calea",
-        "population": 53,
-        "ele": 268,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.12210268,
           43.39845215
         ]
@@ -14365,23 +14246,6 @@
         "name": "San Pedru",
         "population": 5,
         "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.09960458,
-          43.3109495
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026190199",
-        "name": "La Calea",
-        "population": 2,
-        "ele": 548,
         "population:date": "2023"
       }
     },
@@ -17122,22 +16986,6 @@
         "name": "Vil.layana",
         "population": 280,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7989606,
-          43.17689843
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033222499",
-        "name": "La Viña",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -23096,23 +22944,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.860544321,
-          43.32867935
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044130801",
-        "name": "Llamascura",
-        "population": 712,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.86195556,
           43.37845171
         ]
@@ -23374,23 +23205,6 @@
         "name": "El Condao",
         "population": 3,
         "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.859783023,
-          43.3279371
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044210699",
-        "name": "Llamascura",
-        "population": 19,
-        "ele": 186,
         "population:date": "2023"
       }
     },
@@ -23917,23 +23731,6 @@
         "name": "Las Campas",
         "population": 6,
         "ele": 222,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.149089,
-          43.50875152
-        ]
-      },
-      "properties": {
-        "ref:ine": "33051040399",
-        "name": "La Pandiella",
-        "population": 9,
-        "ele": 323,
         "population:date": "2023"
       }
     },
@@ -28182,23 +27979,6 @@
         "name": "Sanguñedo",
         "population": 2,
         "ele": 505,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.14942832,
-          43.42133894
-        ]
-      },
-      "properties": {
-        "ref:ine": "33063010399",
-        "name": "O Castro",
-        "population": 11,
-        "ele": 107,
         "population:date": "2023"
       }
     },
