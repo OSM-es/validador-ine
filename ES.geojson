@@ -7475,23 +7475,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.78308218,
-          43.5844732
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014032099",
-        "name": "La Tabla",
-        "population": 6,
-        "ele": 79,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76656954,
           43.55442365
         ]
@@ -7678,23 +7661,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82181968,
-          43.55066831
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014060699",
-        "name": "El Cantu",
-        "population": 4,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.81971786,
           43.54701064
         ]
@@ -7789,23 +7755,6 @@
         "name": "Campanal",
         "population": 22,
         "ele": 58,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79288002,
-          43.56412875
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014070899",
-        "name": "El Cantu",
-        "population": 18,
-        "ele": 51,
         "population:date": "2023"
       }
     },
@@ -8238,23 +8187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82181968,
-          43.55066831
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014100599",
-        "name": "El Cantu",
-        "population": 12,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.82992933,
           43.53324344
         ]
@@ -8400,23 +8332,6 @@
         "name": "La Cruz d'Illes",
         "population": 102,
         "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95887572,
-          43.51891145
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000201",
-        "name": "La Llaguna",
-        "population": 40,
-        "ele": 164,
         "population:date": "2023"
       }
     },
@@ -11808,23 +11723,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.90615692,
-          43.51044118
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020031599",
-        "name": "La Llaguna",
-        "population": 2,
-        "ele": 192,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.905211942,
           43.52209522
         ]
@@ -12070,22 +11968,6 @@
         "name": "Las Huertas/Les Güertes",
         "population": 51,
         "ele": 53,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.90586081,
-          43.51045772
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020060599",
-        "name": "La Laguna/La Llaguna",
-        "population": 6,
         "population:date": "2023"
       }
     },
@@ -15384,6 +15266,23 @@
         "name": "Friera",
         "population": 12,
         "ele": 275,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95498324,
+          43.51901217
+        ]
+      },
+      "properties": {
+        "ref:ine": "33030011401",
+        "name": "La Llaguna",
+        "population": 167,
+        "ele": 156,
         "population:date": "2023"
       }
     },
@@ -26295,22 +26194,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.59212422,
-          43.26504637
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060011299",
-        "name": "El Cantu",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.59779901,
           43.26202721
         ]
@@ -26567,40 +26450,6 @@
         "ref:ine": "33060022199",
         "name": "La Correoria",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.59240873,
-          43.3114747
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060022301",
-        "name": "La Cotariella",
-        "population": 17,
-        "ele": 584,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.59451766,
-          43.30742899
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060022401",
-        "name": "L'Edráu",
-        "population": 7,
-        "ele": 473,
         "population:date": "2023"
       }
     },
@@ -27341,23 +27190,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.628368855,
-          43.25127482
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060050499",
-        "name": "El Cantu",
-        "population": 5,
-        "ele": 416,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.625729561,
           43.25336514
         ]
@@ -27367,23 +27199,6 @@
         "name": "La Casuca",
         "population": 2,
         "ele": 432,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63691818,
-          43.24979528
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060051699",
-        "name": "L'Edráu",
-        "population": 3,
-        "ele": 698,
         "population:date": "2023"
       }
     },
