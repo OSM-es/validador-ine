@@ -22269,23 +22269,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.852558613,
-          43.36619429
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044031799",
-        "name": "El Valle",
-        "population": 13,
-        "ele": 212,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76986314,
           43.33033504
         ]
@@ -23325,23 +23308,6 @@
         "name": "Ribero",
         "population": 40,
         "ele": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.92654498,
-          43.36625447
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044272399",
-        "name": "El Valle",
-        "population": 28,
-        "ele": 167,
         "population:date": "2023"
       }
     },
