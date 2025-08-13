@@ -6189,23 +6189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.58670405,
-          43.10566148
-        ]
-      },
-      "properties": {
-        "ref:ine": "33011130101",
-        "name": "Augüera",
-        "population": 36,
-        "ele": 461,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.66532809,
           43.14513086
         ]
@@ -7408,23 +7391,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.824547478,
-          43.56974071
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014030699",
-        "name": "La Estación",
-        "population": 9,
-        "ele": 80,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.7718208,
           43.59791043
         ]
@@ -7797,23 +7763,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.75618539,
-          43.58162286
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014071799",
-        "name": "La Estación",
-        "population": 12,
-        "ele": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.75733708,
           43.56941301
         ]
@@ -8102,23 +8051,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.826193243,
-          43.57002634
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014090699",
-        "name": "La Estación",
-        "population": 4,
-        "ele": 90,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.79769458,
           43.57638208
         ]
@@ -8145,23 +8077,6 @@
         "name": "El Llano",
         "population": 24,
         "ele": 145,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.828763902,
-          43.56602754
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014091299",
-        "name": "San Zabornín",
-        "population": 15,
-        "ele": 90,
         "population:date": "2023"
       }
     },
@@ -11875,40 +11790,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.86808959,
-          43.55084874
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020051001",
-        "name": "El Pedrero/El Pedréu",
-        "population": 207,
-        "ele": 13,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.86160903,
-          43.54731967
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020051101",
-        "name": "Rovés",
-        "population": 113,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.86503086,
           43.54508201
         ]
@@ -13054,23 +12935,6 @@
         "name": "El Valle",
         "population": 104,
         "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.828777503,
-          43.56703404
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025040499",
-        "name": "San Zabornín",
-        "population": 46,
-        "ele": 90,
         "population:date": "2023"
       }
     },
@@ -23961,23 +23825,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.97606775,
-          43.25812535
-        ]
-      },
-      "properties": {
-        "ref:ine": "33053110201",
-        "name": "La Rebollá",
-        "population": 14,
-        "ele": 671,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.97046467,
           43.17429908
         ]
@@ -26508,23 +26355,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.60635415,
-          43.29935308
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060024401",
-        "name": "El Rebollal",
-        "population": 8,
-        "ele": 310,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61070811,
           43.29450851
         ]
@@ -26534,23 +26364,6 @@
         "name": "El Resellón",
         "population": 15,
         "ele": 380,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63851212,
-          43.28211964
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060024901",
-        "name": "La Rotella",
-        "population": 39,
-        "ele": 316,
         "population:date": "2023"
       }
     },
@@ -27930,23 +27743,6 @@
         "name": "Castañeo'l Monte",
         "population": 26,
         "ele": 554,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.70396097,
-          43.42109856
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066010601",
-        "name": "El Cuto",
-        "population": 64,
-        "ele": 213,
         "population:date": "2023"
       }
     },
