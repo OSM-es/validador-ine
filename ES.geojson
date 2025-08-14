@@ -4627,23 +4627,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.29999344,
-          43.17613954
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005020299",
-        "name": "Auguasmestas",
-        "population": 11,
-        "ele": 404,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.21778488,
           43.28188653
         ]
@@ -13298,22 +13281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.07825912,
-          43.4106833
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026061599",
-        "name": "La Quintana",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.06537187,
           43.31000357
         ]
@@ -13589,23 +13556,6 @@
         "ref:ine": "33026101099",
         "name": "La Carbayeda",
         "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03807183,
-          43.35668724
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026110599",
-        "name": "Reconcu",
-        "population": 18,
-        "ele": 244,
         "population:date": "2023"
       }
     },
@@ -21404,23 +21354,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.89405161,
-          43.27804152
-        ]
-      },
-      "properties": {
-        "ref:ine": "33038050601",
-        "name": "Les Vegues/Las Vegas de San Esteban",
-        "population": 47,
-        "ele": 211,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.91571331,
           43.26249927
         ]
@@ -21481,23 +21414,6 @@
         "name": "Figares",
         "population": 15,
         "ele": 389,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.89058684,
-          43.27800315
-        ]
-      },
-      "properties": {
-        "ref:ine": "33038070699",
-        "name": "Malpica",
-        "population": 20,
-        "ele": 202,
         "population:date": "2023"
       }
     },
@@ -22572,39 +22488,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.926470604,
-          43.37525537
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044120599",
-        "name": "Malpica",
-        "population": 14,
-        "ele": 117,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9267443,
-          43.37706309
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044120699",
-        "name": "Peñanora",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.91672957,
           43.36874735
         ]
@@ -22798,23 +22681,6 @@
         "name": "Casares",
         "population": 20,
         "ele": 333,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.925514698,
-          43.37514763
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044180599",
-        "name": "Malpica",
-        "population": 12,
-        "ele": 127,
         "population:date": "2023"
       }
     },
@@ -24924,23 +24790,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.131997,
-          43.422754
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059090499",
-        "name": "Reconcu",
-        "population": 12,
-        "ele": 185,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.140250083,
           43.42221097
         ]
@@ -26338,23 +26187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.60657276,
-          43.31196297
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060023699",
-        "name": "La Lloseta",
-        "population": 2,
-        "ele": 396,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61070811,
           43.29450851
         ]
@@ -26364,40 +26196,6 @@
         "name": "El Resellón",
         "population": 15,
         "ele": 380,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65692994,
-          43.29157061
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060025499",
-        "name": "La Cabaña",
-        "population": 1,
-        "ele": 255,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65388393,
-          43.29238872
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060030101",
-        "name": "L'Abonión",
-        "population": 20,
-        "ele": 297,
         "population:date": "2023"
       }
     },
@@ -26471,23 +26269,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.65692994,
-          43.29157061
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060030999",
-        "name": "La Cabaña",
-        "population": 2,
-        "ele": 255,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63617762,
           43.29312261
         ]
@@ -26547,23 +26328,6 @@
         "ref:ine": "33060032999",
         "name": "Fresnu",
         "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60657276,
-          43.31196297
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060033899",
-        "name": "La Lloseta",
-        "population": 2,
-        "ele": 396,
         "population:date": "2023"
       }
     },
@@ -26648,22 +26412,6 @@
         "name": "San Vicente",
         "population": 120,
         "ele": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63558386,
-          43.29934918
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060036799",
-        "name": "La Traviesa",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -28268,74 +28016,6 @@
         "name": "La Viesca",
         "population": 6,
         "ele": 275,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.25720566,
-          43.17169068
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068020201",
-        "name": "Clavichas",
-        "population": 6,
-        "ele": 731,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.25965221,
-          43.08011212
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068050201",
-        "name": "Gúa",
-        "population": 14,
-        "ele": 860,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.34048502,
-          43.12821268
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068080301",
-        "name": "La Rebol.lada",
-        "population": 39,
-        "ele": 848,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.19710889,
-          43.08940185
-        ]
-      },
-      "properties": {
-        "ref:ine": "33068130399",
-        "name": "La L.lamera",
-        "population": 4,
-        "ele": 1103,
         "population:date": "2023"
       }
     },
@@ -30097,23 +29777,6 @@
         "ref:ine": "33073080501",
         "name": "L.laneces",
         "population": 17,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.49341784,
-          43.41420494
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073080899",
-        "name": "La Rebol.lada",
-        "population": 11,
-        "ele": 164,
         "population:date": "2023"
       }
     },
