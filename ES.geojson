@@ -5069,23 +5069,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.57206721,
-          43.33376938
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006025299",
-        "name": "L'Azorea",
-        "population": 3,
-        "ele": 397,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.59483019,
           43.34459113
         ]
@@ -15241,23 +15224,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.651124716,
-          43.28162038
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031021201",
-        "name": "La Capilla",
-        "population": 53,
-        "ele": 267,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.649257,
           43.26493
         ]
@@ -15850,23 +15816,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.690338612,
-          43.29533214
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031060499",
-        "name": "La Cantera",
-        "population": 10,
-        "ele": 338,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.704082251,
           43.28999462
         ]
@@ -15893,23 +15842,6 @@
         "name": "La Güeria",
         "population": 68,
         "ele": 268,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.688428879,
-          43.29437947
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031061899",
-        "name": "La Raposa",
-        "population": 4,
-        "ele": 300,
         "population:date": "2023"
       }
     },
@@ -16163,23 +16095,6 @@
         "name": "Llaneces",
         "population": 2,
         "ele": 313,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.738618374,
-          43.29557031
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031081501",
-        "name": "La Raposa",
-        "population": 10,
-        "ele": 380,
         "population:date": "2023"
       }
     },
@@ -19186,22 +19101,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77049399,
-          43.25087681
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037020399",
-        "name": "Arriondo",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.79766755,
           43.20487008
         ]
@@ -19448,23 +19347,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.72817742,
-          43.20085897
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037060301",
-        "name": "Arriondo",
-        "population": 205,
-        "ele": 264,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76266298,
           43.25421781
         ]
@@ -19474,39 +19356,6 @@
         "name": "La Belonga",
         "population": 9,
         "ele": 243,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7712006,
-          43.25124686
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037061099",
-        "name": "La Campeta",
-        "population": 32,
-        "ele": 233,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76533378,
-          43.23484837
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037061399",
-        "name": "El Carboniru",
-        "population": 4,
         "population:date": "2023"
       }
     },
@@ -19864,23 +19713,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.70504387,
-          43.26830984
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037101199",
-        "name": "La Cantera",
-        "population": 12,
-        "ele": 606,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.744062,
           43.27587963
         ]
@@ -20041,22 +19873,6 @@
         "name": "Brañanocedo",
         "population": 8,
         "ele": 431,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.75989589,
-          43.24532556
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037110299",
-        "name": "La Cantera",
-        "population": 5,
         "population:date": "2023"
       }
     },
@@ -26336,22 +26152,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.63919192,
-          43.27960078
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060034399",
-        "name": "La Nespral",
-        "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.62905755,
           43.2969513
         ]
@@ -26526,22 +26326,6 @@
         "ref:ine": "33060038199",
         "name": "El Jardín",
         "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60164457,
-          43.28836717
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060040899",
-        "name": "La Campeta",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -26751,23 +26535,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.61023761,
-          43.25556698
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060052099",
-        "name": "La Gallega",
-        "population": 6,
-        "ele": 410,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61131343,
           43.2640154
         ]
@@ -26811,23 +26578,6 @@
         "name": "La Seca'l Agua",
         "population": 2,
         "ele": 523,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60978581,
-          43.25018375
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060053901",
-        "name": "El Bericiusu",
-        "population": 12,
-        "ele": 551,
         "population:date": "2023"
       }
     },
