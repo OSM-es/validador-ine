@@ -528,22 +528,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041082299",
-        "name": "O Feal",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.86550209,
           43.30853455
         ]
@@ -4789,40 +4773,6 @@
         "name": "L'Hospital",
         "population": 27,
         "ele": 100,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.19763506,
-          43.34837603
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005130501",
-        "name": "Samartín",
-        "population": 22,
-        "ele": 94,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.22150771,
-          43.24424052
-        ]
-      },
-      "properties": {
-        "ref:ine": "33005140201",
-        "name": "Samartín",
-        "population": 31,
-        "ele": 702,
         "population:date": "2023"
       }
     },
@@ -10329,23 +10279,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.023839453,
-          43.54069846
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017040299",
-        "name": "Granda",
-        "population": 38,
-        "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.01488134,
           43.53920595
         ]
@@ -10423,23 +10356,6 @@
         "name": "A Carretera",
         "population": 16,
         "ele": 51,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.03393973,
-          43.50347408
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017050799",
-        "name": "Granda",
-        "population": 12,
-        "ele": 29,
         "population:date": "2023"
       }
     },
@@ -13138,23 +13054,6 @@
         "name": "Borondés",
         "population": 39,
         "ele": 148,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.988536202,
-          43.36850014
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026020499",
-        "name": "Fuexu",
-        "population": 78,
-        "ele": 182,
         "population:date": "2023"
       }
     },
@@ -21865,39 +21764,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76986314,
-          43.33033504
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044031801",
-        "name": "Veguín de Baxo",
-        "population": 19,
-        "ele": 171,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76726056,
-          43.33250504
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044031999",
-        "name": "Veguín de Riba",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.91213199,
           43.41009367
         ]
@@ -22505,23 +22371,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8006,
-          43.29823
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044181599",
-        "name": "Cueva",
-        "population": 1,
-        "ele": 276,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.8302884,
           43.29077635
         ]
@@ -22692,23 +22541,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.85460138,
-          43.31327588
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044211199",
-        "name": "Villar",
-        "population": 17,
-        "ele": 200,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.9075826,
           43.34780311
         ]
@@ -22769,23 +22601,6 @@
         "name": "L'Arquera",
         "population": 9,
         "ele": 216,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93533814,
-          43.31802884
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044260401",
-        "name": "Villar",
-        "population": 22,
-        "ele": 212,
         "population:date": "2023"
       }
     },
@@ -24717,23 +24532,6 @@
         "name": "Doriga",
         "population": 20,
         "ele": 114,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.124062538,
-          43.39259815
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059110499",
-        "name": "Fuexu",
-        "population": 17,
-        "ele": 382,
         "population:date": "2023"
       }
     },
@@ -29182,23 +28980,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.53632004,
-          43.37142229
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073040801",
-        "name": "Folgueras",
-        "population": 10,
-        "ele": 490,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.51164933,
           43.36169451
         ]
@@ -30062,23 +29843,6 @@
         "name": "Trespandu",
         "population": 2,
         "ele": 291,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.50920759,
-          43.41289337
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073170101",
-        "name": "Folgueras",
-        "population": 10,
-        "ele": 302,
         "population:date": "2023"
       }
     },
@@ -31265,23 +31029,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.43278264,
-          43.32441957
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073400699",
-        "name": "Fuexu",
-        "population": 20,
-        "ele": 595,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.42592817,
           43.36521672
         ]
@@ -32250,22 +31997,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017152599",
-        "name": "As Gándaras",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.544139499,
           42.74258822
         ]
@@ -32585,22 +32316,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033080699",
-        "name": "Cerqueiras",
-        "population": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.414612141,
           42.08691405
         ]
@@ -32661,22 +32376,6 @@
         "name": "O Outeiro",
         "population": 48,
         "ele": 32,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36038101799",
-        "name": "As Cocheiras",
-        "population": 18,
         "population:date": "2023"
       }
     },
