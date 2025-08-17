@@ -7206,23 +7206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.74462281,
-          43.55858155
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014010199",
-        "name": "Barreres",
-        "population": 6,
-        "ele": 29,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.743333,
           43.5566111
         ]
@@ -7249,23 +7232,6 @@
         "name": "El Convento",
         "population": 5,
         "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73858733,
-          43.56063519
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014010899",
-        "name": "La Peruyal",
-        "population": 4,
-        "ele": 69,
         "population:date": "2023"
       }
     },
@@ -7841,22 +7807,6 @@
         "name": "La Barquera",
         "population": 4,
         "ele": 16,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.74294691,
-          43.55793751
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014080399",
-        "name": "Barreres",
-        "population": 8,
         "population:date": "2023"
       }
     },
@@ -22304,23 +22254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.784613651,
-          43.33220051
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044160699",
-        "name": "La Llana",
-        "population": 5,
-        "ele": 310,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.79602049,
           43.33885502
         ]
@@ -23059,23 +22992,6 @@
         "name": "Somáu",
         "population": 258,
         "ele": 213,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.10789863,
-          43.48070459
-        ]
-      },
-      "properties": {
-        "ref:ine": "33051080401",
-        "name": "Forcinas",
-        "population": 113,
-        "ele": 70,
         "population:date": "2023"
       }
     },
