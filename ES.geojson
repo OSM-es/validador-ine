@@ -10025,23 +10025,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.99279563,
-          43.53710967
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017020399",
-        "name": "A Carretera",
-        "population": 87,
-        "ele": 47,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.00465011,
           43.53418373
         ]
@@ -10289,23 +10272,6 @@
         "name": "A Ougueira",
         "population": 1,
         "ele": 50,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.033244616,
-          43.51855402
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017050499",
-        "name": "A Carretera",
-        "population": 16,
-        "ele": 51,
         "population:date": "2023"
       }
     },
@@ -19797,23 +19763,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.78658923,
-          43.20243042
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037120401",
-        "name": "La Carretera",
-        "population": 59,
-        "ele": 251,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78289279,
           43.23182901
         ]
@@ -24171,23 +24120,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.167814,
-          43.433395
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059070199",
-        "name": "Candalunegru",
-        "population": 6,
-        "ele": 334,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.174649,
           43.416037
         ]
@@ -24263,23 +24195,6 @@
         "name": "Santueña",
         "population": 6,
         "ele": 302,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.175099611,
-          43.40795872
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059071799",
-        "name": "La Venta",
-        "population": 1,
-        "ele": 84,
         "population:date": "2023"
       }
     },
@@ -24761,23 +24676,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.226865,
-          43.442864
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059170699",
-        "name": "La Piñella",
-        "population": 15,
-        "ele": 235,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.22156,
           43.449399
         ]
@@ -24787,23 +24685,6 @@
         "name": "San Andrés",
         "population": 9,
         "ele": 345,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.23083,
-          43.44416
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059170899",
-        "name": "La Veiga",
-        "population": 2,
-        "ele": 255,
         "population:date": "2023"
       }
     },
@@ -25243,40 +25124,6 @@
         "ref:ine": "33059240699",
         "name": "El Monte",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.270482,
-          43.3604
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059250301",
-        "name": "Soutu",
-        "population": 47,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.28259,
-          43.35864
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059250499",
-        "name": "La Veiga",
-        "population": 13,
-        "ele": 160,
         "population:date": "2023"
       }
     },
@@ -27616,23 +27463,6 @@
         "name": "La Barrera",
         "population": 12,
         "ele": 83,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.07304737,
-          43.50669346
-        ]
-      },
-      "properties": {
-        "ref:ine": "33069030399",
-        "name": "La Carretera",
-        "population": 30,
-        "ele": 6,
         "population:date": "2023"
       }
     },
