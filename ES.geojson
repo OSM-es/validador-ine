@@ -14767,23 +14767,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.90708435,
-          43.33243067
-        ]
-      },
-      "properties": {
-        "ref:ine": "33029030599",
-        "name": "Enterríos",
-        "population": 6,
-        "ele": 621,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.91469173,
           43.33613534
         ]
@@ -15150,22 +15133,6 @@
         "name": "La Fernosa",
         "population": 4,
         "ele": 601,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.80954668,
-          43.3047582
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031025199",
-        "name": "El Picu Castiellu",
-        "population": 5,
         "population:date": "2023"
       }
     },
@@ -18850,22 +18817,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8222087,
-          43.28638411
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037011099",
-        "name": "La Gatera",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83641457,
           43.27381393
         ]
@@ -20311,23 +20262,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.66608993,
-          43.21118384
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037139199",
-        "name": "El Pindal",
-        "population": 1,
-        "ele": 482,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.77568926,
           43.24105332
         ]
@@ -20528,23 +20462,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.66724237,
-          43.21192232
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037153199",
-        "name": "El Pindal",
-        "population": 11,
-        "ele": 495,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78606045,
           43.20703544
         ]
@@ -20570,23 +20487,6 @@
         "ref:ine": "33037154199",
         "name": "La Val.licuerra",
         "population": 10,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81361892,
-          43.21742653
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037154799",
-        "name": "El Quentu",
-        "population": 4,
-        "ele": 300,
         "population:date": "2023"
       }
     },
@@ -22228,57 +22128,6 @@
         "name": "La Barquera",
         "population": 2,
         "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8076939,
-          43.29049633
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044180201",
-        "name": "Casares",
-        "population": 20,
-        "ele": 333,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8302884,
-          43.29077635
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044181801",
-        "name": "Llandellena",
-        "population": 7,
-        "ele": 340,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82688733,
-          43.29132874
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044181999",
-        "name": "L'Acebal",
-        "population": 5,
-        "ele": 367,
         "population:date": "2023"
       }
     },
@@ -24642,23 +24491,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.21736832,
-          43.43915079
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059170399",
-        "name": "L'Escobiu",
-        "population": 1,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.231021,
           43.452654
         ]
@@ -24870,23 +24702,6 @@
         "name": "La Folgueirosa",
         "population": 2,
         "ele": 453,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.27205,
-          43.49021
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059190899",
-        "name": "Gal.lineiru",
-        "population": 9,
-        "ele": 486,
         "population:date": "2023"
       }
     },
@@ -25457,22 +25272,6 @@
         "name": "La Cabañona",
         "population": 7,
         "ele": 362,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.61758321,
-          43.30390474
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060021599",
-        "name": "La Casuca",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -26062,23 +25861,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.625729561,
-          43.25336514
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060050999",
-        "name": "La Casuca",
-        "population": 2,
-        "ele": 432,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.6330853,
           43.24232006
         ]
@@ -26088,23 +25870,6 @@
         "name": "L'Escobal",
         "population": 7,
         "ele": 456,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.61131343,
-          43.2640154
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060052101",
-        "name": "Miera",
-        "population": 18,
-        "ele": 299,
         "population:date": "2023"
       }
     },
@@ -31886,22 +31651,6 @@
         "name": "O Salgueiro",
         "population": 10,
         "ele": 232,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36023032699",
-        "name": "Lagartos",
-        "population": 1,
         "population:date": "2023"
       }
     },
