@@ -9889,23 +9889,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.93990945,
-          43.44871265
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017010499",
-        "name": "As Barreiras",
-        "population": 3,
-        "ele": 427,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.91515193,
           43.47721225
         ]
@@ -10144,23 +10127,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.02930203,
-          43.52016877
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017030199",
-        "name": "As Barreiras",
-        "population": 9,
-        "ele": 42,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.01920138,
           43.51840054
         ]
@@ -10272,23 +10238,6 @@
         "name": "A Ougueira",
         "population": 1,
         "ele": 50,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.03020421,
-          43.51868065
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017050899",
-        "name": "A Horta",
-        "population": 21,
-        "ele": 44,
         "population:date": "2023"
       }
     },
@@ -15039,23 +14988,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.68399944,
-          43.26945425
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031021901",
-        "name": "La Casona",
-        "population": 16,
-        "ele": 561,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.663774014,
           43.25705721
         ]
@@ -15201,22 +15133,6 @@
         "name": "L'Azorera",
         "population": 2,
         "ele": 443,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.66624339,
-          43.26804193
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031027499",
-        "name": "El Carril",
-        "population": 7,
         "population:date": "2023"
       }
     },
@@ -15692,23 +15608,6 @@
         "name": "La Casanueva",
         "population": 2,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.637960434,
-          43.32607719
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031071101",
-        "name": "La Casona",
-        "population": 7,
-        "ele": 335,
         "population:date": "2023"
       }
     },
@@ -16472,23 +16371,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.34420517,
-          43.53851166
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034021001",
-        "name": "Gal.lineiru",
-        "population": 11,
-        "ele": 327,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.26910016,
           43.54294467
         ]
@@ -16702,23 +16584,6 @@
         "name": "La Figar",
         "population": 8,
         "ele": 117,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.51932108,
-          43.4939614
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034041199",
-        "name": "Gal.lineiru",
-        "population": 4,
-        "ele": 446,
         "population:date": "2023"
       }
     },
@@ -18784,23 +18649,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77467671,
-          43.19731767
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037010299",
-        "name": "La Barraca",
-        "population": 4,
-        "ele": 330,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83471785,
           43.27363093
         ]
@@ -19371,23 +19219,6 @@
         "name": "La Rebollá",
         "population": 56,
         "ele": 453,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83795106,
-          43.2755856
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037090201",
-        "name": "La Barraca",
-        "population": 0,
-        "ele": 293,
         "population:date": "2023"
       }
     },
@@ -25113,23 +24944,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.59372341,
-          43.27020555
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060013099",
-        "name": "La Milana",
-        "population": 4,
-        "ele": 317,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.59092423,
           43.2562224
         ]
@@ -25139,22 +24953,6 @@
         "name": "L'Almuriu",
         "population": 15,
         "ele": 513,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58638985,
-          43.27045273
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060013799",
-        "name": "La Peña",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -25811,23 +25609,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.595957041,
-          43.27595163
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060044399",
-        "name": "La Venta",
-        "population": 2,
-        "ele": 392,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.61990818,
           43.24896177
         ]
@@ -26116,23 +25897,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.00286622,
-          43.2450089
-        ]
-      },
-      "properties": {
-        "ref:ine": "33062010299",
-        "name": "As Barreiras",
-        "population": 3,
-        "ele": 408,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.05815921,
           43.27564879
         ]
@@ -26380,23 +26144,6 @@
         "name": "Parada",
         "population": 2,
         "ele": 399,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.00622937,
-          43.24386097
-        ]
-      },
-      "properties": {
-        "ref:ine": "33062013899",
-        "name": "Sanguñedo",
-        "population": 2,
-        "ele": 505,
         "population:date": "2023"
       }
     },
