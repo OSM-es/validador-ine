@@ -4271,23 +4271,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.92842009,
-          43.58749424
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004040101",
-        "name": "San Xuan",
-        "population": 9,
-        "ele": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.94401372,
           43.53640253
         ]
@@ -4407,23 +4390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.94768799,
-          43.54424014
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004051401",
-        "name": "Villanueva",
-        "population": 137,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90075799,
           43.56605072
         ]
@@ -4535,23 +4501,6 @@
         "name": "San Sebastián",
         "population": 19,
         "ele": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.88079475,
-          43.55872255
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004062501",
-        "name": "Villanueva",
-        "population": 5,
-        "ele": 33,
         "population:date": "2023"
       }
     },
@@ -8215,23 +8164,6 @@
         "name": "Carcedo",
         "population": 45,
         "ele": 82,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93995737,
-          43.58276816
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000601",
-        "name": "San Xuan",
-        "population": 93,
-        "ele": 24,
         "population:date": "2023"
       }
     },
@@ -12639,23 +12571,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.89804749,
-          43.58439703
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025010299",
-        "name": "Barreo",
-        "population": 100,
-        "ele": 38,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.88654789,
           43.57703498
         ]
@@ -12682,40 +12597,6 @@
         "name": "El Valle",
         "population": 104,
         "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.90626807,
-          43.59049081
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025060199",
-        "name": "El Campo la Ilesia",
-        "population": 136,
-        "ele": 63,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9236718,
-          43.59380137
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025060399",
-        "name": "Nieva",
-        "population": 95,
-        "ele": 20,
         "population:date": "2023"
       }
     },
@@ -12784,23 +12665,6 @@
         "name": "Balbín",
         "population": 67,
         "ele": 61,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.91830675,
-          43.59864744
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025100499",
-        "name": "Lloreda",
-        "population": 15,
-        "ele": 53,
         "population:date": "2023"
       }
     },
@@ -15073,23 +14937,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.692130327,
-          43.26295429
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031025899",
-        "name": "El Rebullu",
-        "population": 1,
-        "ele": 672,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.677109957,
           43.24377643
         ]
@@ -16499,23 +16346,6 @@
         "name": "Ablanéu",
         "population": 11,
         "ele": 192,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.5056741,
-          43.52051429
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034040599",
-        "name": "El Cabanín",
-        "population": 7,
-        "ele": 223,
         "population:date": "2023"
       }
     },
@@ -18715,23 +18545,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.79766755,
-          43.20487008
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037020501",
-        "name": "Cortina",
-        "population": 124,
-        "ele": 282,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76680727,
           43.27036998
         ]
@@ -19269,23 +19082,6 @@
         "ref:ine": "33037093499",
         "name": "Valdeoreyo",
         "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73086296,
-          43.25437876
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037100699",
-        "name": "El Cabanín",
-        "population": 17,
-        "ele": 565,
         "population:date": "2023"
       }
     },
@@ -20127,23 +19923,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76326232,
-          43.21082133
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037140801",
-        "name": "Cortina",
-        "population": 58,
-        "ele": 269,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.793895125,
           43.18996917
         ]
@@ -20153,22 +19932,6 @@
         "name": "L'Embaralao",
         "population": 3,
         "ele": 260,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79435092,
-          43.19531673
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037141599",
-        "name": "El Rebullu",
-        "population": 7,
         "population:date": "2023"
       }
     },
