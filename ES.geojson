@@ -4237,40 +4237,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.93736267,
-          43.56431428
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004032101",
-        "name": "Solaiglesia",
-        "population": 21,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.933410048,
-          43.56408744
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004032201",
-        "name": "Valdredo/Valdreo",
-        "population": 93,
-        "ele": 55,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.94401372,
           43.53640253
         ]
@@ -17952,23 +17918,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.85369706,
-          43.41419689
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035040699",
-        "name": "La Vega",
-        "population": 6,
-        "ele": 152,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.81599738,
           43.41571761
         ]
@@ -18445,23 +18394,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.81201475,
-          43.46918208
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035110901",
-        "name": "La Vega",
-        "population": 88,
-        "ele": 99,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83934489,
           43.47174753
         ]
@@ -18873,22 +18805,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.77919101,
-          43.26766541
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037070899",
-        "name": "La Carba",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.77870803,
           43.25976255
         ]
@@ -18964,23 +18880,6 @@
         "name": "La Vara",
         "population": 3,
         "ele": 405,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78113408,
-          43.25838894
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037074099",
-        "name": "Arroxo",
-        "population": 39,
-        "ele": 197,
         "population:date": "2023"
       }
     },
@@ -19106,22 +19005,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.744062,
-          43.27587963
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037101599",
-        "name": "La Carba",
-        "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.74433525,
           43.27400922
         ]
@@ -19198,23 +19081,6 @@
         "name": "La Llonga",
         "population": 9,
         "ele": 441,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.74497086,
-          43.26238765
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037104001",
-        "name": "Piedrafita",
-        "population": 1,
-        "ele": 301,
         "population:date": "2023"
       }
     },
@@ -19423,22 +19289,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.72863186,
-          43.21932478
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037131099",
-        "name": "La Cabana",
-        "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.74804502,
           43.21707692
         ]
@@ -19573,22 +19423,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.73095908,
-          43.2171262
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037133799",
-        "name": "La Fuente",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.69027717,
           43.21420996
         ]
@@ -19664,39 +19498,6 @@
         "ref:ine": "33037135199",
         "name": "El Pandiil.lu",
         "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73511197,
-          43.21776527
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037135301",
-        "name": "Piedrafita",
-        "population": 0,
-        "ele": 540,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.72900399,
-          43.21552512
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037135499",
-        "name": "La Pila",
-        "population": 1,
         "population:date": "2023"
       }
     },
