@@ -3595,23 +3595,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.741424,
-          43.167843
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002091799",
-        "name": "La Fontona",
-        "population": 4,
-        "ele": 343,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.75374361,
           43.17000078
         ]
@@ -4356,40 +4339,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.90075799,
-          43.56605072
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004060201",
-        "name": "El Campo de la Iglesia",
-        "population": 106,
-        "ele": 71,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.88898636,
-          43.5632877
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004060301",
-        "name": "Campovega",
-        "population": 32,
-        "ele": 15,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90980581,
           43.56365977
         ]
@@ -4399,57 +4348,6 @@
         "name": "Los Carbayeos",
         "population": 38,
         "ele": 50,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.90111094,
-          43.56437607
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004060701",
-        "name": "El Cueto",
-        "population": 50,
-        "ele": 70,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.88256343,
-          43.56128002
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004061399",
-        "name": "Los Guardaos",
-        "population": 9,
-        "ele": 54,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.89090406,
-          43.56610238
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004061901",
-        "name": "El Retumés",
-        "population": 57,
-        "ele": 36,
         "population:date": "2023"
       }
     },
@@ -4858,23 +4756,6 @@
         "name": "L'Acebal",
         "population": 12,
         "ele": 379,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.57000307,
-          43.3325012
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006020799",
-        "name": "Carbayal",
-        "population": 1,
-        "ele": 358,
         "population:date": "2023"
       }
     },
@@ -11011,23 +10892,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.88282783,
-          43.53645893
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020010201",
-        "name": "Entrevías/Entrevíes",
-        "population": 1284,
-        "ele": 46,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.89670541,
           43.49648211
         ]
@@ -11444,22 +11308,6 @@
         "name": "Trasmonte/Tresmonte",
         "population": 7,
         "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.89232552,
-          43.54458344
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020051601",
-        "name": "Truyes",
-        "population": 450,
         "population:date": "2023"
       }
     },
@@ -12350,23 +12198,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.62126717,
-          43.44646316
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024070499",
-        "name": "Zalce",
-        "population": 29,
-        "ele": 294,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63441473,
           43.46094527
         ]
@@ -12376,23 +12207,6 @@
         "name": "La Bovia",
         "population": 52,
         "ele": 299,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63964389,
-          43.46748749
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024130299",
-        "name": "Llavandera",
-        "population": 61,
-        "ele": 182,
         "population:date": "2023"
       }
     },
@@ -12529,74 +12343,6 @@
         "name": "Villar",
         "population": 59,
         "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.88654789,
-          43.57703498
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025010599",
-        "name": "La Piñera",
-        "population": 94,
-        "ele": 124,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.87933392,
-          43.589372
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025010699",
-        "name": "El Valle",
-        "population": 104,
-        "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.87595334,
-          43.60161213
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025080199",
-        "name": "Alvaré",
-        "population": 53,
-        "ele": 19,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.87812752,
-          43.60173746
-        ]
-      },
-      "properties": {
-        "ref:ine": "33025080299",
-        "name": "Ferrera",
-        "population": 112,
-        "ele": 32,
         "population:date": "2023"
       }
     },
@@ -15106,23 +14852,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.678043365,
-          43.32008476
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031031101",
-        "name": "La Granda",
-        "population": 4,
-        "ele": 259,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.68334341,
           43.32819421
         ]
@@ -15157,23 +14886,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.710165501,
-          43.29596074
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031041299",
-        "name": "La Granda",
-        "population": 6,
-        "ele": 306,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.7255812,
           43.29169188
         ]
@@ -15183,23 +14895,6 @@
         "name": "La Nisal",
         "population": 50,
         "ele": 399,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.712096691,
-          43.28740183
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031042099",
-        "name": "Pedrazos",
-        "population": 3,
-        "ele": 445,
         "population:date": "2023"
       }
     },
@@ -15336,23 +15031,6 @@
         "name": "La Casuca",
         "population": 11,
         "ele": 411,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.695316792,
-          43.29023672
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031061101",
-        "name": "La Güeria",
-        "population": 68,
-        "ele": 268,
         "population:date": "2023"
       }
     },
@@ -18003,23 +17681,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.80480992,
-          43.44110137
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035060401",
-        "name": "Castiello",
-        "population": 83,
-        "ele": 175,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.800110125,
           43.41931185
         ]
@@ -18301,23 +17962,6 @@
         "name": "Alvares",
         "population": 24,
         "ele": 178,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83143225,
-          43.47412286
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035110299",
-        "name": "Castiello",
-        "population": 14,
-        "ele": 298,
         "population:date": "2023"
       }
     },
@@ -19563,23 +19207,6 @@
         "name": "Rozadiel.la",
         "population": 23,
         "ele": 341,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.72775488,
-          43.20380443
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037137699",
-        "name": "Tablao",
-        "population": 1,
-        "ele": 442,
         "population:date": "2023"
       }
     },
