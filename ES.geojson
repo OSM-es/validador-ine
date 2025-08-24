@@ -3883,23 +3883,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6461584,
-          43.17101949
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002160199",
-        "name": "El Casar",
-        "population": 2,
-        "ele": 567,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.64228531,
           43.1662197
         ]
@@ -3907,22 +3890,6 @@
       "properties": {
         "ref:ine": "33002160299",
         "name": "La Casa Baxo",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.64239964,
-          43.17029602
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002160499",
-        "name": "El Pedregal",
         "population": 3,
         "population:date": "2023"
       }
@@ -3940,40 +3907,6 @@
         "ref:ine": "33002170699",
         "name": "Rucao",
         "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.635535717,
-          43.16127434
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002171199",
-        "name": "Espineo",
-        "population": 6,
-        "ele": 411,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63307392,
-          43.15825624
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002171299",
-        "name": "La Foz",
-        "population": 1,
-        "ele": 532,
         "population:date": "2023"
       }
     },
@@ -12113,57 +12046,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.60652031,
-          43.44551296
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024010199",
-        "name": "La Mata",
-        "population": 8,
-        "ele": 315,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60505258,
-          43.45853018
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024010499",
-        "name": "Salientes",
-        "population": 50,
-        "ele": 271,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.60996534,
-          43.45291663
-        ]
-      },
-      "properties": {
-        "ref:ine": "33024010699",
-        "name": "Tarna",
-        "population": 30,
-        "ele": 226,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.72549578,
           43.49626484
         ]
@@ -14632,23 +14514,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.667271614,
-          43.2404001
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031023301",
-        "name": "La Fernosa",
-        "population": 4,
-        "ele": 601,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.677109957,
           43.24377643
         ]
@@ -14963,23 +14828,6 @@
         "name": "La Riera",
         "population": 4,
         "ele": 199,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.713019371,
-          43.32777276
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031052499",
-        "name": "Viesques",
-        "population": 12,
-        "ele": 240,
         "population:date": "2023"
       }
     },
@@ -18801,39 +18649,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.83466353,
-          43.22708121
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037110899",
-        "name": "La Sierra",
-        "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.787092388,
-          43.2183388
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037110999",
-        "name": "La Venta",
-        "population": 5,
-        "ele": 270,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78786129,
           43.25732463
         ]
@@ -18843,39 +18658,6 @@
         "name": "El Barrio Gonzalín",
         "population": 8,
         "ele": 207,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78289279,
-          43.23182901
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037122499",
-        "name": "El Praón",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73916894,
-          43.26515605
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037123199",
-        "name": "El Vescón",
-        "population": 12,
-        "ele": 270,
         "population:date": "2023"
       }
     },
@@ -19385,23 +19167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.79603199,
-          43.21136608
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037142799",
-        "name": "Villar",
-        "population": 9,
-        "ele": 383,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.67512155,
           43.20771334
         ]
@@ -19542,23 +19307,6 @@
         "name": "El L.lerón",
         "population": 29,
         "ele": 287,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78665591,
-          43.22631684
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037160801",
-        "name": "El Pedroso",
-        "population": 81,
-        "ele": 226,
         "population:date": "2023"
       }
     },
@@ -21008,23 +20756,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9880163,
-          43.33204252
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044121199",
-        "name": "La Vega",
-        "population": 1,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.930556544,
           43.38053617
         ]
@@ -21480,23 +21211,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.93325255,
-          43.39426485
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044290799",
-        "name": "Vega",
-        "population": 28,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.92633104,
           43.34641523
         ]
@@ -21540,23 +21254,6 @@
         "name": "La Fábrica",
         "population": 1151,
         "ele": 88,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98868962,
-          43.33043122
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044300901",
-        "name": "Veiga Trubia",
-        "population": 18,
-        "ele": 131,
         "population:date": "2023"
       }
     },
@@ -21914,23 +21611,6 @@
         "name": "Las Ventas",
         "population": 1,
         "ele": 416,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.06822967,
-          43.19357305
-        ]
-      },
-      "properties": {
-        "ref:ine": "33052070599",
-        "name": "El Toral",
-        "population": 2,
-        "ele": 413,
         "population:date": "2023"
       }
     },
@@ -22864,23 +22544,6 @@
         "name": "El Caleyu",
         "population": 6,
         "ele": 324,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.22822994,
-          43.42618338
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059050399",
-        "name": "Carbayal",
-        "population": 11,
-        "ele": 249,
         "population:date": "2023"
       }
     },
@@ -25894,57 +25557,6 @@
         "name": "H.ueyu",
         "population": 192,
         "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.64267752,
-          43.41652685
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066260501",
-        "name": "Muncó/Mucó",
-        "population": 93,
-        "ele": 369,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.63634937,
-          43.40021366
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066260801",
-        "name": "Vega",
-        "population": 90,
-        "ele": 238,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6462443,
-          43.3974638
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066261101",
-        "name": "La Cuesta",
-        "population": 79,
-        "ele": 272,
         "population:date": "2023"
       }
     },
