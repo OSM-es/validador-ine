@@ -14734,23 +14734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.703942776,
-          43.29950773
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031040501",
-        "name": "La Casanueva",
-        "population": 14,
-        "ele": 256,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.7255812,
           43.29169188
         ]
@@ -14930,23 +14913,6 @@
         "name": "El Carbayu",
         "population": 2,
         "ele": 315,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.644472837,
-          43.32516597
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031071099",
-        "name": "La Casanueva",
-        "population": 2,
-        "ele": 285,
         "population:date": "2023"
       }
     },
@@ -15174,23 +15140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.577578545,
-          43.24971583
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032010199",
-        "name": "La Brañueta",
-        "population": 1,
-        "ele": 411,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.56868263,
           43.24409126
         ]
@@ -15292,40 +15241,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.53278077,
-          43.2619643
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032050799",
-        "name": "El Felguerón",
-        "population": 2,
-        "ele": 618,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.551679134,
-          43.25278689
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032051099",
-        "name": "Lloreo",
-        "population": 15,
-        "ele": 421,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.556700987,
           43.25030552
         ]
@@ -15352,23 +15267,6 @@
         "name": "La Pola Llaviana/Pola de Laviana",
         "population": 8145,
         "ele": 293,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.56333065,
-          43.25429111
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032051699",
-        "name": "La Quinta Norte",
-        "population": 10,
-        "ele": 374,
         "population:date": "2023"
       }
     },
@@ -15468,22 +15366,6 @@
         "name": "L'Abedul",
         "population": 7,
         "ele": 444,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.56563555,
-          43.25805328
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032060599",
-        "name": "La Brañueta",
-        "population": 7,
         "population:date": "2023"
       }
     },
@@ -15991,23 +15873,6 @@
         "name": "Vil.lamouros",
         "population": 108,
         "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.46710298,
-          43.51675754
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034060201",
-        "name": "Argumosu",
-        "population": 10,
-        "ele": 396,
         "population:date": "2023"
       }
     },
@@ -17969,22 +17834,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76680727,
-          43.27036998
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037020799",
-        "name": "Cutiellos",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.76021936,
           43.21076879
         ]
@@ -18158,22 +18007,6 @@
         "name": "Les Quintanes",
         "population": 9,
         "ele": 217,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83287785,
-          43.26770687
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037042899",
-        "name": "La Roza",
-        "population": 3,
         "population:date": "2023"
       }
     },
@@ -18972,23 +18805,6 @@
         "ref:ine": "33037136399",
         "name": "El Reguerón",
         "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.74418154,
-          43.20642772
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037136701",
-        "name": "Rozadiel.la",
-        "population": 23,
-        "ele": 341,
         "population:date": "2023"
       }
     },
@@ -22535,23 +22351,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.22965158,
-          43.43290334
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059050299",
-        "name": "El Caleyu",
-        "population": 6,
-        "ele": 324,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.2244263,
           43.42352293
         ]
@@ -23798,23 +23597,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.59092423,
-          43.2562224
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060013301",
-        "name": "L'Almuriu",
-        "population": 15,
-        "ele": 513,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.58855216,
           43.28279362
         ]
@@ -24505,23 +24287,6 @@
         "name": "L'Escobal",
         "population": 7,
         "ele": 456,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.61939135,
-          43.26017489
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060052999",
-        "name": "El Praón",
-        "population": 3,
-        "ele": 425,
         "population:date": "2023"
       }
     },
@@ -27688,23 +27453,6 @@
         "ref:ine": "33073120599",
         "name": "Penafolgueiros",
         "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.356671639,
-          43.23143147
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073140399",
-        "name": "La Brañueta",
-        "population": 2,
-        "ele": 550,
         "population:date": "2023"
       }
     },
