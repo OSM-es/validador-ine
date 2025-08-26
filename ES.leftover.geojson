@@ -150,22 +150,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7347751,
-          43.2652839
-        ]
-      },
-      "properties": {
-        "ref:ine": "330371055001",
-        "name": "El Vescón",
-        "type": "node",
-        "id": "5150838735"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]
