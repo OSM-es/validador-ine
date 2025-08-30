@@ -3511,23 +3511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.93058156,
-          43.5421951
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004020201",
-        "name": "L'Arabuya",
-        "population": 8,
-        "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.93022419,
           43.53329051
         ]
@@ -3741,108 +3724,6 @@
         "name": "L'Alfaraz",
         "population": 438,
         "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.946286131,
-          43.5350019
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004050401",
-        "name": "La Cruz d'Illes",
-        "population": 77,
-        "ele": 105,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.94978229,
-          43.54048554
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004050501",
-        "name": "La Cruz de la Foguera",
-        "population": 46,
-        "ele": 120,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95019337,
-          43.53876421
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004050901",
-        "name": "L'Anduvisa/Nondivisa",
-        "population": 54,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.94253812,
-          43.53914168
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004051001",
-        "name": "El Pozo la Granda",
-        "population": 50,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9456889,
-          43.54284209
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004051101",
-        "name": "Santana",
-        "population": 67,
-        "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95209475,
-          43.53714845
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004051301",
-        "name": "Bidoleo/Vidoledo",
-        "population": 17,
-        "ele": 126,
         "population:date": "2023"
       }
     },
@@ -6178,23 +6059,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.02838996,
-          43.55556325
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041207",
-        "name": "Carretera Aeropuerto",
-        "population": 5,
-        "ele": 131,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.02206466,
           43.55228532
         ]
@@ -6722,74 +6586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.96832704,
-          43.52190769
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060799",
-        "name": "La Corredoria",
-        "population": 17,
-        "ele": 150,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97645867,
-          43.52798981
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060902",
-        "name": "Elvas",
-        "population": 4,
-        "ele": 83,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97941318,
-          43.52491455
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060903",
-        "name": "Lagar",
-        "population": 5,
-        "ele": 78,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97806953,
-          43.52401318
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060904",
-        "name": "El Omedo",
-        "population": 8,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.98899224,
           43.52294465
         ]
@@ -6799,40 +6595,6 @@
         "name": "San Amaro",
         "population": 34,
         "ele": 121,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97938183,
-          43.52729237
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060906",
-        "name": "La Vega",
-        "population": 11,
-        "ele": 78,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98074855,
-          43.52614925
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060907",
-        "name": "El Cuadro",
-        "population": 69,
-        "ele": 95,
         "population:date": "2023"
       }
     },
@@ -6994,23 +6756,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.98396291,
-          43.5273439
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061603",
-        "name": "La Cuesta",
-        "population": 1,
-        "ele": 148,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.98732818,
           43.52658068
         ]
@@ -7088,23 +6833,6 @@
         "name": "La Cantera",
         "population": 3,
         "ele": 223,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97468749,
-          43.52468652
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016062101",
-        "name": "Tresvalles",
-        "population": 12,
-        "ele": 121,
         "population:date": "2023"
       }
     },
@@ -8489,23 +8217,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.93808845,
-          43.52856867
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020060699",
-        "name": "La Llamera",
-        "population": 19,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.86527892,
           43.493889
         ]
@@ -8523,23 +8234,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.94039801,
-          43.52440353
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020060999",
-        "name": "El Sucu",
-        "population": 40,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.92271746,
           43.53288851
         ]
@@ -8547,56 +8241,6 @@
       "properties": {
         "ref:ine": "33020061099",
         "name": "La Tabla",
-        "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.94377967,
-          43.5267655
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020061101",
-        "name": "Tras la Iglesia/Treslailesia",
-        "population": 19,
-        "ele": 135,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95063457,
-          43.52295116
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020061201",
-        "name": "El Truébanu",
-        "population": 73,
-        "ele": 153,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93635384,
-          43.53260194
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020061399",
-        "name": "Vallín",
         "population": 9,
         "population:date": "2023"
       }
