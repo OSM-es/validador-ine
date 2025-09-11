@@ -134,22 +134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7677542,
-          43.1855507
-        ]
-      },
-      "properties": {
-        "ref:ine": "330370922001",
-        "name": "El Pedroso",
-        "type": "node",
-        "id": "5148546839"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]

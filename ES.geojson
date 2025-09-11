@@ -8751,39 +8751,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76574016,
-          43.24110542
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037062899",
-        "name": "Mariana",
-        "population": 1,
-        "ele": 302,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76698827,
-          43.24038189
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037064999",
-        "name": "Les Vallines",
-        "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.73077762,
           43.2543988
         ]
@@ -8883,23 +8850,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76742583,
-          43.18530174
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037092201",
-        "name": "El Pedroso",
-        "population": 14,
-        "ele": 269,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.73104283,
           43.25041263
         ]
@@ -8925,23 +8875,6 @@
         "name": "La Envernal",
         "population": 5,
         "ele": 446,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78561749,
-          43.22028236
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037110401",
-        "name": "La Estación",
-        "population": 83,
-        "ele": 233,
         "population:date": "2023"
       }
     },
@@ -8983,153 +8916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.69722356,
-          43.21037256
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037130499",
-        "name": "Arnizo",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.70503202,
-          43.21463616
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037133299",
-        "name": "La Faya",
-        "population": 6,
-        "ele": 415,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73771556,
-          43.20799641
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037133499",
-        "name": "Fol.lerón",
-        "population": 10,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.68168063,
-          43.21188173
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037134799",
-        "name": "La L.lera",
-        "population": 8,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.69713311,
-          43.21250869
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037135999",
-        "name": "La Puente Vil.laño/La Puente Villandio",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.74654401,
-          43.21189056
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037136099",
-        "name": "La Rasa",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7155478,
-          43.22050973
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037136399",
-        "name": "El Reguerón",
-        "population": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.72405418,
-          43.21274381
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037138499",
-        "name": "Villafría",
-        "population": 19,
-        "ele": 328,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7537182,
-          43.20772909
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037139001",
-        "name": "La Yana'l Monte",
-        "population": 50,
-        "ele": 306,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.77568926,
           43.24105332
         ]
@@ -9139,56 +8925,6 @@
         "name": "Barreo",
         "population": 15,
         "ele": 211,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78622092,
-          43.22460765
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037142101",
-        "name": "El Siirru",
-        "population": 13,
-        "ele": 236,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.68080477,
-          43.21464856
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037151999",
-        "name": "El L.leu",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79096782,
-          43.21665823
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037161999",
-        "name": "La Viña",
-        "population": 3,
-        "ele": 376,
         "population:date": "2023"
       }
     },
