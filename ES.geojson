@@ -6492,23 +6492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.677109957,
-          43.24377643
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031026601",
-        "name": "El Tendiyón",
-        "population": 0,
-        "ele": 588,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.65573199,
           43.28500739
         ]
@@ -6771,23 +6754,6 @@
         "name": "Tiuya/Tuilla",
         "population": 558,
         "ele": 267,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.764045715,
-          43.28946553
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031081799",
-        "name": "El Ruciu",
-        "population": 2,
-        "ele": 418,
         "population:date": "2023"
       }
     },
@@ -8717,105 +8683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.76266298,
-          43.25421781
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037060599",
-        "name": "La Belonga",
-        "population": 9,
-        "ele": 243,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78264108,
-          43.26117955
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037061699",
-        "name": "Les Casetes",
-        "population": 8,
-        "ele": 196,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73077762,
-          43.2543988
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037070501",
-        "name": "El Cabanín",
-        "population": 19,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76413476,
-          43.28699317
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037073199",
-        "name": "La Pría",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76409007,
-          43.28954241
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037073499",
-        "name": "El Ruciu",
-        "population": 10,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.76626139,
-          43.28415045
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037073999",
-        "name": "La Vara",
-        "population": 3,
-        "ele": 405,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78043224,
           43.26461885
         ]
@@ -8833,73 +8700,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7869423,
-          43.2720057
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037081701",
-        "name": "La Rebollá",
-        "population": 56,
-        "ele": 453,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73104283,
-          43.25041263
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037100799",
-        "name": "El Cadabal",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7159489,
-          43.26444058
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037102999",
-        "name": "La Envernal",
-        "population": 5,
-        "ele": 446,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78786129,
-          43.25732463
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037120101",
-        "name": "El Barrio Gonzalín",
-        "population": 8,
-        "ele": 207,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78672562,
           43.24890648
         ]
@@ -8908,23 +8708,6 @@
         "ref:ine": "33037123499",
         "name": "Panizales",
         "population": 6,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77568926,
-          43.24105332
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037140299",
-        "name": "Barreo",
-        "population": 15,
-        "ele": 211,
         "population:date": "2023"
       }
     },

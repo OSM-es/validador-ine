@@ -118,22 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.7778655,
-          43.2593054
-        ]
-      },
-      "properties": {
-        "ref:ine": "330370705001",
-        "name": "El Cabanín",
-        "type": "node",
-        "id": "5144184223"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9994135,
           42.5526131
         ]
