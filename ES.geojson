@@ -6424,40 +6424,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.695772767,
-          43.32978826
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031010199",
-        "name": "L'Acebal",
-        "population": 5,
-        "ele": 416,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.683515072,
-          43.33112084
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031010999",
-        "name": "San Xusto",
-        "population": 4,
-        "ele": 387,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.65573199,
           43.28500739
         ]
@@ -6509,57 +6475,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.68334341,
-          43.32819421
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031032499",
-        "name": "La Venta'l Aire",
-        "population": 7,
-        "ele": 415,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.715004206,
-          43.33510083
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031051799",
-        "name": "La Piñera",
-        "population": 9,
-        "ele": 249,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.715154409,
-          43.32307422
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031052899",
-        "name": "Los Campones",
-        "population": 6,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.640567541,
           43.3256967
         ]
@@ -6569,23 +6484,6 @@
         "name": "El Carbayu",
         "population": 2,
         "ele": 315,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.660254955,
-          43.33237729
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031071499",
-        "name": "La Cotariella",
-        "population": 5,
-        "ele": 381,
         "population:date": "2023"
       }
     },
@@ -10997,40 +10895,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.65096313,
-          43.4040174
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066012901",
-        "name": "Les Cabañes",
-        "population": 0,
-        "ele": 280,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.61487823,
-          43.38909176
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066020701",
-        "name": "La Quintana",
-        "population": 41,
-        "ele": 264,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.64304466,
           43.33408601
         ]
@@ -11099,40 +10963,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.67993816,
-          43.40437694
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066090401",
-        "name": "L'Otero",
-        "population": 97,
-        "ele": 239,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.73007538,
-          43.35047127
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066120699",
-        "name": "San Pelayo",
-        "population": 7,
-        "ele": 339,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.78737484,
           43.37929612
         ]
@@ -11184,23 +11014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6152128,
-          43.39801614
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066190401",
-        "name": "L'Escampleo",
-        "population": 15,
-        "ele": 350,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.81693384,
           43.40395333
         ]
@@ -11227,23 +11040,6 @@
         "name": "Cogollo",
         "population": 17,
         "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.633912834,
-          43.36008637
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066290301",
-        "name": "L'Escobal",
-        "population": 26,
-        "ele": 355,
         "population:date": "2023"
       }
     },
