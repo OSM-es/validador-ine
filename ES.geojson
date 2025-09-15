@@ -3105,40 +3105,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.59526866,
-          43.3221698
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006012199",
-        "name": "La Vara",
-        "population": 14,
-        "ele": 402,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.58208813,
-          43.31846144
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006012599",
-        "name": "La Campa San Xuan",
-        "population": 4,
-        "ele": 546,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.03985405,
           43.40373405
         ]
@@ -6424,23 +6390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.65573199,
-          43.28500739
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031028199",
-        "name": "Pumarín",
-        "population": 59,
-        "ele": 304,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.669095516,
           43.33098817
         ]
@@ -6450,23 +6399,6 @@
         "name": "La Talaya",
         "population": 15,
         "ele": 413,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.668360591,
-          43.31731957
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031030301",
-        "name": "Campanal",
-        "population": 6,
-        "ele": 226,
         "population:date": "2023"
       }
     },
@@ -6542,23 +6474,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.662465096,
-          43.3177645
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031072201",
-        "name": "La Güeria",
-        "population": 14,
-        "ele": 241,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.63361934,
           43.33006264
         ]
@@ -6567,23 +6482,6 @@
         "ref:ine": "33031072799",
         "name": "La Mudrerina",
         "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.65505147,
-          43.31392585
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031072999",
-        "name": "Otero",
-        "population": 4,
-        "ele": 389,
         "population:date": "2023"
       }
     },
@@ -10778,23 +10676,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.58279097,
-          43.28615645
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060012599",
-        "name": "La Güeria",
-        "population": 3,
-        "ele": 474,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.66522243,
           43.3216675
         ]
@@ -10828,40 +10709,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.64017455,
-          43.29774855
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060030201",
-        "name": "L'Acebal",
-        "population": 23,
-        "ele": 438,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.62905755,
-          43.2969513
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060034599",
-        "name": "L'Otariellu",
-        "population": 25,
-        "ele": 488,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.6580349,
           43.29175202
         ]
@@ -10871,22 +10718,6 @@
         "name": "San Vicente",
         "population": 120,
         "ele": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.670724,
-          43.2963725
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060043499",
-        "name": "El Pontón",
-        "population": 11,
         "population:date": "2023"
       }
     },
