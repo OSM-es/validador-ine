@@ -10709,23 +10709,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6580349,
-          43.29175202
-        ]
-      },
-      "properties": {
-        "ref:ine": "33060036201",
-        "name": "San Vicente",
-        "population": 120,
-        "ele": 258,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.64304466,
           43.33408601
         ]
@@ -11233,23 +11216,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.549195617,
-          43.34689511
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073040701",
-        "name": "Ese",
-        "population": 8,
-        "ele": 163,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.51164933,
           43.36169451
         ]
@@ -11292,22 +11258,6 @@
         "name": "San Pedru",
         "population": 18,
         "ele": 483,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.54739375,
-          43.35146388
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073041699",
-        "name": "San Vicente",
-        "population": 1,
         "population:date": "2023"
       }
     },
@@ -11477,23 +11427,6 @@
         "name": "Bustiel.lu",
         "population": 11,
         "ele": 466,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.52487185,
-          43.33697673
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073070399",
-        "name": "Campiel.lu",
-        "population": 10,
-        "ele": 602,
         "population:date": "2023"
       }
     },
