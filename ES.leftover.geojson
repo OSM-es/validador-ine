@@ -160,6 +160,22 @@
         "type": "relation",
         "id": "12684317"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6951817,
+          43.3057671
+        ]
+      },
+      "properties": {
+        "ref:ine": "33031990000",
+        "name": "Llangréu / Langreo",
+        "type": "relation",
+        "id": "19612021"
+      }
     }
   ]
 }
