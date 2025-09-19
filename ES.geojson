@@ -6373,23 +6373,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.669095516,
-          43.33098817
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031030299",
-        "name": "La Talaya",
-        "population": 15,
-        "ele": 413,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.28573519,
           43.50958556
         ]
@@ -8182,23 +8165,6 @@
         "name": "Ulés",
         "population": 185,
         "ele": 341,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.784333779,
-          43.35244848
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044110199",
-        "name": "El Monte",
-        "population": 9,
-        "ele": 302,
         "population:date": "2023"
       }
     },
@@ -12960,23 +12926,6 @@
         "name": "Semoíño",
         "population": 106,
         "ele": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.82387046,
-          42.96634174
-        ]
-      },
-      "properties": {
-        "ref:ine": "01063001201",
-        "name": "Sarria",
-        "population": 266,
-        "ele": 628,
         "population:date": "2023"
       }
     }
