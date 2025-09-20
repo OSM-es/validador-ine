@@ -5465,23 +5465,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9946855,
-          43.37733794
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026020799",
-        "name": "Nores",
-        "population": 27,
-        "ele": 160,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.12210268,
           43.39845215
         ]
@@ -5716,57 +5699,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.985885,
-          43.384988
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026100199",
-        "name": "Barréu",
-        "population": 23,
-        "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99045331,
-          43.38414768
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026100499",
-        "name": "Corros",
-        "population": 1,
-        "ele": 159,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99999046,
-          43.38628376
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026100699",
-        "name": "Llera",
-        "population": 18,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.98281763,
           43.37772934
         ]
@@ -5791,57 +5723,6 @@
         "ref:ine": "33026101099",
         "name": "La Carbayeda",
         "population": 11,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.038467884,
-          43.36388555
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026110699",
-        "name": "Samartín",
-        "population": 13,
-        "ele": 251,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03223435,
-          43.35468095
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026110999",
-        "name": "La Tiera",
-        "population": 27,
-        "ele": 285,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.015379429,
-          43.38805666
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026111199",
-        "name": "Villota",
-        "population": 4,
-        "ele": 136,
         "population:date": "2023"
       }
     },
@@ -8817,23 +8698,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.99872402,
-          43.41790278
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054030299",
-        "name": "Pereda",
-        "population": 23,
-        "ele": 216,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.99042042,
           43.46370707
         ]
@@ -8860,23 +8724,6 @@
         "name": "Pravia",
         "population": 16,
         "ele": 244,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.003972457,
-          43.3987358
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054050399",
-        "name": "Cuetu",
-        "population": 10,
-        "ele": 62,
         "population:date": "2023"
       }
     },
@@ -10042,23 +9889,6 @@
         "ref:ine": "33059281299",
         "name": "La Calzada",
         "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77656178,
-          43.40578806
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066070199",
-        "name": "La Belga",
-        "population": 41,
-        "ele": 170,
         "population:date": "2023"
       }
     },
