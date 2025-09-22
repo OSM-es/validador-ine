@@ -4720,23 +4720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.89670541,
-          43.49648211
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020020299",
-        "name": "Aguilero/Guilero",
-        "population": 1,
-        "ele": 240,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.87146331,
           43.51111121
         ]
@@ -4771,23 +4754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.88690244,
-          43.49658614
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020021499",
-        "name": "Moriana",
-        "population": 11,
-        "ele": 132,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90023662,
           43.49814804
         ]
@@ -4797,40 +4763,6 @@
         "name": "La Pedrera",
         "population": 4,
         "ele": 222,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.884193,
-          43.50669386
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020022199",
-        "name": "La Rebollada",
-        "population": 9,
-        "ele": 158,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.87879275,
-          43.4948459
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020022201",
-        "name": "Taújo/Taúxu",
-        "population": 36,
-        "ele": 203,
         "population:date": "2023"
       }
     },
@@ -4941,23 +4873,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.831473236,
-          43.48375382
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020040299",
-        "name": "Alvares",
-        "population": 12,
-        "ele": 187,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.89733963,
           43.44044375
         ]
@@ -5000,23 +4915,6 @@
         "name": "Las Huertas/Les Güertes",
         "population": 51,
         "ele": 53,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.86527892,
-          43.493889
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020060899",
-        "name": "El Pontón",
-        "population": 20,
-        "ele": 119,
         "population:date": "2023"
       }
     },
@@ -7325,40 +7223,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.92165026,
-          43.47696594
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035020199",
-        "name": "Barréu",
-        "population": 71,
-        "ele": 276,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9074406,
-          43.49286903
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035020299",
-        "name": "Carbayal",
-        "population": 2,
-        "ele": 197,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90745854,
           43.49556073
         ]
@@ -7368,23 +7232,6 @@
         "name": "El Cenizal",
         "population": 37,
         "ele": 210,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9084721,
-          43.48627896
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035020699",
-        "name": "Verdera",
-        "population": 3,
-        "ele": 200,
         "population:date": "2023"
       }
     },
@@ -7597,23 +7444,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.833376861,
-          43.48160238
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035110199",
-        "name": "Alvares",
-        "population": 24,
-        "ele": 178,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.82905195,
           43.46948178
         ]
@@ -7750,40 +7580,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.82728365,
-          43.35567051
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044071501",
-        "name": "El Monte San Cristoba",
-        "population": 22,
-        "ele": 266,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.81469164,
-          43.33927
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044071601",
-        "name": "Les Cases",
-        "population": 9,
-        "ele": 384,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.93039797,
           43.38218275
         ]
@@ -7827,23 +7623,6 @@
         "name": "La Barquera",
         "population": 2,
         "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79876107,
-          43.37672173
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044190501",
-        "name": "Colloto/Cualloto",
-        "population": 3399,
-        "ele": 184,
         "population:date": "2023"
       }
     },
@@ -9450,57 +9229,6 @@
         "ref:ine": "33059281299",
         "name": "La Calzada",
         "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78737484,
-          43.37929612
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066140401",
-        "name": "Colloto/Cualloto",
-        "population": 587,
-        "ele": 167,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.79932582,
-          43.38630612
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066180499",
-        "name": "Les Folgueres",
-        "population": 8,
-        "ele": 166,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.78744306,
-          43.38993715
-        ]
-      },
-      "properties": {
-        "ref:ine": "33066270501",
-        "name": "Cogollo",
-        "population": 17,
-        "ele": 173,
         "population:date": "2023"
       }
     },
@@ -11352,6 +11080,23 @@
         "name": "Vil.latresmil",
         "population": 68,
         "ele": 503,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.64144135,
+          28.13284553
+        ]
+      },
+      "properties": {
+        "ref:ine": "35023001301",
+        "name": "Anzo",
+        "population": 277,
+        "ele": 200,
         "population:date": "2023"
       }
     },
