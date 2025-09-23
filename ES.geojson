@@ -5830,23 +5830,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.10491357,
-          43.30898616
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026190399",
-        "name": "El Regueral",
-        "population": 4,
-        "ele": 512,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.01154475,
           43.30947327
         ]
@@ -5889,23 +5872,6 @@
         "name": "Palaciu",
         "population": 30,
         "ele": 316,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.125780945,
-          43.29481916
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026210899",
-        "name": "Samiguel",
-        "population": 5,
-        "ele": 326,
         "population:date": "2023"
       }
     },
@@ -7538,23 +7504,6 @@
         "name": "Villar",
         "population": 287,
         "ele": 133,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.84372206,
-          43.36232165
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044031101",
-        "name": "Les Muries",
-        "population": 0,
-        "ele": 231,
         "population:date": "2023"
       }
     },
