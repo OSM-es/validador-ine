@@ -4771,23 +4771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.91603348,
-          43.5154118
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020030599",
-        "name": "El Castiellu",
-        "population": 16,
-        "ele": 122,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90477322,
           43.52697137
         ]
@@ -4805,23 +4788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.91296093,
-          43.512753
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020030999",
-        "name": "Los Espinos",
-        "population": 11,
-        "ele": 155,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.91273463,
           43.51550494
         ]
@@ -4831,40 +4797,6 @@
         "name": "El Barrio García",
         "population": 14,
         "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.91960069,
-          43.51523968
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020031401",
-        "name": "Xuncéu/Juncedo",
-        "population": 72,
-        "ele": 105,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.91441581,
-          43.51085211
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020032899",
-        "name": "La Sierra",
-        "population": 2,
-        "ele": 177,
         "population:date": "2023"
       }
     },
@@ -5982,40 +5914,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.961524041,
-          43.49796034
-        ]
-      },
-      "properties": {
-        "ref:ine": "33030010199",
-        "name": "La Barrera",
-        "population": 9,
-        "ele": 145,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95333822,
-          43.49494246
-        ]
-      },
-      "properties": {
-        "ref:ine": "33030010399",
-        "name": "La Braña",
-        "population": 2,
-        "ele": 356,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.01600804,
           43.49424193
         ]
@@ -6025,23 +5923,6 @@
         "name": "Faéu",
         "population": 1,
         "ele": 279,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95498019,
-          43.49665576
-        ]
-      },
-      "properties": {
-        "ref:ine": "33030011099",
-        "name": "Friera",
-        "population": 12,
-        "ele": 275,
         "population:date": "2023"
       }
     },
@@ -7206,40 +7087,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.90741603,
-          43.45216305
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035030199",
-        "name": "Bonielles",
-        "population": 48,
-        "ele": 262,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.91819007,
-          43.44747652
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035030299",
-        "name": "Carbayal",
-        "population": 51,
-        "ele": 186,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.90547672,
           43.46301707
         ]
@@ -7274,23 +7121,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.88709122,
-          43.46915552
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035050199",
-        "name": "Areñes",
-        "population": 28,
-        "ele": 327,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.88083389,
           43.47795719
         ]
@@ -7300,74 +7130,6 @@
         "name": "Noval",
         "population": 34,
         "ele": 241,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.83482084,
-          43.44057121
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035060399",
-        "name": "Castañera",
-        "population": 141,
-        "ele": 176,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.82755305,
-          43.44768436
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035061299",
-        "name": "El Truébano",
-        "population": 84,
-        "ele": 199,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.86017399,
-          43.44129896
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035080301",
-        "name": "Severies",
-        "population": 40,
-        "ele": 211,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.88553342,
-          43.44682013
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035090599",
-        "name": "Piñera",
-        "population": 53,
-        "ele": 203,
         "population:date": "2023"
       }
     },
@@ -11029,23 +10791,6 @@
         "name": "Vil.latresmil",
         "population": 68,
         "ele": 503,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.64144135,
-          28.13284553
-        ]
-      },
-      "properties": {
-        "ref:ine": "35023001301",
-        "name": "Anzo",
-        "population": 277,
-        "ele": 200,
         "population:date": "2023"
       }
     },
