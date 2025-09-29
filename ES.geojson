@@ -4397,23 +4397,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.99963483,
-          43.53320018
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061606",
-        "name": "Llazandi",
-        "population": 3,
-        "ele": 126,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.9922297,
           43.53235891
         ]
@@ -4457,23 +4440,6 @@
         "name": "La Rasa",
         "population": 11,
         "ele": 114,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99958673,
-          43.53322845
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016070601",
-        "name": "Llazandi",
-        "population": 6,
-        "ele": 125,
         "population:date": "2023"
       }
     },
@@ -4787,23 +4753,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.13949874,
-          43.561139
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021070701",
-        "name": "La Atalaya",
-        "population": 193,
-        "ele": 108,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.15053184,
           43.54404648
         ]
@@ -4813,91 +4762,6 @@
         "name": "Arrojas",
         "population": 11,
         "ele": 167,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.15745755,
-          43.55575287
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021080301",
-        "name": "Cerecedo",
-        "population": 34,
-        "ele": 120,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1633624,
-          43.54231292
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021080401",
-        "name": "Cuesta del Cesto",
-        "population": 21,
-        "ele": 201,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.16688742,
-          43.55161129
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021080501",
-        "name": "El Manto",
-        "population": 31,
-        "ele": 188,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.16414298,
-          43.5449344
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021080601",
-        "name": "Otero",
-        "population": 29,
-        "ele": 229,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.15488934,
-          43.55192536
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021080701",
-        "name": "El Peñedo",
-        "population": 48,
-        "ele": 109,
         "population:date": "2023"
       }
     },
@@ -6206,23 +6070,6 @@
         "name": "Las Piñeras",
         "population": 17,
         "ele": 250,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.13686535,
-          43.51898031
-        ]
-      },
-      "properties": {
-        "ref:ine": "33051140199",
-        "name": "Recuevu",
-        "population": 23,
-        "ele": 409,
         "population:date": "2023"
       }
     },
