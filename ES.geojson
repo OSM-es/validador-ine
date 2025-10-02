@@ -5552,23 +5552,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.94788676,
-          43.42739198
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054010299",
-        "name": "La Braña",
-        "population": 5,
-        "ele": 216,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.95492457,
           43.39837964
         ]
@@ -5612,40 +5595,6 @@
         "name": "Rubial",
         "population": 4,
         "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.32467576,
-          43.40035774
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059040199",
-        "name": "Boudenaya",
-        "population": 41,
-        "ele": 641,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.30941,
-          43.40867
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059040699",
-        "name": "Porciles",
-        "population": 38,
-        "ele": 666,
         "population:date": "2023"
       }
     },
