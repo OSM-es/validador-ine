@@ -3020,40 +3020,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.02405678,
-          43.49823352
-        ]
-      },
-      "properties": {
-        "ref:ine": "33010110399",
-        "name": "Faéu",
-        "population": 2,
-        "ele": 227,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03225385,
-          43.49249526
-        ]
-      },
-      "properties": {
-        "ref:ine": "33010111101",
-        "name": "Renera",
-        "population": 6,
-        "ele": 322,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.832962777,
           43.51502608
         ]
@@ -3743,23 +3709,6 @@
         "name": "La Xirán",
         "population": 10,
         "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.01691195,
-          43.54256185
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041499",
-        "name": "L'Águila",
-        "population": 2,
-        "ele": 124,
         "population:date": "2023"
       }
     },
@@ -4549,23 +4498,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.12210268,
-          43.39845215
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026050199",
-        "name": "Cabruñana",
-        "population": 31,
-        "ele": 359,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.08286776,
           43.33113375
         ]
@@ -4626,23 +4558,6 @@
         "name": "Los Llanos",
         "population": 3,
         "ele": 485,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.01600804,
-          43.49424193
-        ]
-      },
-      "properties": {
-        "ref:ine": "33030010799",
-        "name": "Faéu",
-        "population": 1,
-        "ele": 279,
         "population:date": "2023"
       }
     },
@@ -5161,23 +5076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.54588294,
-          43.53953693
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034141099",
-        "name": "L'Outeiro",
-        "population": 4,
-        "ele": 75,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.5627031,
           43.51282193
         ]
@@ -5569,23 +5467,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.214882135,
-          43.3609059
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059010299",
-        "name": "Bárzana",
-        "population": 17,
-        "ele": 95,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.14658689,
           43.38008572
         ]
@@ -5595,73 +5476,6 @@
         "name": "Rubial",
         "population": 4,
         "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.21056272,
-          43.3758846
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059060399",
-        "name": "Cermoñu",
-        "population": 35,
-        "ele": 438,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.22590995,
-          43.37551982
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059060499",
-        "name": "Cortes",
-        "population": 6,
-        "ele": 456,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.16019763,
-          43.39737034
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059071499",
-        "name": "La Reguera",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.14422542,
-          43.39540559
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059110399",
-        "name": "Doriga",
-        "population": 20,
-        "ele": 114,
         "population:date": "2023"
       }
     },
@@ -5917,23 +5731,6 @@
         "name": "Maecín",
         "population": 35,
         "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03289048,
-          43.50247003
-        ]
-      },
-      "properties": {
-        "ref:ine": "33069031199",
-        "name": "El Truébanu",
-        "population": 5,
-        "ele": 270,
         "population:date": "2023"
       }
     },
