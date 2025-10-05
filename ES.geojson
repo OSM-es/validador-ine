@@ -4600,40 +4600,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.39104395,
-          43.42839131
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034030699",
-        "name": "Preda",
-        "population": 5,
-        "ele": 583,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.38845215,
-          43.43666091
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034030701",
-        "name": "Vil.lar",
-        "population": 25,
-        "ele": 546,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.54881956,
           43.49607461
         ]
@@ -5484,57 +5450,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.327034,
-          43.433561
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059160199",
-        "name": "L'Acebal",
-        "population": 4,
-        "ele": 461,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.32147939,
-          43.44316934
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059160699",
-        "name": "La Colniel.la",
-        "population": 8,
-        "ele": 463,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.34086187,
-          43.44472053
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059160901",
-        "name": "L.laviu",
-        "population": 37,
-        "ele": 492,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.231021,
           43.452654
         ]
@@ -5755,23 +5670,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.353705535,
-          43.30206912
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073020301",
-        "name": "L.laneces",
-        "population": 28,
-        "ele": 551,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.355397433,
           43.32511907
         ]
@@ -5789,39 +5687,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.35486752,
-          43.30892972
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073020599",
-        "name": "La Uz",
-        "population": 11,
-        "ele": 589,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.36247257,
-          43.29245659
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073030199",
-        "name": "Augüera",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.34704409,
           43.29462078
         ]
@@ -5831,23 +5696,6 @@
         "name": "Bebares",
         "population": 7,
         "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.37147909,
-          43.29627474
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073030499",
-        "name": "Castiel.lu",
-        "population": 9,
-        "ele": 379,
         "population:date": "2023"
       }
     },
@@ -6403,23 +6251,6 @@
         "ref:ine": "33073120599",
         "name": "Penafolgueiros",
         "population": 9,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.3562149,
-          43.27642851
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073150201",
-        "name": "Merías",
-        "population": 22,
-        "ele": 456,
         "population:date": "2023"
       }
     },
