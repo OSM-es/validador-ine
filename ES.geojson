@@ -4617,23 +4617,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.45947336,
-          43.54259158
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034060499",
-        "name": "Caneiru",
-        "population": 16,
-        "ele": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.4465662,
           43.54017894
         ]
@@ -5025,23 +5008,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.56973246,
-          43.52632458
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034140901",
-        "name": "Muanes",
-        "population": 58,
-        "ele": 139,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.5627031,
           43.51282193
         ]
@@ -5110,23 +5076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.55859332,
-          43.5309763
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034141999",
-        "name": "Santiagu",
-        "population": 10,
-        "ele": 86,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.54619472,
           43.52300331
         ]
@@ -5136,23 +5085,6 @@
         "name": "Setienes",
         "population": 89,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.56315335,
-          43.53328862
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034142401",
-        "name": "Vil.luír",
-        "population": 40,
-        "ele": 95,
         "population:date": "2023"
       }
     },
