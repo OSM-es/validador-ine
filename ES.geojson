@@ -4464,40 +4464,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.25172798,
-          43.54934397
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021090399",
-        "name": "Pandiello",
-        "population": 8,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26477766,
-          43.54792843
-        ]
-      },
-      "properties": {
-        "ref:ine": "33021090799",
-        "name": "Troncedo",
-        "population": 1,
-        "ele": 242,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.08286776,
           43.33113375
         ]
@@ -4575,23 +4541,6 @@
         "name": "Reconco",
         "population": 14,
         "ele": 371,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26910016,
-          43.54294467
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034021399",
-        "name": "La Llonga",
-        "population": 2,
-        "ele": 246,
         "population:date": "2023"
       }
     },
@@ -4787,23 +4736,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.35647463,
-          43.51887958
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034110199",
-        "name": "La Candanosa",
-        "population": 3,
-        "ele": 440,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.35055931,
           43.48101594
         ]
@@ -4830,23 +4762,6 @@
         "name": "La Braña Arriba",
         "population": 3,
         "ele": 740,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.37400134,
-          43.48734669
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034110401",
-        "name": "El Faidal",
-        "population": 23,
-        "ele": 464,
         "population:date": "2023"
       }
     },
@@ -5085,159 +5000,6 @@
         "name": "Setienes",
         "population": 89,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.4375538,
-          43.52268961
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034150199",
-        "name": "Baínas",
-        "population": 14,
-        "ele": 26,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.44025396,
-          43.50887502
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034150201",
-        "name": "Balsera",
-        "population": 9,
-        "ele": 29,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.45999817,
-          43.50916255
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034150399",
-        "name": "Brañaverniza",
-        "population": 2,
-        "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.44107487,
-          43.52194015
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034150899",
-        "name": "L.lindecastiel.lu",
-        "population": 12,
-        "ele": 120,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.44378957,
-          43.49046894
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034151101",
-        "name": "San Fliz",
-        "population": 63,
-        "ele": 113,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.40333247,
-          43.52518546
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034151201",
-        "name": "San Playu de Teona",
-        "population": 66,
-        "ele": 135,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.388074302,
-          43.52354009
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034151301",
-        "name": "Silvamayore",
-        "population": 39,
-        "ele": 310,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.41920709,
-          43.51767567
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034151601",
-        "name": "Vil.lanueva",
-        "population": 92,
-        "ele": 78,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.52452653,
-          43.54602732
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034151701",
-        "name": "Vil.lar de Baínas",
-        "population": 12,
-        "ele": 68,
         "population:date": "2023"
       }
     },
