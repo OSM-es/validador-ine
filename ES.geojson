@@ -2918,57 +2918,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9272278,
-          43.54041728
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004020199",
-        "name": "L'Altamira",
-        "population": 14,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93022419,
-          43.53329051
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004020499",
-        "name": "El Bretón",
-        "population": 9,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.92292317,
-          43.53407175
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004021099",
-        "name": "La Peña",
-        "population": 30,
-        "ele": 35,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.95012355,
           43.56243689
         ]
@@ -3020,23 +2969,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.832962777,
-          43.51502608
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014112399",
-        "name": "Villar de Riba",
-        "population": 24,
-        "ele": 154,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.95094204,
           43.52872341
         ]
@@ -3063,23 +2995,6 @@
         "name": "Reguero del Medio",
         "population": 6,
         "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95105128,
-          43.53351986
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000103",
-        "name": "La Cruz d'Illes",
-        "population": 102,
-        "ele": 107,
         "population:date": "2023"
       }
     },
@@ -3539,23 +3454,6 @@
         "name": "Viña del Mar",
         "population": 22,
         "ele": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.94829971,
-          43.53394204
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016030501",
-        "name": "La Cruz",
-        "population": 16,
-        "ele": 104,
         "population:date": "2023"
       }
     },
@@ -4389,73 +4287,6 @@
         "name": "La Riera",
         "population": 14,
         "ele": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.90477322,
-          43.52697137
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020030801",
-        "name": "El Barrio la Escuela",
-        "population": 44,
-        "ele": 128,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.91273463,
-          43.51550494
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020031299",
-        "name": "El Barrio García",
-        "population": 14,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.86527892,
-          43.493889
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020060899",
-        "name": "El Pontón",
-        "population": 20,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.92271746,
-          43.53288851
-        ]
-      },
-      "properties": {
-        "ref:ine": "33020061099",
-        "name": "La Tabla",
-        "population": 9,
         "population:date": "2023"
       }
     },
