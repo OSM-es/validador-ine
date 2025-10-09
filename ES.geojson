@@ -1644,23 +1644,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.021929,
-          43.198417
-        ]
-      },
-      "properties": {
-        "ref:ine": "27018241199",
-        "name": "Meson do Camiñeiro",
-        "population": 4,
-        "ele": 807,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.29606356,
           43.55036846
         ]
@@ -2918,23 +2901,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.95012355,
-          43.56243689
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004031001",
-        "name": "El Cueto",
-        "population": 31,
-        "ele": 79,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.06193932,
           43.48298028
         ]
@@ -2961,125 +2927,6 @@
         "name": "El Monte",
         "population": 6,
         "ele": 314,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95094204,
-          43.52872341
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000101",
-        "name": "El Pebidal",
-        "population": 11,
-        "ele": 115,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.96014876,
-          43.52975506
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000102",
-        "name": "Reguero del Medio",
-        "population": 6,
-        "ele": 110,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95567086,
-          43.5356154
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000301",
-        "name": "Los Caleyos",
-        "population": 3,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95794918,
-          43.53816754
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000303",
-        "name": "El Forcón",
-        "population": 51,
-        "ele": 125,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95430724,
-          43.53759548
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000304",
-        "name": "La Granda",
-        "population": 26,
-        "ele": 123,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95925893,
-          43.53584757
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000305",
-        "name": "Les Pedreres",
-        "population": 10,
-        "ele": 121,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95153038,
-          43.5547384
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016000501",
-        "name": "El Caliero",
-        "population": 7,
-        "ele": 95,
         "population:date": "2023"
       }
     },
@@ -4474,23 +4321,6 @@
         "name": "L'Artosa",
         "population": 38,
         "ele": 331,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.61242826,
-          43.46409698
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034100599",
-        "name": "Busecu",
-        "population": 14,
-        "ele": 427,
         "population:date": "2023"
       }
     },

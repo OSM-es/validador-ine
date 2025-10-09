@@ -160,38 +160,6 @@
         "type": "relation",
         "id": "12684317"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6951817,
-          43.3057671
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031990000",
-        "name": "Llangréu / Langreo",
-        "type": "relation",
-        "id": "19612021"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9467998,
-          43.5553541
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016990000",
-        "name": "Raíces-La Cruz d'Illes",
-        "type": "relation",
-        "id": "19626540"
-      }
     }
   ]
 }
