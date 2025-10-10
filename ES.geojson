@@ -4958,23 +4958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.235933,
-          43.480118
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059191699",
-        "name": "Villeirín",
-        "population": 14,
-        "ele": 245,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.2522595,
           43.47250852
         ]
