@@ -4142,23 +4142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.08286776,
-          43.33113375
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026050299",
-        "name": "Los Llanos",
-        "population": 5,
-        "ele": 507,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.051578522,
           43.40167231
         ]
@@ -4185,23 +4168,6 @@
         "name": "Álvare",
         "population": 48,
         "ele": 461,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.08274578,
-          43.3305904
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026160299",
-        "name": "Los Llanos",
-        "population": 3,
-        "ele": 485,
         "population:date": "2023"
       }
     },
@@ -4788,23 +4754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.14658689,
-          43.38008572
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059030299",
-        "name": "Rubial",
-        "population": 4,
-        "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.231021,
           43.452654
         ]
@@ -4967,23 +4916,6 @@
         "name": "La Barraca",
         "population": 11,
         "ele": 228,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2507,
-          43.40389
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059230199",
-        "name": "Maecín",
-        "population": 35,
-        "ele": 230,
         "population:date": "2023"
       }
     },
