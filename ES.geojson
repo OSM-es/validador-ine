@@ -1474,6 +1474,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.77953454,
+          42.52587444
+        ]
+      },
+      "properties": {
+        "ref:ine": "24206010401",
+        "name": "Peón",
+        "population": 2,
+        "ele": 442,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -4142,23 +4159,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.051578522,
-          43.40167231
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026060299",
-        "name": "El Bravucu",
-        "population": 1,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.13040065,
           43.37622287
         ]
@@ -4729,23 +4729,6 @@
         "name": "La Castañal",
         "population": 20,
         "ele": 362,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.95492457,
-          43.39837964
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054060802",
-        "name": "Taraniello",
-        "population": 18,
-        "ele": 236,
         "population:date": "2023"
       }
     },
