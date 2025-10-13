@@ -967,6 +967,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.3617911,
+          43.34008917
+        ]
+      },
+      "properties": {
+        "ref:ine": "15058041501",
+        "name": "Bastiagueiro",
+        "population": 67,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.78816806,
           43.66866525
         ]
@@ -4159,23 +4175,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.13040065,
-          43.37622287
-        ]
-      },
-      "properties": {
-        "ref:ine": "33026080199",
-        "name": "Álvare",
-        "population": 48,
-        "ele": 461,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.00154109,
           43.4890675
         ]
@@ -4202,57 +4201,6 @@
         "name": "Modreiros",
         "population": 21,
         "ele": 154,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.4465662,
-          43.54017894
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034060601",
-        "name": "Casiel.las",
-        "population": 31,
-        "ele": 41,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.43678757,
-          43.5349358
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034061301",
-        "name": "Ranón",
-        "population": 59,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.51859197,
-          43.54766337
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034090899",
-        "name": "Portizuelu",
-        "population": 1,
-        "ele": 7,
         "population:date": "2023"
       }
     },
