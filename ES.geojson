@@ -2934,40 +2934,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.06193932,
-          43.48298028
-        ]
-      },
-      "properties": {
-        "ref:ine": "33010030801",
-        "name": "Santolaya",
-        "population": 5,
-        "ele": 298,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02151241,
-          43.44740252
-        ]
-      },
-      "properties": {
-        "ref:ine": "33010050399",
-        "name": "El Monte",
-        "population": 6,
-        "ele": 314,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.01994987,
           43.57766564
         ]
@@ -4073,23 +4039,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.01837865,
-          43.52144284
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061801",
-        "name": "La Cantera",
-        "population": 3,
-        "ele": 223,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.97456403,
           43.53827645
         ]
@@ -4167,23 +4116,6 @@
         "name": "La Riera",
         "population": 14,
         "ele": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.00154109,
-          43.4890675
-        ]
-      },
-      "properties": {
-        "ref:ine": "33030020799",
-        "name": "Reconco",
-        "population": 14,
-        "ele": 371,
         "population:date": "2023"
       }
     },
@@ -4575,57 +4507,6 @@
         "name": "Setienes",
         "population": 89,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.09494253,
-          43.54096261
-        ]
-      },
-      "properties": {
-        "ref:ine": "33039010101",
-        "name": "Era",
-        "population": 212,
-        "ele": 80,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.101559,
-          43.547322
-        ]
-      },
-      "properties": {
-        "ref:ine": "33039010401",
-        "name": "Reboriu",
-        "population": 338,
-        "ele": 134,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1095807,
-          43.54234236
-        ]
-      },
-      "properties": {
-        "ref:ine": "33039010501",
-        "name": "Villar",
-        "population": 287,
-        "ele": 133,
         "population:date": "2023"
       }
     },
