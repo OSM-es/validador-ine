@@ -5072,23 +5072,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.5308851,
-          43.34570393
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073070201",
-        "name": "Bustiel.lu",
-        "population": 11,
-        "ele": 466,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.52586462,
           43.3474612
         ]
@@ -5834,23 +5817,6 @@
         "name": "Vil.lacabrera",
         "population": 23,
         "ele": 648,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.47179287,
-          43.38682408
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073390101",
-        "name": "Bustiel.lu",
-        "population": 37,
-        "ele": 449,
         "population:date": "2023"
       }
     },
