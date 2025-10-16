@@ -5492,39 +5492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.46921298,
-          43.33101269
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073210699",
-        "name": "La Venta de Paratecha",
-        "population": 3,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.491171139,
-          43.32919591
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073210799",
-        "name": "Robléu",
-        "population": 11,
-        "ele": 682,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.342185007,
           43.35761194
         ]
@@ -5627,23 +5594,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.43906458,
-          43.31821427
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073240801",
-        "name": "La Piñera",
-        "population": 19,
-        "ele": 501,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.46677166,
           43.31674985
         ]
@@ -5668,54 +5618,6 @@
         "ref:ine": "33073290299",
         "name": "Cetrales",
         "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.56614073,
-          43.28248638
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073300499",
-        "name": "La Cueta",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.51294308,
-          43.30917363
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073330199",
-        "name": "Albar",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.49503821,
-          43.32540462
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073330799",
-        "name": "Val.lecueva",
-        "population": 2,
         "population:date": "2023"
       }
     },
@@ -5902,74 +5804,6 @@
         "name": "La L.laneza",
         "population": 9,
         "ele": 711,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.41606398,
-          43.339125
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073401599",
-        "name": "La Venta Arcadiu",
-        "population": 2,
-        "ele": 700,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.41472081,
-          43.34170585
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073401799",
-        "name": "La Venta l'Aire",
-        "population": 37,
-        "ele": 794,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.425514614,
-          43.33658463
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073401899",
-        "name": "La Venta'l Paganu",
-        "population": 4,
-        "ele": 670,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.43107622,
-          43.33417787
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073401999",
-        "name": "La Venta Quildán",
-        "population": 20,
-        "ele": 670,
         "population:date": "2023"
       }
     },
