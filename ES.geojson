@@ -5357,23 +5357,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.5358463,
-          43.40334738
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073160899",
-        "name": "La Tiera",
-        "population": 4,
-        "ele": 215,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.537250203,
           43.4016159
         ]
@@ -5594,38 +5577,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.46677166,
-          43.31674985
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073270499",
-        "name": "San Antoniu",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.40575323,
-          43.32284588
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073290299",
-        "name": "Cetrales",
-        "population": 7,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.39036514,
           43.35300195
         ]
@@ -5660,73 +5611,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.38227044,
-          43.33750967
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073350599",
-        "name": "El Rivil.lar",
-        "population": 2,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.384225807,
-          43.34687122
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073350799",
-        "name": "La Tiera",
-        "population": 2,
-        "ele": 670,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.39493838,
-          43.34214813
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073350901",
-        "name": "Valdarieme",
-        "population": 22,
-        "ele": 662,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.39307793,
-          43.33286737
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073351101",
-        "name": "Vil.lacabrera",
-        "population": 23,
-        "ele": 648,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.45248349,
           43.37916494
         ]
@@ -5736,57 +5620,6 @@
         "name": "San Salvador",
         "population": 4,
         "ele": 507,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.42058783,
-          43.33765314
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073400199",
-        "name": "Las Beisnadas",
-        "population": 5,
-        "ele": 655,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.421070156,
-          43.34107365
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073400399",
-        "name": "La Braña",
-        "population": 5,
-        "ele": 755,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.427490978,
-          43.33551997
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073400499",
-        "name": "Bonavista",
-        "population": 1,
-        "ele": 665,
         "population:date": "2023"
       }
     },
