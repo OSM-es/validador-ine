@@ -4736,72 +4736,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.35831235,
-          43.3130883
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073020299",
-        "name": "Campucaldera",
-        "population": 5,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.355397433,
-          43.32511907
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073020499",
-        "name": "Ordial",
-        "population": 22,
-        "ele": 502,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.34704409,
-          43.29462078
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073030299",
-        "name": "Bebares",
-        "population": 7,
-        "ele": 230,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.3551739,
-          43.29049611
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073030699",
-        "name": "San Adrianu",
-        "population": 4,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.530872708,
           43.35195147
         ]
@@ -5671,22 +5605,6 @@
         "name": "Vil.lapró",
         "population": 15,
         "ele": 490,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.36718463,
-          43.28781095
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073420199",
-        "name": "Bombiáu",
-        "population": 1,
         "population:date": "2023"
       }
     },
