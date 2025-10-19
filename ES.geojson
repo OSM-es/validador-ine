@@ -5528,23 +5528,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.38846911,
-          43.33420284
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073350499",
-        "name": "Los Pontones",
-        "population": 6,
-        "ele": 573,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.45248349,
           43.37916494
         ]
