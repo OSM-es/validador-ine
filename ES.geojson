@@ -1490,23 +1490,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.77953454,
-          42.52587444
-        ]
-      },
-      "properties": {
-        "ref:ine": "24206010401",
-        "name": "Peón",
-        "population": 2,
-        "ele": 442,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -3852,23 +3835,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.98899224,
-          43.52294465
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060905",
-        "name": "San Amaro",
-        "population": 34,
-        "ele": 121,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.98352536,
           43.53201928
         ]
@@ -3895,125 +3861,6 @@
         "name": "Fuente Bendita",
         "population": 3,
         "ele": 67,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.00218425,
-          43.51731678
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061402",
-        "name": "La Buria",
-        "population": 16,
-        "ele": 207,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99548527,
-          43.51788555
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061403",
-        "name": "El Caleyo",
-        "population": 15,
-        "ele": 121,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99048943,
-          43.51969112
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061406",
-        "name": "Cueva de Arbedales",
-        "population": 3,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.998634,
-          43.51701063
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061409",
-        "name": "El Riego",
-        "population": 2,
-        "ele": 173,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.00378923,
-          43.51838533
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061413",
-        "name": "La Vinaquera",
-        "population": 5,
-        "ele": 190,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98732818,
-          43.52658068
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061604",
-        "name": "La Grandera",
-        "population": 26,
-        "ele": 146,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99328672,
-          43.52771228
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061605",
-        "name": "Llau",
-        "population": 15,
-        "ele": 100,
         "population:date": "2023"
       }
     },
@@ -4507,40 +4354,6 @@
         "name": "Setienes",
         "population": 89,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.171519,
-          43.464201
-        ]
-      },
-      "properties": {
-        "ref:ine": "33051011399",
-        "name": "La Devesa",
-        "population": 7,
-        "ele": 107,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.18797,
-          43.46139
-        ]
-      },
-      "properties": {
-        "ref:ine": "33051011499",
-        "name": "El Rebollal",
-        "population": 12,
-        "ele": 112,
         "population:date": "2023"
       }
     },
