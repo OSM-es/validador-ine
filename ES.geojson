@@ -4090,40 +4090,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.35055931,
-          43.48101594
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034110299",
-        "name": "La Braña Baxu",
-        "population": 2,
-        "ele": 620,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.33830808,
-          43.48715105
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034110399",
-        "name": "La Braña Arriba",
-        "population": 3,
-        "ele": 740,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.61754006,
           43.54065723
         ]
@@ -4354,40 +4320,6 @@
         "name": "Setienes",
         "population": 89,
         "ele": 98,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26914606,
-          43.44372243
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059180499",
-        "name": "Las Corradas",
-        "population": 7,
-        "ele": 573,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.265179418,
-          43.44686287
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059180599",
-        "name": "Fontanal",
-        "population": 14,
-        "ele": 580,
         "population:date": "2023"
       }
     },
