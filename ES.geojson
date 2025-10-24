@@ -4056,23 +4056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.62466675,
-          43.45903954
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034101599",
-        "name": "El Mazu",
-        "population": 2,
-        "ele": 318,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.6225931,
           43.46716319
         ]
