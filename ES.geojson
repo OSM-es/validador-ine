@@ -2917,57 +2917,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.01994987,
-          43.57766564
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016010601",
-        "name": "El Cueto",
-        "population": 38,
-        "ele": 87,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02735639,
-          43.5773274
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016010605",
-        "name": "La Pedrera",
-        "population": 1,
-        "ele": 92,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02546385,
-          43.56873363
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016010608",
-        "name": "El Pradón",
-        "population": 18,
-        "ele": 119,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.99724516,
           43.55588934
         ]
@@ -3266,23 +3215,6 @@
         "name": "Villar de Riba",
         "population": 32,
         "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99513131,
-          43.56993652
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016030401",
-        "name": "Viña del Mar",
-        "population": 22,
-        "ele": 4,
         "population:date": "2023"
       }
     },
