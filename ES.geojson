@@ -2560,6 +2560,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.626032,
+          36.56000938
+        ]
+      },
+      "properties": {
+        "ref:ine": "29070001801",
+        "name": "Haza del Algarrobo",
+        "population": 509,
+        "ele": 40,
+        "population:date": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.78189747,
           42.21859384
         ]
@@ -4243,40 +4260,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.54510688,
-          43.3674784
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073040601",
-        "name": "Cornás",
-        "population": 17,
-        "ele": 540,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.52306229,
-          43.36842547
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073041501",
-        "name": "San Pedru",
-        "population": 18,
-        "ele": 483,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.462978075,
           43.40794423
         ]
@@ -4345,56 +4328,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.54154421,
-          43.3973049
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073160299",
-        "name": "La Fanar",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.537250203,
-          43.4016159
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073161099",
-        "name": "Trespandu",
-        "population": 2,
-        "ele": 291,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.50064423,
-          43.40938388
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073170301",
-        "name": "Veiga",
-        "population": 16,
-        "ele": 224,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.55268064,
           43.44640064
         ]
@@ -4421,107 +4354,6 @@
         "name": "Silvayyana",
         "population": 1,
         "ele": 350,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.545214724,
-          43.40659525
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073190199",
-        "name": "La Telaya",
-        "population": 7,
-        "ele": 337,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.54973871,
-          43.40538657
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073190499",
-        "name": "La Carrizal",
-        "population": 1,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.45248349,
-          43.37916494
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073390399",
-        "name": "San Salvador",
-        "population": 4,
-        "ele": 507,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.42592817,
-          43.36521672
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073400799",
-        "name": "La L.laneza",
-        "population": 9,
-        "ele": 711,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.43371977,
-          43.37624201
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073430401",
-        "name": "Folgueirúa",
-        "population": 40,
-        "ele": 698,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.41196777,
-          43.36990781
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073430599",
-        "name": "Las Tabiernas",
-        "population": 27,
-        "ele": 897,
         "population:date": "2023"
       }
     },
