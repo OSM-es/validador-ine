@@ -3461,23 +3461,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.99905364,
-          43.56613311
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016051506",
-        "name": "Las Martiniegas",
-        "population": 5,
-        "ele": 94,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.00602133,
           43.559519
         ]
@@ -3818,23 +3801,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9922297,
-          43.53235891
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061607",
-        "name": "Merujeras",
-        "population": 5,
-        "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.97456403,
           43.53827645
         ]
@@ -3912,74 +3878,6 @@
         "name": "La Riera",
         "population": 14,
         "ele": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.548067193,
-          43.53662904
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034140499",
-        "name": "La Corripia",
-        "population": 10,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.54193879,
-          43.51811272
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034140799",
-        "name": "La Ferreiría de Baxu",
-        "population": 6,
-        "ele": 22,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.55169416,
-          43.54519003
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034141801",
-        "name": "Samartín",
-        "population": 88,
-        "ele": 62,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.54619472,
-          43.52300331
-        ]
-      },
-      "properties": {
-        "ref:ine": "33034142001",
-        "name": "Setienes",
-        "population": 89,
-        "ele": 98,
         "population:date": "2023"
       }
     },
