@@ -3733,91 +3733,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.97068288,
-          43.53233588
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060601",
-        "name": "Alto del Barrero",
-        "population": 12,
-        "ele": 136,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.96207792,
-          43.53174893
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016060602",
-        "name": "La Choricera",
-        "population": 9,
-        "ele": 85,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98352536,
-          43.53201928
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061201",
-        "name": "Altamira",
-        "population": 3,
-        "ele": 89,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98260994,
-          43.53227728
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061202",
-        "name": "Fuente Bendita",
-        "population": 3,
-        "ele": 67,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97456403,
-          43.53827645
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016062402",
-        "name": "La Rasa",
-        "population": 11,
-        "ele": 114,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.97202074,
           43.5547655
         ]
@@ -3835,23 +3750,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.96178108,
-          43.55246532
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016071204",
-        "name": "Ferralgo",
-        "population": 11,
-        "ele": 77,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.96680521,
           43.55418975
         ]
@@ -3860,23 +3758,6 @@
         "ref:ine": "33016071205",
         "name": "Llordal",
         "population": 125,
-        "ele": 30,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97572497,
-          43.54727701
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016071208",
-        "name": "La Riera",
-        "population": 14,
         "ele": 30,
         "population:date": "2023"
       }
