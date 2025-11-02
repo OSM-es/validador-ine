@@ -2951,57 +2951,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.97981673,
-          43.56448454
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016021901",
-        "name": "La Casería",
-        "population": 8,
-        "ele": 29,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97731587,
-          43.57529114
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022001",
-        "name": "La Fábrica",
-        "population": 120,
-        "ele": 12,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98453199,
-          43.57821815
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022002",
-        "name": "La Mina",
-        "population": 32,
-        "ele": 40,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.97154604,
           43.56600547
         ]
@@ -3062,40 +3011,6 @@
         "name": "Las Pedreras",
         "population": 10,
         "ele": 36,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98065264,
-          43.57138658
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016030101",
-        "name": "La Envidia",
-        "population": 19,
-        "ele": 67,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.98151938,
-          43.56837474
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016030103",
-        "name": "Villar de Riba",
-        "population": 32,
-        "ele": 91,
         "population:date": "2023"
       }
     },
