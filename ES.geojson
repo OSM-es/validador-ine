@@ -2951,74 +2951,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.97154604,
-          43.56600547
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022201",
-        "name": "Las Campas",
-        "population": 24,
-        "ele": 45,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97153159,
-          43.56747345
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022202",
-        "name": "El Prauvalle",
-        "population": 28,
-        "ele": 44,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97578473,
-          43.56633634
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022203",
-        "name": "El Barriu San Franciscu",
-        "population": 232,
-        "ele": 20,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97311824,
-          43.56848831
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016022308",
-        "name": "Las Pedreras",
-        "population": 10,
-        "ele": 36,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.02665453,
           43.5538545
         ]
@@ -3504,40 +3436,6 @@
         "name": "La Xirán",
         "population": 15,
         "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.97202074,
-          43.5547655
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016071201",
-        "name": "El Aguaduz",
-        "population": 26,
-        "ele": 24,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.96680521,
-          43.55418975
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016071205",
-        "name": "Llordal",
-        "population": 125,
-        "ele": 30,
         "population:date": "2023"
       }
     },
