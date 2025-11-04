@@ -2917,40 +2917,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.99724516,
-          43.55588934
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016021801",
-        "name": "El Cordel",
-        "population": 4,
-        "ele": 96,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99083085,
-          43.55961388
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016021802",
-        "name": "El Muro",
-        "population": 16,
-        "ele": 93,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.02665453,
           43.5538545
         ]
@@ -3096,40 +3062,6 @@
         "name": "La Xirán",
         "population": 10,
         "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99864235,
-          43.5575994
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016051502",
-        "name": "Canalón",
-        "population": 7,
-        "ele": 33,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.00540233,
-          43.55826926
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016051503",
-        "name": "Las Cepas",
-        "population": 10,
-        "ele": 105,
         "population:date": "2023"
       }
     },
