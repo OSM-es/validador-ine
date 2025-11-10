@@ -2934,40 +2934,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.03388743,
-          43.55000889
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041204",
-        "name": "Bellay",
-        "population": 7,
-        "ele": 137,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02405537,
-          43.54549615
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041206",
-        "name": "La Campa",
-        "population": 22,
-        "ele": 66,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.02206466,
           43.55228532
         ]
@@ -2977,57 +2943,6 @@
         "name": "La Casona",
         "population": 36,
         "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03218043,
-          43.5429236
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041209",
-        "name": "Cuenza",
-        "population": 13,
-        "ele": 91,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.03149519,
-          43.54654332
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041210",
-        "name": "El Cueplo",
-        "population": 28,
-        "ele": 116,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02688131,
-          43.54647733
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041215",
-        "name": "Ventaniella",
-        "population": 42,
-        "ele": 75,
         "population:date": "2023"
       }
     },
