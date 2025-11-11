@@ -2917,57 +2917,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.02665453,
-          43.5538545
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041203",
-        "name": "Las Bargañas",
-        "population": 21,
-        "ele": 117,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.02206466,
-          43.55228532
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041208",
-        "name": "La Casona",
-        "population": 36,
-        "ele": 64,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.01811198,
-          43.55675363
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016041216",
-        "name": "La Xirán",
-        "population": 10,
-        "ele": 57,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.0142335,
           43.56245313
         ]
@@ -3104,23 +3053,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.01499646,
-          43.55659278
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016051909",
-        "name": "Las Lláscaras",
-        "population": 34,
-        "ele": 60,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.00406457,
           43.56851638
         ]
@@ -3198,23 +3130,6 @@
         "name": "El Truébano",
         "population": 8,
         "ele": 39,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.01811198,
-          43.55675363
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016051918",
-        "name": "La Xirán",
-        "population": 15,
-        "ele": 57,
         "population:date": "2023"
       }
     },
