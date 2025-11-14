@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.818861,
+          43.2185696
+        ]
+      },
+      "properties": {
+        "ref:ine": "48916000101",
+        "name": "Usansolo",
+        "type": "node",
+        "id": "571400072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.9662949,
           42.2390288
         ]
@@ -159,6 +175,22 @@
         "name": "A Mezquita",
         "type": "relation",
         "id": "12684317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8300393,
+          43.1995549
+        ]
+      },
+      "properties": {
+        "ref:ine": "48916000000",
+        "name": "Usansolo",
+        "type": "relation",
+        "id": "14930227"
       }
     }
   ]
