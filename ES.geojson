@@ -1932,23 +1932,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.07507922,
-          42.76016332
-        ]
-      },
-      "properties": {
-        "ref:ine": "27037030601",
-        "name": "Noceda",
-        "population": 39,
-        "ele": 805,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.60619634,
           42.55552694
         ]
