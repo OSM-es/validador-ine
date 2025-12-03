@@ -2170,23 +2170,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.25724424,
-          42.65803249
-        ]
-      },
-      "properties": {
-        "ref:ine": "27055210599",
-        "name": "Santalla",
-        "population": 18,
-        "ele": 626,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.338298,
           42.7844875
         ]
