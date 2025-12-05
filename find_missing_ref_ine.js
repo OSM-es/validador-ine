@@ -127,10 +127,11 @@ Promise.all([
   // crea un GeoJson con los elementos faltantes
   fs.writeFile(`${filterFn || "ES"}.geojson`, JSON.stringify(GeoJSON.parse(missingItems, { Point: ["lat", "lon"], exclude: ["type", "flag1", "flag2"] }), null, 2), () => { })
   
-  // una entidad se considera sobrante si su código INE no existe en el fichero del IGN
-  // bien por que haya sido asimilada por otra entidad, haya desaparecido, o simplemente esté mal
+  // una entidad se considera sobrante si:
+  // - su código INE no existe en el fichero del IGN, bien por que haya sido asimilada por otra entidad, haya desaparecido, o simplemente esté mal
+  // - su tipo es diseminado, y no es el único elemento de su grupo
   const refINE = fromINE.map(({ "ref:ine": ine }) => ine)
-  const leftoverItems = fromOSM.filter(x => !refINE.includes(x["ref:ine"]))
+  const leftoverItems = fromOSM.filter(x => !refINE.includes(x["ref:ine"]) || (x["ref:ine"].endsWith("99") && !isUniqueElement(entities[x["ref:ine"].slice(0, 9)])))
   
   // crea un GeoJson con los elementos faltantes
   fs.writeFile(`${filterFn || "ES"}.leftover.geojson`, JSON.stringify(GeoJSON.parse(leftoverItems, { Point: ["lat", "lon"] }), null, 2), () => { })

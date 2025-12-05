@@ -149,7 +149,7 @@
             const share = getUrlShare({ lat, lng })
             const links = getUrlMarkup({ editorId, editorJosm, share })
 
-            const msg = `<p>La referencia <code>${ine}</code> es errónea, o ha dejado de existir. Puedes comprobarlo <a href="https://www.ine.es/nomen2/index.do" target="_blank" rel="noopener">aquí</a>.<br>Usa los siguientes enlaces para eliminarla</p>`
+            const msg = `<p>La referencia <code>${ine}</code> está mal escrita, o bien ha dejado de existir al asimilarse en otra entidad, o pertenece a un diseminado cuando ya existe una referencia para su núcleo.<br><br>Puedes comprobarlo <a href="https://www.ine.es/nomen2/index.do" target="_blank" rel="noopener">aquí</a>. Usa los siguientes enlaces para eliminarla:</p>`
             layer.bindPopup(`${msg}${links}`);
           }
         }));

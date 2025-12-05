@@ -6,6 +6,124 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.20488286,
+          36.69253248
+        ]
+      },
+      "properties": {
+        "ref:ine": "11020000202",
+        "name": "Polila",
+        "population": 7,
+        "ele": 39,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.503104,
+          39.84463
+        ]
+      },
+      "properties": {
+        "ref:ine": "12012002599",
+        "name": "San Julián",
+        "population": 1,
+        "ele": 375,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24283742,
+          40.15173637
+        ]
+      },
+      "properties": {
+        "ref:ine": "12072000799",
+        "name": "Mas de la Parra",
+        "population": 2,
+        "ele": 716,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22099289,
+          39.9596807
+        ]
+      },
+      "properties": {
+        "ref:ine": "12084000799",
+        "name": "Miralcamp",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.272190648,
+          39.99896101
+        ]
+      },
+      "properties": {
+        "ref:ine": "12084002799",
+        "name": "Partida Saera",
+        "population": 2,
+        "ele": 83,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.274249,
+          39.957845
+        ]
+      },
+      "properties": {
+        "ref:ine": "12084003099",
+        "name": "Palaci",
+        "population": 4,
+        "ele": 193,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.119708779,
+          40.18377814
+        ]
+      },
+      "properties": {
+        "ref:ine": "12122001799",
+        "name": "el Mas dels Xulos",
+        "population": 1,
+        "ele": 312,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.24408918,
           43.23389555
         ]
@@ -13,9 +131,9 @@
       "properties": {
         "ref:ine": "15001040601",
         "name": "Cos",
-        "population": 91,
+        "population": 95,
         "ele": 76,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -30,9 +148,9 @@
       "properties": {
         "ref:ine": "15001100901",
         "name": "Limiñón",
-        "population": 247,
+        "population": 240,
         "ele": 99,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -47,9 +165,9 @@
       "properties": {
         "ref:ine": "15001121101",
         "name": "Meangos",
-        "population": 60,
+        "population": 63,
         "ele": 115,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -64,9 +182,9 @@
       "properties": {
         "ref:ine": "15002041501",
         "name": "As Mimosas",
-        "population": 250,
+        "population": 256,
         "ele": 171,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -81,8 +199,8 @@
       "properties": {
         "ref:ine": "15002060901",
         "name": "Bosque Animado",
-        "population": 57,
-        "population:date": "2023"
+        "population": 53,
+        "population:date": "2024"
       }
     },
     {
@@ -97,9 +215,9 @@
       "properties": {
         "ref:ine": "15002081901",
         "name": "Aldea Nova",
-        "population": 861,
+        "population": 848,
         "ele": 160,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -114,8 +232,8 @@
       "properties": {
         "ref:ine": "15002082001",
         "name": "Agro do Muíño",
-        "population": 443,
-        "population:date": "2023"
+        "population": 464,
+        "population:date": "2024"
       }
     },
     {
@@ -132,7 +250,7 @@
         "name": "O Outeiro",
         "population": 0,
         "ele": 12,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -149,7 +267,7 @@
         "name": "O Campo",
         "population": 0,
         "ele": 163,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -164,8 +282,8 @@
       "properties": {
         "ref:ine": "15005091101",
         "name": "Campo de Golf",
-        "population": 306,
-        "population:date": "2023"
+        "population": 310,
+        "population:date": "2024"
       }
     },
     {
@@ -182,7 +300,7 @@
         "name": "Polígono Industrial",
         "population": 0,
         "ele": 92,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -199,7 +317,7 @@
         "name": "Polígono Industrial",
         "population": 0,
         "ele": 98,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -214,9 +332,9 @@
       "properties": {
         "ref:ine": "15013020101",
         "name": "Babenzo",
-        "population": 126,
+        "population": 127,
         "ele": 54,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -233,7 +351,7 @@
         "name": "Vilar do Colo",
         "population": 0,
         "ele": 163,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -248,8 +366,8 @@
       "properties": {
         "ref:ine": "15019101201",
         "name": "Sambade",
-        "population": 28,
-        "population:date": "2023"
+        "population": 25,
+        "population:date": "2024"
       }
     },
     {
@@ -266,7 +384,7 @@
         "name": "Noicela",
         "population": 34,
         "ele": 27,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -283,7 +401,7 @@
         "name": "A Pedra do Sal",
         "population": 0,
         "ele": 4,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -300,7 +418,7 @@
         "name": "Alborín",
         "population": 12,
         "ele": 447,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -315,9 +433,26 @@
       "properties": {
         "ref:ine": "15019172599",
         "name": "Gonzalbres",
-        "population": 10,
+        "population": 11,
         "ele": 309,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.18556654,
+          43.26124348
+        ]
+      },
+      "properties": {
+        "ref:ine": "15027030299",
+        "name": "Mende",
+        "population": 1,
+        "ele": 35,
+        "population:date": "2024"
       }
     },
     {
@@ -334,7 +469,7 @@
         "name": "O Porto",
         "population": 0,
         "ele": 134,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -349,9 +484,9 @@
       "properties": {
         "ref:ine": "15031080601",
         "name": "Acea de Ama",
-        "population": 327,
+        "population": 324,
         "ele": 7,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -366,9 +501,9 @@
       "properties": {
         "ref:ine": "15035011101",
         "name": "O Pazo",
-        "population": 36,
+        "population": 35,
         "ele": 51,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -383,9 +518,9 @@
       "properties": {
         "ref:ine": "15035050299",
         "name": "As Arangas",
-        "population": 17,
+        "population": 15,
         "ele": 83,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -402,7 +537,7 @@
         "name": "O Pombal",
         "population": 15,
         "ele": 55,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -417,8 +552,8 @@
       "properties": {
         "ref:ine": "15035052801",
         "name": "A Estrada do Seixo",
-        "population": 58,
-        "population:date": "2023"
+        "population": 52,
+        "population:date": "2024"
       }
     },
     {
@@ -435,7 +570,7 @@
         "name": "O Carballal",
         "population": 4,
         "ele": 105,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -452,7 +587,7 @@
         "name": "O Agriño",
         "population": 6,
         "ele": 144,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -467,9 +602,9 @@
       "properties": {
         "ref:ine": "15041014601",
         "name": "Montes Claros",
-        "population": 193,
+        "population": 182,
         "ele": 195,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -486,7 +621,7 @@
         "name": "O Piñeiro",
         "population": 3,
         "ele": 153,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -501,9 +636,9 @@
       "properties": {
         "ref:ine": "15041020599",
         "name": "Xermaña",
-        "population": 67,
+        "population": 73,
         "ele": 110,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -520,7 +655,7 @@
         "name": "A Braña",
         "population": 1,
         "ele": 222,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -535,9 +670,9 @@
       "properties": {
         "ref:ine": "15043011101",
         "name": "Barizo",
-        "population": 227,
+        "population": 220,
         "ele": 58,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -552,9 +687,9 @@
       "properties": {
         "ref:ine": "15043042101",
         "name": "Pasacondía - A Aldeola",
-        "population": 193,
+        "population": 197,
         "ele": 95,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -569,9 +704,9 @@
       "properties": {
         "ref:ine": "15043042201",
         "name": "As Pozacas - Leduzo",
-        "population": 121,
+        "population": 127,
         "ele": 109,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -586,9 +721,9 @@
       "properties": {
         "ref:ine": "15043051401",
         "name": "A Pedrosa - A Trémoa",
-        "population": 152,
+        "population": 153,
         "ele": 153,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -603,8 +738,8 @@
       "properties": {
         "ref:ine": "15048000101",
         "name": "Costa Anacara",
-        "population": 930,
-        "population:date": "2023"
+        "population": 987,
+        "population:date": "2024"
       }
     },
     {
@@ -621,7 +756,7 @@
         "name": "O Foxo",
         "population": 3,
         "ele": 249,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -636,9 +771,26 @@
       "properties": {
         "ref:ine": "15050036799",
         "name": "Vilarboi",
-        "population": 7,
+        "population": 6,
         "ele": 285,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.08089309,
+          43.37216223
+        ]
+      },
+      "properties": {
+        "ref:ine": "15050071199",
+        "name": "Fornos",
+        "population": 1,
+        "ele": 325,
+        "population:date": "2024"
       }
     },
     {
@@ -653,8 +805,8 @@
       "properties": {
         "ref:ine": "15054000201",
         "name": "Río do Pozo",
-        "population": 9,
-        "population:date": "2023"
+        "population": 8,
+        "population:date": "2024"
       }
     },
     {
@@ -669,9 +821,9 @@
       "properties": {
         "ref:ine": "15054020999",
         "name": "O Chao",
-        "population": 6,
+        "population": 9,
         "ele": 29,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -686,9 +838,9 @@
       "properties": {
         "ref:ine": "15054101199",
         "name": "A Costeira",
-        "population": 12,
+        "population": 14,
         "ele": 97,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -703,9 +855,9 @@
       "properties": {
         "ref:ine": "15054111799",
         "name": "O Pereiro",
-        "population": 16,
+        "population": 15,
         "ele": 64,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -722,7 +874,7 @@
         "name": "A Fábrica de Xubia",
         "population": 0,
         "ele": 5,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -737,8 +889,8 @@
       "properties": {
         "ref:ine": "15055037401",
         "name": "Ribeira da Toeleira",
-        "population": 24,
-        "population:date": "2023"
+        "population": 25,
+        "population:date": "2024"
       }
     },
     {
@@ -753,9 +905,9 @@
       "properties": {
         "ref:ine": "15057060101",
         "name": "Argote",
-        "population": 55,
+        "population": 50,
         "ele": 27,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -770,9 +922,9 @@
       "properties": {
         "ref:ine": "15057060299",
         "name": "Campo de Lamas",
-        "population": 12,
+        "population": 11,
         "ele": 63,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -789,7 +941,7 @@
         "name": "A Costaneira",
         "population": 18,
         "ele": 22,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -804,9 +956,9 @@
       "properties": {
         "ref:ine": "15057060401",
         "name": "O Couto de Abaixo",
-        "population": 20,
+        "population": 16,
         "ele": 18,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -821,9 +973,9 @@
       "properties": {
         "ref:ine": "15057060501",
         "name": "O Couto de Arriba",
-        "population": 77,
+        "population": 74,
         "ele": 27,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -840,7 +992,7 @@
         "name": "O Loureiro",
         "population": 13,
         "ele": 29,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -855,9 +1007,9 @@
       "properties": {
         "ref:ine": "15057060801",
         "name": "Os Pazos",
-        "population": 89,
+        "population": 83,
         "ele": 48,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -874,7 +1026,7 @@
         "name": "A Perouta",
         "population": 1,
         "ele": 72,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -889,9 +1041,9 @@
       "properties": {
         "ref:ine": "15057061001",
         "name": "O Pirillueiro",
-        "population": 60,
+        "population": 59,
         "ele": 28,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -906,9 +1058,9 @@
       "properties": {
         "ref:ine": "15057061101",
         "name": "A Ponte de Traba",
-        "population": 25,
+        "population": 24,
         "ele": 35,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -923,9 +1075,9 @@
       "properties": {
         "ref:ine": "15057061201",
         "name": "Sabardes",
-        "population": 19,
+        "population": 22,
         "ele": 63,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -940,9 +1092,9 @@
       "properties": {
         "ref:ine": "15057061301",
         "name": "San Breixo",
-        "population": 100,
+        "population": 96,
         "ele": 21,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -959,7 +1111,7 @@
         "name": "A Babilonia",
         "population": 0,
         "ele": 15,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -974,8 +1126,24 @@
       "properties": {
         "ref:ine": "15061044501",
         "name": "O Val",
-        "population": 27,
-        "population:date": "2023"
+        "population": 23,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.76555128,
+          43.69123009
+        ]
+      },
+      "properties": {
+        "ref:ine": "15061052499",
+        "name": "Ratón",
+        "population": 2,
+        "population:date": "2024"
       }
     },
     {
@@ -990,8 +1158,8 @@
       "properties": {
         "ref:ine": "15061054201",
         "name": "O Valle",
-        "population": 16,
-        "population:date": "2023"
+        "population": 17,
+        "population:date": "2024"
       }
     },
     {
@@ -1006,9 +1174,25 @@
       "properties": {
         "ref:ine": "15061077701",
         "name": "O Cristo",
-        "population": 36,
+        "population": 35,
         "ele": 46,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.84641146,
+          43.64958553
+        ]
+      },
+      "properties": {
+        "ref:ine": "15061102699",
+        "name": "O Loureiro de Arriba",
+        "population": 2,
+        "population:date": "2024"
       }
     },
     {
@@ -1023,9 +1207,9 @@
       "properties": {
         "ref:ine": "15061237701",
         "name": "Santa María",
-        "population": 369,
+        "population": 370,
         "ele": 41,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1042,7 +1226,7 @@
         "name": "Confurco",
         "population": 10,
         "ele": 149,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1059,7 +1243,7 @@
         "name": "Maciñeira",
         "population": 13,
         "ele": 395,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1074,9 +1258,9 @@
       "properties": {
         "ref:ine": "15070122299",
         "name": "Alto das Seixas",
-        "population": 3,
+        "population": 4,
         "ele": 418,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1091,9 +1275,9 @@
       "properties": {
         "ref:ine": "15071020501",
         "name": "A Cruz",
-        "population": 44,
+        "population": 46,
         "ele": 55,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1110,7 +1294,7 @@
         "name": "O Moucho",
         "population": 1,
         "ele": 71,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1125,9 +1309,9 @@
       "properties": {
         "ref:ine": "15071080599",
         "name": "Cabeiro",
-        "population": 30,
+        "population": 32,
         "ele": 27,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1142,9 +1326,9 @@
       "properties": {
         "ref:ine": "15073061801",
         "name": "San Martiño",
-        "population": 629,
+        "population": 617,
         "ele": 34,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1161,7 +1345,7 @@
         "name": "Os Currás",
         "population": 2,
         "ele": 242,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1178,7 +1362,7 @@
         "name": "Randufe",
         "population": 74,
         "ele": 354,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1195,7 +1379,7 @@
         "name": "A Foca",
         "population": 0,
         "ele": 247,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1210,9 +1394,9 @@
       "properties": {
         "ref:ine": "15079120399",
         "name": "Busel de Abaixo",
-        "population": 11,
+        "population": 14,
         "ele": 286,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1227,9 +1411,9 @@
       "properties": {
         "ref:ine": "15079120499",
         "name": "Busel de Arriba",
-        "population": 18,
+        "population": 15,
         "ele": 298,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1246,7 +1430,7 @@
         "name": "O Fervedoiro",
         "population": 5,
         "ele": 310,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1261,8 +1445,8 @@
       "properties": {
         "ref:ine": "15082022001",
         "name": "Rua de Francos",
-        "population": 120,
-        "population:date": "2023"
+        "population": 126,
+        "population:date": "2024"
       }
     },
     {
@@ -1277,9 +1461,9 @@
       "properties": {
         "ref:ine": "15082023201",
         "name": "A Agrela",
-        "population": 47,
+        "population": 44,
         "ele": 304,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1296,7 +1480,7 @@
         "name": "Casal de Buela",
         "population": 0,
         "ele": 141,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1311,9 +1495,9 @@
       "properties": {
         "ref:ine": "15087050199",
         "name": "A Moreira",
-        "population": 17,
+        "population": 18,
         "ele": 63,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1328,9 +1512,9 @@
       "properties": {
         "ref:ine": "15087053201",
         "name": "O Bieiteiro",
-        "population": 45,
+        "population": 44,
         "ele": 74,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1345,9 +1529,9 @@
       "properties": {
         "ref:ine": "15087075199",
         "name": "Agrós",
-        "population": 2,
+        "population": 1,
         "ele": 194,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1364,7 +1548,7 @@
         "name": "O Penso",
         "population": 65,
         "ele": 50,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1381,7 +1565,7 @@
         "name": "Ladeira",
         "population": 0,
         "ele": 59,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1396,9 +1580,9 @@
       "properties": {
         "ref:ine": "15089070201",
         "name": "Cibrán",
-        "population": 86,
+        "population": 83,
         "ele": 95,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1413,9 +1597,9 @@
       "properties": {
         "ref:ine": "15089070501",
         "name": "Paradela",
-        "population": 227,
+        "population": 224,
         "ele": 133,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1430,9 +1614,9 @@
       "properties": {
         "ref:ine": "15089070601",
         "name": "Quintáns",
-        "population": 74,
+        "population": 77,
         "ele": 140,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1447,9 +1631,77 @@
       "properties": {
         "ref:ine": "15089081199",
         "name": "A Silva de Arriba",
-        "population": 28,
+        "population": 27,
         "ele": 138,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.26593936,
+          43.14723438
+        ]
+      },
+      "properties": {
+        "ref:ine": "15902111199",
+        "name": "A Insua",
+        "population": 1,
+        "ele": 287,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.209102154,
+          41.94183599
+        ]
+      },
+      "properties": {
+        "ref:ine": "17013000102",
+        "name": "Pla de Ses Vinyes",
+        "population": 2,
+        "ele": 130,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.775142,
+          42.522788
+        ]
+      },
+      "properties": {
+        "ref:ine": "24038000799",
+        "name": "Peón de Arriba",
+        "population": 1,
+        "ele": 551,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.51198075,
+          41.71573291
+        ]
+      },
+      "properties": {
+        "ref:ine": "25019000401",
+        "name": "La Saira",
+        "population": 1,
+        "ele": 335,
+        "population:date": "2024"
       }
     },
     {
@@ -1464,9 +1716,9 @@
       "properties": {
         "ref:ine": "27001090399",
         "name": "Caboxo",
-        "population": 27,
+        "population": 28,
         "ele": 525,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1481,9 +1733,9 @@
       "properties": {
         "ref:ine": "27001100199",
         "name": "A Aldea",
-        "population": 18,
+        "population": 17,
         "ele": 475,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1498,9 +1750,9 @@
       "properties": {
         "ref:ine": "27005021799",
         "name": "Benquerencia-Praia",
-        "population": 90,
+        "population": 89,
         "ele": 14,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1515,9 +1767,9 @@
       "properties": {
         "ref:ine": "27005062101",
         "name": "San Miguel",
-        "population": 45,
+        "population": 46,
         "ele": 45,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1532,9 +1784,9 @@
       "properties": {
         "ref:ine": "27005070899",
         "name": "Santiago de Reinante",
-        "population": 20,
+        "population": 29,
         "ele": 53,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1549,9 +1801,9 @@
       "properties": {
         "ref:ine": "27008030601",
         "name": "Guntín",
-        "population": 70,
+        "population": 68,
         "ele": 408,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1566,9 +1818,9 @@
       "properties": {
         "ref:ine": "27008070601",
         "name": "Ribas Pequenas",
-        "population": 63,
+        "population": 61,
         "ele": 333,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1585,7 +1837,7 @@
         "name": "A Portela",
         "population": 0,
         "ele": 404,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1602,7 +1854,7 @@
         "name": "O Carboeiro",
         "population": 5,
         "ele": 588,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1619,7 +1871,7 @@
         "name": "Os Muíños",
         "population": 2,
         "ele": 449,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1634,9 +1886,9 @@
       "properties": {
         "ref:ine": "27019090301",
         "name": "Xinzo",
-        "population": 34,
+        "population": 36,
         "ele": 126,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1653,7 +1905,7 @@
         "name": "O Portelo",
         "population": 3,
         "ele": 502,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1668,9 +1920,9 @@
       "properties": {
         "ref:ine": "27024010501",
         "name": "Bardaos",
-        "population": 33,
+        "population": 32,
         "ele": 717,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1685,9 +1937,9 @@
       "properties": {
         "ref:ine": "27024061101",
         "name": "Eirexalba",
-        "population": 23,
+        "population": 19,
         "ele": 483,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1702,9 +1954,9 @@
       "properties": {
         "ref:ine": "27024130601",
         "name": "Laiosa",
-        "population": 102,
+        "population": 91,
         "ele": 457,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1719,9 +1971,9 @@
       "properties": {
         "ref:ine": "27024170701",
         "name": "Noceda",
-        "population": 49,
+        "population": 48,
         "ele": 453,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1736,9 +1988,9 @@
       "properties": {
         "ref:ine": "27024200601",
         "name": "Rendar",
-        "population": 36,
+        "population": 38,
         "ele": 667,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1753,9 +2005,9 @@
       "properties": {
         "ref:ine": "27024210201",
         "name": "Rubián de Cima",
-        "population": 31,
+        "population": 32,
         "ele": 559,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1770,9 +2022,9 @@
       "properties": {
         "ref:ine": "27024220801",
         "name": "Sirgueiros",
-        "population": 9,
+        "population": 8,
         "ele": 668,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1789,7 +2041,7 @@
         "name": "Painzás",
         "population": 5,
         "ele": 116,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1806,7 +2058,7 @@
         "name": "Lourenzá",
         "population": 2,
         "ele": 102,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1821,9 +2073,9 @@
       "properties": {
         "ref:ine": "27031061001",
         "name": "Distriz",
-        "population": 84,
+        "population": 86,
         "ele": 278,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1838,8 +2090,8 @@
       "properties": {
         "ref:ine": "27031080199",
         "name": "A Estrada",
-        "population": 40,
-        "population:date": "2023"
+        "population": 42,
+        "population:date": "2024"
       }
     },
     {
@@ -1856,7 +2108,7 @@
         "name": "Gullade",
         "population": 6,
         "ele": 371,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1871,9 +2123,9 @@
       "properties": {
         "ref:ine": "27031170901",
         "name": "Piñeira",
-        "population": 38,
+        "population": 39,
         "ele": 280,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1888,9 +2140,9 @@
       "properties": {
         "ref:ine": "27031220299",
         "name": "Campo",
-        "population": 7,
+        "population": 8,
         "ele": 426,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1907,7 +2159,24 @@
         "name": "Capón",
         "population": 1,
         "ele": 598,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.041463852,
+          43.0221647
+        ]
+      },
+      "properties": {
+        "ref:ine": "27034130699",
+        "name": "Louxas",
+        "population": 3,
+        "ele": 898,
+        "population:date": "2024"
       }
     },
     {
@@ -1922,9 +2191,9 @@
       "properties": {
         "ref:ine": "27041241301",
         "name": "Toiriz",
-        "population": 37,
+        "population": 36,
         "ele": 520,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1941,7 +2210,7 @@
         "name": "A Pedriña",
         "population": 2,
         "ele": 1063,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1956,9 +2225,9 @@
       "properties": {
         "ref:ine": "27047021201",
         "name": "Abrence",
-        "population": 27,
+        "population": 28,
         "ele": 485,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1973,9 +2242,9 @@
       "properties": {
         "ref:ine": "27047030701",
         "name": "Canedo",
-        "population": 19,
+        "population": 17,
         "ele": 451,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -1990,9 +2259,9 @@
       "properties": {
         "ref:ine": "27047060301",
         "name": "Cereixa",
-        "population": 47,
+        "population": 48,
         "ele": 373,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2007,9 +2276,9 @@
       "properties": {
         "ref:ine": "27047080801",
         "name": "Ferreiros",
-        "population": 28,
+        "population": 29,
         "ele": 480,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2024,9 +2293,9 @@
       "properties": {
         "ref:ine": "27047100101",
         "name": "Fornelas",
-        "population": 27,
+        "population": 25,
         "ele": 365,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2043,7 +2312,7 @@
         "name": "Pinel",
         "population": 15,
         "ele": 443,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2058,9 +2327,9 @@
       "properties": {
         "ref:ine": "27047160101",
         "name": "Piño",
-        "population": 74,
+        "population": 77,
         "ele": 412,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2075,9 +2344,9 @@
       "properties": {
         "ref:ine": "27047180301",
         "name": "Santalla de Rei",
-        "population": 24,
+        "population": 25,
         "ele": 376,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2092,9 +2361,9 @@
       "properties": {
         "ref:ine": "27047210701",
         "name": "Veiga",
-        "population": 12,
+        "population": 10,
         "ele": 380,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2109,9 +2378,26 @@
       "properties": {
         "ref:ine": "27050091099",
         "name": "Lamela",
-        "population": 3,
+        "population": 2,
         "ele": 310,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14258332,
+          43.4953989
+        ]
+      },
+      "properties": {
+        "ref:ine": "27051020599",
+        "name": "A Ponte",
+        "population": 1,
+        "ele": 111,
+        "population:date": "2024"
       }
     },
     {
@@ -2128,7 +2414,7 @@
         "name": "Soutordei",
         "population": 12,
         "ele": 622,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2143,9 +2429,9 @@
       "properties": {
         "ref:ine": "27052072001",
         "name": "Torbeo",
-        "population": 41,
+        "population": 44,
         "ele": 650,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2160,9 +2446,9 @@
       "properties": {
         "ref:ine": "27057230999",
         "name": "Louseiro",
-        "population": 85,
+        "population": 80,
         "ele": 473,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2177,9 +2463,9 @@
       "properties": {
         "ref:ine": "27057370101",
         "name": "Callás",
-        "population": 43,
+        "population": 41,
         "ele": 482,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2194,9 +2480,9 @@
       "properties": {
         "ref:ine": "27057500299",
         "name": "Carretera de Abaixo",
-        "population": 13,
+        "population": 12,
         "ele": 473,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2211,9 +2497,9 @@
       "properties": {
         "ref:ine": "27057500399",
         "name": "Carretera de Arriba",
-        "population": 25,
+        "population": 23,
         "ele": 466,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2230,7 +2516,7 @@
         "name": "Ribela",
         "population": 9,
         "ele": 422,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2245,9 +2531,9 @@
       "properties": {
         "ref:ine": "27058280999",
         "name": "Vilaseco",
-        "population": 9,
+        "population": 10,
         "ele": 546,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2264,7 +2550,24 @@
         "name": "Fontao",
         "population": 18,
         "ele": 597,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.44774253,
+          43.54743806
+        ]
+      },
+      "properties": {
+        "ref:ine": "27063092299",
+        "name": "As Leas",
+        "population": 1,
+        "ele": 86,
+        "population:date": "2024"
       }
     },
     {
@@ -2281,7 +2584,7 @@
         "name": "A Abelaira",
         "population": 2,
         "ele": 474,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2296,9 +2599,9 @@
       "properties": {
         "ref:ine": "27065071301",
         "name": "Martiñán",
-        "population": 82,
+        "population": 85,
         "ele": 428,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2313,9 +2616,9 @@
       "properties": {
         "ref:ine": "27065110399",
         "name": "O Castro",
-        "population": 7,
+        "population": 5,
         "ele": 481,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2332,7 +2635,7 @@
         "name": "Remosende",
         "population": 1,
         "ele": 582,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2349,7 +2652,24 @@
         "name": "Cornas",
         "population": 1,
         "ele": 500,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.569580078,
+          43.59830277
+        ]
+      },
+      "properties": {
+        "ref:ine": "27066012999",
+        "name": "Suaigrexa",
+        "population": 1,
+        "ele": 255,
+        "population:date": "2024"
       }
     },
     {
@@ -2366,7 +2686,7 @@
         "name": "O Porto",
         "population": 10,
         "ele": 8,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2381,9 +2701,9 @@
       "properties": {
         "ref:ine": "27066060699",
         "name": "O Batán",
-        "population": 2,
+        "population": 3,
         "ele": 33,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2398,9 +2718,9 @@
       "properties": {
         "ref:ine": "27066061001",
         "name": "Catarou",
-        "population": 23,
+        "population": 20,
         "ele": 97,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2415,9 +2735,9 @@
       "properties": {
         "ref:ine": "27066062001",
         "name": "A Igrexa",
-        "population": 22,
+        "population": 26,
         "ele": 93,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2434,7 +2754,7 @@
         "name": "Vilar",
         "population": 70,
         "ele": 73,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2449,9 +2769,9 @@
       "properties": {
         "ref:ine": "27066070901",
         "name": "O Portociño",
-        "population": 42,
+        "population": 43,
         "ele": 18,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2468,7 +2788,7 @@
         "name": "Po",
         "population": 2,
         "ele": 175,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2483,9 +2803,43 @@
       "properties": {
         "ref:ine": "27066100501",
         "name": "A Cabana",
-        "population": 28,
+        "population": 29,
         "ele": 13,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95036428,
+          40.72480469
+        ]
+      },
+      "properties": {
+        "ref:ine": "28023000701",
+        "name": "La Ponderosa",
+        "population": 1,
+        "ele": 1045,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.92908,
+          40.369407
+        ]
+      },
+      "properties": {
+        "ref:ine": "28181000302",
+        "name": "Monte de la Villa",
+        "population": 2,
+        "ele": 629,
+        "population:date": "2024"
       }
     },
     {
@@ -2500,9 +2854,9 @@
       "properties": {
         "ref:ine": "32001050201",
         "name": "Os Espiñeiros",
-        "population": 25,
+        "population": 23,
         "ele": 528,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2517,9 +2871,9 @@
       "properties": {
         "ref:ine": "32013150501",
         "name": "O Regueiro",
-        "population": 120,
+        "population": 113,
         "ele": 792,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2534,9 +2888,9 @@
       "properties": {
         "ref:ine": "32019080599",
         "name": "Madarnás",
-        "population": 3,
+        "population": 7,
         "ele": 532,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2551,9 +2905,43 @@
       "properties": {
         "ref:ine": "32020050501",
         "name": "As Marabillas",
-        "population": 289,
+        "population": 93,
         "ele": 428,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.95386588,
+          42.14491514
+        ]
+      },
+      "properties": {
+        "ref:ine": "32024090599",
+        "name": "Eilabai",
+        "population": 4,
+        "ele": 521,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.154127921,
+          42.53414176
+        ]
+      },
+      "properties": {
+        "ref:ine": "32035080599",
+        "name": "Parteme",
+        "population": 1,
+        "ele": 732,
+        "population:date": "2024"
       }
     },
     {
@@ -2568,9 +2956,9 @@
       "properties": {
         "ref:ine": "32037010801",
         "name": "Niñodaguia",
-        "population": 114,
+        "population": 110,
         "ele": 609,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2585,9 +2973,9 @@
       "properties": {
         "ref:ine": "32045060101",
         "name": "Estación",
-        "population": 20,
+        "population": 21,
         "ele": 339,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2604,7 +2992,7 @@
         "name": "Portodechán",
         "population": 9,
         "ele": 386,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2619,9 +3007,9 @@
       "properties": {
         "ref:ine": "32047061101",
         "name": "A Mezquita",
-        "population": 138,
+        "population": 140,
         "ele": 484,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2636,9 +3024,9 @@
       "properties": {
         "ref:ine": "32052020901",
         "name": "San Miguel do Campo",
-        "population": 207,
+        "population": 208,
         "ele": 445,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2653,9 +3041,9 @@
       "properties": {
         "ref:ine": "32052050901",
         "name": "Faramontaos",
-        "population": 92,
+        "population": 88,
         "ele": 456,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2670,9 +3058,9 @@
       "properties": {
         "ref:ine": "32052060701",
         "name": "Loña do Monte",
-        "population": 116,
+        "population": 105,
         "ele": 655,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2687,9 +3075,9 @@
       "properties": {
         "ref:ine": "32054110501",
         "name": "O Outeiro-Anaigo-A Lama",
-        "population": 56,
+        "population": 57,
         "ele": 407,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2704,9 +3092,9 @@
       "properties": {
         "ref:ine": "32054140402",
         "name": "Seixalbo (Industrial)",
-        "population": 5,
+        "population": 1,
         "ele": 193,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2721,9 +3109,9 @@
       "properties": {
         "ref:ine": "32054170901",
         "name": "Untes",
-        "population": 193,
+        "population": 197,
         "ele": 173,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2738,9 +3126,26 @@
       "properties": {
         "ref:ine": "32058030201",
         "name": "Chaodarcas",
-        "population": 89,
+        "population": 85,
         "ele": 536,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.810537,
+          42.321985
+        ]
+      },
+      "properties": {
+        "ref:ine": "32058040102",
+        "name": "Parque Empresarial",
+        "population": 1,
+        "ele": 382,
+        "population:date": "2024"
       }
     },
     {
@@ -2757,7 +3162,7 @@
         "name": "Loeda",
         "population": 32,
         "ele": 540,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2772,9 +3177,26 @@
       "properties": {
         "ref:ine": "32064021101",
         "name": "Trado",
-        "population": 102,
+        "population": 98,
         "ele": 179,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.03583387,
+          42.15268193
+        ]
+      },
+      "properties": {
+        "ref:ine": "32068090199",
+        "name": "A Carreiriña",
+        "population": 3,
+        "ele": 661,
+        "population:date": "2024"
       }
     },
     {
@@ -2791,7 +3213,7 @@
         "name": "Anllo",
         "population": 21,
         "ele": 403,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2806,9 +3228,26 @@
       "properties": {
         "ref:ine": "32074050999",
         "name": "Las",
-        "population": 44,
+        "population": 45,
         "ele": 421,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85285295,
+          42.28795262
+        ]
+      },
+      "properties": {
+        "ref:ine": "32075020199",
+        "name": "Áspera",
+        "population": 1,
+        "ele": 242,
+        "population:date": "2024"
       }
     },
     {
@@ -2825,7 +3264,7 @@
         "name": "A Eirexa",
         "population": 32,
         "ele": 392,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2842,7 +3281,323 @@
         "name": "Penadiz e O Folón",
         "population": 20,
         "ele": 563,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.78571236,
+          43.25550762
+        ]
+      },
+      "properties": {
+        "ref:ine": "33001011099",
+        "name": "Trapa",
+        "population": 2,
+        "ele": 483,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66020711,
+          43.15061389
+        ]
+      },
+      "properties": {
+        "ref:ine": "33002171599",
+        "name": "El Turnu",
+        "population": 2,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.55317975,
+          43.34695174
+        ]
+      },
+      "properties": {
+        "ref:ine": "33006024799",
+        "name": "Les Vallines",
+        "population": 1,
+        "ele": 388,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.01034223,
+          43.4871698
+        ]
+      },
+      "properties": {
+        "ref:ine": "33010111599",
+        "name": "Argañosa",
+        "population": 1,
+        "ele": 415,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.751944,
+          43.566944
+        ]
+      },
+      "properties": {
+        "ref:ine": "33014100499",
+        "name": "Calera",
+        "population": 4,
+        "ele": 109,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.84320358,
+          43.53077096
+        ]
+      },
+      "properties": {
+        "ref:ine": "33014112099",
+        "name": "La Velilla",
+        "population": 1,
+        "ele": 95,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99558312,
+          43.51661345
+        ]
+      },
+      "properties": {
+        "ref:ine": "33016061410",
+        "name": "La Rionda",
+        "population": 1,
+        "ele": 118,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.02992383,
+          43.50029856
+        ]
+      },
+      "properties": {
+        "ref:ine": "33017050599",
+        "name": "Fabal",
+        "population": 1,
+        "ele": 15,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.754904747,
+          43.30461214
+        ]
+      },
+      "properties": {
+        "ref:ine": "33031080699",
+        "name": "La Espina",
+        "population": 1,
+        "ele": 416,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54824641,
+          43.26204386
+        ]
+      },
+      "properties": {
+        "ref:ine": "33032053499",
+        "name": "La Traviesa",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.77134697,
+          43.06083936
+        ]
+      },
+      "properties": {
+        "ref:ine": "33033010299",
+        "name": "La Muela",
+        "population": 1,
+        "ele": 598,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33033020999",
+        "name": "Ferreras",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33037063099",
+        "name": "Molino del Majo",
+        "population": 2,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33037105199",
+        "name": "La Segá",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.773633791,
+          43.33813501
+        ]
+      },
+      "properties": {
+        "ref:ine": "33044030199",
+        "name": "L'Abedul",
+        "population": 1,
+        "ele": 350,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93904519,
+          43.35676769
+        ]
+      },
+      "properties": {
+        "ref:ine": "33044272699",
+        "name": "La Torre",
+        "population": 3,
+        "ele": 152,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26471007,
+          43.37239416
+        ]
+      },
+      "properties": {
+        "ref:ine": "33059260299",
+        "name": "El Peñéu",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.45013154,
+          43.42171129
+        ]
+      },
+      "properties": {
+        "ref:ine": "33073080199",
+        "name": "Busmión",
+        "population": 2,
+        "ele": 511,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.41111707,
+          43.28366381
+        ]
+      },
+      "properties": {
+        "ref:ine": "33073360299",
+        "name": "El Forcón",
+        "population": 1,
+        "population:date": "2024"
       }
     },
     {
@@ -2859,7 +3614,7 @@
         "name": "A Aldea",
         "population": 1,
         "ele": 85,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2876,7 +3631,58 @@
         "name": "Baixa",
         "population": 3,
         "ele": 140,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.323001862,
+          42.16465992
+        ]
+      },
+      "properties": {
+        "ref:ine": "36009050299",
+        "name": "Os Blancos",
+        "population": 3,
+        "ele": 460,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.292646854,
+          42.18462022
+        ]
+      },
+      "properties": {
+        "ref:ine": "36009070299",
+        "name": "O Arendo",
+        "population": 4,
+        "ele": 251,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.300571862,
+          42.15808503
+        ]
+      },
+      "properties": {
+        "ref:ine": "36009095099",
+        "name": "A Laranxeira",
+        "population": 1,
+        "ele": 231,
+        "population:date": "2024"
       }
     },
     {
@@ -2893,7 +3699,7 @@
         "name": "Outeiriño",
         "population": 1,
         "ele": 306,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2910,7 +3716,7 @@
         "name": "O Cercido",
         "population": 6,
         "ele": 57,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2925,9 +3731,9 @@
       "properties": {
         "ref:ine": "36017170401",
         "name": "Fontenlo",
-        "population": 65,
+        "population": 62,
         "ele": 84,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2942,9 +3748,9 @@
       "properties": {
         "ref:ine": "36017190599",
         "name": "O Pedregal",
-        "population": 33,
+        "population": 35,
         "ele": 333,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2959,8 +3765,8 @@
       "properties": {
         "ref:ine": "36017290499",
         "name": "O Outeiro",
-        "population": 18,
-        "population:date": "2023"
+        "population": 10,
+        "population:date": "2024"
       }
     },
     {
@@ -2975,9 +3781,9 @@
       "properties": {
         "ref:ine": "36017380601",
         "name": "Sesto E Fondo Da Vila",
-        "population": 23,
+        "population": 17,
         "ele": 459,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -2992,9 +3798,9 @@
       "properties": {
         "ref:ine": "36017420201",
         "name": "Godoi-Carricova E Fondevila",
-        "population": 52,
+        "population": 51,
         "ele": 190,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3009,9 +3815,9 @@
       "properties": {
         "ref:ine": "36017420901",
         "name": "Renda E Traspedra",
-        "population": 102,
+        "population": 105,
         "ele": 200,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3026,8 +3832,8 @@
       "properties": {
         "ref:ine": "36017501199",
         "name": "Sorribas-A Costa e Vista Alegre",
-        "population": 32,
-        "population:date": "2023"
+        "population": 30,
+        "population:date": "2024"
       }
     },
     {
@@ -3042,9 +3848,9 @@
       "properties": {
         "ref:ine": "36021100201",
         "name": "Brandufe",
-        "population": 87,
+        "population": 89,
         "ele": 220,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3059,9 +3865,9 @@
       "properties": {
         "ref:ine": "36021101201",
         "name": "O Salgueiro",
-        "population": 10,
+        "population": 9,
         "ele": 232,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3076,9 +3882,9 @@
       "properties": {
         "ref:ine": "36024270801",
         "name": "Lalín de Arriba",
-        "population": 26,
+        "population": 25,
         "ele": 585,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3095,24 +3901,7 @@
         "name": "A Niñada",
         "population": 73,
         "ele": 139,
-        "population:date": "2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.67533775,
-          42.36223058
-        ]
-      },
-      "properties": {
-        "ref:ine": "36026032899",
-        "name": "Castiñeiras",
-        "population": 3,
-        "ele": 387,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3127,9 +3916,9 @@
       "properties": {
         "ref:ine": "36027060201",
         "name": "A Igrexa",
-        "population": 160,
+        "population": 154,
         "ele": 175,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3144,9 +3933,9 @@
       "properties": {
         "ref:ine": "36027060301",
         "name": "Pazos",
-        "population": 111,
+        "population": 110,
         "ele": 177,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3163,7 +3952,7 @@
         "name": "A Igrexa",
         "population": 33,
         "ele": 92,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3178,9 +3967,9 @@
       "properties": {
         "ref:ine": "36028031199",
         "name": "As Quintáns",
-        "population": 24,
+        "population": 21,
         "ele": 125,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3196,7 +3985,7 @@
         "ref:ine": "36028041199",
         "name": "O Mosteiro",
         "population": 29,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3213,7 +4002,7 @@
         "name": "O Mosteiro",
         "population": 317,
         "ele": 50,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3228,9 +4017,9 @@
       "properties": {
         "ref:ine": "36034050101",
         "name": "As Neves",
-        "population": 29,
+        "population": 31,
         "ele": 160,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3245,9 +4034,9 @@
       "properties": {
         "ref:ine": "36034131399",
         "name": "A Escaravelleira",
-        "population": 5,
+        "population": 7,
         "ele": 156,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3262,9 +4051,9 @@
       "properties": {
         "ref:ine": "36034131401",
         "name": "A Gandra",
-        "population": 21,
+        "population": 22,
         "ele": 127,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3279,9 +4068,9 @@
       "properties": {
         "ref:ine": "36038101001",
         "name": "O Outeiro",
-        "population": 48,
+        "population": 44,
         "ele": 32,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3298,7 +4087,7 @@
         "name": "San Amaro",
         "population": 0,
         "ele": 66,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3315,7 +4104,7 @@
         "name": "A Ponte do Couto",
         "population": 0,
         "ele": 26,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3332,7 +4121,7 @@
         "name": "Os Eidos",
         "population": 24,
         "ele": 48,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3349,7 +4138,7 @@
         "name": "A Rocha",
         "population": 16,
         "ele": 56,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3364,9 +4153,9 @@
       "properties": {
         "ref:ine": "36039020201",
         "name": "O Casal",
-        "population": 22,
+        "population": 21,
         "ele": 45,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3381,9 +4170,9 @@
       "properties": {
         "ref:ine": "36039020301",
         "name": "O Cerquido",
-        "population": 20,
+        "population": 19,
         "ele": 30,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3400,7 +4189,24 @@
         "name": "Os Eidos",
         "population": 24,
         "ele": 83,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.620909452,
+          42.16411319
+        ]
+      },
+      "properties": {
+        "ref:ine": "36039070999",
+        "name": "Ramiráns",
+        "population": 4,
+        "ele": 62,
+        "population:date": "2024"
       }
     },
     {
@@ -3417,7 +4223,7 @@
         "name": "A Serra",
         "population": 60,
         "ele": 88,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3432,9 +4238,9 @@
       "properties": {
         "ref:ine": "36042220199",
         "name": "O Amial e O Charco",
-        "population": 25,
+        "population": 24,
         "ele": 52,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3449,9 +4255,9 @@
       "properties": {
         "ref:ine": "36042220799",
         "name": "O Souto e O Outeiro",
-        "population": 64,
+        "population": 62,
         "ele": 78,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3468,7 +4274,7 @@
         "name": "Grobas-Fenteira",
         "population": 38,
         "ele": 212,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3485,7 +4291,7 @@
         "name": "O Barral",
         "population": 10,
         "ele": 102,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3500,9 +4306,9 @@
       "properties": {
         "ref:ine": "36054010501",
         "name": "O Outeiro",
-        "population": 81,
+        "population": 85,
         "ele": 42,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3517,9 +4323,9 @@
       "properties": {
         "ref:ine": "36054020101",
         "name": "Cristelos",
-        "population": 56,
+        "population": 64,
         "ele": 274,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3534,9 +4340,9 @@
       "properties": {
         "ref:ine": "36054020601",
         "name": "O Pazo",
-        "population": 51,
+        "population": 49,
         "ele": 121,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3553,7 +4359,7 @@
         "name": "A Gándara",
         "population": 11,
         "ele": 21,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3568,9 +4374,9 @@
       "properties": {
         "ref:ine": "36054070701",
         "name": "A Gándara",
-        "population": 129,
+        "population": 119,
         "ele": 28,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3585,9 +4391,9 @@
       "properties": {
         "ref:ine": "36054100101",
         "name": "A Aldea",
-        "population": 84,
+        "population": 83,
         "ele": 55,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3602,9 +4408,9 @@
       "properties": {
         "ref:ine": "36054130201",
         "name": "Cimadevila",
-        "population": 35,
+        "population": 38,
         "ele": 195,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3621,7 +4427,7 @@
         "name": "O Castro",
         "population": 13,
         "ele": 78,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3636,9 +4442,9 @@
       "properties": {
         "ref:ine": "36054150501",
         "name": "O Ral",
-        "population": 32,
+        "population": 33,
         "ele": 33,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3655,7 +4461,7 @@
         "name": "Cíes",
         "population": 4,
         "ele": 6,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3670,9 +4476,9 @@
       "properties": {
         "ref:ine": "36057030901",
         "name": "O Arieiro",
-        "population": 552,
+        "population": 546,
         "ele": 41,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3687,9 +4493,9 @@
       "properties": {
         "ref:ine": "36057031201",
         "name": "A Mouteira",
-        "population": 92,
+        "population": 90,
         "ele": 134,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3704,9 +4510,9 @@
       "properties": {
         "ref:ine": "36057091701",
         "name": "Pedra Branca",
-        "population": 180,
+        "population": 184,
         "ele": 58,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3721,9 +4527,9 @@
       "properties": {
         "ref:ine": "36057130501",
         "name": "Freixeiro",
-        "population": 2870,
+        "population": 2857,
         "ele": 17,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3740,7 +4546,7 @@
         "name": "Zona Franca",
         "population": 0,
         "ele": 9,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3756,7 +4562,7 @@
         "ref:ine": "36057261901",
         "name": "A Cachada",
         "population": 2,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3773,7 +4579,7 @@
         "name": "Outeiriño",
         "population": 3,
         "ele": 408,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3788,9 +4594,9 @@
       "properties": {
         "ref:ine": "36060091201",
         "name": "Roilois e A Santa Mariña",
-        "population": 54,
+        "population": 51,
         "ele": 43,
-        "population:date": "2023"
+        "population:date": "2024"
       }
     },
     {
@@ -3805,9 +4611,127 @@
       "properties": {
         "ref:ine": "36901011399",
         "name": "Semoíño",
-        "population": 106,
+        "population": 109,
         "ele": 11,
-        "population:date": "2023"
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55493502,
+          41.52991702
+        ]
+      },
+      "properties": {
+        "ref:ine": "50199000306",
+        "name": "Llano de Aguilar",
+        "population": 1,
+        "ele": 181,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89768225,
+          38.97240545
+        ]
+      },
+      "properties": {
+        "ref:ine": "02003000204",
+        "name": "Urbanización las Palomas",
+        "population": 5,
+        "ele": 687,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46852998,
+          38.45294358
+        ]
+      },
+      "properties": {
+        "ref:ine": "03090000125",
+        "name": "Polígono Industrial Riodel",
+        "population": 1,
+        "ele": 142,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.923186779,
+          36.94331519
+        ]
+      },
+      "properties": {
+        "ref:ine": "04032002601",
+        "name": "La Meseta Alta",
+        "population": 2,
+        "ele": 88,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.966607549,
+          37.41536713
+        ]
+      },
+      "properties": {
+        "ref:ine": "04053100401",
+        "name": "Polígono Industrial",
+        "population": 5,
+        "ele": 343,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.70283091,
+          41.51105838
+        ]
+      },
+      "properties": {
+        "ref:ine": "08028001499",
+        "name": "Ca la Fou",
+        "population": 8,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.587990565,
+          41.43650475
+        ]
+      },
+      "properties": {
+        "ref:ine": "08085000402",
+        "name": "Font-rubí dalt",
+        "population": 1,
+        "ele": 659,
+        "population:date": "2024"
       }
     }
   ]
