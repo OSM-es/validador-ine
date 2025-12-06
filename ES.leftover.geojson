@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2453056,
-          43.2637696
-        ]
-      },
-      "properties": {
-        "ref:ine": "39066000499",
-        "name": "Ucieda",
-        "type": "node",
-        "id": "288259668"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.13515,
-          43.3958
-        ]
-      },
-      "properties": {
-        "ref:ine": "39001000599",
-        "name": "Oreña",
-        "type": "node",
-        "id": "288260382"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.5425662,
           43.4193945
         ]
@@ -175,22 +143,6 @@
         "name": "Altabix",
         "type": "node",
         "id": "410997822"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6690339,
-          42.9182048
-        ]
-      },
-      "properties": {
-        "ref:ine": "09409001499",
-        "name": "Quintana del Rojo",
-        "type": "node",
-        "id": "492404710"
       }
     },
     {
@@ -406,22 +358,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7182992,
-          41.318006
-        ]
-      },
-      "properties": {
-        "ref:ine": "40016000199",
-        "name": "Covachuelas",
-        "type": "node",
-        "id": "1242671927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.8750828,
           37.4464443
         ]
@@ -447,22 +383,6 @@
         "name": "Partearroyo",
         "type": "node",
         "id": "1433079266"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.4656099,
-          40.6644592
-        ]
-      },
-      "properties": {
-        "ref:ine": "37162000799",
-        "name": "Valverde de Gonzaliáñez",
-        "type": "node",
-        "id": "1433079832"
       }
     },
     {
@@ -1558,22 +1478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9937051,
-          43.4560042
-        ]
-      },
-      "properties": {
-        "ref:ine": "33054040299",
-        "name": "Cogollu",
-        "type": "node",
-        "id": "2246881794"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.708536,
           42.1024026
         ]
@@ -1750,22 +1654,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.925885,
-          43.592329
-        ]
-      },
-      "properties": {
-        "ref:ine": "33004040199",
-        "name": "San Xuan",
-        "type": "node",
-        "id": "2997627305"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.2568353,
           42.3174214
         ]
@@ -1807,22 +1695,6 @@
         "name": "Sertutxa",
         "type": "node",
         "id": "3480849849"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8161595,
-          43.4649394
-        ]
-      },
-      "properties": {
-        "ref:ine": "33035110999",
-        "name": "La Vega",
-        "type": "node",
-        "id": "3579423035"
       }
     },
     {

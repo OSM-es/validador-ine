@@ -3356,23 +3356,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.751944,
-          43.566944
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014100499",
-        "name": "Calera",
-        "population": 4,
-        "ele": 109,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.84320358,
           43.53077096
         ]
@@ -3466,54 +3449,6 @@
         "name": "La Muela",
         "population": 1,
         "ele": 598,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033020999",
-        "name": "Ferreras",
-        "population": 1,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037063099",
-        "name": "Molino del Majo",
-        "population": 2,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "33037105199",
-        "name": "La Segá",
-        "population": 1,
         "population:date": "2024"
       }
     },
