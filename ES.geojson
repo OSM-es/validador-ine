@@ -3306,56 +3306,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.66020711,
-          43.15061389
-        ]
-      },
-      "properties": {
-        "ref:ine": "33002171599",
-        "name": "El Turnu",
-        "population": 2,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.55317975,
-          43.34695174
-        ]
-      },
-      "properties": {
-        "ref:ine": "33006024799",
-        "name": "Les Vallines",
-        "population": 1,
-        "ele": 388,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.01034223,
-          43.4871698
-        ]
-      },
-      "properties": {
-        "ref:ine": "33010111599",
-        "name": "Argañosa",
-        "population": 1,
-        "ele": 415,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.84320358,
           43.53077096
         ]
@@ -3365,23 +3315,6 @@
         "name": "La Velilla",
         "population": 1,
         "ele": 95,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.99558312,
-          43.51661345
-        ]
-      },
-      "properties": {
-        "ref:ine": "33016061410",
-        "name": "La Rionda",
-        "population": 1,
-        "ele": 118,
         "population:date": "2024"
       }
     },
@@ -3407,23 +3340,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.754904747,
-          43.30461214
-        ]
-      },
-      "properties": {
-        "ref:ine": "33031080699",
-        "name": "La Espina",
-        "population": 1,
-        "ele": 416,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.54824641,
           43.26204386
         ]
@@ -3431,106 +3347,6 @@
       "properties": {
         "ref:ine": "33032053499",
         "name": "La Traviesa",
-        "population": 1,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.77134697,
-          43.06083936
-        ]
-      },
-      "properties": {
-        "ref:ine": "33033010299",
-        "name": "La Muela",
-        "population": 1,
-        "ele": 598,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.773633791,
-          43.33813501
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044030199",
-        "name": "L'Abedul",
-        "population": 1,
-        "ele": 350,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93904519,
-          43.35676769
-        ]
-      },
-      "properties": {
-        "ref:ine": "33044272699",
-        "name": "La Torre",
-        "population": 3,
-        "ele": 152,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.26471007,
-          43.37239416
-        ]
-      },
-      "properties": {
-        "ref:ine": "33059260299",
-        "name": "El Peñéu",
-        "population": 1,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.45013154,
-          43.42171129
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073080199",
-        "name": "Busmión",
-        "population": 2,
-        "ele": 511,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.41111707,
-          43.28366381
-        ]
-      },
-      "properties": {
-        "ref:ine": "33073360299",
-        "name": "El Forcón",
         "population": 1,
         "population:date": "2024"
       }
