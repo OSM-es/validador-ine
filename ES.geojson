@@ -1675,23 +1675,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.775142,
-          42.522788
-        ]
-      },
-      "properties": {
-        "ref:ine": "24038000799",
-        "name": "Peón de Arriba",
-        "population": 1,
-        "ele": 551,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.51198075,
           41.71573291
         ]
@@ -2380,23 +2363,6 @@
         "name": "Lamela",
         "population": 2,
         "ele": 310,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.14258332,
-          43.4953989
-        ]
-      },
-      "properties": {
-        "ref:ine": "27051020599",
-        "name": "A Ponte",
-        "population": 1,
-        "ele": 111,
         "population:date": "2024"
       }
     },
@@ -3281,73 +3247,6 @@
         "name": "Penadiz e O Folón",
         "population": 20,
         "ele": 563,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.78571236,
-          43.25550762
-        ]
-      },
-      "properties": {
-        "ref:ine": "33001011099",
-        "name": "Trapa",
-        "population": 2,
-        "ele": 483,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.84320358,
-          43.53077096
-        ]
-      },
-      "properties": {
-        "ref:ine": "33014112099",
-        "name": "La Velilla",
-        "population": 1,
-        "ele": 95,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.02992383,
-          43.50029856
-        ]
-      },
-      "properties": {
-        "ref:ine": "33017050599",
-        "name": "Fabal",
-        "population": 1,
-        "ele": 15,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.54824641,
-          43.26204386
-        ]
-      },
-      "properties": {
-        "ref:ine": "33032053499",
-        "name": "La Traviesa",
-        "population": 1,
         "population:date": "2024"
       }
     },
