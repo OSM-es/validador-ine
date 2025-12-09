@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.20488286,
-          36.69253248
-        ]
-      },
-      "properties": {
-        "ref:ine": "11020000202",
-        "name": "Polila",
-        "population": 7,
-        "ele": 39,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.503104,
           39.84463
         ]
@@ -1667,23 +1650,6 @@
         "name": "Pla de Ses Vinyes",
         "population": 2,
         "ele": 130,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.51198075,
-          41.71573291
-        ]
-      },
-      "properties": {
-        "ref:ine": "25019000401",
-        "name": "La Saira",
-        "population": 1,
-        "ele": 335,
         "population:date": "2024"
       }
     },
@@ -4288,23 +4254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.89768225,
-          38.97240545
-        ]
-      },
-      "properties": {
-        "ref:ine": "02003000204",
-        "name": "Urbanización las Palomas",
-        "population": 5,
-        "ele": 687,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.46852998,
           38.45294358
         ]
@@ -4314,23 +4263,6 @@
         "name": "Polígono Industrial Riodel",
         "population": 1,
         "ele": 142,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.923186779,
-          36.94331519
-        ]
-      },
-      "properties": {
-        "ref:ine": "04032002601",
-        "name": "La Meseta Alta",
-        "population": 2,
-        "ele": 88,
         "population:date": "2024"
       }
     },
@@ -4364,23 +4296,6 @@
         "ref:ine": "08028001499",
         "name": "Ca la Fou",
         "population": 8,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.587990565,
-          41.43650475
-        ]
-      },
-      "properties": {
-        "ref:ine": "08085000402",
-        "name": "Font-rubí dalt",
-        "population": 1,
-        "ele": 659,
         "population:date": "2024"
       }
     }
