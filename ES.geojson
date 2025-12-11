@@ -1507,23 +1507,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.29606356,
-          43.55036846
-        ]
-      },
-      "properties": {
-        "ref:ine": "27019090301",
-        "name": "Xinzo",
-        "population": 36,
-        "ele": 126,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.852778435,
           43.26653054
         ]
