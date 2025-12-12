@@ -242,22 +242,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.65528873,
-          43.28480882
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019101201",
-        "name": "Sambade",
-        "population": 25,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.63140017,
           43.28692528
         ]
@@ -2127,23 +2111,6 @@
         "name": "Vilaseco",
         "population": 10,
         "ele": 546,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7686626,
-          42.68240731
-        ]
-      },
-      "properties": {
-        "ref:ine": "27060260501",
-        "name": "Fontao",
-        "population": 18,
-        "ele": 597,
         "population:date": "2024"
       }
     },
