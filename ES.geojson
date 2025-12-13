@@ -2357,23 +2357,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.78189747,
-          42.21859384
-        ]
-      },
-      "properties": {
-        "ref:ine": "32001050201",
-        "name": "Os Espiñeiros",
-        "population": 23,
-        "ele": 528,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2394587,
           42.50280769
         ]
@@ -2400,23 +2383,6 @@
         "name": "As Marabillas",
         "population": 93,
         "ele": 428,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.95386588,
-          42.14491514
-        ]
-      },
-      "properties": {
-        "ref:ine": "32024090599",
-        "name": "Eilabai",
-        "population": 4,
-        "ele": 521,
         "population:date": "2024"
       }
     },
@@ -3010,23 +2976,6 @@
         "name": "O Salgueiro",
         "population": 9,
         "ele": 232,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.10444527,
-          42.66123428
-        ]
-      },
-      "properties": {
-        "ref:ine": "36024270801",
-        "name": "Lalín de Arriba",
-        "population": 25,
-        "ele": 585,
         "population:date": "2024"
       }
     },
