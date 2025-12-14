@@ -1440,57 +1440,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.450243235,
-          42.91269807
-        ]
-      },
-      "properties": {
-        "ref:ine": "27014130701",
-        "name": "A Portela",
-        "population": 0,
-        "ele": 404,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.34465264,
-          42.92245728
-        ]
-      },
-      "properties": {
-        "ref:ine": "27014200199",
-        "name": "O Carboeiro",
-        "population": 5,
-        "ele": 588,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.39371528,
-          42.98851985
-        ]
-      },
-      "properties": {
-        "ref:ine": "27014340799",
-        "name": "Os Muíños",
-        "population": 2,
-        "ele": 449,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.852778435,
           43.26653054
         ]
@@ -1661,90 +1610,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.55605321,
-          42.506549
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031061001",
-        "name": "Distriz",
-        "population": 86,
-        "ele": 278,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.50188804,
-          42.48880592
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031080199",
-        "name": "A Estrada",
-        "population": 42,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.50174241,
-          42.48929933
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031080499",
-        "name": "Gullade",
-        "population": 6,
-        "ele": 371,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.53528734,
-          42.50701149
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031170901",
-        "name": "Piñeira",
-        "population": 39,
-        "ele": 280,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.42559015,
-          42.51726022
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031220299",
-        "name": "Campo",
-        "population": 8,
-        "ele": 426,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.627304483,
           43.48967995
         ]
@@ -1754,40 +1619,6 @@
         "name": "Capón",
         "population": 1,
         "ele": 598,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.041463852,
-          43.0221647
-        ]
-      },
-      "properties": {
-        "ref:ine": "27034130699",
-        "name": "Louxas",
-        "population": 3,
-        "ele": 898,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.60619634,
-          42.55552694
-        ]
-      },
-      "properties": {
-        "ref:ine": "27041241301",
-        "name": "Toiriz",
-        "population": 36,
-        "ele": 520,
         "population:date": "2024"
       }
     },
@@ -1898,23 +1729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.40820277,
-          42.5216697
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047150501",
-        "name": "Pinel",
-        "population": 15,
-        "ele": 443,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.43253954,
           42.59501856
         ]
@@ -2009,108 +1823,6 @@
         "name": "Torbeo",
         "population": 44,
         "ele": 650,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.338298,
-          42.7844875
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057230999",
-        "name": "Louseiro",
-        "population": 80,
-        "ele": 473,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.43194577,
-          42.75767609
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057370101",
-        "name": "Callás",
-        "population": 41,
-        "ele": 482,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.417498827,
-          42.76803714
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057500299",
-        "name": "Carretera de Abaixo",
-        "population": 12,
-        "ele": 473,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.422187328,
-          42.77186482
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057500399",
-        "name": "Carretera de Arriba",
-        "population": 23,
-        "ele": 466,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4096922,
-          42.7699821
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057500799",
-        "name": "Ribela",
-        "population": 9,
-        "ele": 422,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.67970161,
-          42.63837318
-        ]
-      },
-      "properties": {
-        "ref:ine": "27058280999",
-        "name": "Vilaseco",
-        "population": 10,
-        "ele": 546,
         "population:date": "2024"
       }
     },
@@ -2629,23 +2341,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.03583387,
-          42.15268193
-        ]
-      },
-      "properties": {
-        "ref:ine": "32068090199",
-        "name": "A Carreiriña",
-        "population": 3,
-        "ele": 661,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.08803087,
           42.39095224
         ]
@@ -2680,23 +2375,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.85285295,
-          42.28795262
-        ]
-      },
-      "properties": {
-        "ref:ine": "32075020199",
-        "name": "Áspera",
-        "population": 1,
-        "ele": 242,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.93520798,
           42.43912947
         ]
@@ -2723,23 +2401,6 @@
         "name": "Penadiz e O Folón",
         "population": 20,
         "ele": 563,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.32731486,
-          42.10050441
-        ]
-      },
-      "properties": {
-        "ref:ine": "36001020199",
-        "name": "A Aldea",
-        "population": 1,
-        "ele": 85,
         "population:date": "2024"
       }
     },
