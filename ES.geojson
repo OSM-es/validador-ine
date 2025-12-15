@@ -1457,40 +1457,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.41580251,
-          42.69505578
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024010501",
-        "name": "Bardaos",
-        "population": 32,
-        "ele": 717,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.41017314,
-          42.66208978
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024061101",
-        "name": "Eirexalba",
-        "population": 19,
-        "ele": 483,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.42127548,
           42.64140459
         ]
@@ -1525,23 +1491,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.37821261,
-          42.67726602
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024200601",
-        "name": "Rendar",
-        "population": 38,
-        "ele": 667,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.47070363,
           42.69473505
         ]
@@ -1551,23 +1500,6 @@
         "name": "Rubián de Cima",
         "population": 32,
         "ele": 559,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.36283499,
-          42.66901877
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024220801",
-        "name": "Sirgueiros",
-        "population": 8,
-        "ele": 668,
         "population:date": "2024"
       }
     },
@@ -1772,23 +1704,6 @@
         "name": "Veiga",
         "population": 10,
         "ele": 380,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.23361801,
-          42.49055007
-        ]
-      },
-      "properties": {
-        "ref:ine": "27050091099",
-        "name": "Lamela",
-        "population": 2,
-        "ele": 310,
         "population:date": "2024"
       }
     },
