@@ -1576,23 +1576,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.39325113,
-          42.52302713
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047021201",
-        "name": "Abrence",
-        "population": 28,
-        "ele": 485,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.41148223,
           42.6236093
         ]
@@ -1704,40 +1687,6 @@
         "name": "Veiga",
         "population": 10,
         "ele": 380,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.25219553,
-          42.43223532
-        ]
-      },
-      "properties": {
-        "ref:ine": "27052060901",
-        "name": "Soutordei",
-        "population": 12,
-        "ele": 622,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.37820897,
-          42.44233707
-        ]
-      },
-      "properties": {
-        "ref:ine": "27052072001",
-        "name": "Torbeo",
-        "population": 44,
-        "ele": 650,
         "population:date": "2024"
       }
     },
