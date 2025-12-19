@@ -6,39 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.503104,
-          39.84463
-        ]
-      },
-      "properties": {
-        "ref:ine": "12012002599",
-        "name": "San Julián",
-        "population": 1,
-        "ele": 375,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.22099289,
-          39.9596807
-        ]
-      },
-      "properties": {
-        "ref:ine": "12084000799",
-        "name": "Miralcamp",
-        "population": 5,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.272190648,
           39.99896101
         ]
@@ -48,40 +15,6 @@
         "name": "Partida Saera",
         "population": 2,
         "ele": 83,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.274249,
-          39.957845
-        ]
-      },
-      "properties": {
-        "ref:ine": "12084003099",
-        "name": "Palaci",
-        "population": 4,
-        "ele": 193,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.119708779,
-          40.18377814
-        ]
-      },
-      "properties": {
-        "ref:ine": "12122001799",
-        "name": "el Mas dels Xulos",
-        "population": 1,
-        "ele": 312,
         "population:date": "2024"
       }
     },
@@ -1304,23 +1237,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.209102154,
-          41.94183599
-        ]
-      },
-      "properties": {
-        "ref:ine": "17013000102",
-        "name": "Pla de Ses Vinyes",
-        "population": 2,
-        "ele": 130,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -1891,40 +1807,6 @@
         "name": "A Cabana",
         "population": 29,
         "ele": 13,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.95036428,
-          40.72480469
-        ]
-      },
-      "properties": {
-        "ref:ine": "28023000701",
-        "name": "La Ponderosa",
-        "population": 1,
-        "ele": 1045,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.92908,
-          40.369407
-        ]
-      },
-      "properties": {
-        "ref:ine": "28181000302",
-        "name": "Monte de la Villa",
-        "population": 2,
-        "ele": 629,
         "population:date": "2024"
       }
     },
@@ -3162,73 +3044,6 @@
         "name": "Roilois e A Santa Mariña",
         "population": 51,
         "ele": 43,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.55493502,
-          41.52991702
-        ]
-      },
-      "properties": {
-        "ref:ine": "50199000306",
-        "name": "Llano de Aguilar",
-        "population": 1,
-        "ele": 181,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.46852998,
-          38.45294358
-        ]
-      },
-      "properties": {
-        "ref:ine": "03090000125",
-        "name": "Polígono Industrial Riodel",
-        "population": 1,
-        "ele": 142,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.966607549,
-          37.41536713
-        ]
-      },
-      "properties": {
-        "ref:ine": "04053100401",
-        "name": "Polígono Industrial",
-        "population": 5,
-        "ele": 343,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70283091,
-          41.51105838
-        ]
-      },
-      "properties": {
-        "ref:ine": "08028001499",
-        "name": "Ca la Fou",
-        "population": 8,
         "population:date": "2024"
       }
     }
