@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5425662,
-          43.4193945
-        ]
-      },
-      "properties": {
-        "ref:ine": "39009000299",
-        "name": "Ambrosero",
-        "type": "node",
-        "id": "288260669"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8870439,
-          43.2907714
-        ]
-      },
-      "properties": {
-        "ref:ine": "48901000199",
-        "name": "Derio",
-        "type": "node",
-        "id": "313218642"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3680161,
           38.2121424
         ]
@@ -54,118 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9085455,
-          43.3979054
-        ]
-      },
-      "properties": {
-        "ref:ine": "48056000199",
-        "name": "Andraka",
-        "type": "node",
-        "id": "331447478"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4546746,
-          40.1832126
-        ]
-      },
-      "properties": {
-        "ref:ine": "12130000399",
-        "name": "Llano de la Cañada",
-        "type": "node",
-        "id": "366538189"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.6165542,
-          39.5945794
-        ]
-      },
-      "properties": {
-        "ref:ine": "07040001999",
-        "name": "la Vileta",
-        "type": "node",
-        "id": "372435037"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6930722,
-          38.1977559
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065000999",
-        "name": "Daimés",
-        "type": "node",
-        "id": "410997731"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7344481,
-          38.2953584
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065000899",
-        "name": "Carrús",
-        "type": "node",
-        "id": "410997814"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6853064,
-          38.291834
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065000399",
-        "name": "Altabix",
-        "type": "node",
-        "id": "410997822"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.818861,
-          43.2185696
-        ]
-      },
-      "properties": {
-        "ref:ine": "48916000101",
-        "name": "Usansolo",
-        "type": "node",
-        "id": "571400072"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.4305185,
           38.2351591
         ]
@@ -175,86 +31,6 @@
         "name": "Góntar",
         "type": "node",
         "id": "667501280"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.142987,
-          39.863886
-        ]
-      },
-      "properties": {
-        "ref:ine": "07003000299",
-        "name": "es Mal Pas",
-        "type": "node",
-        "id": "1122235828"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9631378,
-          38.0780387
-        ]
-      },
-      "properties": {
-        "ref:ine": "03099000599",
-        "name": "Camino de Beniel",
-        "type": "node",
-        "id": "1242145390"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2844613,
-          43.1481633
-        ]
-      },
-      "properties": {
-        "ref:ine": "09410003799",
-        "name": "Partearroyo",
-        "type": "node",
-        "id": "1433079266"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6761432,
-          41.326555
-        ]
-      },
-      "properties": {
-        "ref:ine": "50067000399",
-        "name": "Carramolina",
-        "type": "node",
-        "id": "1455833056"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7083474,
-          38.2620001
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065001499",
-        "name": "el Pla de Sant Josep",
-        "type": "node",
-        "id": "1477970568"
       }
     },
     {
@@ -358,22 +134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.5339373,
-          38.849048
-        ]
-      },
-      "properties": {
-        "ref:ine": "13001000399",
-        "name": "Navalmedio de Morales",
-        "type": "node",
-        "id": "1480358268"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.387107,
           38.3107414
         ]
@@ -447,22 +207,6 @@
         "name": "Venta Mendoza",
         "type": "node",
         "id": "1480358914"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8473777,
-          39.1120868
-        ]
-      },
-      "properties": {
-        "ref:ine": "02003001699",
-        "name": "Villar de Pozo-Rubio",
-        "type": "node",
-        "id": "1480358950"
       }
     },
     {
@@ -630,22 +374,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3490489,
-          42.0937562
-        ]
-      },
-      "properties": {
-        "ref:ine": "25148000499",
-        "name": "la Valldan",
-        "type": "node",
-        "id": "1713442958"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9662949,
           42.2390288
         ]
@@ -671,198 +399,6 @@
         "name": "O Pazo",
         "type": "node",
         "id": "1818330037"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.882071,
-          38.9206971
-        ]
-      },
-      "properties": {
-        "ref:ine": "46118000299",
-        "name": "Navalón de Arriba",
-        "type": "node",
-        "id": "2062223604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6702873,
-          38.2552936
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065000599",
-        "name": "Urbanització Les Atzavares",
-        "type": "node",
-        "id": "2063695213"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5430677,
-          38.4356529
-        ]
-      },
-      "properties": {
-        "ref:ine": "03122000199",
-        "name": "Boqueres",
-        "type": "node",
-        "id": "2063695308"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6137902,
-          38.2857411
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065001399",
-        "name": "Jubalcoi",
-        "type": "node",
-        "id": "2063695687"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4728956,
-          39.6116585
-        ]
-      },
-      "properties": {
-        "ref:ine": "46070000399",
-        "name": "Urbanització La Mallà",
-        "type": "node",
-        "id": "2063695787"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.255529,
-          38.9768474
-        ]
-      },
-      "properties": {
-        "ref:ine": "46131000499",
-        "name": "Marxuquera Alta",
-        "type": "node",
-        "id": "2063695916"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2183332,
-          38.9832917
-        ]
-      },
-      "properties": {
-        "ref:ine": "46131000399",
-        "name": "Marxuquera Baixa",
-        "type": "node",
-        "id": "2063695917"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7453376,
-          37.9237214
-        ]
-      },
-      "properties": {
-        "ref:ine": "03099000899",
-        "name": "Orihuela Costa",
-        "type": "node",
-        "id": "2063695988"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5956787,
-          38.3401642
-        ]
-      },
-      "properties": {
-        "ref:ine": "03014001299",
-        "name": "el Pla de la Vallonga",
-        "type": "node",
-        "id": "2063695997"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2536355,
-          38.5063282
-        ]
-      },
-      "properties": {
-        "ref:ine": "03139000299",
-        "name": "Plans",
-        "type": "node",
-        "id": "2063695999"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.445198,
-          39.5831383
-        ]
-      },
-      "properties": {
-        "ref:ine": "46070000699",
-        "name": "La Providència",
-        "type": "node",
-        "id": "2063696017"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.708536,
-          42.1024026
-        ]
-      },
-      "properties": {
-        "ref:ine": "17137000499",
-        "name": "Pujarnol",
-        "type": "node",
-        "id": "2441576591"
       }
     },
     {
@@ -998,22 +534,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.871562,
-          41.6036928
-        ]
-      },
-      "properties": {
-        "ref:ine": "08291001799",
-        "name": "el Palà",
-        "type": "node",
-        "id": "2609331169"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4045726,
           42.7653499
         ]
@@ -1046,38 +566,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.4379388,
-          42.1810228
-        ]
-      },
-      "properties": {
-        "ref:ine": "22127000299",
-        "name": "Urbanización Villa de Yéqueda",
-        "type": "node",
-        "id": "3286665959"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8657068,
-          43.3606691
-        ]
-      },
-      "properties": {
-        "ref:ine": "48040001099",
-        "name": "Sertutxa",
-        "type": "node",
-        "id": "3480849849"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6794425,
           42.1657153
         ]
@@ -1094,22 +582,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1557791,
-          43.1040335
-        ]
-      },
-      "properties": {
-        "ref:ine": "09410005299",
-        "name": "Casas de Quintana",
-        "type": "node",
-        "id": "3682742564"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.5501464,
           38.4721783
         ]
@@ -1119,70 +591,6 @@
         "name": "El Bellotar",
         "type": "node",
         "id": "3885129593"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.222044,
-          42.2238101
-        ]
-      },
-      "properties": {
-        "ref:ine": "22150000199",
-        "name": "Casas del Pantano",
-        "type": "node",
-        "id": "4856288165"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8072805,
-          41.7142865
-        ]
-      },
-      "properties": {
-        "ref:ine": "08113001799",
-        "name": "el Xup",
-        "type": "node",
-        "id": "4891943589"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1804316,
-          42.2035411
-        ]
-      },
-      "properties": {
-        "ref:ine": "17147000499",
-        "name": "Ordina",
-        "type": "node",
-        "id": "5704433536"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.7909191,
-          41.7109499
-        ]
-      },
-      "properties": {
-        "ref:ine": "17095000899",
-        "name": "Sant Pere del Bosc",
-        "type": "node",
-        "id": "6787693978"
       }
     },
     {
@@ -1231,38 +639,6 @@
         "name": "Pedraúcha",
         "type": "node",
         "id": "7276290960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9678079,
-          39.0385641
-        ]
-      },
-      "properties": {
-        "ref:ine": "02003000899",
-        "name": "Casa Grande",
-        "type": "node",
-        "id": "7495212555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9876294,
-          43.2716631
-        ]
-      },
-      "properties": {
-        "ref:ine": "39056000299",
-        "name": "Barrio Las Bárcenas",
-        "type": "node",
-        "id": "7877828440"
       }
     },
     {
@@ -1638,38 +1014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8974481,
-          38.0106952
-        ]
-      },
-      "properties": {
-        "ref:ine": "41032000599",
-        "name": "Cortijo del Galeón",
-        "type": "node",
-        "id": "12430765537"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6417883,
-          38.2873008
-        ]
-      },
-      "properties": {
-        "ref:ine": "03065001399",
-        "name": "Jubalcoi",
-        "type": "node",
-        "id": "12696272390"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.8622306,
           42.2346685
         ]
@@ -1679,54 +1023,6 @@
         "name": "A Mezquita",
         "type": "relation",
         "id": "12684317"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8300393,
-          43.1995549
-        ]
-      },
-      "properties": {
-        "ref:ine": "48916000000",
-        "name": "Usansolo",
-        "type": "relation",
-        "id": "14930227"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0646145,
-          40.6055445
-        ]
-      },
-      "properties": {
-        "ref:ine": "12080000799",
-        "name": "Dena Segona del Riu",
-        "type": "relation",
-        "id": "18406033"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7575922,
-          43.1104006
-        ]
-      },
-      "properties": {
-        "ref:ine": "31263000399",
-        "name": "Azkota",
-        "type": "relation",
-        "id": "18558327"
       }
     }
   ]

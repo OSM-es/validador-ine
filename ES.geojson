@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.272190648,
-          39.99896101
-        ]
-      },
-      "properties": {
-        "ref:ine": "12084002799",
-        "name": "Partida Saera",
-        "population": 2,
-        "ele": 83,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.24408918,
           43.23389555
         ]
@@ -3045,6 +3028,57 @@
         "population": 51,
         "ele": 43,
         "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "ref:ine": "",
+        "name": "28079",
+        "population": null,
+        "population:date": "2024",
+        "ele": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "ref:ine": "",
+        "name": "28079",
+        "population": null,
+        "population:date": "2024",
+        "ele": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "ref:ine": "",
+        "name": "28079",
+        "population": null,
+        "population:date": "2024",
+        "ele": null
       }
     }
   ]
