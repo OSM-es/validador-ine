@@ -1798,23 +1798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.2394587,
-          42.50280769
-        ]
-      },
-      "properties": {
-        "ref:ine": "32013150501",
-        "name": "O Regueiro",
-        "population": 113,
-        "ele": 792,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.949125,
           42.217891
         ]
@@ -2036,23 +2019,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.01881167,
-          42.49663004
-        ]
-      },
-      "properties": {
-        "ref:ine": "32061050101",
-        "name": "Loeda",
-        "population": 32,
-        "ele": 540,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.14726698,
           42.17663436
         ]
@@ -2096,23 +2062,6 @@
         "name": "Las",
         "population": 45,
         "ele": 421,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.93520798,
-          42.43912947
-        ]
-      },
-      "properties": {
-        "ref:ine": "32087040699",
-        "name": "A Eirexa",
-        "population": 32,
-        "ele": 392,
         "population:date": "2024"
       }
     },
