@@ -91,22 +91,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.42086666,
-          43.30171035
-        ]
-      },
-      "properties": {
-        "ref:ine": "15005091101",
-        "name": "Campo de Golf",
-        "population": 310,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2663517,
           43.31071223
         ]
@@ -184,40 +168,6 @@
         "name": "A Pedra do Sal",
         "population": 0,
         "ele": 4,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.62405445,
-          43.12542468
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019150199",
-        "name": "Alborín",
-        "population": 12,
-        "ele": 447,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.59937106,
-          43.16056327
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019172599",
-        "name": "Gonzalbres",
-        "population": 11,
-        "ele": 309,
         "population:date": "2024"
       }
     },
@@ -353,23 +303,6 @@
         "name": "O Agriño",
         "population": 6,
         "ele": 144,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.60886097,
-          43.24212346
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041014601",
-        "name": "Montes Claros",
-        "population": 182,
-        "ele": 195,
         "population:date": "2024"
       }
     },
@@ -1085,23 +1018,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.434459181,
-          42.96848632
-        ]
-      },
-      "properties": {
-        "ref:ine": "15078030501",
-        "name": "A Foca",
-        "population": 0,
-        "ele": 247,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.61936839,
           42.81635012
         ]
@@ -1195,23 +1111,6 @@
         "name": "Ladeira",
         "population": 0,
         "ele": 59,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.26593936,
-          43.14723438
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902111199",
-        "name": "A Insua",
-        "population": 1,
-        "ele": 287,
         "population:date": "2024"
       }
     },
