@@ -294,23 +294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.633725413,
-          43.23706923
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041014099",
-        "name": "O Agriño",
-        "population": 6,
-        "ele": 144,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.52185876,
           43.24736622
         ]
@@ -337,23 +320,6 @@
         "name": "Xermaña",
         "population": 73,
         "ele": 110,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.565905,
-          43.249848
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041081999",
-        "name": "A Braña",
-        "population": 1,
-        "ele": 222,
         "population:date": "2024"
       }
     },
@@ -1323,23 +1289,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.29305655,
-          43.43501809
-        ]
-      },
-      "properties": {
-        "ref:ine": "27027041599",
-        "name": "Lourenzá",
-        "population": 2,
-        "ele": 102,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.627304483,
           43.48967995
         ]
@@ -1748,23 +1697,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.20027949,
-          42.27717466
-        ]
-      },
-      "properties": {
-        "ref:ine": "32046021001",
-        "name": "Portodechán",
-        "population": 9,
-        "ele": 386,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.86885082,
           42.23510138
         ]
@@ -1918,23 +1850,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.14726698,
-          42.17663436
-        ]
-      },
-      "properties": {
-        "ref:ine": "32064021101",
-        "name": "Trado",
-        "population": 98,
-        "ele": 179,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.08803087,
           42.39095224
         ]
@@ -1995,57 +1910,6 @@
         "name": "Baixa",
         "population": 3,
         "ele": 140,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.323001862,
-          42.16465992
-        ]
-      },
-      "properties": {
-        "ref:ine": "36009050299",
-        "name": "Os Blancos",
-        "population": 3,
-        "ele": 460,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.292646854,
-          42.18462022
-        ]
-      },
-      "properties": {
-        "ref:ine": "36009070299",
-        "name": "O Arendo",
-        "population": 4,
-        "ele": 251,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.300571862,
-          42.15808503
-        ]
-      },
-      "properties": {
-        "ref:ine": "36009095099",
-        "name": "A Laranxeira",
-        "population": 1,
-        "ele": 231,
         "population:date": "2024"
       }
     },
@@ -2876,57 +2740,6 @@
         "population": 51,
         "ele": 43,
         "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "ref:ine": "",
-        "name": "28079",
-        "population": null,
-        "population:date": "2024",
-        "ele": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "ref:ine": "",
-        "name": "28079",
-        "population": null,
-        "population:date": "2024",
-        "ele": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "ref:ine": "",
-        "name": "28079",
-        "population": null,
-        "population:date": "2024",
-        "ele": null
       }
     }
   ]

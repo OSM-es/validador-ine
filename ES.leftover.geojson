@@ -566,22 +566,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.712845,
-          43.2945132
-        ]
-      },
-      "properties": {
-        "ref:ine": "48067000499",
-        "name": "Ugartegoikoa",
-        "type": "node",
-        "id": "3448158618"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6794425,
           42.1657153
         ]
