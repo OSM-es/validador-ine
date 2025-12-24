@@ -1340,23 +1340,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.41361608,
-          42.5470609
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047060301",
-        "name": "Cereixa",
-        "population": 48,
-        "ele": 373,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.3807905,
           42.59164766
         ]
