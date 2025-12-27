@@ -598,6 +598,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.9258877,
+          42.9683684
+        ]
+      },
+      "properties": {
+        "ref:ine": "01054000599",
+        "name": "Ondona",
+        "type": "node",
+        "id": "5216792184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.6377572,
           42.1636924
         ]
