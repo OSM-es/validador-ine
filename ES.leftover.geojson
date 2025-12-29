@@ -1030,22 +1030,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.312015,
-          42.8590137
-        ]
-      },
-      "properties": {
-        "ref:ine": "01042000300",
-        "name": "San Román de San Millán / Durruma",
-        "type": "relation",
-        "id": "6882351"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.8622306,
           42.2346685
         ]
