@@ -390,6 +390,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.9480396,
+          42.2048905
+        ]
+      },
+      "properties": {
+        "ref:ine": "32020050301",
+        "name": "Aúlfe",
+        "type": "node",
+        "id": "1818330028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9592886,
+          42.2160392
+        ]
+      },
+      "properties": {
+        "ref:ine": "32020050201",
+        "name": "Muntián",
+        "type": "node",
+        "id": "1818330033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.9786836,
           42.2079235
         ]
@@ -399,6 +431,22 @@
         "name": "O Pazo",
         "type": "node",
         "id": "1818330037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9402645,
+          42.2081617
+        ]
+      },
+      "properties": {
+        "ref:ine": "32020050401",
+        "name": "O Vieiro",
+        "type": "node",
+        "id": "1818930074"
       }
     },
     {
@@ -1023,6 +1071,22 @@
         "name": "O Cerquido",
         "type": "node",
         "id": "12009432986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1195965,
+          37.1669533
+        ]
+      },
+      "properties": {
+        "ref:ine": "18122001999",
+        "name": "Manzanil",
+        "type": "node",
+        "id": "13415369023"
       }
     },
     {

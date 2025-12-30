@@ -1629,23 +1629,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.949125,
-          42.217891
-        ]
-      },
-      "properties": {
-        "ref:ine": "32020050501",
-        "name": "As Marabillas",
-        "population": 93,
-        "ele": 428,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.65444421,
           42.30773414
         ]
@@ -1672,23 +1655,6 @@
         "name": "Estación",
         "population": 21,
         "ele": 339,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.86885082,
-          42.23510138
-        ]
-      },
-      "properties": {
-        "ref:ine": "32047061101",
-        "name": "A Mezquita",
-        "population": 140,
-        "ele": 484,
         "population:date": "2024"
       }
     },
@@ -1765,40 +1731,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.85323909,
-          42.30677922
-        ]
-      },
-      "properties": {
-        "ref:ine": "32054140402",
-        "name": "Seixalbo (Industrial)",
-        "population": 1,
-        "ele": 193,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.95203427,
-          42.34210096
-        ]
-      },
-      "properties": {
-        "ref:ine": "32054170901",
-        "name": "Untes",
-        "population": 197,
-        "ele": 173,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.744043,
           42.327577
         ]
@@ -1842,23 +1774,6 @@
         "name": "Anllo",
         "population": 21,
         "ele": 403,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.039267063,
-          42.36599381
-        ]
-      },
-      "properties": {
-        "ref:ine": "32074050999",
-        "name": "Las",
-        "population": 45,
-        "ele": 421,
         "population:date": "2024"
       }
     },
