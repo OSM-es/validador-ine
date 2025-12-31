@@ -1646,23 +1646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0084842,
-          42.41080541
-        ]
-      },
-      "properties": {
-        "ref:ine": "32045060101",
-        "name": "Estación",
-        "population": 21,
-        "ele": 339,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.77161294,
           42.37513574
         ]
@@ -1723,6 +1706,23 @@
         "name": "O Outeiro-Anaigo-A Lama",
         "population": 57,
         "ele": 407,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85323909,
+          42.30677922
+        ]
+      },
+      "properties": {
+        "ref:ine": "32054140402",
+        "name": "Seixalbo (Industrial)",
+        "population": 1,
+        "ele": 193,
         "population:date": "2024"
       }
     },
