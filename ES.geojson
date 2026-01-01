@@ -1629,23 +1629,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.65444421,
-          42.30773414
-        ]
-      },
-      "properties": {
-        "ref:ine": "32037010801",
-        "name": "Niñodaguia",
-        "population": 110,
-        "ele": 609,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.77161294,
           42.37513574
         ]
@@ -1655,23 +1638,6 @@
         "name": "San Miguel do Campo",
         "population": 208,
         "ele": 445,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.74911104,
-          42.37611714
-        ]
-      },
-      "properties": {
-        "ref:ine": "32052050901",
-        "name": "Faramontaos",
-        "population": 88,
-        "ele": 456,
         "population:date": "2024"
       }
     },
@@ -1723,23 +1689,6 @@
         "name": "Seixalbo (Industrial)",
         "population": 1,
         "ele": 193,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.744043,
-          42.327577
-        ]
-      },
-      "properties": {
-        "ref:ine": "32058030201",
-        "name": "Chaodarcas",
-        "population": 85,
-        "ele": 536,
         "population:date": "2024"
       }
     },

@@ -646,6 +646,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.5383405,
+          42.921966
+        ]
+      },
+      "properties": {
+        "ref:ine": "01013001199",
+        "name": "Larrintzar",
+        "type": "node",
+        "id": "4009829184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.9258877,
           42.9683684
         ]
