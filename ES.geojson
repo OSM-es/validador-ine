@@ -1187,23 +1187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.47218374,
-          42.60025096
-        ]
-      },
-      "properties": {
-        "ref:ine": "27008070601",
-        "name": "Ribas Pequenas",
-        "population": 61,
-        "ele": 333,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.852778435,
           43.26653054
         ]
@@ -1332,91 +1315,6 @@
         "name": "Canedo",
         "population": 17,
         "ele": 451,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.3807905,
-          42.59164766
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047080801",
-        "name": "Ferreiros",
-        "population": 29,
-        "ele": 480,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.44620518,
-          42.57108592
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047100101",
-        "name": "Fornelas",
-        "population": 25,
-        "ele": 365,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.43253954,
-          42.59501856
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047160101",
-        "name": "Piño",
-        "population": 77,
-        "ele": 412,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.41825899,
-          42.59291307
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047180301",
-        "name": "Santalla de Rei",
-        "population": 25,
-        "ele": 376,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.41295206,
-          42.59403625
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047210701",
-        "name": "Veiga",
-        "population": 10,
-        "ele": 380,
         "population:date": "2024"
       }
     },
