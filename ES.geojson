@@ -1544,23 +1544,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.6992551,
-          42.37059985
-        ]
-      },
-      "properties": {
-        "ref:ine": "32052060701",
-        "name": "Loña do Monte",
-        "population": 105,
-        "ele": 655,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.95036689,
           42.36005205
         ]
