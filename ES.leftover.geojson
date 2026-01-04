@@ -1094,22 +1094,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1195965,
-          37.1669533
-        ]
-      },
-      "properties": {
-        "ref:ine": "18122001999",
-        "name": "Manzanil",
-        "type": "node",
-        "id": "13415369023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.8622306,
           42.2346685
         ]
