@@ -1527,23 +1527,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.77161294,
-          42.37513574
-        ]
-      },
-      "properties": {
-        "ref:ine": "32052020901",
-        "name": "San Miguel do Campo",
-        "population": 208,
-        "ele": 445,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.95036689,
           42.36005205
         ]
@@ -1561,23 +1544,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.85323909,
-          42.30677922
-        ]
-      },
-      "properties": {
-        "ref:ine": "32054140402",
-        "name": "Seixalbo (Industrial)",
-        "population": 1,
-        "ele": 193,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.810537,
           42.321985
         ]
@@ -1587,23 +1553,6 @@
         "name": "Parque Empresarial",
         "population": 1,
         "ele": 382,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.08803087,
-          42.39095224
-        ]
-      },
-      "properties": {
-        "ref:ine": "32074010101",
-        "name": "Anllo",
-        "population": 21,
-        "ele": 403,
         "population:date": "2024"
       }
     },
