@@ -688,38 +688,6 @@
         "type": "node",
         "id": "12009432986"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8622306,
-          42.2346685
-        ]
-      },
-      "properties": {
-        "ref:ine": "32079020000",
-        "name": "A Mezquita",
-        "type": "relation",
-        "id": "12684317"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6887617,
-          37.6591798
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024300000",
-        "name": "Tiata",
-        "type": "relation",
-        "id": "20051805"
-      }
     }
   ]
 }
