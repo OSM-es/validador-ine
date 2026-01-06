@@ -112,11 +112,24 @@ Promise.all([
   // comprueba que, aparte de la entidad singular (acabada en 00), solo existe otro elemento en su grupo
   const isUniqueElement = entityGroup => entityGroup.length === 2
 
-  // comprueba que el código acabe en 000000 (municipio), o bien, no acabe en 00 (entidad singular) ni en 99 (diseminado)
-  const isValidType = ({ "ref:ine": ine, population }, entityGroup) => (ine.endsWith("000000") || (!ine.endsWith("00") && !ine.endsWith("99"))) && (population !== 0 || isUniqueElement(entityGroup))
+  // comprueba que el código:
+  // - acabe en 0000 (municipio)
+  // - acabad, o bien, no acabe en 00 (entidad singular) ni en 99 (diseminado)
+  const isValidType = ({ "ref:ine": ine, population }, entityGroup) =>
+    (ine.endsWith("000000") || (!ine.endsWith("00") && !ine.endsWith("99")))&&
+    (population !== 0 || isUniqueElement(entityGroup));
   
-  // comprueba que el diseminado sea el único elemento del grupo, y tiene algo de población
-  const isValidSparse = ({ "ref:ine": ine, population }, entityGroup) => ine.endsWith("99") && isUniqueElement(entityGroup) && population !== 0
+  // comprueba que el diseminado:
+  // - sea el único elemento del grupo
+  // - tiene algo de población
+  // - no existe, como relación, la entidad singular a la que pertenece (acabada en 00, en vez de 99)
+  const isValidSparse = ({ "ref:ine": ine, population }, entityGroup) =>
+    ine.endsWith("99") &&
+    isUniqueElement(entityGroup) &&
+    population !== 0 &&
+    !fromOSM.some(
+      (x) => x.type === "relation" && x["ref:ine"] === `${ine.slice(0, 9)}00`
+    );
 
   // una entidad se considera faltante si su código INE no existe en OSM, y:
   // - O bien, su tipo es: "municipio", "capital" u "otra entidad", tiene población mayor que cero o es el único elemento de su grupo
