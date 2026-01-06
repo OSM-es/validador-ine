@@ -704,6 +704,22 @@
         "type": "relation",
         "id": "12684317"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6887617,
+          37.6591798
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024300000",
+        "name": "Tiata",
+        "type": "relation",
+        "id": "20051805"
+      }
     }
   ]
 }

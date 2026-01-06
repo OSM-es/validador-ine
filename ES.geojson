@@ -1170,23 +1170,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.45783562,
-          42.62446794
-        ]
-      },
-      "properties": {
-        "ref:ine": "27008030601",
-        "name": "Guntín",
-        "population": 68,
-        "ele": 408,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.852778435,
           43.26653054
         ]
@@ -1213,23 +1196,6 @@
         "name": "Laiosa",
         "population": 91,
         "ele": 457,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4606322,
-          42.67721487
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024170701",
-        "name": "Noceda",
-        "population": 48,
-        "ele": 453,
         "population:date": "2024"
       }
     },
@@ -1298,23 +1264,6 @@
         "name": "A Pedriña",
         "population": 2,
         "ele": 1063,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.41148223,
-          42.6236093
-        ]
-      },
-      "properties": {
-        "ref:ine": "27047030701",
-        "name": "Canedo",
-        "population": 17,
-        "ele": 451,
         "population:date": "2024"
       }
     },
@@ -1519,6 +1468,159 @@
         "name": "A Cabana",
         "population": 29,
         "ele": 13,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67933837,
+          37.74538404
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024000199",
+        "name": "Barranco Hondo",
+        "population": 27,
+        "ele": 515,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87407347,
+          37.70941565
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024000699",
+        "name": "Ortillo",
+        "population": 29,
+        "ele": 554,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69750506,
+          37.65686494
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024050299",
+        "name": "Campillo",
+        "population": 1252,
+        "ele": 316,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58581908,
+          37.56296364
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024060299",
+        "name": "Carrasquilla",
+        "population": 7,
+        "ele": 620,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95181978,
+          37.7086452
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024110199",
+        "name": "Fontanares",
+        "population": 51,
+        "ele": 653,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92251993,
+          37.59380012
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024180599",
+        "name": "Nogalte",
+        "population": 26,
+        "ele": 803,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66812598,
+          37.66419772
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024230299",
+        "name": "Pulgara",
+        "population": 165,
+        "ele": 316,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.50280603,
+          37.65164324
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024240399",
+        "name": "Puntarrón",
+        "population": 2,
+        "ele": 431,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92843017,
+          37.62557063
+        ]
+      },
+      "properties": {
+        "ref:ine": "30024360399",
+        "name": "Zarzalico",
+        "population": 52,
+        "ele": 823,
         "population:date": "2024"
       }
     },
