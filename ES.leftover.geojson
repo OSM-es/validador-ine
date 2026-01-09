@@ -278,6 +278,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.7034707,
+          42.6652274
+        ]
+      },
+      "properties": {
+        "ref:ine": "01044000199",
+        "name": "Zumentu",
+        "type": "node",
+        "id": "4938660030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.6377572,
           42.1636924
         ]

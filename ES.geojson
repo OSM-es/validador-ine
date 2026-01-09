@@ -1187,40 +1187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.42127548,
-          42.64140459
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024130601",
-        "name": "Laiosa",
-        "population": 91,
-        "ele": 457,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.47070363,
-          42.69473505
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024210201",
-        "name": "Rubián de Cima",
-        "population": 32,
-        "ele": 559,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.28299722,
           43.47581666
         ]
