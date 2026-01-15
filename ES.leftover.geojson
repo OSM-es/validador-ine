@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5358896,
-          42.7957643
-        ]
-      },
-      "properties": {
-        "ref:ine": "15082060899",
-        "name": "A Emida",
-        "type": "node",
-        "id": "1641768968"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9662949,
           42.2390288
         ]
@@ -102,54 +86,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0209979,
-          42.5277799
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073010299",
-        "name": "A Cerca",
-        "type": "node",
-        "id": "2471388684"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0125308,
-          42.5312653
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073010499",
-        "name": "Listres",
-        "type": "node",
-        "id": "2471388757"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0210631,
-          42.5203606
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073010699",
-        "name": "Trasporto",
-        "type": "node",
-        "id": "2471388771"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.9971729,
           42.5647192
         ]
@@ -159,22 +95,6 @@
         "name": "Deán Pequeno",
         "type": "node",
         "id": "2472474491"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0030937,
-          42.5309528
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073040201",
-        "name": "Os Areeiros",
-        "type": "node",
-        "id": "2472474497"
       }
     },
     {
@@ -230,22 +150,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4045726,
-          42.7653499
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017060499",
-        "name": "A Carballeira",
-        "type": "node",
-        "id": "2801260645"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.2568353,
           42.3174214
         ]
@@ -271,22 +175,6 @@
         "name": "Vilariño",
         "type": "node",
         "id": "3661798371"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7034707,
-          42.6652274
-        ]
-      },
-      "properties": {
-        "ref:ine": "01044000199",
-        "name": "Zumentu",
-        "type": "node",
-        "id": "4938660030"
       }
     },
     {
@@ -342,22 +230,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.9994135,
-          42.5526131
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073090399",
-        "name": "Cubeliño",
-        "type": "node",
-        "id": "8976669349"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.7820863,
           41.9497065
         ]
@@ -399,54 +271,6 @@
         "name": "A Aldea",
         "type": "node",
         "id": "10043435766"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7458005,
-          42.590375
-        ]
-      },
-      "properties": {
-        "ref:ine": "36060040299",
-        "name": "A Bouza",
-        "type": "node",
-        "id": "10083442773"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8294248,
-          42.5693897
-        ]
-      },
-      "properties": {
-        "ref:ine": "36061070199",
-        "name": "A Braña",
-        "type": "node",
-        "id": "10138405954"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4487416,
-          42.6773557
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017140799",
-        "name": "Viso de Abaixo",
-        "type": "node",
-        "id": "10571628976"
       }
     },
     {
