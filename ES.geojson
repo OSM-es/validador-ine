@@ -1459,23 +1459,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.810537,
-          42.321985
-        ]
-      },
-      "properties": {
-        "ref:ine": "32058040102",
-        "name": "Parque Empresarial",
-        "population": 1,
-        "ele": 382,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.607881936,
           42.19008297
         ]
