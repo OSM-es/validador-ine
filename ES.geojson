@@ -1221,23 +1221,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.08756217,
-          42.74300806
-        ]
-      },
-      "properties": {
-        "ref:ine": "27045010999",
-        "name": "A Pedriña",
-        "population": 2,
-        "ele": 1063,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.56791698,
           43.33247399
         ]
@@ -1434,40 +1417,6 @@
         "name": "A Cabana",
         "population": 29,
         "ele": 13,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.95036689,
-          42.36005205
-        ]
-      },
-      "properties": {
-        "ref:ine": "32054110501",
-        "name": "O Outeiro-Anaigo-A Lama",
-        "population": 57,
-        "ele": 407,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.607881936,
-          42.19008297
-        ]
-      },
-      "properties": {
-        "ref:ine": "32089020104",
-        "name": "Penadiz e O Folón",
-        "population": 20,
-        "ele": 563,
         "population:date": "2024"
       }
     },
