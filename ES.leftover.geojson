@@ -150,22 +150,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.2568353,
-          42.3174214
-        ]
-      },
-      "properties": {
-        "ref:ine": "32063050199",
-        "name": "A Encomenda",
-        "type": "node",
-        "id": "3214657361"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6794425,
           42.1657153
         ]
