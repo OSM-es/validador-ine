@@ -2248,23 +2248,6 @@
         "ele": 43,
         "population:date": "2024"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.70905643,
-          43.29265819
-        ]
-      },
-      "properties": {
-        "ref:ine": "48067000401",
-        "name": "Ugartegoikoa",
-        "population": 244,
-        "ele": 29,
-        "population:date": "2024"
-      }
     }
   ]
 }
