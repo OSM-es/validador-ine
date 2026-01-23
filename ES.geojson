@@ -1728,57 +1728,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.414612141,
-          42.08691405
-        ]
-      },
-      "properties": {
-        "ref:ine": "36034050101",
-        "name": "As Neves",
-        "population": 31,
-        "ele": 160,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.37616502,
-          42.09660591
-        ]
-      },
-      "properties": {
-        "ref:ine": "36034131399",
-        "name": "A Escaravelleira",
-        "population": 7,
-        "ele": 156,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.38026226,
-          42.09777301
-        ]
-      },
-      "properties": {
-        "ref:ine": "36034131401",
-        "name": "A Gandra",
-        "population": 22,
-        "ele": 127,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.681140701,
           42.40239986
         ]
@@ -1924,23 +1873,6 @@
         "name": "Ramiráns",
         "population": 4,
         "ele": 62,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.48146503,
-          42.17679382
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042021001",
-        "name": "A Serra",
-        "population": 60,
-        "ele": 88,
         "population:date": "2024"
       }
     },

@@ -6,28 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9662949,
-          42.2390288
-        ]
-      },
-      "properties": {
-        "ref:ine": "32020080201",
-        "name": "Lamas de Outeiro",
-        "type": "node",
-        "id": "1817939728"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9480396,
           42.2048905
         ]
       },
       "properties": {
-        "ref:ine": "32020050301",
+        "ref:ine": "32020050300",
         "name": "Aúlfe",
         "type": "node",
         "id": "1818330028"
@@ -43,26 +27,10 @@
         ]
       },
       "properties": {
-        "ref:ine": "32020050201",
+        "ref:ine": "32020050200",
         "name": "Muntián",
         "type": "node",
         "id": "1818330033"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9786836,
-          42.2079235
-        ]
-      },
-      "properties": {
-        "ref:ine": "32020040901",
-        "name": "O Pazo",
-        "type": "node",
-        "id": "1818330037"
       }
     },
     {
@@ -75,7 +43,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "32020050401",
+        "ref:ine": "32020050400",
         "name": "O Vieiro",
         "type": "node",
         "id": "1818930074"
@@ -367,22 +335,6 @@
         "name": "O Salgueiro",
         "type": "node",
         "id": "11280243194"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4837652,
-          42.1765403
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042021099",
-        "name": "A Serra",
-        "type": "node",
-        "id": "11296431213"
       }
     },
     {
