@@ -328,23 +328,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.86550209,
-          43.30853455
-        ]
-      },
-      "properties": {
-        "ref:ine": "15043011101",
-        "name": "Barizo",
-        "population": 220,
-        "ele": 58,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.80316119,
           43.28861612
         ]
@@ -1017,23 +1000,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.568005562,
-          42.77551901
-        ]
-      },
-      "properties": {
-        "ref:ine": "15082071001",
-        "name": "Casal de Buela",
-        "population": 0,
-        "ele": 141,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.102887324,
           43.63166068
         ]
@@ -1610,23 +1576,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.71042121,
-          42.38082624
-        ]
-      },
-      "properties": {
-        "ref:ine": "36026032599",
-        "name": "A Niñada",
-        "population": 73,
-        "ele": 139,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.76473843,
           42.43617904
         ]
@@ -1728,49 +1677,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.681140701,
-          42.40239986
+          -8.637485504,
+          42.41565503
         ]
       },
       "properties": {
-        "ref:ine": "36038101001",
-        "name": "O Outeiro",
-        "population": 44,
-        "ele": 32,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6231258,
-          42.43078388
-        ]
-      },
-      "properties": {
-        "ref:ine": "36038121601",
-        "name": "San Amaro",
-        "population": 0,
-        "ele": 66,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.63166333,
-          42.41844937
-        ]
-      },
-      "properties": {
-        "ref:ine": "36038180201",
+        "ref:ine": "36038150201",
         "name": "A Ponte do Couto",
-        "population": 0,
-        "ele": 26,
+        "population": 56,
+        "ele": 27,
         "population:date": "2024"
       }
     },
@@ -1873,40 +1788,6 @@
         "name": "Ramiráns",
         "population": 4,
         "ele": 62,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.509770083,
-          42.20404391
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042220199",
-        "name": "O Amial e O Charco",
-        "population": 24,
-        "ele": 52,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.508141982,
-          42.20658069
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042220799",
-        "name": "O Souto e O Outeiro",
-        "population": 62,
-        "ele": 78,
         "population:date": "2024"
       }
     },

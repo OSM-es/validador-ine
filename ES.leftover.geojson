@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "32020050300",
+        "ref:ine": "32020050301",
         "name": "Aúlfe",
         "type": "node",
         "id": "1818330028"
@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "32020050200",
+        "ref:ine": "32020050201",
         "name": "Muntián",
         "type": "node",
         "id": "1818330033"
@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "ref:ine": "32020050400",
+        "ref:ine": "32020050401",
         "name": "O Vieiro",
         "type": "node",
         "id": "1818930074"
@@ -127,6 +127,22 @@
         "name": "Vilariño",
         "type": "node",
         "id": "3661798371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8661733,
+          43.3060866
+        ]
+      },
+      "properties": {
+        "ref:ine": "Q123854489",
+        "name": "O Pibidal",
+        "type": "node",
+        "id": "6380365922"
       }
     },
     {
