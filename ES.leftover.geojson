@@ -134,70 +134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.8661733,
-          43.3060866
-        ]
-      },
-      "properties": {
-        "ref:ine": "Q123854489",
-        "name": "O Pibidal",
-        "type": "node",
-        "id": "6380365922"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6377572,
-          42.1636924
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033060199",
-        "name": "Campo de Eiró",
-        "type": "node",
-        "id": "7252193772"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6169995,
-          42.1736109
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033080299",
-        "name": "Ameirolongo",
-        "type": "node",
-        "id": "7252935321"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6449998,
-          42.1846058
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033090399",
-        "name": "Pedraúcha",
-        "type": "node",
-        "id": "7276290960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.7820863,
           41.9497065
         ]
@@ -358,54 +294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6459547,
-          42.2025452
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033090299",
-        "name": "A Igrexa",
-        "type": "node",
-        "id": "11628035154"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6192554,
-          42.1536773
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039011299",
-        "name": "A Viñoeira",
-        "type": "node",
-        "id": "11762015973"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6185704,
-          42.1453755
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039011599",
-        "name": "A Rocha",
-        "type": "node",
-        "id": "11762016122"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6116505,
           42.1039011
         ]
@@ -431,38 +319,6 @@
         "name": "A Cachada",
         "type": "node",
         "id": "11905467264"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6135162,
-          42.1480395
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039010699",
-        "name": "O Carballal",
-        "type": "node",
-        "id": "12009432976"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6213621,
-          42.1424293
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039010799",
-        "name": "Os Eidos",
-        "type": "node",
-        "id": "12009432977"
       }
     },
     {

@@ -1694,40 +1694,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6190435,
-          42.14323466
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039010701",
-        "name": "Os Eidos",
-        "population": 24,
-        "ele": 48,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.61870645,
-          42.14495376
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039011501",
-        "name": "A Rocha",
-        "population": 16,
-        "ele": 56,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.60951327,
           42.10478153
         ]
@@ -1771,23 +1737,6 @@
         "name": "Os Eidos",
         "population": 24,
         "ele": 83,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.620909452,
-          42.16411319
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039070999",
-        "name": "Ramiráns",
-        "population": 4,
-        "ele": 62,
         "population:date": "2024"
       }
     },
