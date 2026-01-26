@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9480396,
-          42.2048905
+          -1.6910619,
+          42.9222104
         ]
       },
       "properties": {
-        "ref:ine": "32020050301",
-        "name": "Aúlfe",
+        "ref:ine": "31040030201",
+        "name": "Eguarats / Eguaras",
         "type": "node",
-        "id": "1818330028"
+        "id": "491361809"
       }
     },
     {
@@ -22,15 +22,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9592886,
-          42.2160392
+          -7.9146143,
+          43.6939875
         ]
       },
       "properties": {
-        "ref:ine": "32020050201",
-        "name": "Muntián",
+        "ref:ine": "15901031501",
+        "name": "O Seixo",
         "type": "node",
-        "id": "1818330033"
+        "id": "2503363788"
       }
     },
     {
@@ -38,15 +38,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9402645,
-          42.2081617
+          -1.2616797,
+          42.7025944
         ]
       },
       "properties": {
-        "ref:ine": "32020050401",
-        "name": "O Vieiro",
+        "ref:ine": "31209010201",
+        "name": "Murillo Berroya / Murillo Berroia",
         "type": "node",
-        "id": "1818930074"
+        "id": "2585985628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0502015,
+          43.1362283
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032013199",
+        "name": "Modillós de Arriba",
+        "type": "node",
+        "id": "3142809531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.039844,
+          43.1419303
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032014999",
+        "name": "A Restreba",
+        "type": "node",
+        "id": "3144575429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6502772,
+          43.5484418
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081701",
+        "name": "Viḷḷapedre",
+        "type": "node",
+        "id": "3297014773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2584799,
+          42.7124689
+        ]
+      },
+      "properties": {
+        "ref:ine": "31209010101",
+        "name": "Berroya / Berroia",
+        "type": "node",
+        "id": "3324954348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8933455,
+          43.6886624
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901020501",
+        "name": "Esteiro de Arriba",
+        "type": "node",
+        "id": "6297628344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8791696,
+          43.7069884
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901051299",
+        "name": "O Souto Chao",
+        "type": "node",
+        "id": "6298994809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8782676,
+          43.7098315
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901050399",
+        "name": "A Cruz do Meixón",
+        "type": "node",
+        "id": "6298994814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6997793,
+          42.9126059
+        ]
+      },
+      "properties": {
+        "ref:ine": "31040030199",
+        "name": "Amalain",
+        "type": "node",
+        "id": "8219527927"
       }
     }
   ]

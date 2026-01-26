@@ -227,6 +227,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032015699",
+        "name": "O Mascoto ",
+        "population": 6,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032015799",
+        "name": "Modillós",
+        "population": 8,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032015899",
+        "name": "O Río ",
+        "population": 13,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032025399",
+        "name": "A Braña ",
+        "population": 4,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032025499",
+        "name": "O Campo ",
+        "population": 4,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032025599",
+        "name": "Outeiro de Abaixo",
+        "population": 2,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032025699",
+        "name": "As Regas ",
+        "population": 7,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032025799",
+        "name": "A Zafrela ",
+        "population": 3,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032033299",
+        "name": "Filgueira",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032040799",
+        "name": "A Carballeira ",
+        "population": 7,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032040801",
+        "name": "O Ensanche ",
+        "population": 12,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15032040901",
+        "name": "A Raia Nova ",
+        "population": 43,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.17024294,
           43.46092644
         ]
@@ -345,6 +537,150 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041050899",
+        "name": "As Orxeiras ",
+        "population": 3,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041052099",
+        "name": "As Camposas ",
+        "population": 2,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041052199",
+        "name": "O Carballo ",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041052299",
+        "name": "A Gouxa ",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041052399",
+        "name": "O Regueiro ",
+        "population": 7,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041052499",
+        "name": "A Revolta ",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110499",
+        "name": "A Xesteira ",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041110799",
+        "name": "O Melio ",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15041111299",
+        "name": "Vilanova",
+        "population": 2,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.80316119,
           43.28861612
         ]
@@ -388,6 +724,22 @@
         "name": "A Pedrosa - A Trémoa",
         "population": 153,
         "ele": 153,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15044024499",
+        "name": "Lombo do Medio",
+        "population": 2,
         "population:date": "2024"
       }
     },
@@ -1068,6 +1420,390 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901010201",
+        "name": "Cariño de Arriba",
+        "population": 55,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901010399",
+        "name": "San Xiao",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901010499",
+        "name": "A Vacariza ",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901020599",
+        "name": "Esteiro de Arriba",
+        "population": 11,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901031599",
+        "name": "O Seixo ",
+        "population": 10,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901050301",
+        "name": "A Cruz do Meixón ",
+        "population": 23,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "15901051201",
+        "name": "O Souto Chao ",
+        "population": 10,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "18901000499",
+        "name": "Puerto Jubiley",
+        "population": 3,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20030000599",
+        "name": "Gorosta",
+        "population": 62,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20030000699",
+        "name": "Mandiola",
+        "population": 98,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20030000799",
+        "name": "Otaola-Kiñarra",
+        "population": 71,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20039000699",
+        "name": "Akerregi auzoa",
+        "population": 46,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20903000299",
+        "name": "Mendiaundi",
+        "population": 80,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20903000301",
+        "name": "Oialume",
+        "population": 54,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20903000401",
+        "name": "Perurena",
+        "population": 28,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20903000501",
+        "name": "Santiagomendi",
+        "population": 74,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "20903000699",
+        "name": "Txoritokieta",
+        "population": 56,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "21021000501",
+        "name": "Consolación",
+        "population": 180,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "21021000601",
+        "name": "La Galera ",
+        "population": 83,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "21021000701",
+        "name": "Marina de El Rompido",
+        "population": 39,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "21021000801",
+        "name": "Las Veguillas ",
+        "population": 257,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "21021000901",
+        "name": "Las Villas de El Rompido ",
+        "population": 78,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "22023000301",
+        "name": "Monte Frula",
+        "population": 4,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "22163000102",
+        "name": "Urbanización Parque de Guara",
+        "population": 278,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -1408,6 +2144,278 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "31040000501",
+        "name": "Eguarats",
+        "population": 33,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "31209000901",
+        "name": "Berroya / Berroia",
+        "population": 4,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "31209001001",
+        "name": "Murillo-Berroya / Murillo-Berroia",
+        "population": 5,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "32014061099",
+        "name": "Os Muíños ",
+        "population": 1,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041060601",
+        "name": "Las Cañosas ",
+        "population": 23,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080201",
+        "name": "Bárzana",
+        "population": 34,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080301",
+        "name": "Cabrafigal",
+        "population": 67,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080401",
+        "name": "La Peña ",
+        "population": 22,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080601",
+        "name": "Villainclán",
+        "population": 107,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080801",
+        "name": "El Villar ",
+        "population": 36,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041080901",
+        "name": "Barbeitín",
+        "population": 13,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081001",
+        "name": "Calvario",
+        "population": 22,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081201",
+        "name": "El Cueto ",
+        "population": 40,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081399",
+        "name": "La Laguna ",
+        "population": 11,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081401",
+        "name": "La Llamiella ",
+        "population": 41,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081501",
+        "name": "La Pedrosa ",
+        "population": 21,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "33041081699",
+        "name": "Villaiz",
+        "population": 15,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.61833212,
           42.6045795
         ]
@@ -1492,6 +2500,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "36017291099",
+        "name": "Vista Alegre",
+        "population": 8,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.40684073,
           42.6433855
         ]
@@ -1551,6 +2575,22 @@
         "ref:ine": "36017501199",
         "name": "Sorribas-A Costa e Vista Alegre",
         "population": 30,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "36023032699",
+        "name": "Lagartos",
+        "population": 1,
         "population:date": "2024"
       }
     },
@@ -1771,6 +2811,54 @@
         "name": "Roilois e A Santa Mariña",
         "population": 51,
         "ele": 43,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "40083000201",
+        "name": "Los Valles de Fuentidueña ",
+        "population": 4,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "43115000301",
+        "name": "La Torre ",
+        "population": 0,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "ref:ine": "47052000104",
+        "name": "Camping Club El Paramillo",
+        "population": 14,
         "population:date": "2024"
       }
     }
