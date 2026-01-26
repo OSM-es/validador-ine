@@ -176,6 +176,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.21303845,
+          42.94579497
+        ]
+      },
+      "properties": {
+        "ref:ine": "15023060401",
+        "name": "Estorde",
+        "population": 130,
+        "ele": 37,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.18556654,
           43.26124348
         ]
@@ -1542,40 +1559,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.72849189,
-          42.14021315
-        ]
-      },
-      "properties": {
-        "ref:ine": "36021100201",
-        "name": "Brandufe",
-        "population": 89,
-        "ele": 220,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.736950833,
-          42.14889542
-        ]
-      },
-      "properties": {
-        "ref:ine": "36021101201",
-        "name": "O Salgueiro",
-        "population": 9,
-        "ele": 232,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.76473843,
           42.43617904
         ]
@@ -1694,40 +1677,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.60951327,
-          42.10478153
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039020201",
-        "name": "O Casal",
-        "population": 21,
-        "ele": 45,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6227473,
-          42.09660984
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039020301",
-        "name": "O Cerquido",
-        "population": 19,
-        "ele": 30,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.63282974,
           42.10782823
         ]
@@ -1754,159 +1703,6 @@
         "name": "Grobas-Fenteira",
         "population": 38,
         "ele": 212,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.68293282,
-          42.00236546
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054010501",
-        "name": "O Outeiro",
-        "population": 85,
-        "ele": 42,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.764591872,
-          42.03138832
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054020101",
-        "name": "Cristelos",
-        "population": 64,
-        "ele": 274,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.75258288,
-          42.01241773
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054020601",
-        "name": "O Pazo",
-        "population": 49,
-        "ele": 121,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7574384,
-          41.97353608
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054040301",
-        "name": "A Gándara",
-        "population": 11,
-        "ele": 21,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.78013856,
-          41.95074572
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054070701",
-        "name": "A Gándara",
-        "population": 119,
-        "ele": 28,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.672520381,
-          42.01575201
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054100101",
-        "name": "A Aldea",
-        "population": 83,
-        "ele": 55,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.735286014,
-          42.04868668
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054130201",
-        "name": "Cimadevila",
-        "population": 38,
-        "ele": 195,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.74273633,
-          42.02818812
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054150201",
-        "name": "O Castro",
-        "population": 13,
-        "ele": 78,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.73290568,
-          42.03279601
-        ]
-      },
-      "properties": {
-        "ref:ine": "36054150501",
-        "name": "O Ral",
-        "population": 33,
-        "ele": 33,
         "population:date": "2024"
       }
     },
@@ -1958,39 +1754,6 @@
         "name": "Freixeiro",
         "population": 2857,
         "ele": 17,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.74476193,
-          42.20719508
-        ]
-      },
-      "properties": {
-        "ref:ine": "36057152401",
-        "name": "Zona Franca",
-        "population": 0,
-        "ele": 9,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.80534985,
-          42.17377302
-        ]
-      },
-      "properties": {
-        "ref:ine": "36057261901",
-        "name": "A Cachada",
-        "population": 2,
         "population:date": "2024"
       }
     },
