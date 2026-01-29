@@ -1417,22 +1417,6 @@
         ]
       },
       "properties": {
-        "ref:ine": "20030000799",
-        "name": "Otaola-Kiñarra",
-        "population": 71,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
         "ref:ine": "20039000699",
         "name": "Akerregi auzoa",
         "population": 46,
