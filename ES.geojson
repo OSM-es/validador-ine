@@ -1620,6 +1620,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.63503009,
+          38.0920657
+        ]
+      },
+      "properties": {
+        "ref:ine": "23055000501",
+        "name": "Linares",
+        "population": 51906,
+        "ele": 418,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.48791616,
           43.37350423
         ]
