@@ -1,37 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6999488,
-          41.1604114
-        ]
-      },
-      "properties": {
-        "ref:ine": "40162000299",
-        "name": "El Villar",
-        "type": "node",
-        "id": "1243022745"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6839094,
-          41.1617946
-        ]
-      },
-      "properties": {
-        "ref:ine": "40162000299",
-        "name": "Pradenilla",
-        "type": "node",
-        "id": "13512688706"
-      }
-    }
-  ]
+  "features": []
 }
