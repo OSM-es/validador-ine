@@ -1364,6 +1364,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.61111938,
+          41.70884438
+        ]
+      },
+      "properties": {
+        "ref:ine": "25251000401",
+        "name": "Urbanització de Roderes",
+        "population": 27,
+        "ele": 246,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -1670,22 +1687,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "32014061099",
-        "name": "Os Muíños ",
-        "population": 1,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.61833212,
           42.6045795
         ]
@@ -1753,22 +1754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017291099",
-        "name": "Vista Alegre",
-        "population": 8,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.40684073,
           42.6433855
         ]
@@ -1828,22 +1813,6 @@
         "ref:ine": "36017501199",
         "name": "Sorribas-A Costa e Vista Alegre",
         "population": 30,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "36023032699",
-        "name": "Lagartos",
-        "population": 1,
         "population:date": "2024"
       }
     },

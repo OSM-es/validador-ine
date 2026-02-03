@@ -1,4 +1,21 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2061751,
+          37.9848481
+        ]
+      },
+      "properties": {
+        "ref:ine": "30030250199",
+        "name": "Fábrica de la Pólvora",
+        "type": "node",
+        "id": "1613749847"
+      }
+    }
+  ]
 }
