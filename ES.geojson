@@ -6,151 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.24408918,
-          43.23389555
+          -8.65632449,
+          43.30223603
         ]
       },
       "properties": {
-        "ref:ine": "15001040601",
-        "name": "Cos",
-        "population": 95,
-        "ele": 76,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.23633672,
-          43.24829489
-        ]
-      },
-      "properties": {
-        "ref:ine": "15001100901",
-        "name": "Limiñón",
-        "population": 240,
-        "ele": 99,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.25224536,
-          43.22449082
-        ]
-      },
-      "properties": {
-        "ref:ine": "15001121101",
-        "name": "Meangos",
-        "population": 63,
-        "ele": 115,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.52882854,
-          43.28782515
-        ]
-      },
-      "properties": {
-        "ref:ine": "15005020501",
-        "name": "O Campo",
-        "population": 0,
-        "ele": 163,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2663517,
-          43.31071223
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008010501",
-        "name": "Polígono Industrial",
-        "population": 0,
-        "ele": 92,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.26906538,
-          43.31343112
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008051501",
-        "name": "Polígono Industrial",
-        "population": 0,
-        "ele": 98,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.171875477,
-          43.44687472
-        ]
-      },
-      "properties": {
-        "ref:ine": "15015031001",
-        "name": "Vilar do Colo",
-        "population": 0,
-        "ele": 163,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.63140017,
-          43.28692528
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019111201",
-        "name": "Noicela",
-        "population": 34,
-        "ele": 27,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.656014204,
-          43.30219955
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019111901",
+        "ref:ine": "15019100999",
         "name": "A Pedra do Sal",
-        "population": 0,
-        "ele": 4,
+        "population": 65,
+        "ele": 12,
         "population:date": "2024"
       }
     },
@@ -159,32 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.21303845,
-          42.94579497
+          -8.36828341,
+          43.31836096
         ]
       },
       "properties": {
-        "ref:ine": "15023060401",
-        "name": "Estorde",
-        "population": 130,
-        "ele": 37,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.37240666,
-          43.31795142
-        ]
-      },
-      "properties": {
-        "ref:ine": "15031080601",
+        "ref:ine": "15031020101",
         "name": "Acea de Ama",
-        "population": 324,
-        "ele": 7,
+        "population": 4492,
+        "ele": 6,
         "population:date": "2024"
       }
     },
@@ -402,57 +249,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.126778816,
-          43.49127688
-        ]
-      },
-      "properties": {
-        "ref:ine": "15035083399",
-        "name": "O Carballal",
-        "population": 4,
-        "ele": 105,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.52185876,
-          43.24736622
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041014899",
-        "name": "O Piñeiro",
-        "population": 3,
-        "ele": 153,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.59501709,
-          43.31249908
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041020599",
-        "name": "Xermaña",
-        "population": 73,
-        "ele": 110,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -597,57 +393,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.80316119,
-          43.28861612
-        ]
-      },
-      "properties": {
-        "ref:ine": "15043042101",
-        "name": "Pasacondía - A Aldeola",
-        "population": 197,
-        "ele": 95,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.82251478,
-          43.2759866
-        ]
-      },
-      "properties": {
-        "ref:ine": "15043042201",
-        "name": "As Pozacas - Leduzo",
-        "population": 127,
-        "ele": 109,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.75903768,
-          43.27470058
-        ]
-      },
-      "properties": {
-        "ref:ine": "15043051401",
-        "name": "A Pedrosa - A Trémoa",
-        "population": 153,
-        "ele": 153,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -672,56 +417,6 @@
         "ref:ine": "15048000101",
         "name": "Costa Anacara",
         "population": 987,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.98622795,
-          43.56214215
-        ]
-      },
-      "properties": {
-        "ref:ine": "15049020799",
-        "name": "O Foxo",
-        "population": 3,
-        "ele": 249,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.07688443,
-          43.33163975
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050036799",
-        "name": "Vilarboi",
-        "population": 6,
-        "ele": 285,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.18440498,
-          43.5384213
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054000201",
-        "name": "Río do Pozo",
-        "population": 8,
         "population:date": "2024"
       }
     },
@@ -1001,23 +696,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.34073122,
-          43.34888623
-        ]
-      },
-      "properties": {
-        "ref:ine": "15058040101",
-        "name": "A Babilonia",
-        "population": 0,
-        "ele": 15,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.78816806,
           43.66866525
         ]
@@ -1218,23 +896,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.14576644,
-          43.60827393
-        ]
-      },
-      "properties": {
-        "ref:ine": "15087075399",
-        "name": "O Penso",
-        "population": 65,
-        "ele": 50,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.14252498,
           43.62056826
         ]
@@ -1356,23 +1017,6 @@
         "ref:ine": "15901051201",
         "name": "O Souto Chao ",
         "population": 10,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.61111938,
-          41.70884438
-        ]
-      },
-      "properties": {
-        "ref:ine": "25251000401",
-        "name": "Urbanització de Roderes",
-        "population": 27,
-        "ele": 246,
         "population:date": "2024"
       }
     },
