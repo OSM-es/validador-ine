@@ -232,23 +232,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.17024294,
-          43.46092644
-        ]
-      },
-      "properties": {
-        "ref:ine": "15035011101",
-        "name": "O Pazo",
-        "population": 35,
-        "ele": 51,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0,
           0
         ]
@@ -417,73 +400,6 @@
         "ref:ine": "15048000101",
         "name": "Costa Anacara",
         "population": 987,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.105714804,
-          43.52032444
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054020999",
-        "name": "O Chao",
-        "population": 9,
-        "ele": 29,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.11821688,
-          43.52810089
-        ]
-      },
-      "properties": {
-        "ref:ine": "15054101199",
-        "name": "A Costeira",
-        "population": 14,
-        "ele": 97,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1516899,
-          43.51965313
-        ]
-      },
-      "properties": {
-        "ref:ine": "15055032401",
-        "name": "A Fábrica de Xubia",
-        "population": 0,
-        "ele": 5,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.15281701,
-          43.5111156
-        ]
-      },
-      "properties": {
-        "ref:ine": "15055037401",
-        "name": "Ribeira da Toeleira",
-        "population": 25,
         "population:date": "2024"
       }
     },
@@ -688,105 +604,6 @@
         "name": "San Breixo",
         "population": 96,
         "ele": 21,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.78816806,
-          43.66866525
-        ]
-      },
-      "properties": {
-        "ref:ine": "15061044501",
-        "name": "O Val",
-        "population": 23,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.78885557,
-          43.66840242
-        ]
-      },
-      "properties": {
-        "ref:ine": "15061054201",
-        "name": "O Valle",
-        "population": 17,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.84641146,
-          43.64958553
-        ]
-      },
-      "properties": {
-        "ref:ine": "15061102699",
-        "name": "O Loureiro de Arriba",
-        "population": 2,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.87198833,
-          43.65580171
-        ]
-      },
-      "properties": {
-        "ref:ine": "15061237701",
-        "name": "Santa María",
-        "population": 370,
-        "ele": 41,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.91588028,
-          43.44502136
-        ]
-      },
-      "properties": {
-        "ref:ine": "15070061599",
-        "name": "Maciñeira",
-        "population": 13,
-        "ele": 395,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.89138699,
-          43.42872251
-        ]
-      },
-      "properties": {
-        "ref:ine": "15070122299",
-        "name": "Alto das Seixas",
-        "population": 4,
-        "ele": 418,
         "population:date": "2024"
       }
     },
