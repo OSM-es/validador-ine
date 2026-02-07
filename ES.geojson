@@ -6,104 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.36828341,
-          43.31836096
-        ]
-      },
-      "properties": {
-        "ref:ine": "15031020101",
-        "name": "Acea de Ama",
-        "population": 4492,
-        "ele": 6,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "15032025399",
-        "name": "A Braña ",
-        "population": 4,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "15032025599",
-        "name": "Outeiro de Abaixo",
-        "population": 2,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      },
-      "properties": {
-        "ref:ine": "15041052499",
-        "name": "A Revolta ",
-        "population": 5,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.19780352,
-          43.37334673
-        ]
-      },
-      "properties": {
-        "ref:ine": "15048000101",
-        "name": "Costa Anacara",
-        "population": 987,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.14252498,
-          43.62056826
-        ]
-      },
-      "properties": {
-        "ref:ine": "15087075601",
-        "name": "Ladeira",
-        "population": 0,
-        "ele": 59,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.48791616,
           43.37350423
         ]
@@ -138,57 +40,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.20532321,
-          43.55655273
-        ]
-      },
-      "properties": {
-        "ref:ine": "27005021799",
-        "name": "Benquerencia-Praia",
-        "population": 89,
-        "ele": 14,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.19256231,
-          43.5427557
-        ]
-      },
-      "properties": {
-        "ref:ine": "27005062101",
-        "name": "San Miguel",
-        "population": 46,
-        "ele": 45,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.17128614,
-          43.54311074
-        ]
-      },
-      "properties": {
-        "ref:ine": "27005070899",
-        "name": "Santiago de Reinante",
-        "population": 29,
-        "ele": 53,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.852778435,
           43.26653054
         ]
@@ -198,23 +49,6 @@
         "name": "O Portelo",
         "population": 3,
         "ele": 502,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.28299722,
-          43.47581666
-        ]
-      },
-      "properties": {
-        "ref:ine": "27027032799",
-        "name": "Painzás",
-        "population": 5,
-        "ele": 116,
         "population:date": "2024"
       }
     },
