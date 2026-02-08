@@ -6,125 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.48791616,
-          43.37350423
-        ]
-      },
-      "properties": {
-        "ref:ine": "27001090399",
-        "name": "Caboxo",
-        "population": 28,
-        "ele": 525,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.49970929,
-          43.3327166
-        ]
-      },
-      "properties": {
-        "ref:ine": "27001100199",
-        "name": "A Aldea",
-        "population": 17,
-        "ele": 475,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.852778435,
-          43.26653054
-        ]
-      },
-      "properties": {
-        "ref:ine": "27022022499",
-        "name": "O Portelo",
-        "population": 3,
-        "ele": 502,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.627304483,
-          43.48967995
-        ]
-      },
-      "properties": {
-        "ref:ine": "27033083199",
-        "name": "Capón",
-        "population": 1,
-        "ele": 598,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.56791698,
-          43.33247399
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065071301",
-        "name": "Martiñán",
-        "population": 85,
-        "ele": 428,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.73051668,
-          43.29926887
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065110399",
-        "name": "O Castro",
-        "population": 5,
-        "ele": 481,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.64955312,
-          43.38712297
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065291299",
-        "name": "Cornas",
-        "population": 1,
-        "ele": 500,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.61833212,
           42.6045795
         ]
@@ -259,23 +140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.77242531,
-          42.47715122
-        ]
-      },
-      "properties": {
-        "ref:ine": "36028030499",
-        "name": "A Igrexa",
-        "population": 33,
-        "ele": 92,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.7350193,
           42.49331745
         ]
@@ -386,23 +250,6 @@
         "name": "O Arieiro",
         "population": 546,
         "ele": 41,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.68539102,
-          42.20919921
-        ]
-      },
-      "properties": {
-        "ref:ine": "36057031201",
-        "name": "A Mouteira",
-        "population": 90,
-        "ele": 134,
         "population:date": "2024"
       }
     },
