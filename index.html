@@ -169,7 +169,10 @@
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
           this._div = L.DomUtil.create('div', 'leaflet-remaining-items');
-          this._div.innerHTML = `<span>Total faltantes: <em>${missing.getLayers().length}</em></span>&nbsp;<span>Total sobrantes: <em>${leftover.getLayers().length}</em></span>`;
+          const [a, b] = [missing.getLayers().length, leftover.getLayers().length];
+          this._div.innerHTML = a + b > 0 
+            ? `<span>Total faltantes: <em>${a}</em></span>&nbsp;<span>Total sobrantes: <em>${b}</em></span>` 
+            : "<span>✅ Todas las referencias están en correspondencia con el INE para el año actual</span>";
           return this._div;
         }
         remaining.addTo(map);
