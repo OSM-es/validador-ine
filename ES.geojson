@@ -207,23 +207,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.63282974,
-          42.10782823
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039021099",
-        "name": "Os Eidos",
-        "population": 24,
-        "ele": 83,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.61204424,
           42.7143395
         ]
