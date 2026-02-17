@@ -23,23 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.7350193,
-          42.49331745
-        ]
-      },
-      "properties": {
-        "ref:ine": "36028031199",
-        "name": "As Quintáns",
-        "population": 21,
-        "ele": 125,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.70232391,
           42.51824655
         ]
