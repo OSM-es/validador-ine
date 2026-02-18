@@ -23,56 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.70232391,
-          42.51824655
-        ]
-      },
-      "properties": {
-        "ref:ine": "36028041199",
-        "name": "O Mosteiro",
-        "population": 29,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.70079153,
-          42.51943847
-        ]
-      },
-      "properties": {
-        "ref:ine": "36028060501",
-        "name": "O Mosteiro",
-        "population": 317,
-        "ele": 50,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.637485504,
-          42.41565503
-        ]
-      },
-      "properties": {
-        "ref:ine": "36038150201",
-        "name": "A Ponte do Couto",
-        "population": 56,
-        "ele": 27,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6901013,
           42.22454996
         ]
@@ -82,40 +32,6 @@
         "name": "O Arieiro",
         "population": 546,
         "ele": 41,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.72221337,
-          42.22004821
-        ]
-      },
-      "properties": {
-        "ref:ine": "36057130501",
-        "name": "Freixeiro",
-        "population": 2857,
-        "ele": 17,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.76906717,
-          42.5763174
-        ]
-      },
-      "properties": {
-        "ref:ine": "36060091201",
-        "name": "Roilois e A Santa Mariña",
-        "population": 51,
-        "ele": 43,
         "population:date": "2024"
       }
     }
