@@ -1,39 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.61833212,
-          42.6045795
-        ]
-      },
-      "properties": {
-        "ref:ine": "36005010999",
-        "name": "Baixa",
-        "population": 3,
-        "ele": 140,
-        "population:date": "2024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6901013,
-          42.22454996
-        ]
-      },
-      "properties": {
-        "ref:ine": "36057030901",
-        "name": "O Arieiro",
-        "population": 546,
-        "ele": 41,
-        "population:date": "2024"
-      }
-    }
-  ]
+  "features": []
 }
