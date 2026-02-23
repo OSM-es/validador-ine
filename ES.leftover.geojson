@@ -1,4 +1,21 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.838242,
+          41.9695329
+        ]
+      },
+      "properties": {
+        "ref:ine": "17079001900",
+        "name": "la Creueta",
+        "type": "relation",
+        "id": "5376028"
+      }
+    }
+  ]
 }
