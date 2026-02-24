@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78252121,
+          40.71909099
+        ]
+      },
+      "properties": {
+        "ref:ine": "28144000401",
+        "name": "Cierro de San Bartolomé",
+        "population": 3,
+        "ele": 932,
+        "population:date": "2024"
+      }
+    }
+  ]
 }
