@@ -98,10 +98,11 @@
 
     Promise.all([
       fetch("./ES.geojson").then(response => response.json()),
-      fetch("./ES.leftover.geojson").then(response => response.json())
+      fetch("./ES.leftover.geojson").then(response => response.json()),
+      fetch("./ES.duplicates.geojson").then(response => response.json())
     ])
-      .then(function ([missingData, leftoverData]) {
-        const [missing, leftover] = [L.markerClusterGroup(), L.markerClusterGroup()];
+      .then(function ([missingData, leftoverData, duplicatesData]) {
+        const [missing, leftover, duplicates] = [L.markerClusterGroup(), L.markerClusterGroup(), L.markerClusterGroup()];
 
         // https://github.com/openstreetmap/iD/blob/develop/API.md#id-standalone
         const getUrlId = ({ lat, lng, type = "editor", id = "id" }) => {
@@ -159,9 +160,25 @@
             layer.bindPopup(`${msg}${links}`);
           }
         }));
+
+        duplicates.addLayer(L.geoJson(duplicatesData, {
+          onEachFeature: function (feature, layer) {
+            const { lat, lng } = layer.getLatLng()
+            const { name, "ref:ine": ine } = feature.properties
+            const buffer = layer.getLatLng().toBounds(1000)
+            const editorId = getUrlId({ lat, lng })
+            const editorJosm = getUrlJOSM({ buffer })
+            const share = getUrlShare({ lat, lng })
+            const links = getUrlMarkup({ editorId, editorJosm, share })
+
+            const msg = `<p>La referencia <code>${ine}</code> (${name}) está duplicada y debería representar exclusivamente a un único elemento.<br><br>Bórrala de uno de ellos usando los siguientes enlaces:</p>`
+            layer.bindPopup(`${msg}${links}`);
+          }
+        }));
         
         layerControl.addOverlay(missing, "Faltantes");
         layerControl.addOverlay(leftover, "Sobrantes");
+        layerControl.addOverlay(duplicates, "Duplicados");
 
         map.addLayer(missing);
 
@@ -173,9 +190,9 @@
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
           this._div = L.DomUtil.create('div', 'leaflet-remaining-items');
-          const [a, b] = [missing.getLayers().length, leftover.getLayers().length];
-          this._div.innerHTML = a + b > 0 
-            ? `<span>Total faltantes: <em>${a}</em></span>&nbsp;<span>Total sobrantes: <em>${b}</em></span>` 
+          const [a, b, c] = [missing.getLayers().length, leftover.getLayers().length, duplicates.getLayers().length];
+          this._div.innerHTML = a + b + c > 0 
+            ? `<span>Total faltantes: <em>${a}</em></span>&nbsp;<span>Total sobrantes: <em>${b}</em></span>&nbsp;<span>Total duplicados: <em>${c}</em></span>` 
             : "<span>✅ Todas las referencias están en correspondencia con el INE para el año actual</span>";
           return this._div;
         }

@@ -148,4 +148,14 @@ Promise.all([
   
   // crea un GeoJson con los elementos faltantes
   fs.writeFile(`${filterFn || "ES"}.leftover.geojson`, JSON.stringify(GeoJSON.parse(leftoverItems, { Point: ["lat", "lon"] }), null, 2), () => { })
+
+  // duplicados
+  const counts = new Map();
+  for (const x of fromOSM)
+    counts.set(x["ref:ine"], (counts.get(x["ref:ine"]) || 0) + 1);
+
+  const duplicates = fromOSM.filter(o => counts.get(o["ref:ine"]) > 1);
+
+  // crea un GeoJson con los elementos faltantes
+  fs.writeFile(`${filterFn || "ES"}.duplicates.geojson`, JSON.stringify(GeoJSON.parse(duplicates, { Point: ["lat", "lon"] }), null, 2), () => { })
 })
