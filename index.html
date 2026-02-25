@@ -164,7 +164,11 @@
         layerControl.addOverlay(leftover, "Sobrantes");
 
         map.addLayer(missing);
-        map.fitBounds(missing.getBounds());
+
+        const bounds = missing.getBounds()
+        if (bounds.isValid()) {
+          map.fitBounds(bounds);
+        }
 
         const remaining = L.control({ position: 'bottomleft' });
         remaining.onAdd = function (map) {
