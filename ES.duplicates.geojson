@@ -54,22 +54,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8827593,
-          37.6219632
-        ]
-      },
-      "properties": {
-        "ref:ine": "30041030501",
-        "name": "La Unión",
-        "type": "node",
-        "id": "311211954"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0672355,
           42.9736017
         ]
@@ -127,22 +111,6 @@
         "name": "A Hedreira Nova",
         "type": "node",
         "id": "1026587929"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.0685913,
-          42.6093593
-        ]
-      },
-      "properties": {
-        "ref:ine": "27017090201",
-        "name": "A Aldea",
-        "type": "node",
-        "id": "1241368434"
       }
     },
     {
@@ -319,38 +287,6 @@
         "name": "Baxán Pequeno",
         "type": "node",
         "id": "1546207513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1851739,
-          42.0916363
-        ]
-      },
-      "properties": {
-        "ref:ine": "32056052801",
-        "name": "Cela de Abaixo",
-        "type": "node",
-        "id": "1574841769"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1846135,
-          42.086889
-        ]
-      },
-      "properties": {
-        "ref:ine": "32056052801",
-        "name": "Cela de Arriba",
-        "type": "node",
-        "id": "1574841770"
       }
     },
     {
@@ -799,38 +735,6 @@
         "name": "A Igrexa",
         "type": "node",
         "id": "1839326860"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8963584,
-          42.251449
-        ]
-      },
-      "properties": {
-        "ref:ine": "32075071701",
-        "name": "Montelongo de Abaixo",
-        "type": "node",
-        "id": "1850011301"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8982394,
-          42.2435589
-        ]
-      },
-      "properties": {
-        "ref:ine": "32075071701",
-        "name": "Montelongo de Arriba",
-        "type": "node",
-        "id": "1850011308"
       }
     },
     {
@@ -2207,22 +2111,6 @@
         "name": "O Enxertado",
         "type": "node",
         "id": "3722790912"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.0660894,
-          42.6071888
-        ]
-      },
-      "properties": {
-        "ref:ine": "27017090201",
-        "name": "Visuña",
-        "type": "node",
-        "id": "3724027055"
       }
     },
     {
@@ -4095,22 +3983,6 @@
         "name": "A Florida",
         "type": "node",
         "id": "12008261927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8780609,
-          37.6192824
-        ]
-      },
-      "properties": {
-        "ref:ine": "30041030501",
-        "name": "La Unión",
-        "type": "node",
-        "id": "12087096485"
       }
     },
     {
