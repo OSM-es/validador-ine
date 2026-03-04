@@ -38,22 +38,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.172989,
-          37.7212132
-        ]
-      },
-      "properties": {
-        "ref:ine": "30021090201",
-        "name": "Fuente Álamo de Murcia",
-        "type": "node",
-        "id": "309891581"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0672355,
           42.9736017
         ]
@@ -3983,22 +3967,6 @@
         "name": "A Florida",
         "type": "node",
         "id": "12008261927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1728574,
-          37.7225502
-        ]
-      },
-      "properties": {
-        "ref:ine": "30021090201",
-        "name": "Fuente Alamo",
-        "type": "node",
-        "id": "12091932430"
       }
     },
     {
