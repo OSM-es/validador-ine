@@ -278,38 +278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.126773,
-          42.1789311
-        ]
-      },
-      "properties": {
-        "ref:ine": "32064010101",
-        "name": "A Abelleira de Arriba",
-        "type": "node",
-        "id": "1579848883"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1281454,
-          42.175597
-        ]
-      },
-      "properties": {
-        "ref:ine": "32064010101",
-        "name": "A Abelleira de Abaixo",
-        "type": "node",
-        "id": "1579848890"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.3371346,
           43.317033
         ]
@@ -934,22 +902,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9201131,
-          42.8065575
-        ]
-      },
-      "properties": {
-        "ref:ine": "27003100401",
-        "name": "Paredes",
-        "type": "node",
-        "id": "1975379704"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.7313022,
           42.6287104
         ]
@@ -1503,38 +1455,6 @@
         "name": "Valiños",
         "type": "node",
         "id": "3030603986"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9684429,
-          42.576285
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073081099",
-        "name": "A Lomba",
-        "type": "node",
-        "id": "3033541833"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9210102,
-          42.8091783
-        ]
-      },
-      "properties": {
-        "ref:ine": "27003100401",
-        "name": "Barreiro",
-        "type": "node",
-        "id": "3094617630"
       }
     },
     {
@@ -3663,22 +3583,6 @@
         "name": "A Eirexa",
         "type": "node",
         "id": "10556810537"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9640565,
-          42.5812294
-        ]
-      },
-      "properties": {
-        "ref:ine": "15073081099",
-        "name": "A Lomba",
-        "type": "node",
-        "id": "10589060579"
       }
     },
     {
