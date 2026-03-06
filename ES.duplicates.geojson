@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1305431,
-          37.9923795
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000100",
-        "name": "Murcia",
-        "type": "node",
-        "id": "260380069"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6988592,
-          37.6711989
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024000400",
-        "name": "Lorca",
-        "type": "node",
-        "id": "304873309"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0672355,
           42.9736017
         ]
@@ -95,22 +63,6 @@
         "name": "A Hedreira Nova",
         "type": "node",
         "id": "1026587929"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1245216,
-          43.5952468
-        ]
-      },
-      "properties": {
-        "ref:ine": "15087071799",
-        "name": "O Coval",
-        "type": "node",
-        "id": "1241634362"
       }
     },
     {
@@ -3782,22 +3734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1186656,
-          43.5981221
-        ]
-      },
-      "properties": {
-        "ref:ine": "15087071799",
-        "name": "O Coval",
-        "type": "node",
-        "id": "11948916703"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6528108,
           42.4498325
         ]
@@ -3910,22 +3846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1394675,
-          37.9917047
-        ]
-      },
-      "properties": {
-        "ref:ine": "30030000100",
-        "name": "Murcia",
-        "type": "relation",
-        "id": "3582419"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.363316,
           43.4320698
         ]
@@ -3983,22 +3903,6 @@
         "name": "Quireza",
         "type": "relation",
         "id": "12654480"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6945367,
-          37.6725273
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024000400",
-        "name": "Lorca",
-        "type": "relation",
-        "id": "20051809"
       }
     }
   ]
