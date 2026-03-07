@@ -102,22 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.7898864,
-          42.1485821
-        ]
-      },
-      "properties": {
-        "ref:ine": "36035031399",
-        "name": "A Tarela",
-        "type": "node",
-        "id": "1242517713"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5048967,
           43.3039732
         ]
@@ -1279,38 +1263,6 @@
         "name": "Vecoña de Arriba",
         "type": "node",
         "id": "2542404327"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8232624,
-          42.007797
-        ]
-      },
-      "properties": {
-        "ref:ine": "36036010499",
-        "name": "A Mouta de Abaixo",
-        "type": "node",
-        "id": "2575127501"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8219949,
-          42.0093015
-        ]
-      },
-      "properties": {
-        "ref:ine": "36036010499",
-        "name": "A Mouta de Arriba",
-        "type": "node",
-        "id": "2575127502"
       }
     },
     {
@@ -3407,22 +3359,6 @@
         "name": "Pardiñas de Abaixo",
         "type": "node",
         "id": "9569269318"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7866643,
-          42.1466405
-        ]
-      },
-      "properties": {
-        "ref:ine": "36035031399",
-        "name": "A Tarela",
-        "type": "node",
-        "id": "9575383263"
       }
     },
     {
