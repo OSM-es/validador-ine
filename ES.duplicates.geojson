@@ -1222,22 +1222,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4604998,
-          42.4409834
-        ]
-      },
-      "properties": {
-        "ref:ine": "36902010699",
-        "name": "O Casal",
-        "type": "node",
-        "id": "2525672708"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2071738,
           42.4550155
         ]
@@ -1279,38 +1263,6 @@
         "name": "Portela da Vella",
         "type": "node",
         "id": "2663327682"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4052217,
-          42.761124
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017060201",
-        "name": "O Bruñido",
-        "type": "node",
-        "id": "2801260659"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4098512,
-          42.7647119
-        ]
-      },
-      "properties": {
-        "ref:ine": "36017060201",
-        "name": "A Cacharela",
-        "type": "node",
-        "id": "2801284027"
       }
     },
     {
@@ -2134,22 +2086,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4592112,
-          42.437846
-        ]
-      },
-      "properties": {
-        "ref:ine": "36902010699",
-        "name": "O Casal",
-        "type": "node",
-        "id": "4872997799"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2282851,
           43.2357979
         ]
@@ -2438,22 +2374,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.835144,
-          43.1273555
-        ]
-      },
-      "properties": {
-        "ref:ine": "15029060701",
-        "name": "O Pazo Vello",
-        "type": "node",
-        "id": "6063741403"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.0655834,
           42.9789747
         ]
@@ -2463,22 +2383,6 @@
         "name": "O Logoso",
         "type": "node",
         "id": "6069122188"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8447986,
-          43.0470716
-        ]
-      },
-      "properties": {
-        "ref:ine": "15077020699",
-        "name": "A Ponte de Abaixo",
-        "type": "node",
-        "id": "6095108650"
       }
     },
     {
@@ -2735,86 +2639,6 @@
         "name": "Laxe",
         "type": "node",
         "id": "6175331579"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8349071,
-          43.1333268
-        ]
-      },
-      "properties": {
-        "ref:ine": "15029060701",
-        "name": "O Pazo Vello",
-        "type": "node",
-        "id": "6209984370"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9096962,
-          43.1692599
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014010899",
-        "name": "A Medoña",
-        "type": "node",
-        "id": "6211254056"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8973361,
-          43.1724773
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014010899",
-        "name": "A Medoña",
-        "type": "node",
-        "id": "6211255628"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8862363,
-          43.2165955
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014070201",
-        "name": "O Esto",
-        "type": "node",
-        "id": "6211691041"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8828675,
-          43.2134928
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014070201",
-        "name": "O Esto",
-        "type": "node",
-        "id": "6211691054"
       }
     },
     {
@@ -3254,38 +3078,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6600775,
-          42.7350747
-        ]
-      },
-      "properties": {
-        "ref:ine": "15065042601",
-        "name": "O Souto",
-        "type": "node",
-        "id": "9290645513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6539401,
-          42.7632496
-        ]
-      },
-      "properties": {
-        "ref:ine": "15065042601",
-        "name": "O Souto",
-        "type": "node",
-        "id": "9290685557"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.974538,
           42.7917533
         ]
@@ -3302,22 +3094,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.8405392,
-          43.0440324
-        ]
-      },
-      "properties": {
-        "ref:ine": "15077020699",
-        "name": "A Ponte de Abaixo",
-        "type": "node",
-        "id": "9420238782"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.4782976,
           42.7133867
         ]
@@ -3327,70 +3103,6 @@
         "name": "Castragude",
         "type": "node",
         "id": "9437502180"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5994443,
-          42.865247
-        ]
-      },
-      "properties": {
-        "ref:ine": "15078151601",
-        "name": "Pardiñas de Arriba",
-        "type": "node",
-        "id": "9569269317"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6017235,
-          42.8646867
-        ]
-      },
-      "properties": {
-        "ref:ine": "15078151601",
-        "name": "Pardiñas de Abaixo",
-        "type": "node",
-        "id": "9569269318"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.717067,
-          42.6703433
-        ]
-      },
-      "properties": {
-        "ref:ine": "36010020501",
-        "name": "A Corredoira de Arriba",
-        "type": "node",
-        "id": "10183344615"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7163857,
-          42.6680911
-        ]
-      },
-      "properties": {
-        "ref:ine": "36010020501",
-        "name": "A Corredoira de Abaixo",
-        "type": "node",
-        "id": "10183344616"
       }
     },
     {
@@ -3807,38 +3519,6 @@
         "name": "O Carme",
         "type": "relation",
         "id": "12633428"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4286723,
-          42.5568442
-        ]
-      },
-      "properties": {
-        "ref:ine": "36902140000",
-        "name": "Quireza",
-        "type": "relation",
-        "id": "12654479"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4476756,
-          42.5650073
-        ]
-      },
-      "properties": {
-        "ref:ine": "36902140000",
-        "name": "Quireza",
-        "type": "relation",
-        "id": "12654480"
       }
     }
   ]
