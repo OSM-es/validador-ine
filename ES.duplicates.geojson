@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0672355,
-          42.9736017
-        ]
-      },
-      "properties": {
-        "ref:ine": "15034050301",
-        "name": "O Logoso",
-        "type": "node",
-        "id": "357175895"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0059393,
-          43.2219125
-        ]
-      },
-      "properties": {
-        "ref:ine": "15040010101",
-        "name": "Laxe",
-        "type": "node",
-        "id": "484297182"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.3176113,
           42.4134518
         ]
@@ -1014,22 +982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.9845722,
-          42.7976501
-        ]
-      },
-      "properties": {
-        "ref:ine": "15053020601",
-        "name": "Reboredo",
-        "type": "node",
-        "id": "2048845665"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.1127497,
           42.4917788
         ]
@@ -1103,22 +1055,6 @@
         "name": "Os Leiros",
         "type": "node",
         "id": "2232840170"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9108059,
-          43.2280146
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014042201",
-        "name": "Rebordelo",
-        "type": "node",
-        "id": "2482631458"
       }
     },
     {
@@ -2374,22 +2310,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0655834,
-          42.9789747
-        ]
-      },
-      "properties": {
-        "ref:ine": "15034050301",
-        "name": "O Logoso",
-        "type": "node",
-        "id": "6069122188"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6500021,
           43.1552062
         ]
@@ -2623,38 +2543,6 @@
         "name": "Sabaceda",
         "type": "node",
         "id": "6163392454"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.0060173,
-          43.2224591
-        ]
-      },
-      "properties": {
-        "ref:ine": "15040010101",
-        "name": "Laxe",
-        "type": "node",
-        "id": "6175331579"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9108593,
-          43.2265503
-        ]
-      },
-      "properties": {
-        "ref:ine": "15014042201",
-        "name": "Rebordelo",
-        "type": "node",
-        "id": "6215821448"
       }
     },
     {
@@ -3071,22 +2959,6 @@
         "name": "O Gandarón",
         "type": "node",
         "id": "8840265248"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.974538,
-          42.7917533
-        ]
-      },
-      "properties": {
-        "ref:ine": "15053020601",
-        "name": "Reboredo",
-        "type": "node",
-        "id": "9353073224"
       }
     },
     {
