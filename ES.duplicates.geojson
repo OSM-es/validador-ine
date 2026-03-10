@@ -902,22 +902,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8103695,
-          42.557984
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009220601",
-        "name": "Pradeda de Abaixo",
-        "type": "node",
-        "id": "1986105477"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.7438901,
           42.6313457
         ]
@@ -927,22 +911,6 @@
         "name": "Casa do Cristo",
         "type": "node",
         "id": "2007029737"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8083233,
-          42.5614316
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009220601",
-        "name": "Pradeda de Arriba",
-        "type": "node",
-        "id": "2020676422"
       }
     },
     {
@@ -3023,38 +2991,6 @@
         "name": "O Vinteún",
         "type": "node",
         "id": "10312736608"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9079024,
-          42.4200987
-        ]
-      },
-      "properties": {
-        "ref:ine": "32087070299",
-        "name": "A Eirexa",
-        "type": "node",
-        "id": "10556748778"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8682969,
-          42.4455381
-        ]
-      },
-      "properties": {
-        "ref:ine": "32087070299",
-        "name": "A Eirexa",
-        "type": "node",
-        "id": "10556810537"
       }
     },
     {
