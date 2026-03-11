@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3176113,
-          42.4134518
-        ]
-      },
-      "properties": {
-        "ref:ine": "32004080201",
-        "name": "A Hedreira Vella",
-        "type": "node",
-        "id": "1026587006"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3148658,
-          42.4086593
-        ]
-      },
-      "properties": {
-        "ref:ine": "32004080201",
-        "name": "A Hedreira Nova",
-        "type": "node",
-        "id": "1026587929"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.6935611,
           43.1706525
         ]
