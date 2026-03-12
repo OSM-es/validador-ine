@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.1119023,
+          41.0270169
+        ]
+      },
+      "properties": {
+        "ref:ine": "40035000201",
+        "name": "Mata de Quintanar",
+        "type": "node",
+        "id": "492417283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.6935611,
           43.1706525
         ]
@@ -790,22 +806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4682018,
-          42.5080737
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031120899",
-        "name": "A Torre",
-        "type": "node",
-        "id": "1986102188"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.5582833,
           42.5293421
         ]
@@ -1343,22 +1343,6 @@
         "name": "O Rego",
         "type": "node",
         "id": "3197414261"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4698146,
-          42.509792
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031120899",
-        "name": "As Eiras",
-        "type": "node",
-        "id": "3198951861"
       }
     },
     {
@@ -3295,6 +3279,22 @@
         "name": "O Carme",
         "type": "relation",
         "id": "12633428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190798,
+          41.0340721
+        ]
+      },
+      "properties": {
+        "ref:ine": "40035000201",
+        "name": "Mata de Quintanar",
+        "type": "relation",
+        "id": "17444766"
       }
     }
   ]
