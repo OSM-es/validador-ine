@@ -902,38 +902,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.223733,
-          42.4989211
-        ]
-      },
-      "properties": {
-        "ref:ine": "32035120201",
-        "name": "Cerdeira de Abaixo",
-        "type": "node",
-        "id": "2060360479"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2241559,
-          42.4972135
-        ]
-      },
-      "properties": {
-        "ref:ine": "32035120201",
-        "name": "Cerdeira de Arriba",
-        "type": "node",
-        "id": "2060360492"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2093316,
           43.1615749
         ]
@@ -1039,38 +1007,6 @@
         "name": "Axilde",
         "type": "node",
         "id": "2514538905"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2071738,
-          42.4550155
-        ]
-      },
-      "properties": {
-        "ref:ine": "32013130601",
-        "name": "Vecoña de Abaixo",
-        "type": "node",
-        "id": "2542404300"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2106219,
-          42.4596305
-        ]
-      },
-      "properties": {
-        "ref:ine": "32013130601",
-        "name": "Vecoña de Arriba",
-        "type": "node",
-        "id": "2542404327"
       }
     },
     {
