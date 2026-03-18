@@ -790,22 +790,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.5582833,
-          42.5293421
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031260499",
-        "name": "O Outeiro",
-        "type": "node",
-        "id": "1986104604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.7128639,
           42.4897517
         ]
@@ -1215,22 +1199,6 @@
         "name": "Codesal",
         "type": "node",
         "id": "3167157061"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5573003,
-          42.5287881
-        ]
-      },
-      "properties": {
-        "ref:ine": "27031260499",
-        "name": "O Rego",
-        "type": "node",
-        "id": "3197414261"
       }
     },
     {
