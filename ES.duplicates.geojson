@@ -774,22 +774,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7313022,
-          42.6287104
-        ]
-      },
-      "properties": {
-        "ref:ine": "27016280399",
-        "name": "O Outeiro",
-        "type": "node",
-        "id": "1985796766"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.7128639,
           42.4897517
         ]
@@ -831,22 +815,6 @@
         "name": "Porrás de Abaixo",
         "type": "node",
         "id": "1986105456"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7438901,
-          42.6313457
-        ]
-      },
-      "properties": {
-        "ref:ine": "27016280399",
-        "name": "Casa do Cristo",
-        "type": "node",
-        "id": "2007029737"
       }
     },
     {
