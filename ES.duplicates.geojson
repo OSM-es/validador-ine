@@ -774,54 +774,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7128639,
-          42.4897517
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009120799",
-        "name": "Outeiro",
-        "type": "node",
-        "id": "1986104975"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7176926,
-          42.4927564
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009120799",
-        "name": "Outeiro",
-        "type": "node",
-        "id": "1986104985"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7435666,
-          42.4728903
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009211399",
-        "name": "Porrás de Abaixo",
-        "type": "node",
-        "id": "1986105456"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5141889,
           43.3121054
         ]
@@ -831,22 +783,6 @@
         "name": "Figueiroa",
         "type": "node",
         "id": "2025235499"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7415367,
-          42.4732394
-        ]
-      },
-      "properties": {
-        "ref:ine": "27009211399",
-        "name": "Porrás de Arriba",
-        "type": "node",
-        "id": "2027199174"
       }
     },
     {
