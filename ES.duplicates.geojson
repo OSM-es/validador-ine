@@ -54,102 +54,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4915176,
-          42.712993
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024040299",
-        "name": "Castragude",
-        "type": "node",
-        "id": "1520187931"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.44427,
-          42.7428622
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057120299",
-        "name": "Albaredo",
-        "type": "node",
-        "id": "1530317564"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4765358,
-          42.7584541
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057030199",
-        "name": "Abeledo de Abaixo",
-        "type": "node",
-        "id": "1545214760"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4713875,
-          42.7680893
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057030299",
-        "name": "Baxán Grande",
-        "type": "node",
-        "id": "1545214761"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4747253,
-          42.7597363
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057030199",
-        "name": "Abeledo de Arriba",
-        "type": "node",
-        "id": "1546207511"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4730989,
-          42.7666701
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057030299",
-        "name": "Baxán Pequeno",
-        "type": "node",
-        "id": "1546207513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.3371346,
           43.317033
         ]
@@ -742,22 +646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.5245824,
-          42.8003516
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043020599",
-        "name": "A Cancela",
-        "type": "node",
-        "id": "1975371860"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.5848047,
           42.8162017
         ]
@@ -1030,22 +918,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4416994,
-          42.7484153
-        ]
-      },
-      "properties": {
-        "ref:ine": "27057120299",
-        "name": "Albaredos",
-        "type": "node",
-        "id": "3161854661"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.4761738,
           42.8412482
         ]
@@ -1087,22 +959,6 @@
         "name": "A Escrita",
         "type": "node",
         "id": "3167072592"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5212527,
-          42.8018632
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043020599",
-        "name": "Codesal",
-        "type": "node",
-        "id": "3167157061"
       }
     },
     {
@@ -2639,22 +2495,6 @@
         "name": "O Gandarón",
         "type": "node",
         "id": "8840265248"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4782976,
-          42.7133867
-        ]
-      },
-      "properties": {
-        "ref:ine": "27024040299",
-        "name": "Castragude",
-        "type": "node",
-        "id": "9437502180"
       }
     },
     {
