@@ -630,38 +630,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8235087,
-          42.9016564
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040421299",
-        "name": "Marronteiro",
-        "type": "node",
-        "id": "1962381808"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5848047,
-          42.8162017
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043100199",
-        "name": "Outeiro",
-        "type": "node",
-        "id": "1975379057"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5141889,
           43.3121054
         ]
@@ -854,22 +822,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8237924,
-          42.9032228
-        ]
-      },
-      "properties": {
-        "ref:ine": "27040421299",
-        "name": "Os Torrós",
-        "type": "node",
-        "id": "3111913329"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.508275,
           43.3045943
         ]
@@ -943,22 +895,6 @@
         "name": "Paredes de Arriba",
         "type": "node",
         "id": "3163058863"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5933573,
-          42.8156478
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043100199",
-        "name": "A Escrita",
-        "type": "node",
-        "id": "3167072592"
       }
     },
     {
