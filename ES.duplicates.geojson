@@ -870,38 +870,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4761738,
-          42.8412482
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043120801",
-        "name": "Paredes de Abaixo",
-        "type": "node",
-        "id": "3163058762"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4724664,
-          42.8383318
-        ]
-      },
-      "properties": {
-        "ref:ine": "27043120801",
-        "name": "Paredes de Arriba",
-        "type": "node",
-        "id": "3163058863"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.3424116,
           43.1626323
         ]
