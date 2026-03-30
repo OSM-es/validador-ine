@@ -182,38 +182,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4316514,
-          43.2104985
-        ]
-      },
-      "properties": {
-        "ref:ine": "27010070199",
-        "name": "A Acea",
-        "type": "node",
-        "id": "1739803632"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4283208,
-          43.2171087
-        ]
-      },
-      "properties": {
-        "ref:ine": "27010070199",
-        "name": "A Acea",
-        "type": "node",
-        "id": "1739803633"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.4448999,
           43.5224096
         ]
@@ -566,70 +534,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8987501,
-          43.0259288
-        ]
-      },
-      "properties": {
-        "ref:ine": "27020041699",
-        "name": "A Gándara",
-        "type": "node",
-        "id": "1957382418"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9030215,
-          43.0262974
-        ]
-      },
-      "properties": {
-        "ref:ine": "27020041699",
-        "name": "A Gándara",
-        "type": "node",
-        "id": "1957382421"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.572511,
-          43.1392836
-        ]
-      },
-      "properties": {
-        "ref:ine": "27039250199",
-        "name": "Fontela",
-        "type": "node",
-        "id": "1957383412"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5690005,
-          43.1393755
-        ]
-      },
-      "properties": {
-        "ref:ine": "27039250199",
-        "name": "Fontela",
-        "type": "node",
-        "id": "1957383415"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5141889,
           43.3121054
         ]
@@ -774,22 +678,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1705983,
-          43.1599534
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902100599",
-        "name": "A Costa",
-        "type": "node",
-        "id": "2883275092"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4806988,
           42.1541549
         ]
@@ -831,38 +719,6 @@
         "name": "Arteixo",
         "type": "node",
         "id": "3123043282"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9902741,
-          43.0914764
-        ]
-      },
-      "properties": {
-        "ref:ine": "15080062699",
-        "name": "Suavila",
-        "type": "node",
-        "id": "3128287232"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9928773,
-          43.0924238
-        ]
-      },
-      "properties": {
-        "ref:ine": "15080062699",
-        "name": "A Ponte de Suavila",
-        "type": "node",
-        "id": "3128287729"
       }
     },
     {
@@ -1222,38 +1078,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1677657,
-          43.1588421
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902100599",
-        "name": "A Costa de Arriba",
-        "type": "node",
-        "id": "3722732186"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1823481,
-          43.2106532
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902170201",
-        "name": "O Enxertado",
-        "type": "node",
-        "id": "3722790912"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.3057596,
           43.2713145
         ]
@@ -1494,38 +1318,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0915068,
-          43.2067938
-        ]
-      },
-      "properties": {
-        "ref:ine": "15003041999",
-        "name": "O Sisto",
-        "type": "node",
-        "id": "5249574543"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.091334,
-          43.2091859
-        ]
-      },
-      "properties": {
-        "ref:ine": "15003041999",
-        "name": "O Sisto",
-        "type": "node",
-        "id": "5249574564"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.253474,
           43.3377599
         ]
@@ -1711,22 +1503,6 @@
         "name": "Vista Alegre",
         "type": "node",
         "id": "6049989334"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1501082,
-          43.0548438
-        ]
-      },
-      "properties": {
-        "ref:ine": "15090040401",
-        "name": "Cernadas",
-        "type": "node",
-        "id": "6058768974"
       }
     },
     {
@@ -2166,22 +1942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1509724,
-          43.0564568
-        ]
-      },
-      "properties": {
-        "ref:ine": "15090040401",
-        "name": "Cernadas",
-        "type": "node",
-        "id": "7007024430"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5080054,
           43.3205906
         ]
@@ -2239,22 +1999,6 @@
         "name": "A Florida",
         "type": "node",
         "id": "7213853661"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1785455,
-          43.2053611
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902170201",
-        "name": "Enxertado",
-        "type": "node",
-        "id": "7272604287"
       }
     },
     {
