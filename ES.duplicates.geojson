@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.6935611,
-          43.1706525
-        ]
-      },
-      "properties": {
-        "ref:ine": "27007120699",
-        "name": "Riocaldo",
-        "type": "node",
-        "id": "1241739982"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5666197,
           42.1593581
         ]
@@ -511,22 +495,6 @@
         "name": "O Curro",
         "type": "node",
         "id": "1935879975"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6995632,
-          43.1614451
-        ]
-      },
-      "properties": {
-        "ref:ine": "27007120699",
-        "name": "Riocaldo",
-        "type": "node",
-        "id": "1935880622"
       }
     },
     {

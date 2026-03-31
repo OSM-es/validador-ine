@@ -1,4 +1,73 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08720014,
+          41.35227282
+        ]
+      },
+      "properties": {
+        "ref:ine": "08073000101",
+        "name": "Almeda Mercader",
+        "population": 5576,
+        "ele": 61,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06156281,
+          41.35864267
+        ]
+      },
+      "properties": {
+        "ref:ine": "08073000201",
+        "name": "la Fontsanta i Can Fatjó",
+        "population": 4413,
+        "ele": 11,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09166195,
+          41.35809994
+        ]
+      },
+      "properties": {
+        "ref:ine": "08073000401",
+        "name": "Femades",
+        "population": 1268,
+        "ele": 8,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07187684,
+          41.34791702
+        ]
+      },
+      "properties": {
+        "ref:ine": "08073000501",
+        "name": "Fontsanta",
+        "population": 2280,
+        "ele": 9,
+        "population:date": "2024"
+      }
+    }
+  ]
 }
