@@ -38,38 +38,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.3371346,
-          43.317033
-        ]
-      },
-      "properties": {
-        "ref:ine": "27044042899",
-        "name": "O Bispado",
-        "type": "node",
-        "id": "1609414415"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.3219443,
-          43.3337213
-        ]
-      },
-      "properties": {
-        "ref:ine": "27044042899",
-        "name": "O Bispado",
-        "type": "node",
-        "id": "1609414416"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.4136021,
           43.4389361
         ]
@@ -447,38 +415,6 @@
         "name": "A Ferreiroa",
         "type": "node",
         "id": "1935875134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.809202,
-          43.1643754
-        ]
-      },
-      "properties": {
-        "ref:ine": "27022121099",
-        "name": "As Penas",
-        "type": "node",
-        "id": "1935877211"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.814429,
-          43.1652326
-        ]
-      },
-      "properties": {
-        "ref:ine": "27022121099",
-        "name": "As Penas",
-        "type": "node",
-        "id": "1935877222"
       }
     },
     {
