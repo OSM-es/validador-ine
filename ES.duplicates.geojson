@@ -102,22 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.660545,
-          43.2485239
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065172001",
-        "name": "O Curro",
-        "type": "node",
-        "id": "1684037416"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.6400442,
           43.3003038
         ]
@@ -351,86 +335,6 @@
         "name": "Segade",
         "type": "node",
         "id": "1826204062"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5153741,
-          43.2599947
-        ]
-      },
-      "properties": {
-        "ref:ine": "27015052199",
-        "name": "A Igrexa",
-        "type": "node",
-        "id": "1839326859"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5173755,
-          43.260193
-        ]
-      },
-      "properties": {
-        "ref:ine": "27015052199",
-        "name": "A Igrexa",
-        "type": "node",
-        "id": "1839326860"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8738475,
-          43.3814023
-        ]
-      },
-      "properties": {
-        "ref:ine": "27021080399",
-        "name": "A Casanova de Sanche",
-        "type": "node",
-        "id": "1922251358"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7512734,
-          43.2592012
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065011399",
-        "name": "A Ferreiroa",
-        "type": "node",
-        "id": "1935875134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6616187,
-          43.2480115
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065172001",
-        "name": "O Curro",
-        "type": "node",
-        "id": "1935879975"
       }
     },
     {
@@ -1574,38 +1478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.8927476,
-          43.3758021
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050021099",
-        "name": "A Curra",
-        "type": "node",
-        "id": "6133682565"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9099886,
-          43.3366204
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050021099",
-        "name": "Os Curros",
-        "type": "node",
-        "id": "6133682610"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.9669216,
           43.317048
         ]
@@ -1663,22 +1535,6 @@
         "name": "Sabaceda",
         "type": "node",
         "id": "6163392454"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8473498,
-          43.3830365
-        ]
-      },
-      "properties": {
-        "ref:ine": "27021080399",
-        "name": "A Casanova",
-        "type": "node",
-        "id": "6217042338"
       }
     },
     {
@@ -2102,38 +1958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.421709,
-          42.1072493
-        ]
-      },
-      "properties": {
-        "ref:ine": "36034091001",
-        "name": "A Porteliña",
-        "type": "node",
-        "id": "10961358071"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.423496,
-          42.1084105
-        ]
-      },
-      "properties": {
-        "ref:ine": "36034091001",
-        "name": "A Filgueira",
-        "type": "node",
-        "id": "10961358072"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.533702,
           42.1332589
         ]
@@ -2175,38 +1999,6 @@
         "name": "O Alcázar",
         "type": "node",
         "id": "10982395778"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4998636,
-          42.1138202
-        ]
-      },
-      "properties": {
-        "ref:ine": "36050121001",
-        "name": "A Fontarcade",
-        "type": "node",
-        "id": "10982634344"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4974537,
-          42.110099
-        ]
-      },
-      "properties": {
-        "ref:ine": "36050121001",
-        "name": "O Rial",
-        "type": "node",
-        "id": "10982634345"
       }
     },
     {
@@ -2367,22 +2159,6 @@
         "name": "A Florida",
         "type": "node",
         "id": "12008261927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7042704,
-          43.2688736
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065011399",
-        "name": "A Ferreiroa",
-        "type": "node",
-        "id": "12361765984"
       }
     },
     {
