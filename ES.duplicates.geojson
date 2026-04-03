@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5666197,
-          42.1593581
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042131399",
-        "name": "O Outeiro do Foxo",
-        "type": "node",
-        "id": "1242429669"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5048967,
           43.3039732
         ]
@@ -63,54 +47,6 @@
         "name": "Tronceda de Arriba",
         "type": "node",
         "id": "1647071973"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6039685,
-          43.368519
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065081699",
-        "name": "O Castro",
-        "type": "node",
-        "id": "1672802824"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6278018,
-          43.339165
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065101699",
-        "name": "Cendán",
-        "type": "node",
-        "id": "1675034072"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6400442,
-          43.3003038
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065101699",
-        "name": "Cendán",
-        "type": "node",
-        "id": "1689642453"
       }
     },
     {
@@ -239,86 +175,6 @@
         "name": "Os Rubás",
         "type": "node",
         "id": "1803169286"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5979954,
-          43.5152464
-        ]
-      },
-      "properties": {
-        "ref:ine": "27033061599",
-        "name": "A Rúa",
-        "type": "node",
-        "id": "1810481740"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.5972065,
-          43.5179119
-        ]
-      },
-      "properties": {
-        "ref:ine": "27033061599",
-        "name": "A Rúa",
-        "type": "node",
-        "id": "1810481741"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.622361,
-          43.4193595
-        ]
-      },
-      "properties": {
-        "ref:ine": "27033022199",
-        "name": "A Ponte",
-        "type": "node",
-        "id": "1825546433"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6155412,
-          43.4237343
-        ]
-      },
-      "properties": {
-        "ref:ine": "27033022199",
-        "name": "A Ponte",
-        "type": "node",
-        "id": "1825546442"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.621121,
-          43.3900388
-        ]
-      },
-      "properties": {
-        "ref:ine": "27065081699",
-        "name": "O Castro",
-        "type": "node",
-        "id": "1825690100"
       }
     },
     {
@@ -975,22 +831,6 @@
         "name": "O Vilar de Abaixo",
         "type": "node",
         "id": "3783193757"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5998422,
-          42.1208951
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039022599",
-        "name": "Vitureira-Eidos",
-        "type": "node",
-        "id": "3831332773"
       }
     },
     {
@@ -1750,22 +1590,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6361685,
-          42.161555
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033060101",
-        "name": "A Florida",
-        "type": "node",
-        "id": "7213853661"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2234319,
           43.178776
         ]
@@ -1958,38 +1782,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.533702,
-          42.1332589
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042070299",
-        "name": "Soutovidal",
-        "type": "node",
-        "id": "10961506622"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5332202,
-          42.1402665
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042070299",
-        "name": "Penela",
-        "type": "node",
-        "id": "10961506623"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4749826,
           42.1548474
         ]
@@ -1999,38 +1791,6 @@
         "name": "O Alcázar",
         "type": "node",
         "id": "10982395778"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5511504,
-          42.1574318
-        ]
-      },
-      "properties": {
-        "ref:ine": "36042131399",
-        "name": "O Outeiro do Foxo",
-        "type": "node",
-        "id": "11025086776"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5746377,
-          42.1052417
-        ]
-      },
-      "properties": {
-        "ref:ine": "36049030599",
-        "name": "Montecelo",
-        "type": "node",
-        "id": "11293225249"
       }
     },
     {
@@ -2127,54 +1887,6 @@
         "name": "Portela da Vella",
         "type": "node",
         "id": "12001767457"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5733938,
-          42.1089416
-        ]
-      },
-      "properties": {
-        "ref:ine": "36049030599",
-        "name": "Montecelo",
-        "type": "node",
-        "id": "12007552298"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6639302,
-          42.1640226
-        ]
-      },
-      "properties": {
-        "ref:ine": "36033060101",
-        "name": "A Florida",
-        "type": "node",
-        "id": "12008261927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6292291,
-          42.1063441
-        ]
-      },
-      "properties": {
-        "ref:ine": "36039022599",
-        "name": "Os Eidos",
-        "type": "node",
-        "id": "13525217196"
       }
     },
     {
