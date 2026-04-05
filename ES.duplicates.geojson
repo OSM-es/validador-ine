@@ -22,22 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7456878,
-          43.617979
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044035401",
-        "name": "Segade",
-        "type": "node",
-        "id": "1826204062"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5141889,
           43.3121054
         ]
@@ -63,70 +47,6 @@
         "name": "Os Leiros",
         "type": "node",
         "id": "2232840170"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7351681,
-          43.640248
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044032999",
-        "name": "Galdos",
-        "type": "node",
-        "id": "2505314738"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7271658,
-          43.649588
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044030799",
-        "name": "O Barral",
-        "type": "node",
-        "id": "2505314785"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7236436,
-          43.6523807
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044030799",
-        "name": "O Barral",
-        "type": "node",
-        "id": "2505314797"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7392759,
-          43.5988117
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044021099",
-        "name": "O Cadaval",
-        "type": "node",
-        "id": "2506338834"
       }
     },
     {
@@ -678,22 +598,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1589598,
-          43.2772621
-        ]
-      },
-      "properties": {
-        "ref:ine": "15064080199",
-        "name": "A Altamira",
-        "type": "node",
-        "id": "3971683802"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.458371,
           43.1612101
         ]
@@ -1110,22 +1014,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.159231,
-          43.2766162
-        ]
-      },
-      "properties": {
-        "ref:ine": "15064080199",
-        "name": "A Altamira",
-        "type": "node",
-        "id": "6146432107"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5688036,
           43.1930896
         ]
@@ -1151,86 +1039,6 @@
         "name": "Sabaceda",
         "type": "node",
         "id": "6163392454"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9157973,
-          43.5518597
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081011099",
-        "name": "As Enchousas",
-        "type": "node",
-        "id": "6296737447"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9186954,
-          43.5523895
-        ]
-      },
-      "properties": {
-        "ref:ine": "15081011099",
-        "name": "As Enchousas",
-        "type": "node",
-        "id": "6296737450"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.744792,
-          43.6013154
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044021099",
-        "name": "O Cadaval",
-        "type": "node",
-        "id": "6307080083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7362112,
-          43.6210768
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044035401",
-        "name": "Ponte Segade",
-        "type": "node",
-        "id": "6307826929"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7364628,
-          43.643306
-        ]
-      },
-      "properties": {
-        "ref:ine": "15044032999",
-        "name": "Galdos",
-        "type": "node",
-        "id": "6307827258"
       }
     },
     {
