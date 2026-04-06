@@ -438,38 +438,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3057596,
-          43.2713145
-        ]
-      },
-      "properties": {
-        "ref:ine": "15017040599",
-        "name": "Fontefría",
-        "type": "node",
-        "id": "3738209027"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3020807,
-          43.2689792
-        ]
-      },
-      "properties": {
-        "ref:ine": "15017040599",
-        "name": "Fontefría",
-        "type": "node",
-        "id": "3738209028"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2738205,
           43.2456992
         ]
@@ -527,22 +495,6 @@
         "name": "O Vilar de Abaixo",
         "type": "node",
         "id": "3783193757"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2528057,
-          43.3348785
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008070201",
-        "name": "O Casal",
-        "type": "node",
-        "id": "3860614482"
       }
     },
     {
@@ -639,22 +591,6 @@
         "name": "A Rabadeira",
         "type": "node",
         "id": "5147963321"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.253474,
-          43.3377599
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008070201",
-        "name": "O Casal",
-        "type": "node",
-        "id": "5264045736"
       }
     },
     {
@@ -950,70 +886,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0490743,
-          43.316828
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050030699",
-        "name": "O Barral",
-        "type": "node",
-        "id": "6133398619"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.0213631,
-          43.3167992
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050030699",
-        "name": "O Barral",
-        "type": "node",
-        "id": "6133398791"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9688234,
-          43.2910391
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050011299",
-        "name": "A Casanova de Xiao",
-        "type": "node",
-        "id": "6133682525"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9669216,
-          43.317048
-        ]
-      },
-      "properties": {
-        "ref:ine": "15050011299",
-        "name": "A Casanova de Xiao",
-        "type": "node",
-        "id": "6134899594"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.5688036,
           43.1930896
         ]
@@ -1151,70 +1023,6 @@
         "name": "O Gandarón",
         "type": "node",
         "id": "8840265248"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1785063,
-          43.4596727
-        ]
-      },
-      "properties": {
-        "ref:ine": "15035010701",
-        "name": "A Loira",
-        "type": "node",
-        "id": "10291053883"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1700295,
-          43.4191792
-        ]
-      },
-      "properties": {
-        "ref:ine": "15015042001",
-        "name": "A Madalena",
-        "type": "node",
-        "id": "10303593200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1742225,
-          43.422135
-        ]
-      },
-      "properties": {
-        "ref:ine": "15015042001",
-        "name": "O Vinteún",
-        "type": "node",
-        "id": "10312736608"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1777074,
-          43.4603577
-        ]
-      },
-      "properties": {
-        "ref:ine": "15035010701",
-        "name": "O Castro",
-        "type": "node",
-        "id": "11918458055"
       }
     }
   ]
