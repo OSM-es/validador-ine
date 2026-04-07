@@ -1,4 +1,39 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02406691,
+          39.5149701
+        ]
+      },
+      "properties": {
+        "ref:ine": "07043000000",
+        "name": "Porreres",
+        "population": 5891,
+        "ele": 127,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02406691,
+          39.5149701
+        ]
+      },
+      "properties": {
+        "ref:ine": "07043000101",
+        "name": "Porreres",
+        "population": 5170,
+        "ele": 127,
+        "population:date": "2024"
+      }
+    }
+  ]
 }
