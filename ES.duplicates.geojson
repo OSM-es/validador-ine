@@ -182,38 +182,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6717515,
-          43.0989903
-        ]
-      },
-      "properties": {
-        "ref:ine": "15084021701",
-        "name": "Brandoñas de Arriba",
-        "type": "node",
-        "id": "3656508140"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6710329,
-          43.0983362
-        ]
-      },
-      "properties": {
-        "ref:ine": "15084021701",
-        "name": "Brandoñas",
-        "type": "node",
-        "id": "3656508142"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.477437,
           43.1018244
         ]
@@ -390,38 +358,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1917667,
-          43.2074764
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902131201",
-        "name": "Mangoño",
-        "type": "node",
-        "id": "3721286079"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.1956733,
-          43.2056034
-        ]
-      },
-      "properties": {
-        "ref:ine": "15902131201",
-        "name": "Mangoño de Abaixo",
-        "type": "node",
-        "id": "3721286094"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2143431,
           43.1634429
         ]
@@ -502,22 +438,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.2298293,
-          43.3085946
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008020601",
-        "name": "Covas",
-        "type": "node",
-        "id": "3868349848"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2292561,
           43.2312455
         ]
@@ -591,22 +511,6 @@
         "name": "A Rabadeira",
         "type": "node",
         "id": "5147963321"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2327254,
-          43.3082781
-        ]
-      },
-      "properties": {
-        "ref:ine": "15008020601",
-        "name": "Covas",
-        "type": "node",
-        "id": "5264698361"
       }
     },
     {
