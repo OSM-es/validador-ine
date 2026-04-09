@@ -102,70 +102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1807481,
-          43.1072556
-        ]
-      },
-      "properties": {
-        "ref:ine": "15047052499",
-        "name": "Zacotes de Abaixo",
-        "type": "node",
-        "id": "3561784647"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.183422,
-          43.1048383
-        ]
-      },
-      "properties": {
-        "ref:ine": "15047052499",
-        "name": "Zacotes de Arriba",
-        "type": "node",
-        "id": "3561784648"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2128258,
-          43.1136593
-        ]
-      },
-      "properties": {
-        "ref:ine": "15047021799",
-        "name": "O Regueiro de Arriba",
-        "type": "node",
-        "id": "3561898995"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.216663,
-          43.114726
-        ]
-      },
-      "properties": {
-        "ref:ine": "15047021799",
-        "name": "O Regueiro de Abaixo",
-        "type": "node",
-        "id": "3561898996"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.2644752,
           43.215718
         ]
@@ -598,22 +534,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.5082312,
-          43.3203249
-        ]
-      },
-      "properties": {
-        "ref:ine": "15005021301",
-        "name": "O Rañal",
-        "type": "node",
-        "id": "5277229168"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.333784,
           43.0366373
         ]
@@ -831,22 +751,6 @@
         "name": "A Casanova",
         "type": "node",
         "id": "6893044107"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.5080054,
-          43.3205906
-        ]
-      },
-      "properties": {
-        "ref:ine": "15005021301",
-        "name": "O Rañal",
-        "type": "node",
-        "id": "7101977927"
       }
     },
     {
