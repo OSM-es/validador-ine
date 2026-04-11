@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.87211524,
+          42.11511871
+        ]
+      },
+      "properties": {
+        "ref:ine": "36003021101",
+        "name": "Rocamar",
+        "population": 187,
+        "ele": 3,
+        "population:date": "2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.02406691,
           39.5149701
         ]
