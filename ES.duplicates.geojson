@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.9523663,
+          36.760744
+        ]
+      },
+      "properties": {
+        "ref:ine": "29091000401",
+        "name": "Torrox",
+        "type": "node",
+        "id": "1470839508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.5141889,
           43.3121054
         ]
@@ -143,38 +159,6 @@
         "name": "Vilagudín",
         "type": "node",
         "id": "3679503097"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3950427,
-          43.1191411
-        ]
-      },
-      "properties": {
-        "ref:ine": "15059050501",
-        "name": "Castrelos",
-        "type": "node",
-        "id": "3692366109"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3954874,
-          43.1189529
-        ]
-      },
-      "properties": {
-        "ref:ine": "15059050501",
-        "name": "Castrelos",
-        "type": "node",
-        "id": "3703669137"
       }
     },
     {
@@ -831,6 +815,22 @@
         "name": "O Gandarón",
         "type": "node",
         "id": "8840265248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9547677,
+          36.7494528
+        ]
+      },
+      "properties": {
+        "ref:ine": "29091000401",
+        "name": "Torrox",
+        "type": "node",
+        "id": "11971338870"
       }
     }
   ]
