@@ -38,38 +38,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.477437,
-          43.1018244
-        ]
-      },
-      "properties": {
-        "ref:ine": "15059061301",
-        "name": "Vilagudín",
-        "type": "node",
-        "id": "3679503059"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.4854625,
-          43.0958344
-        ]
-      },
-      "properties": {
-        "ref:ine": "15059061301",
-        "name": "Vilagudín",
-        "type": "node",
-        "id": "3679503097"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.3011929,
           43.2470259
         ]
@@ -390,38 +358,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6192906,
-          43.1784548
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019171299",
-        "name": "A Casanova",
-        "type": "node",
-        "id": "6115256901"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.638466,
-          43.198963
-        ]
-      },
-      "properties": {
-        "ref:ine": "15019171299",
-        "name": "A Casanova",
-        "type": "node",
-        "id": "6115256971"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.4055341,
           43.2240015
         ]
@@ -460,7 +396,7 @@
       },
       "properties": {
         "ref:ine": "15041094199",
-        "name": "Sabaceda",
+        "name": "O Depósito",
         "type": "node",
         "id": "6163392427"
       }
