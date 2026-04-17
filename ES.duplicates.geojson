@@ -1,37 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3011929,
-          43.2470259
-        ]
-      },
-      "properties": {
-        "ref:ine": "15021080601",
-        "name": "Taramuño",
-        "type": "node",
-        "id": "3711106356"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.304364,
-          43.2422617
-        ]
-      },
-      "properties": {
-        "ref:ine": "15021080601",
-        "name": "Taramuño",
-        "type": "node",
-        "id": "3711106359"
-      }
-    }
-  ]
+  "features": []
 }
