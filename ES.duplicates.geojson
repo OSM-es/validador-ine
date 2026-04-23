@@ -1,4 +1,37 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6329197,
+          42.4171431
+        ]
+      },
+      "properties": {
+        "ref:ine": "36038102299",
+        "name": "O Marco",
+        "type": "node",
+        "id": "6326834244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6857005,
+          42.3951777
+        ]
+      },
+      "properties": {
+        "ref:ine": "36038102299",
+        "name": "O Marco",
+        "type": "node",
+        "id": "11993084677"
+      }
+    }
+  ]
 }
