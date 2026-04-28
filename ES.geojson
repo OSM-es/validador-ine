@@ -1,22 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.43306152,
-          38.43651858
-        ]
-      },
-      "properties": {
-        "ref:ine": "06158000299",
-        "name": "Cabrahíga",
-        "population": 52,
-        "ele": 470,
-        "population:date": "2024"
-      }
-    }
-  ]
+  "features": []
 }
