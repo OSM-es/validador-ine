@@ -1,4 +1,373 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7758086,
+          42.5424207
+        ]
+      },
+      "properties": {
+        "ref:ine": "24206030101",
+        "name": "Toral de los Vados",
+        "type": "node",
+        "id": "255985799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5174344,
+          38.6768593
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000101",
+        "name": "Caló de Sant Agustí",
+        "type": "node",
+        "id": "279398899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4565527,
+          38.7225336
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000401",
+        "name": "es Pujols",
+        "type": "node",
+        "id": "279398906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3781455,
+          42.7740113
+        ]
+      },
+      "properties": {
+        "ref:ine": "24083001101",
+        "name": "Urdiales de Colinas",
+        "type": "node",
+        "id": "349248535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6281595,
+          42.4839171
+        ]
+      },
+      "properties": {
+        "ref:ine": "22143000399",
+        "name": "Ardanué",
+        "type": "node",
+        "id": "1455832900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6360079,
+          42.47484
+        ]
+      },
+      "properties": {
+        "ref:ine": "22143000899",
+        "name": "Llagunes",
+        "type": "node",
+        "id": "1455833456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6028402,
+          42.4672683
+        ]
+      },
+      "properties": {
+        "ref:ine": "22143001199",
+        "name": "Villaplana",
+        "type": "node",
+        "id": "1455834499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7092207,
+          42.9390758
+        ]
+      },
+      "properties": {
+        "ref:ine": "31040040201",
+        "name": "Eritzegoiti / Erice",
+        "type": "node",
+        "id": "1467716125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0826245,
+          42.3361591
+        ]
+      },
+      "properties": {
+        "ref:ine": "32025010399",
+        "name": "A Pena",
+        "type": "node",
+        "id": "2076636471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0914326,
+          42.3482522
+        ]
+      },
+      "properties": {
+        "ref:ine": "32025010599",
+        "name": "A Quintá",
+        "type": "node",
+        "id": "2076636472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0975312,
+          42.3372945
+        ]
+      },
+      "properties": {
+        "ref:ine": "32025010299",
+        "name": "Názara",
+        "type": "node",
+        "id": "2076636480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0974755,
+          42.3450677
+        ]
+      },
+      "properties": {
+        "ref:ine": "32025010499",
+        "name": "O Pereiro",
+        "type": "node",
+        "id": "2076636514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7046601,
+          42.9479483
+        ]
+      },
+      "properties": {
+        "ref:ine": "31040040199",
+        "name": "Egillor",
+        "type": "node",
+        "id": "2588923284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4241187,
+          38.7000721
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000901",
+        "name": "Ses Bardetes",
+        "type": "node",
+        "id": "2747987189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.416951,
+          38.731698
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000801",
+        "name": "la Savina",
+        "type": "node",
+        "id": "3614829400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5784614,
+          37.6721029
+        ]
+      },
+      "properties": {
+        "ref:ine": "21078000699",
+        "name": "Monte Sorromero",
+        "type": "node",
+        "id": "3804824989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0432408,
+          36.4727451
+        ]
+      },
+      "properties": {
+        "ref:ine": "29051000501",
+        "name": "Cortés",
+        "type": "node",
+        "id": "3982879376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6562461,
+          43.3014611
+        ]
+      },
+      "properties": {
+        "ref:ine": "15019100999",
+        "name": "A Pedra do Sal",
+        "type": "node",
+        "id": "6116718896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4361725,
+          38.7352187
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000599",
+        "name": "ses Salines",
+        "type": "node",
+        "id": "11041818035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4022176,
+          38.6783366
+        ]
+      },
+      "properties": {
+        "ref:ine": "07024000299",
+        "name": "Venda des Cap de Barbaria",
+        "type": "node",
+        "id": "11041818036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4418169,
+          28.4501843
+        ]
+      },
+      "properties": {
+        "ref:ine": "38025000104",
+        "name": "Cruz del Camino",
+        "type": "node",
+        "id": "11449851921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9636287,
+          37.4928393
+        ]
+      },
+      "properties": {
+        "ref:ine": "23002000602",
+        "name": "Puertollano",
+        "type": "node",
+        "id": "11929931767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2402803,
+          41.2076475
+        ]
+      },
+      "properties": {
+        "ref:ine": "43066000102",
+        "name": "la Font de la Roca",
+        "type": "node",
+        "id": "12501288195"
+      }
+    }
+  ]
 }
