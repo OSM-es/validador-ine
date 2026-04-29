@@ -51,13 +51,13 @@ Promise.all([
           // devolver el dato para cualquier columna que no sea un "flag"
           if (!["flag1", "flag2"].includes(header)) return value
           // aplicar parseo booleano para los "flags"
-          if (value === "VERDADERO") return true
-          if (value === "FALSO") return false
+          if (value === "1") return true
+          if (value === "0") return false
           // ignorar resto cosas
           return undefined
         }
       }))
-      // - eliminar previamente elementos que estén señalados con VERDADERO,
+      // - eliminar previamente elementos que estén señalados con VERDADERO (1),
       //   (para más información leer el PDF adjunto al fichero de ENTIDADES)
       // - aplicar el argumento filter, si existe
       .on('data', (data) => {
