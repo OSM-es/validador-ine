@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.7758086,
-          42.5424207
-        ]
-      },
-      "properties": {
-        "ref:ine": "24206030101",
-        "name": "Toral de los Vados",
-        "type": "node",
-        "id": "255985799"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.5174344,
           38.6768593
         ]
@@ -47,22 +31,6 @@
         "name": "es Pujols",
         "type": "node",
         "id": "279398906"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.3781455,
-          42.7740113
-        ]
-      },
-      "properties": {
-        "ref:ine": "24083001101",
-        "name": "Urdiales de Colinas",
-        "type": "node",
-        "id": "349248535"
       }
     },
     {
@@ -191,22 +159,6 @@
         "name": "Venda des Cap de Barbaria",
         "type": "node",
         "id": "11041818036"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.4418169,
-          28.4501843
-        ]
-      },
-      "properties": {
-        "ref:ine": "38025000104",
-        "name": "Cruz del Camino",
-        "type": "node",
-        "id": "11449851921"
       }
     },
     {
