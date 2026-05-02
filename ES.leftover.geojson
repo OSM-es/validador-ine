@@ -118,22 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0432408,
-          36.4727451
-        ]
-      },
-      "properties": {
-        "ref:ine": "29051000501",
-        "name": "Cortés",
-        "type": "node",
-        "id": "3982879376"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.4361725,
           38.7352187
         ]

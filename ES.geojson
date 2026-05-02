@@ -346,40 +346,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.19,
-          37.75
-        ]
-      },
-      "properties": {
-        "ref:ine": "30021031002",
-        "name": "Hacienda del Álamo",
-        "population": 967,
-        "ele": 168,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.79,
-          37.9
-        ]
-      },
-      "properties": {
-        "ref:ine": "30024030499",
-        "name": "La Canaleja y El Pardo",
-        "population": 1,
-        "ele": 781,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -15.48,
           28.11
         ]
