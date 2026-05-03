@@ -38,54 +38,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6281595,
-          42.4839171
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143000399",
-        "name": "Ardanué",
-        "type": "node",
-        "id": "1455832900"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6360079,
-          42.47484
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143000899",
-        "name": "Llagunes",
-        "type": "node",
-        "id": "1455833456"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6028402,
-          42.4672683
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143001199",
-        "name": "Villaplana",
-        "type": "node",
-        "id": "1455834499"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.4241187,
           38.7000721
         ]
@@ -143,22 +95,6 @@
         "name": "Venda des Cap de Barbaria",
         "type": "node",
         "id": "11041818036"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2402803,
-          41.2076475
-        ]
-      },
-      "properties": {
-        "ref:ine": "43066000102",
-        "name": "la Font de la Roca",
-        "type": "node",
-        "id": "12501288195"
       }
     }
   ]

@@ -295,57 +295,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.62,
-          42.48
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143000301",
-        "name": "Ardanué",
-        "population": 3,
-        "ele": 1359,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.63,
-          42.47
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143000801",
-        "name": "Llagunas",
-        "population": 5,
-        "ele": 1176,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6,
-          42.46
-        ]
-      },
-      "properties": {
-        "ref:ine": "22143001101",
-        "name": "Villaplana",
-        "population": 5,
-        "ele": 1433,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -15.48,
           28.11
         ]
@@ -355,40 +304,6 @@
         "name": "La Cazuela",
         "population": 7,
         "ele": 198,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.24,
-          41.2
-        ]
-      },
-      "properties": {
-        "ref:ine": "43066000201",
-        "name": "Font de la Roca",
-        "population": 47,
-        "ele": 119,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.1,
-          41.12
-        ]
-      },
-      "properties": {
-        "ref:ine": "43123001301",
-        "name": "Urbanització Aigüesverds",
-        "population": 586,
-        "ele": 75,
         "population:date": "2025"
       }
     },
