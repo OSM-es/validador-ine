@@ -91,23 +91,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.56,
-          39.92
-        ]
-      },
-      "properties": {
-        "ref:ine": "12071000601",
-        "name": "Urbanización Monte San Antón",
-        "population": 2,
-        "ele": 548,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2,
           39.78
         ]
@@ -312,40 +295,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.09,
-          41.13
-        ]
-      },
-      "properties": {
-        "ref:ine": "43123001401",
-        "name": "Urbanització Blancafort",
-        "population": 250,
-        "ele": 106,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.41,
-          41.15
-        ]
-      },
-      "properties": {
-        "ref:ine": "43153000501",
-        "name": "Clarà",
-        "population": 1069,
-        "ele": 18,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.43,
           41.16
         ]
@@ -389,90 +338,6 @@
         "name": "San Cristóbal",
         "population": 1,
         "ele": 1212,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.51,
-          38.67
-        ]
-      },
-      "properties": {
-        "ref:ine": "07024000302",
-        "name": "es Caló",
-        "population": 107,
-        "ele": 6,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.45,
-          38.72
-        ]
-      },
-      "properties": {
-        "ref:ine": "07024000603",
-        "name": "es Pujols",
-        "population": 880,
-        "ele": 5,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.42,
-          38.7
-        ]
-      },
-      "properties": {
-        "ref:ine": "07024000702",
-        "name": "ses Bardetes",
-        "population": 414,
-        "ele": 46,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.41,
-          38.73
-        ]
-      },
-      "properties": {
-        "ref:ine": "07024000704",
-        "name": "la Savina",
-        "population": 828,
-        "ele": 1,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86,
-          41.65
-        ]
-      },
-      "properties": {
-        "ref:ine": "08053000199",
-        "name": "Can Serra i Padró",
-        "population": 2,
         "population:date": "2025"
       }
     },
