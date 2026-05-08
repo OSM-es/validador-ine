@@ -227,40 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.93,
-          40.43
-        ]
-      },
-      "properties": {
-        "ref:ine": "16239000202",
-        "name": "El Collado",
-        "population": 13,
-        "ele": 1340,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.94,
-          40.45
-        ]
-      },
-      "properties": {
-        "ref:ine": "16239000203",
-        "name": "Los Migueletes",
-        "population": 14,
-        "ele": 1341,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.71,
           42.25
         ]
@@ -270,6 +236,210 @@
         "name": "Sous",
         "population": 1,
         "ele": 878,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.91,
+          28.66
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000201",
+        "name": "Los Barros",
+        "population": 614,
+        "ele": 369,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9,
+          28.66
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000203",
+        "name": "Los Pedregales",
+        "population": 465,
+        "ele": 425,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.91,
+          28.65
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000501",
+        "name": "Los Llanos de Aridane",
+        "population": 3855,
+        "ele": 342,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.88,
+          28.6
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000603",
+        "name": "Las Manchas",
+        "population": 157,
+        "ele": 603,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.91,
+          28.58
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000802",
+        "name": "Puerto Naos",
+        "population": 631,
+        "ele": 16,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.88,
+          28.55
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024000803",
+        "name": "El Remo",
+        "population": 196,
+        "ele": 3,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.89,
+          28.64
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001005",
+        "name": "Tendiña",
+        "population": 132,
+        "ele": 438,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9,
+          28.64
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001204",
+        "name": "Triana",
+        "population": 1369,
+        "ele": 334,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.92,
+          28.65
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001301",
+        "name": "Argual",
+        "population": 2622,
+        "ele": 320,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9,
+          28.63
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001403",
+        "name": "Las Martelas",
+        "population": 286,
+        "ele": 315,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.91,
+          28.65
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001501",
+        "name": "Montaña Tenisca",
+        "population": 2811,
+        "ele": 331,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9,
+          28.65
+        ]
+      },
+      "properties": {
+        "ref:ine": "38024001601",
+        "name": "Retamar",
+        "population": 2618,
+        "ele": 389,
         "population:date": "2025"
       }
     },
