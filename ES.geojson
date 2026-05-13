@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.55,
+          38.43
+        ]
+      },
+      "properties": {
+        "ref:ine": "03122000103",
+        "name": "Pla Olivera",
+        "population": 350,
+        "ele": 234,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.95,
           41.46
         ]
