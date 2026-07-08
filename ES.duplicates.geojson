@@ -1,4 +1,37 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5754042,
+          42.9747586
+        ]
+      },
+      "properties": {
+        "ref:ine": "27028210899",
+        "name": "Fontao",
+        "type": "node",
+        "id": "1962381751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5824745,
+          42.9735536
+        ]
+      },
+      "properties": {
+        "ref:ine": "27028210899",
+        "name": "Xenética Fontao S.A.",
+        "type": "node",
+        "id": "13997120436"
+      }
+    }
+  ]
 }
