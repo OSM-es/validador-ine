@@ -1,4 +1,85 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8105257,
+          41.5085318
+        ]
+      },
+      "properties": {
+        "ref:ine": "04",
+        "name": "Bragança",
+        "type": "relation",
+        "id": "3905929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0372774,
+          41.8309452
+        ]
+      },
+      "properties": {
+        "ref:ine": "0412",
+        "name": "Vinhais",
+        "type": "relation",
+        "id": "5245348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5350575,
+          41.4565379
+        ]
+      },
+      "properties": {
+        "ref:ine": "11",
+        "name": "Norte",
+        "type": "relation",
+        "id": "5396677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7780096,
+          41.5929797
+        ]
+      },
+      "properties": {
+        "ref:ine": "11E",
+        "name": "Terras de Trás-os-Montes",
+        "type": "relation",
+        "id": "5396815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1324603,
+          41.9403211
+        ]
+      },
+      "properties": {
+        "ref:ine": "041239",
+        "name": "Quirás e Pinheiro Novo",
+        "type": "relation",
+        "id": "5739365"
+      }
+    }
+  ]
 }
