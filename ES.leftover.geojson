@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.5339373,
+          38.849048
+        ]
+      },
+      "properties": {
+        "ref:ine": "13001000399",
+        "name": "Navalmedio de Morales",
+        "type": "node",
+        "id": "1480358268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.8105257,
           41.5085318
         ]
