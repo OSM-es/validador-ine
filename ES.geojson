@@ -1,22 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.71,
-          36.74
-        ]
-      },
-      "properties": {
-        "ref:ine": "29080000899",
-        "name": "Villalón",
-        "population": 273,
-        "ele": 51,
-        "population:date": "2025"
-      }
-    }
-  ]
+  "features": []
 }
