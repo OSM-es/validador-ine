@@ -1,4 +1,39 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9,
+          40.34
+        ]
+      },
+      "properties": {
+        "ref:ine": "28092000301",
+        "name": "Pinares Llanos",
+        "population": 229,
+        "ele": 638,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.93,
+          40.31
+        ]
+      },
+      "properties": {
+        "ref:ine": "28092000401",
+        "name": "Río Guadarrama",
+        "population": 1385,
+        "ele": 595,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
