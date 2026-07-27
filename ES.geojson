@@ -34,6 +34,57 @@
         "ele": 595,
         "population:date": "2025"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94,
+          37.6
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016040701",
+        "name": "El Porche",
+        "population": 51,
+        "ele": 36,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.83,
+          37.62
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016050401",
+        "name": "Llano del Beal",
+        "population": 1289,
+        "ele": 112,
+        "population:date": "2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.84,
+          37.69
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016100601",
+        "name": "Punta Brava",
+        "population": 286,
+        "ele": 4,
+        "population:date": "2025"
+      }
     }
   ]
 }
