@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          40.13
+        ]
+      },
+      "properties": {
+        "ref:ine": "45199000315",
+        "name": "Los Rosales II",
+        "population": 22,
+        "ele": 546,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
