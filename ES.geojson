@@ -17,6 +17,23 @@
         "ele": 546,
         "population:date": "2025"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24,
+          39.17
+        ]
+      },
+      "properties": {
+        "ref:ine": "46105001101",
+        "name": "Urbanització Badia Park",
+        "population": 108,
+        "ele": 13,
+        "population:date": "2025"
+      }
     }
   ]
 }
