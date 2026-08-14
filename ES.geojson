@@ -1,39 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4,
-          40.13
-        ]
-      },
-      "properties": {
-        "ref:ine": "45199000315",
-        "name": "Los Rosales II",
-        "population": 22,
-        "ele": 546,
-        "population:date": "2025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.24,
-          39.17
-        ]
-      },
-      "properties": {
-        "ref:ine": "46105001101",
-        "name": "Urbanització Badia Park",
-        "population": 108,
-        "ele": 13,
-        "population:date": "2025"
-      }
-    }
-  ]
+  "features": []
 }
