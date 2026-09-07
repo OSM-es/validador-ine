@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.21,
+          37.89
+        ]
+      },
+      "properties": {
+        "ref:ine": "04098000701",
+        "name": "Las Cobatillas",
+        "population": 2,
+        "ele": 1199,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
