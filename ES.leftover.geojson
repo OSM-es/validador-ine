@@ -1,4 +1,21 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2189087,
+          37.8847397
+        ]
+      },
+      "properties": {
+        "ref:ine": "04098000799",
+        "name": "Cortijo Macián",
+        "type": "node",
+        "id": "14160400495"
+      }
+    }
+  ]
 }

@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.21,
-          37.89
+          1.52,
+          41.29
         ]
       },
       "properties": {
-        "ref:ine": "04098000701",
-        "name": "Las Cobatillas",
-        "population": 2,
-        "ele": 1199,
+        "ref:ine": "43137001001",
+        "name": "el Papagai",
+        "population": 458,
+        "ele": 226,
         "population:date": "2025"
       }
     }
