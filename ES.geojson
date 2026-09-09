@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.52,
-          41.29
+          -2.4,
+          43.02
         ]
       },
       "properties": {
-        "ref:ine": "43137001001",
-        "name": "el Papagai",
-        "population": 458,
-        "ele": 226,
+        "ref:ine": "20059000301",
+        "name": "Berezao",
+        "population": 5,
+        "ele": 291,
         "population:date": "2025"
       }
     }
