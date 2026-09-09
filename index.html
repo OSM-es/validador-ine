@@ -129,17 +129,28 @@
         }
 
         const getUrlShare = ({ lat, lng }) => `geo:${lat},${lng}?z=15`
-        const getUrlMarkup = ({ editorId, editorJosm, share }) => `<div><a href="${editorId}" target="_blank" rel="noopener">iD</a><a href="${editorJosm}" target="remote">JOSM</a><a href="${share}" target="_blank">Otro</a></div>`
+
+        const getOverpass = ({ ine }) => `https://overpass-turbo.eu/?Q=%5Bdate%3A%222026-05-01T00%3A00%3A00Z%22%5D%3Bnwr%5B%22ref%3Aine%22%3D%22${ine}%22%5D%3Bout%20geom%3B&R`
+
+        const getUrlMarkup = ({ editorId, editorJosm, overpass, share }) => {
+          const idLink = `<a href="${editorId}" target="_blank" rel="noopener">iD</a>` 
+          const josmLink = `<a href="${editorJosm}" target="remote">JOSM</a>`
+          const overpassLink = `<a href="${overpass}" target="_blank" title="Útil para recuperar un nodo que ha sido eliminado. Te lleva a un momento en el que existía previamente.">Overpass</a>`
+          const shareLink = `<a href="${share}" target="_blank">Otro</a>`
+          return `<div>${idLink}${josmLink}${overpassLink}${shareLink}</div>`
+        }
         
         missing.addLayer(L.geoJson(missingData, {
           onEachFeature: function (feature, layer) {
             const { lat, lng } = layer.getLatLng()
             const { name, ...props } = feature.properties
+            const { "ref:ine": ine } = props
             const buffer = layer.getLatLng().toBounds(1000)
             const editorId = getUrlId({ lat, lng })
             const editorJosm = getUrlJOSM({ buffer })
+            const overpass = getOverpass({ ine })
             const share = getUrlShare({ lat, lng })
-            const links = getUrlMarkup({ editorId, editorJosm, share })
+            const links = getUrlMarkup({ editorId, editorJosm, overpass, share })
 
             const table = `<table><caption>${name}</caption>${Object.entries(props).sort().map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("")}</table>`
             layer.bindPopup(`${table}${links}`);
