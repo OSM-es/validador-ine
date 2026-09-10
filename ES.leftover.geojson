@@ -1,4 +1,85 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4818604,
+          41.8803459
+        ]
+      },
+      "properties": {
+        "ref:ine": "16",
+        "name": "Viana do Castelo",
+        "type": "relation",
+        "id": "3898131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2125492,
+          42.0389558
+        ]
+      },
+      "properties": {
+        "ref:ine": "1603",
+        "name": "Melgaço",
+        "type": "relation",
+        "id": "4648436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.156782,
+          42.0031925
+        ]
+      },
+      "properties": {
+        "ref:ine": "160319",
+        "name": "Castro Laboreiro e Lamas de Mouro",
+        "type": "relation",
+        "id": "4648479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5350575,
+          41.4565379
+        ]
+      },
+      "properties": {
+        "ref:ine": "11",
+        "name": "Norte",
+        "type": "relation",
+        "id": "5396677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4818604,
+          41.8803459
+        ]
+      },
+      "properties": {
+        "ref:ine": "111",
+        "name": "Alto Minho",
+        "type": "relation",
+        "id": "5396812"
+      }
+    }
+  ]
 }

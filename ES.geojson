@@ -1,22 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4,
-          43.02
-        ]
-      },
-      "properties": {
-        "ref:ine": "20059000301",
-        "name": "Berezao",
-        "population": 5,
-        "ele": 291,
-        "population:date": "2025"
-      }
-    }
-  ]
+  "features": []
 }
