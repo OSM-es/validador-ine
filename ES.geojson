@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82,
+          37.67
+        ]
+      },
+      "properties": {
+        "ref:ine": "30016020802",
+        "name": "Urbanización Estrella de Mar",
+        "population": 337,
+        "ele": 3,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
