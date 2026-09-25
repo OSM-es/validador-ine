@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6,
+          39.92
+        ]
+      },
+      "properties": {
+        "ref:ine": "12140000199",
+        "name": "Aguas Blancas",
+        "population": 11,
+        "ele": 619,
+        "population:date": "2025"
+      }
+    }
+  ]
 }

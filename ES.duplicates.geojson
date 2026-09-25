@@ -1,4 +1,37 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9616808,
+          38.433075
+        ]
+      },
+      "properties": {
+        "ref:ine": "13055000301",
+        "name": "Solanilla del Tamaral",
+        "type": "node",
+        "id": "1480358737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9619491,
+          38.4328734
+        ]
+      },
+      "properties": {
+        "ref:ine": "13055000301",
+        "name": "Solanilla del Tamaral",
+        "type": "node",
+        "id": "14213082352"
+      }
+    }
+  ]
 }
