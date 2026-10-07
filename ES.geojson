@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.63,
+          36.57
+        ]
+      },
+      "properties": {
+        "ref:ine": "29070001804",
+        "name": "Peñablanquilla",
+        "population": 382,
+        "ele": 114,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
