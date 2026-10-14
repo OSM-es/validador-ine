@@ -12,18 +12,18 @@ jobs:
   update_refs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           ref: ${{ github.head_ref }}
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v7
       - run: npm ci
       - run: bash update_data.sh
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         id: auto-commit-action
         with:
           commit_message: Update data
-      - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: '.'
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
