@@ -1,21 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6128097,
-          42.2263699
-        ]
-      },
-      "properties": {
-        "ref:ine": "22155000299",
-        "name": "Monesma",
-        "type": "node",
-        "id": "1455833523"
-      }
-    }
-  ]
+  "features": []
 }
