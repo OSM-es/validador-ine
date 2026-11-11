@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15,
+          38.06
+        ]
+      },
+      "properties": {
+        "ref:ine": "30027001410",
+        "name": "Montepríncipe",
+        "population": 436,
+        "ele": 233,
+        "population:date": "2025"
+      }
+    }
+  ]
 }
